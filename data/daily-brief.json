@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-03T12:59:14.419964Z",
+  "generated_at": "2026-07-03T16:55:44.342188Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2259-42c9-af9d-3d7e45511e00&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-2259-42c9-af9d-3d7e45511e00&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0256-1365-a320-4809ae4b3540&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0256-1365-a320-4809ae4b3540&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "97d7d379cebb3940894bdd76e10954c82675cb78",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0256-1365-a320-4809ae4b3540&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "26a41db0dc74043da0b911917304b27191734058",
           "title": "点击这里进入 / Click here to enter",
@@ -48,12 +57,21 @@
           "published_at": null
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "97d7d379cebb3940894bdd76e10954c82675cb78",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0256-1365-a320-4809ae4b3540&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "26a41db0dc74043da0b911917304b27191734058",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2259-42c9-af9d-3d7e45511e00&fp=-3",
@@ -90,17 +108,17 @@
           "published_at": null
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.887,
-      "importance": 0.887,
-      "importance_score": 0.887,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.912,
+      "importance": 0.912,
+      "importance_score": 0.912,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.75
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -109,17 +127,78 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-03T04:26:46.770520Z",
-      "latest_at": "2026-07-03T12:59:14.419964Z",
+      "latest_at": "2026-07-03T16:55:44.342188Z",
       "primary_item": {
-        "id": "26a41db0dc74043da0b911917304b27191734058",
+        "id": "97d7d379cebb3940894bdd76e10954c82675cb78",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2259-42c9-af9d-3d7e45511e00&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0256-1365-a320-4809ae4b3540&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_3e622845389f",
+      "story_id": "story_1cc388fb9b67",
+      "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
+      "primary_url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8a09616a52ed445e32403a6c6fe07ddd62af2390",
+          "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-03T14:25:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "8a09616a52ed445e32403a6c6fe07ddd62af2390",
+          "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-03T14:25:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8402,
+      "importance": 0.8402,
+      "importance_score": 0.8402,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8958,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T14:25:43Z",
+      "latest_at": "2026-07-03T14:25:43Z",
+      "primary_item": {
+        "id": "8a09616a52ed445e32403a6c6fe07ddd62af2390",
+        "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
+        "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d4df2d66480c",
       "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
       "url": "https://www.aibase.com/news/29379",
       "primary_url": "https://www.aibase.com/news/29379",
@@ -172,14 +251,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.7851,
+      "importance": 0.7851,
+      "importance_score": 0.7851,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9048,
+        "recency": 0.7406,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -196,6 +275,66 @@
         "url": "https://www.aibase.com/news/29379",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5a7b3e0e1abf",
+      "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
+      "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
+      "primary_url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
+      "source": "公众号：京东JoyAI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bebf0ff6ea46d9586ea2baebf153aa4fd011b087",
+          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
+          "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
+          "source": "公众号：京东JoyAI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T10:03:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：京东JoyAI"
+      ],
+      "items": [
+        {
+          "id": "bebf0ff6ea46d9586ea2baebf153aa4fd011b087",
+          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
+          "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
+          "source": "公众号：京东JoyAI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T10:03:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7137,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T10:03:25Z",
+      "latest_at": "2026-07-03T10:03:25Z",
+      "primary_item": {
+        "id": "bebf0ff6ea46d9586ea2baebf153aa4fd011b087",
+        "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
+        "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
+        "source": "公众号：京东JoyAI",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -233,20 +372,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8424,
+        "recency": 0.6782,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T09:12:17Z",
       "latest_at": "2026-07-03T09:12:17Z",
@@ -312,14 +450,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7834,
+        "recency": 0.6192,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -373,21 +511,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4305,
+        "recency": 0.2662,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T23:19:06Z",
       "latest_at": "2026-07-02T23:19:06Z",
@@ -397,6 +534,137 @@
         "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_59b729f4a9be",
+      "title": "The Diamond Wizard 3D / The Diamond 3D (1954) BDRip [H.264/2160p] [垂直立体声对] [手工制作的高档 AI] [VO] [白金] / Алмазный волшебник 3D / The Diamond 3D (1954) BDRip [H.264/2160p] [Вертикальная стереопара] [handmade Upscale AI] [VO] [Platinum]",
+      "url": "https://nnmclub.to/forum/viewtopic.php?t=1879834",
+      "primary_url": "https://nnmclub.to/forum/viewtopic.php?t=1879834",
+      "source": "NNM-Club 俄罗斯分享软件等",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "8bf94aaba4404808a557b9b478d162ef2a98a42a",
+          "title": "The Diamond Wizard 3D / The Diamond 3D (1954) BDRip [H.264/2160p] [垂直立体声对] [手工制作的高档 AI] [VO] [白金] / Алмазный волшебник 3D / The Diamond 3D (1954) BDRip [H.264/2160p] [Вертикальная стереопара] [handmade Upscale AI] [VO] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1879834",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:45:18Z"
+        },
+        {
+          "id": "ef490431782beb4a542a932032c2e4b6d6041b48",
+          "title": "哈利·波特与死亡圣器：第二部分 / 哈利·波特与死亡圣器 - 第 2 部分 (2011) BDRip [AV1/2160p] [4K，SDR，10 位] [手工制作的高档 AI] [白金] / Гарри Поттер и Дары Смерти: Часть II / Harry Potter and the Deathly Hallows - Part 2 (2011) BDRip [AV1/2160p] [4K, SDR, 10-bit] [handmade Upscale AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1879836",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:40:20Z"
+        },
+        {
+          "id": "fef9a2fee703bab96dd89438fbd3c6929b284caa",
+          "title": "哈利·波特与死亡圣器：第一部分 / 哈利·波特与死亡圣器 - 第 1 部分 (2010) BDRip [AV1/2160p] [4K，SDR，10 位] [手工制作的高档 AI] [白金] / Гарри Поттер и Дары Смерти: Часть I / Harry Potter and the Deathly Hallows - Part 1 (2010) BDRip [AV1/2160p] [4K, SDR, 10-bit] [handmade Upscale AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1879828",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T14:50:38Z"
+        },
+        {
+          "id": "1ad6e8c9500620cb09e271894f929b1b90937e9b",
+          "title": "绵羊侦探 (2026) UHD WEB-DLRip [AV1/2160p] [4K、HDR10、10 位] [手工 AI] [白金] / Следствие ведут овечки / The Sheep Detectives (2026) UHD WEB-DLRip [AV1/2160p] [4K, HDR10, 10-bit] [handmade AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1879796",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T10:35:30Z"
+        },
+        {
+          "id": "c95dac98bec037b8c7c655e96d67f026bd42cbff",
+          "title": "AI War 2 (2019) [En] (5.825/dlc) GOG 许可证 [黄金] / AI War 2 (2019) [En] (5.825/dlc) License GOG [Gold]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1873868",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T08:56:13Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "NNM-Club 俄罗斯分享软件等"
+      ],
+      "items": [
+        {
+          "id": "8bf94aaba4404808a557b9b478d162ef2a98a42a",
+          "title": "The Diamond Wizard 3D / The Diamond 3D (1954) BDRip [H.264/2160p] [垂直立体声对] [手工制作的高档 AI] [VO] [白金] / Алмазный волшебник 3D / The Diamond 3D (1954) BDRip [H.264/2160p] [Вертикальная стереопара] [handmade Upscale AI] [VO] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1879834",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:45:18Z"
+        },
+        {
+          "id": "ef490431782beb4a542a932032c2e4b6d6041b48",
+          "title": "哈利·波特与死亡圣器：第二部分 / 哈利·波特与死亡圣器 - 第 2 部分 (2011) BDRip [AV1/2160p] [4K，SDR，10 位] [手工制作的高档 AI] [白金] / Гарри Поттер и Дары Смерти: Часть II / Harry Potter and the Deathly Hallows - Part 2 (2011) BDRip [AV1/2160p] [4K, SDR, 10-bit] [handmade Upscale AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1879836",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:40:20Z"
+        },
+        {
+          "id": "fef9a2fee703bab96dd89438fbd3c6929b284caa",
+          "title": "哈利·波特与死亡圣器：第一部分 / 哈利·波特与死亡圣器 - 第 1 部分 (2010) BDRip [AV1/2160p] [4K，SDR，10 位] [手工制作的高档 AI] [白金] / Гарри Поттер и Дары Смерти: Часть I / Harry Potter and the Deathly Hallows - Part 1 (2010) BDRip [AV1/2160p] [4K, SDR, 10-bit] [handmade Upscale AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1879828",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T14:50:38Z"
+        },
+        {
+          "id": "1ad6e8c9500620cb09e271894f929b1b90937e9b",
+          "title": "绵羊侦探 (2026) UHD WEB-DLRip [AV1/2160p] [4K、HDR10、10 位] [手工 AI] [白金] / Следствие ведут овечки / The Sheep Detectives (2026) UHD WEB-DLRip [AV1/2160p] [4K, HDR10, 10-bit] [handmade AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1879796",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T10:35:30Z"
+        },
+        {
+          "id": "c95dac98bec037b8c7c655e96d67f026bd42cbff",
+          "title": "AI War 2 (2019) [En] (5.825/dlc) GOG 许可证 [黄金] / AI War 2 (2019) [En] (5.825/dlc) License GOG [Gold]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1873868",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T08:56:13Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.7002,
+      "importance": 0.7002,
+      "importance_score": 0.7002,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.9511,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T08:56:13Z",
+      "latest_at": "2026-07-03T15:45:18Z",
+      "primary_item": {
+        "id": "8bf94aaba4404808a557b9b478d162ef2a98a42a",
+        "title": "The Diamond Wizard 3D / The Diamond 3D (1954) BDRip [H.264/2160p] [垂直立体声对] [手工制作的高档 AI] [VO] [白金] / Алмазный волшебник 3D / The Diamond 3D (1954) BDRip [H.264/2160p] [Вертикальная стереопара] [handmade Upscale AI] [VO] [Platinum]",
+        "url": "https://nnmclub.to/forum/viewtopic.php?t=1879834",
+        "source": "NNM-Club 俄罗斯分享软件等",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -434,14 +702,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9048,
+        "recency": 0.7406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -460,62 +728,136 @@
       }
     },
     {
-      "story_id": "story_73b8e0576210",
-      "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-      "url": "https://aihot.virxact.com/items/cmr4ewvnu016msll54kwma7sx",
-      "primary_url": "https://aihot.virxact.com/items/cmr4ewvnu016msll54kwma7sx",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_774f7412d1a3",
+      "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
+      "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+      "primary_url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+      "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "bacbe05f9148bee7ddeb09e3448a517d038f4395",
-          "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-          "url": "https://aihot.virxact.com/items/cmr4ewvnu016msll54kwma7sx",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T03:27:15Z"
+          "id": "599734c9c408218b9c32c31a03962832d70acdac",
+          "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
+          "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:23:41Z"
+        },
+        {
+          "id": "942002d3ed18bdd770ad48c462b494d15ea56a19",
+          "title": "Meta AI不想努力了，求包养——带崩芯片牵头的一众科技股！？",
+          "url": "https://www.youtube.com/watch?v=BuSC4yV3x_w",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T13:59:03Z"
+        },
+        {
+          "id": "416740e515b22d5aec1081a3587db7ea1dc14942",
+          "title": "Ed Zitron 在 CNBC 上表示：GenAI 行不通，大型科技公司已经不再有高速增长的想法 / Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
+          "url": "https://www.youtube.com/watch?v=TtmPccUTDP8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T11:04:18Z"
+        },
+        {
+          "id": "28a03f9a1b14308f44cac1ac2f97e46c2334e4c7",
+          "title": "加州在投票继续扼杀游戏后立即投票废除 3D 打印 [视频] / California votes to ruin 3D printing right after voting to keep killing games [video]",
+          "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T03:04:26Z"
+        },
+        {
+          "id": "ff536cf2b7d2028996aee468633df0f03bb26c78",
+          "title": "扎克伯格表示 Meta 对重组的押注“尚未实现” / Zuckerberg says Meta's bets on reorganization 'haven't come to fruition'",
+          "url": "https://www.youtube.com/watch?v=uUJBRX_SkIc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-02T22:22:50Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 5,
       "source_names": [
-        "IT之家（RSS）"
+        "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+        "Hacker News · 24h最热",
+        "范路 | 老范讲故事"
       ],
       "items": [
         {
-          "id": "bacbe05f9148bee7ddeb09e3448a517d038f4395",
-          "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-          "url": "https://aihot.virxact.com/items/cmr4ewvnu016msll54kwma7sx",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T03:27:15Z"
+          "id": "599734c9c408218b9c32c31a03962832d70acdac",
+          "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
+          "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:23:41Z"
+        },
+        {
+          "id": "942002d3ed18bdd770ad48c462b494d15ea56a19",
+          "title": "Meta AI不想努力了，求包养——带崩芯片牵头的一众科技股！？",
+          "url": "https://www.youtube.com/watch?v=BuSC4yV3x_w",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T13:59:03Z"
+        },
+        {
+          "id": "416740e515b22d5aec1081a3587db7ea1dc14942",
+          "title": "Ed Zitron 在 CNBC 上表示：GenAI 行不通，大型科技公司已经不再有高速增长的想法 / Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
+          "url": "https://www.youtube.com/watch?v=TtmPccUTDP8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T11:04:18Z"
+        },
+        {
+          "id": "28a03f9a1b14308f44cac1ac2f97e46c2334e4c7",
+          "title": "加州在投票继续扼杀游戏后立即投票废除 3D 打印 [视频] / California votes to ruin 3D printing right after voting to keep killing games [video]",
+          "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T03:04:26Z"
+        },
+        {
+          "id": "ff536cf2b7d2028996aee468633df0f03bb26c78",
+          "title": "扎克伯格表示 Meta 对重组的押注“尚未实现” / Zuckerberg says Meta's bets on reorganization 'haven't come to fruition'",
+          "url": "https://www.youtube.com/watch?v=uUJBRX_SkIc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-02T22:22:50Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
-      "importance_label": "行业动态",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6972,
+      "importance": 0.6972,
+      "importance_score": 0.6972,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6028,
-        "story_heat": 0.0
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.9361,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-03T03:27:15Z",
-      "latest_at": "2026-07-03T03:27:15Z",
+      "earliest_at": "2026-07-02T22:22:50Z",
+      "latest_at": "2026-07-03T15:23:41Z",
       "primary_item": {
-        "id": "bacbe05f9148bee7ddeb09e3448a517d038f4395",
-        "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-        "url": "https://aihot.virxact.com/items/cmr4ewvnu016msll54kwma7sx",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "599734c9c408218b9c32c31a03962832d70acdac",
+        "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
+        "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+        "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -553,21 +895,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4221,
+        "recency": 0.2579,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T23:07:06Z",
       "latest_at": "2026-07-02T23:07:06Z",
@@ -577,6 +918,155 @@
         "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c56b58e9d916",
+      "title": "第1425期 - 2026-07-04 00:03",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
+          "title": "第1425期 - 2026-07-04 00:03",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:03:21Z"
+        },
+        {
+          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
+          "title": "第1424期 - 2026-07-03 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:01:31Z"
+        },
+        {
+          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
+          "title": "第1423期 - 2026-07-03 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T08:01:30Z"
+        },
+        {
+          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
+          "title": "第1422期 - 2026-07-03 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T04:01:28Z"
+        },
+        {
+          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
+          "title": "第1421期 - 2026-07-03 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T00:01:54Z"
+        },
+        {
+          "id": "111762dbcff0bf1cfd31c88f07fa2bbd6f09884f",
+          "title": "第1420期 - 2026-07-03 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-02T20:01:22Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "大黑AI速报"
+      ],
+      "items": [
+        {
+          "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
+          "title": "第1425期 - 2026-07-04 00:03",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:03:21Z"
+        },
+        {
+          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
+          "title": "第1424期 - 2026-07-03 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:01:31Z"
+        },
+        {
+          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
+          "title": "第1423期 - 2026-07-03 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T08:01:30Z"
+        },
+        {
+          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
+          "title": "第1422期 - 2026-07-03 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T04:01:28Z"
+        },
+        {
+          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
+          "title": "第1421期 - 2026-07-03 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T00:01:54Z"
+        },
+        {
+          "id": "111762dbcff0bf1cfd31c88f07fa2bbd6f09884f",
+          "title": "第1420期 - 2026-07-03 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-02T20:01:22Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6937,
+      "importance": 0.6937,
+      "importance_score": 0.6937,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9636,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-02T20:01:22Z",
+      "latest_at": "2026-07-03T16:03:21Z",
+      "primary_item": {
+        "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
+        "title": "第1425期 - 2026-07-04 00:03",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
+        "source": "大黑AI速报",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -686,14 +1176,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.71,
-      "importance": 0.71,
-      "importance_score": 0.71,
+      "score": 0.6773,
+      "importance": 0.6773,
+      "importance_score": 0.6773,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 1.0,
+        "recency": 0.8363,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -745,14 +1235,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9048,
+        "recency": 0.7406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -768,155 +1258,6 @@
         "url": "https://www.aibase.com/news/29373",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c56b58e9d916",
-      "title": "第1424期 - 2026-07-03 20:01",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
-      "source": "大黑AI速报",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
-          "title": "第1424期 - 2026-07-03 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:01:31Z"
-        },
-        {
-          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
-          "title": "第1423期 - 2026-07-03 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:01:30Z"
-        },
-        {
-          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
-          "title": "第1422期 - 2026-07-03 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T04:01:28Z"
-        },
-        {
-          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
-          "title": "第1421期 - 2026-07-03 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T00:01:54Z"
-        },
-        {
-          "id": "111762dbcff0bf1cfd31c88f07fa2bbd6f09884f",
-          "title": "第1420期 - 2026-07-03 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T20:01:22Z"
-        },
-        {
-          "id": "1fb86644176ccea99d98af4bd017e8cbbbd64c00",
-          "title": "第1419期 - 2026-07-03 00:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T16:01:46Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "大黑AI速报"
-      ],
-      "items": [
-        {
-          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
-          "title": "第1424期 - 2026-07-03 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:01:31Z"
-        },
-        {
-          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
-          "title": "第1423期 - 2026-07-03 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:01:30Z"
-        },
-        {
-          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
-          "title": "第1422期 - 2026-07-03 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T04:01:28Z"
-        },
-        {
-          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
-          "title": "第1421期 - 2026-07-03 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T00:01:54Z"
-        },
-        {
-          "id": "111762dbcff0bf1cfd31c88f07fa2bbd6f09884f",
-          "title": "第1420期 - 2026-07-03 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T20:01:22Z"
-        },
-        {
-          "id": "1fb86644176ccea99d98af4bd017e8cbbbd64c00",
-          "title": "第1419期 - 2026-07-03 00:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T16:01:46Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.693,
-      "importance": 0.693,
-      "importance_score": 0.693,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9599,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-02T16:01:46Z",
-      "latest_at": "2026-07-03T12:01:31Z",
-      "primary_item": {
-        "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
-        "title": "第1424期 - 2026-07-03 20:01",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
-        "source": "大黑AI速报",
-        "source_name": "OPML RSS"
       }
     },
     {
@@ -1026,14 +1367,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6845,
-      "importance": 0.6845,
-      "importance_score": 0.6845,
+      "score": 0.6517,
+      "importance": 0.6517,
+      "importance_score": 0.6517,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8576,
+        "recency": 0.6934,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1051,63 +1392,274 @@
       }
     },
     {
-      "story_id": "story_841cfa5430ed",
-      "title": "Copilot CLI no longer needs a personal access token in GitHub Actions",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1673f151139e",
+      "title": "Gus Mueller 对 Godot 新贡献政策的评论为 AI 障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Gus Mueller",
+      "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+      "primary_url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+      "source": "Hackaday » Comments",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-          "title": "Copilot CLI no longer needs a personal access token in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T20:25:32Z"
+          "id": "27553f50f92b41c4d1f96b6c89a7aa3064e9f46f",
+          "title": "Gus Mueller 对 Godot 新贡献政策的评论为 AI 障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Gus Mueller",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:44:45Z"
+        },
+        {
+          "id": "558ef0188e5a646ae49d959d3f87cf6f04bf85f6",
+          "title": "PWalsh 对 Godot 新贡献政策增加 AI 障碍的评论 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by PWalsh",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:35:12Z"
+        },
+        {
+          "id": "fd9921cd49b08d8e8f8de9c065dc9d2a9ab18355",
+          "title": "Godot 的新贡献政策为 AI 发展增添了障碍 / Godot’s New Contributing Policy Adds Barriers for AI Slop",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T11:00:06Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "GitHub Changelog"
+        "Hackaday",
+        "Hackaday » Comments"
       ],
       "items": [
         {
-          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-          "title": "Copilot CLI no longer needs a personal access token in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T20:25:32Z"
+          "id": "27553f50f92b41c4d1f96b6c89a7aa3064e9f46f",
+          "title": "Gus Mueller 对 Godot 新贡献政策的评论为 AI 障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Gus Mueller",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:44:45Z"
+        },
+        {
+          "id": "558ef0188e5a646ae49d959d3f87cf6f04bf85f6",
+          "title": "PWalsh 对 Godot 新贡献政策增加 AI 障碍的评论 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by PWalsh",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:35:12Z"
+        },
+        {
+          "id": "fd9921cd49b08d8e8f8de9c065dc9d2a9ab18355",
+          "title": "Godot 的新贡献政策为 AI 发展增添了障碍 / Godot’s New Contributing Policy Adds Barriers for AI Slop",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T11:00:06Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6495,
+      "importance": 0.6495,
+      "importance_score": 0.6495,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3099,
-        "story_heat": 0.0
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9924,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T11:00:06Z",
+      "latest_at": "2026-07-03T16:44:45Z",
+      "primary_item": {
+        "id": "27553f50f92b41c4d1f96b6c89a7aa3064e9f46f",
+        "title": "Gus Mueller 对 Godot 新贡献政策的评论为 AI 障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Gus Mueller",
+        "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+        "source": "Hackaday » Comments",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_cc407ba2fbe2",
+      "title": "我看到 Qclaw Workbuddy Trae Work 扣子编程 Codex Claude 很多 Agent，但是好像没有开源的？",
+      "url": "https://www.cocoloop.cn/t/topic/10555",
+      "primary_url": "https://www.cocoloop.cn/t/topic/10555",
+      "source": "CocoLoop AI社区 - 最新话题",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "59d151926bcf22152b72b9d124fc06e02d789b09",
+          "title": "我看到 Qclaw Workbuddy Trae Work 扣子编程 Codex Claude 很多 Agent，但是好像没有开源的？",
+          "url": "https://www.cocoloop.cn/t/topic/10555",
+          "source": "CocoLoop AI社区 - 最新话题",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T14:09:49Z"
+        },
+        {
+          "id": "a27bb8e7fc2c27bc78b2eab80250e8aea7a8e7ca",
+          "title": "[程序员] 我看到 Qclaw Workbuddy Trae Work 扣子编程 Codex Claude 很多 Agent，但是好像没有开源的？",
+          "url": "https://www.v2ex.com/t/1224808",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T09:29:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "CocoLoop AI社区 - 最新话题",
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "59d151926bcf22152b72b9d124fc06e02d789b09",
+          "title": "我看到 Qclaw Workbuddy Trae Work 扣子编程 Codex Claude 很多 Agent，但是好像没有开源的？",
+          "url": "https://www.cocoloop.cn/t/topic/10555",
+          "source": "CocoLoop AI社区 - 最新话题",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T14:09:49Z"
+        },
+        {
+          "id": "a27bb8e7fc2c27bc78b2eab80250e8aea7a8e7ca",
+          "title": "[程序员] 我看到 Qclaw Workbuddy Trae Work 扣子编程 Codex Claude 很多 Agent，但是好像没有开源的？",
+          "url": "https://www.v2ex.com/t/1224808",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T09:29:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.645,
+      "importance": 0.645,
+      "importance_score": 0.645,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.81,
+        "recency": 0.8848,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T20:25:32Z",
-      "latest_at": "2026-07-02T20:25:32Z",
+      "earliest_at": "2026-07-03T09:29:54Z",
+      "latest_at": "2026-07-03T14:09:49Z",
       "primary_item": {
-        "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-        "title": "Copilot CLI no longer needs a personal access token in GitHub Actions",
-        "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "59d151926bcf22152b72b9d124fc06e02d789b09",
+        "title": "我看到 Qclaw Workbuddy Trae Work 扣子编程 Codex Claude 很多 Agent，但是好像没有开源的？",
+        "url": "https://www.cocoloop.cn/t/topic/10555",
+        "source": "CocoLoop AI社区 - 最新话题",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_6cccefb73d57",
+      "title": "腾林创建分公司 / teng-lin created a branch",
+      "url": "https://github.com/teng-lin/notebooklm-py/compare/0000000000...7e6cb304c3",
+      "primary_url": "https://github.com/teng-lin/notebooklm-py/compare/0000000000...7e6cb304c3",
+      "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "5684b9a83fe415aed09567d7aa7f303568ff79a3",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/notebooklm-py/compare/0000000000...7e6cb304c3",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:56:03Z"
+        },
+        {
+          "id": "e626a33b1b3aa1ab8fa1f8a3286bafcbcd6a9e99",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/notebooklm-py/compare/0000000000...02620a367f",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:56:11Z"
+        },
+        {
+          "id": "94f99bc0332c549f139af89c1d24aabf56f4c9c2",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/notebooklm-py/compare/0000000000...234c61a467",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T10:24:33Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
+      ],
+      "items": [
+        {
+          "id": "5684b9a83fe415aed09567d7aa7f303568ff79a3",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/notebooklm-py/compare/0000000000...7e6cb304c3",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:56:03Z"
+        },
+        {
+          "id": "e626a33b1b3aa1ab8fa1f8a3286bafcbcd6a9e99",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/notebooklm-py/compare/0000000000...02620a367f",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:56:11Z"
+        },
+        {
+          "id": "94f99bc0332c549f139af89c1d24aabf56f4c9c2",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/notebooklm-py/compare/0000000000...234c61a467",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T10:24:33Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6427,
+      "importance": 0.6427,
+      "importance_score": 0.6427,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9585,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T10:24:33Z",
+      "latest_at": "2026-07-03T15:56:03Z",
+      "primary_item": {
+        "id": "5684b9a83fe415aed09567d7aa7f303568ff79a3",
+        "title": "腾林创建分公司 / teng-lin created a branch",
+        "url": "https://github.com/teng-lin/notebooklm-py/compare/0000000000...7e6cb304c3",
+        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -1145,14 +1697,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9048,
+        "recency": 0.7406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1171,523 +1723,80 @@
       }
     },
     {
-      "story_id": "story_87021ff19af5",
-      "title": "人工智能可观测性 / AI observability",
-      "url": "https://en.wikipedia.org/w/index.php?title=AI_observability&diff=1362362593&oldid=1362343662",
-      "primary_url": "https://en.wikipedia.org/w/index.php?title=AI_observability&diff=1362362593&oldid=1362343662",
-      "source": "开源情报 | Open-source intelligence (OSINT)",
+      "story_id": "story_8844fa97a7d2",
+      "title": "claude和codex的悲欢并不相通 一个让我用尽各种方式规避风控结果最后来个中国江浙沪的都干掉 一个让我能正常使用并且烧了10亿token给我交付 无比期待智谱和ds也能做一个codex…",
+      "url": "https://t.me/https1024/48968",
+      "primary_url": "https://t.me/https1024/48968",
+      "source": "互联网从业者充电站 | 技术、产品、设计、运营等不同话题内容",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "5ea01cbb4cc89ff13f46df6a3443472bb839e6b6",
-          "title": "人工智能可观测性 / AI observability",
-          "url": "https://en.wikipedia.org/w/index.php?title=AI_observability&diff=1362362593&oldid=1362343662",
-          "source": "开源情报 | Open-source intelligence (OSINT)",
+          "id": "726061b52b413ade3a673913391b06f285a0f7fb",
+          "title": "claude和codex的悲欢并不相通 一个让我用尽各种方式规避风控结果最后来个中国江浙沪的都干掉 一个让我能正常使用并且烧了10亿token给我交付 无比期待智谱和ds也能做一个codex…",
+          "url": "https://t.me/https1024/48968",
+          "source": "互联网从业者充电站 | 技术、产品、设计、运营等不同话题内容",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T13:00:29Z"
+          "published_at": "2026-07-03T14:39:02Z"
         },
         {
-          "id": "856e863228f0b2b761983cc1066c734ceb519499",
-          "title": "谈话草稿：Prompt Magazine / Draft talk:Prompt Magazine",
-          "url": "https://en.wikipedia.org/w/index.php?title=Draft_talk%3APrompt_Magazine&diff=1362349033&oldid=0",
-          "source": "开源情报 | Open-source intelligence (OSINT)",
+          "id": "64cd3319430900144266b159dd823d2045665839",
+          "title": "claude和codex的悲欢并不相通 一个让我用尽各种方式规避风控结果最后来个中国江浙沪的都干掉 一个让我能正常使用并且烧了10亿token给我交付 无比期待智谱和ds也能做一个codex…",
+          "url": "https://m.okjike.com/originalPosts/6a4797b498ec97ce5d052cdd",
+          "source": "产品经理的日常 - 即刻圈子",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:34:29Z"
-        },
-        {
-          "id": "f0c7c3ede006bbdaa20ad3d612fa4473300290e6",
-          "title": "草稿：《Prompt》杂志 / Draft:Prompt Magazine",
-          "url": "https://en.wikipedia.org/w/index.php?title=Draft%3APrompt_Magazine&diff=1362349034&oldid=1362348880",
-          "source": "开源情报 | Open-source intelligence (OSINT)",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:34:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "开源情报 | Open-source intelligence (OSINT)"
-      ],
-      "items": [
-        {
-          "id": "5ea01cbb4cc89ff13f46df6a3443472bb839e6b6",
-          "title": "人工智能可观测性 / AI observability",
-          "url": "https://en.wikipedia.org/w/index.php?title=AI_observability&diff=1362362593&oldid=1362343662",
-          "source": "开源情报 | Open-source intelligence (OSINT)",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T13:00:29Z"
-        },
-        {
-          "id": "856e863228f0b2b761983cc1066c734ceb519499",
-          "title": "谈话草稿：Prompt Magazine / Draft talk:Prompt Magazine",
-          "url": "https://en.wikipedia.org/w/index.php?title=Draft_talk%3APrompt_Magazine&diff=1362349033&oldid=0",
-          "source": "开源情报 | Open-source intelligence (OSINT)",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:34:29Z"
-        },
-        {
-          "id": "f0c7c3ede006bbdaa20ad3d612fa4473300290e6",
-          "title": "草稿：《Prompt》杂志 / Draft:Prompt Magazine",
-          "url": "https://en.wikipedia.org/w/index.php?title=Draft%3APrompt_Magazine&diff=1362349034&oldid=1362348880",
-          "source": "开源情报 | Open-source intelligence (OSINT)",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:34:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.66,
-      "importance": 0.66,
-      "importance_score": 0.66,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 1.0,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T10:34:29Z",
-      "latest_at": "2026-07-03T13:00:29Z",
-      "primary_item": {
-        "id": "5ea01cbb4cc89ff13f46df6a3443472bb839e6b6",
-        "title": "人工智能可观测性 / AI observability",
-        "url": "https://en.wikipedia.org/w/index.php?title=AI_observability&diff=1362362593&oldid=1362343662",
-        "source": "开源情报 | Open-source intelligence (OSINT)",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_db7c575dece9",
-      "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-      "primary_url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-      "source": "Hacker News Digest",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "7e9d93200ac5a77151e47744dcb119b03d02fc7c",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:48:15.547449Z"
-        },
-        {
-          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T11:19:37.346000Z"
-        },
-        {
-          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://news.ycombinator.com/item?id=48772443",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T10:32:06.793000Z"
-        },
-        {
-          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
-          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T07:30:12Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News Digest",
-        "The Next Web",
-        "hackernews",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "7e9d93200ac5a77151e47744dcb119b03d02fc7c",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:48:15.547449Z"
-        },
-        {
-          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T11:19:37.346000Z"
-        },
-        {
-          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://news.ycombinator.com/item?id=48772443",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T10:32:06.793000Z"
-        },
-        {
-          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
-          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T07:30:12Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6531,
-      "importance": 0.6531,
-      "importance_score": 0.6531,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8257,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T07:30:12Z",
-      "latest_at": "2026-07-03T11:19:37.346000Z",
-      "primary_item": {
-        "id": "7e9d93200ac5a77151e47744dcb119b03d02fc7c",
-        "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-        "source": "Hacker News Digest",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_a132de71d304",
-      "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
-      "url": "https://github.com/teng-lin/notebooklm-py/pull/1770",
-      "primary_url": "https://github.com/teng-lin/notebooklm-py/pull/1770",
-      "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "fa86ce09aecc79861008d125d06e09bab8d8233b",
-          "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/1770",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:56:24Z"
-        },
-        {
-          "id": "11c6aee77429f7019dea8b4dd691ffbbbfa466e4",
-          "title": "teng-lin 对拉取请求发表评论 teng-lin/notebooklm-py#1767 / teng-lin commented on pull request teng-lin/notebooklm-py#1767",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/1767",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:47:08Z"
-        },
-        {
-          "id": "1ed95c9195f7376feb6600c5822421d9f0069291",
-          "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/1767",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:24:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
-      ],
-      "items": [
-        {
-          "id": "fa86ce09aecc79861008d125d06e09bab8d8233b",
-          "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/1770",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:56:24Z"
-        },
-        {
-          "id": "11c6aee77429f7019dea8b4dd691ffbbbfa466e4",
-          "title": "teng-lin 对拉取请求发表评论 teng-lin/notebooklm-py#1767 / teng-lin commented on pull request teng-lin/notebooklm-py#1767",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/1767",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:47:08Z"
-        },
-        {
-          "id": "1ed95c9195f7376feb6600c5822421d9f0069291",
-          "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/1767",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:24:55Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6506,
-      "importance": 0.6506,
-      "importance_score": 0.6506,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.998,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T10:24:55Z",
-      "latest_at": "2026-07-03T12:56:24Z",
-      "primary_item": {
-        "id": "fa86ce09aecc79861008d125d06e09bab8d8233b",
-        "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
-        "url": "https://github.com/teng-lin/notebooklm-py/pull/1770",
-        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_55ec43989968",
-      "title": "黄帝高清 主演：林小桃/FuckClaude / huangdihd starred LinXiaoTao/FuckClaude",
-      "url": "https://github.com/LinXiaoTao/FuckClaude",
-      "primary_url": "https://github.com/LinXiaoTao/FuckClaude",
-      "source": "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "3399dba0681afc0d2be511cf043c01d9f40496b4",
-          "title": "黄帝高清 主演：林小桃/FuckClaude / huangdihd starred LinXiaoTao/FuckClaude",
-          "url": "https://github.com/LinXiaoTao/FuckClaude",
-          "source": "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T13:01:00Z"
-        },
-        {
-          "id": "2acd051f7ef62b453dce322e2abc3dfccdda83b8",
-          "title": "秘密者 主演：林小涛/FuckClaude / secreter starred LinXiaoTao/FuckClaude",
-          "url": "https://github.com/LinXiaoTao/FuckClaude",
-          "source": "secreter|开发All in AI(AI资讯|技术、趋势、思考|公众号：AI Reading Hub)",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:36:20Z"
+          "published_at": "2026-07-03T11:06:28.569000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
-        "secreter|开发All in AI(AI资讯|技术、趋势、思考|公众号：AI Reading Hub)"
+        "互联网从业者充电站 | 技术、产品、设计、运营等不同话题内容",
+        "产品经理的日常 - 即刻圈子"
       ],
       "items": [
         {
-          "id": "3399dba0681afc0d2be511cf043c01d9f40496b4",
-          "title": "黄帝高清 主演：林小桃/FuckClaude / huangdihd starred LinXiaoTao/FuckClaude",
-          "url": "https://github.com/LinXiaoTao/FuckClaude",
-          "source": "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
+          "id": "726061b52b413ade3a673913391b06f285a0f7fb",
+          "title": "claude和codex的悲欢并不相通 一个让我用尽各种方式规避风控结果最后来个中国江浙沪的都干掉 一个让我能正常使用并且烧了10亿token给我交付 无比期待智谱和ds也能做一个codex…",
+          "url": "https://t.me/https1024/48968",
+          "source": "互联网从业者充电站 | 技术、产品、设计、运营等不同话题内容",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T13:01:00Z"
+          "published_at": "2026-07-03T14:39:02Z"
         },
         {
-          "id": "2acd051f7ef62b453dce322e2abc3dfccdda83b8",
-          "title": "秘密者 主演：林小涛/FuckClaude / secreter starred LinXiaoTao/FuckClaude",
-          "url": "https://github.com/LinXiaoTao/FuckClaude",
-          "source": "secreter|开发All in AI(AI资讯|技术、趋势、思考|公众号：AI Reading Hub)",
+          "id": "64cd3319430900144266b159dd823d2045665839",
+          "title": "claude和codex的悲欢并不相通 一个让我用尽各种方式规避风控结果最后来个中国江浙沪的都干掉 一个让我能正常使用并且烧了10亿token给我交付 无比期待智谱和ds也能做一个codex…",
+          "url": "https://m.okjike.com/originalPosts/6a4797b498ec97ce5d052cdd",
+          "source": "产品经理的日常 - 即刻圈子",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:36:20Z"
+          "published_at": "2026-07-03T11:06:28.569000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.65,
-      "importance": 0.65,
-      "importance_score": 0.65,
+      "score": 0.64,
+      "importance": 0.64,
+      "importance_score": 0.64,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 1.0,
+        "ai_relevance": 0.78,
+        "recency": 0.9051,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T09:36:20Z",
-      "latest_at": "2026-07-03T13:01:00Z",
+      "earliest_at": "2026-07-03T11:06:28.569000Z",
+      "latest_at": "2026-07-03T14:39:02Z",
       "primary_item": {
-        "id": "3399dba0681afc0d2be511cf043c01d9f40496b4",
-        "title": "黄帝高清 主演：林小桃/FuckClaude / huangdihd starred LinXiaoTao/FuckClaude",
-        "url": "https://github.com/LinXiaoTao/FuckClaude",
-        "source": "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_0738428c0f84",
-      "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-      "url": "https://www.aibase.com/news/29376",
-      "primary_url": "https://www.aibase.com/news/29376",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
-          "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-          "url": "https://www.aibase.com/news/29376",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:42:09.653471Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
-          "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-          "url": "https://www.aibase.com/news/29376",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:42:09.653471Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9048,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T10:42:09.653471Z",
-      "latest_at": "2026-07-03T10:42:09.653471Z",
-      "primary_item": {
-        "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
-        "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-        "url": "https://www.aibase.com/news/29376",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d08be26350d8",
-      "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒 / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic",
-      "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
-      "primary_url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
-      "source": "godlikeproductions.com| Forum 1",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "bfbed3b40362e24d35bd3ff090ef1a04c81898bc",
-          "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒 / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic",
-          "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
-          "source": "godlikeproductions.com| Forum 1",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:07:43Z"
-        },
-        {
-          "id": "e9607eef376ac212ba36903f7761307261488f7b",
-          "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒（已固定） / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic (Pinned)",
-          "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
-          "source": "godlikeproductions.com| Forum 1",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:24:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "godlikeproductions.com| Forum 1"
-      ],
-      "items": [
-        {
-          "id": "bfbed3b40362e24d35bd3ff090ef1a04c81898bc",
-          "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒 / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic",
-          "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
-          "source": "godlikeproductions.com| Forum 1",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:07:43Z"
-        },
-        {
-          "id": "e9607eef376ac212ba36903f7761307261488f7b",
-          "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒（已固定） / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic (Pinned)",
-          "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
-          "source": "godlikeproductions.com| Forum 1",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:24:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6428,
-      "importance": 0.6428,
-      "importance_score": 0.6428,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.9642,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T09:24:28Z",
-      "latest_at": "2026-07-03T12:07:43Z",
-      "primary_item": {
-        "id": "bfbed3b40362e24d35bd3ff090ef1a04c81898bc",
-        "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒 / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic",
-        "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
-        "source": "godlikeproductions.com| Forum 1",
+        "id": "726061b52b413ade3a673913391b06f285a0f7fb",
+        "title": "claude和codex的悲欢并不相通 一个让我用尽各种方式规避风控结果最后来个中国江浙沪的都干掉 一个让我能正常使用并且烧了10亿token给我交付 无比期待智谱和ds也能做一个codex…",
+        "url": "https://t.me/https1024/48968",
+        "source": "互联网从业者充电站 | 技术、产品、设计、运营等不同话题内容",
         "source_name": "OPML RSS"
       }
     }
