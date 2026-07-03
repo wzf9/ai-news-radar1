@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-03T10:42:09.653471Z",
+  "generated_at": "2026-07-03T12:59:14.419964Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2042-3220-b1c5-e0ec1fd82590&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-2042-3220-b1c5-e0ec1fd82590&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2259-42c9-af9d-3d7e45511e00&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-2259-42c9-af9d-3d7e45511e00&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "26a41db0dc74043da0b911917304b27191734058",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2259-42c9-af9d-3d7e45511e00&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "efd8af5a37a73aac3a7427207e2077673d0a3811",
           "title": "点击这里进入 / Click here to enter",
@@ -39,12 +48,21 @@
           "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "26a41db0dc74043da0b911917304b27191734058",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2259-42c9-af9d-3d7e45511e00&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "efd8af5a37a73aac3a7427207e2077673d0a3811",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2042-3220-b1c5-e0ec1fd82590&fp=-3",
@@ -72,17 +90,17 @@
           "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.887,
+      "importance": 0.887,
+      "importance_score": 0.887,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.5
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -91,11 +109,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-03T04:26:46.770520Z",
-      "latest_at": "2026-07-03T10:42:09.653471Z",
+      "latest_at": "2026-07-03T12:59:14.419964Z",
       "primary_item": {
-        "id": "efd8af5a37a73aac3a7427207e2077673d0a3811",
+        "id": "26a41db0dc74043da0b911917304b27191734058",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2042-3220-b1c5-e0ec1fd82590&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2259-42c9-af9d-3d7e45511e00&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -154,14 +172,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9048,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -215,14 +233,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9376,
+        "recency": 0.8424,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -241,7 +259,7 @@
       }
     },
     {
-      "story_id": "story_f6b3c5022344",
+      "story_id": "story_de5294d3d649",
       "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
       "url": "https://www.aibase.com/news/29370",
       "primary_url": "https://www.aibase.com/news/29370",
@@ -294,14 +312,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.7834,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -355,14 +373,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5257,
+        "recency": 0.4305,
         "story_heat": 0.0
       },
       "category": "official",
@@ -416,14 +434,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -476,20 +494,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.698,
+        "recency": 0.6028,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T03:27:15Z",
       "latest_at": "2026-07-03T03:27:15Z",
@@ -536,14 +553,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5173,
+        "recency": 0.4221,
         "story_heat": 0.0
       },
       "category": "official",
@@ -560,6 +577,137 @@
         "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fd601f1281f8",
+      "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+      "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/4ff1a10a5c...d6fecc4375",
+      "primary_url": "https://github.com/Dicklesworthstone/franken_whisper/compare/4ff1a10a5c...d6fecc4375",
+      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "02d150ae6b2f59996ac8fc82f8d7f81d09e3e854",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/4ff1a10a5c...d6fecc4375",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T13:00:00Z"
+        },
+        {
+          "id": "039c422797193e4b35b832906abf24bf317cb78b",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/4668717703...df3b9f82ef",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:44:51Z"
+        },
+        {
+          "id": "26773d8bfeb0b25b1f36e8b8b3b074003b8ae815",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/ff4eb91609...eba548c9b5",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T10:16:30Z"
+        },
+        {
+          "id": "0f3640ebe788e1f0ae660c6d120054e4149d7299",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/e9d159fcfe...b276b89346",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T10:15:40Z"
+        },
+        {
+          "id": "4d153efed5c464d27a646ecea92147fac5f0cca3",
+          "title": "迪克尔斯沃斯通推了弗兰肯夫斯 / Dicklesworthstone pushed frankenfs",
+          "url": "https://github.com/Dicklesworthstone/frankenfs/compare/9a24a6d380...8862e18ac2",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T07:29:10Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
+      ],
+      "items": [
+        {
+          "id": "02d150ae6b2f59996ac8fc82f8d7f81d09e3e854",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/4ff1a10a5c...d6fecc4375",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T13:00:00Z"
+        },
+        {
+          "id": "039c422797193e4b35b832906abf24bf317cb78b",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/4668717703...df3b9f82ef",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:44:51Z"
+        },
+        {
+          "id": "26773d8bfeb0b25b1f36e8b8b3b074003b8ae815",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/ff4eb91609...eba548c9b5",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T10:16:30Z"
+        },
+        {
+          "id": "0f3640ebe788e1f0ae660c6d120054e4149d7299",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/e9d159fcfe...b276b89346",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T10:15:40Z"
+        },
+        {
+          "id": "4d153efed5c464d27a646ecea92147fac5f0cca3",
+          "title": "迪克尔斯沃斯通推了弗兰肯夫斯 / Dicklesworthstone pushed frankenfs",
+          "url": "https://github.com/Dicklesworthstone/frankenfs/compare/9a24a6d380...8862e18ac2",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T07:29:10Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.71,
+      "importance": 0.71,
+      "importance_score": 0.71,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T07:29:10Z",
+      "latest_at": "2026-07-03T13:00:00Z",
+      "primary_item": {
+        "id": "02d150ae6b2f59996ac8fc82f8d7f81d09e3e854",
+        "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+        "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/4ff1a10a5c...d6fecc4375",
+        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -597,14 +745,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -620,6 +768,155 @@
         "url": "https://www.aibase.com/news/29373",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c56b58e9d916",
+      "title": "第1424期 - 2026-07-03 20:01",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
+          "title": "第1424期 - 2026-07-03 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:01:31Z"
+        },
+        {
+          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
+          "title": "第1423期 - 2026-07-03 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T08:01:30Z"
+        },
+        {
+          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
+          "title": "第1422期 - 2026-07-03 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T04:01:28Z"
+        },
+        {
+          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
+          "title": "第1421期 - 2026-07-03 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T00:01:54Z"
+        },
+        {
+          "id": "111762dbcff0bf1cfd31c88f07fa2bbd6f09884f",
+          "title": "第1420期 - 2026-07-03 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-02T20:01:22Z"
+        },
+        {
+          "id": "1fb86644176ccea99d98af4bd017e8cbbbd64c00",
+          "title": "第1419期 - 2026-07-03 00:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-02T16:01:46Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "大黑AI速报"
+      ],
+      "items": [
+        {
+          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
+          "title": "第1424期 - 2026-07-03 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:01:31Z"
+        },
+        {
+          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
+          "title": "第1423期 - 2026-07-03 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T08:01:30Z"
+        },
+        {
+          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
+          "title": "第1422期 - 2026-07-03 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T04:01:28Z"
+        },
+        {
+          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
+          "title": "第1421期 - 2026-07-03 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T00:01:54Z"
+        },
+        {
+          "id": "111762dbcff0bf1cfd31c88f07fa2bbd6f09884f",
+          "title": "第1420期 - 2026-07-03 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-02T20:01:22Z"
+        },
+        {
+          "id": "1fb86644176ccea99d98af4bd017e8cbbbd64c00",
+          "title": "第1419期 - 2026-07-03 00:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-02T16:01:46Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.693,
+      "importance": 0.693,
+      "importance_score": 0.693,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9599,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-02T16:01:46Z",
+      "latest_at": "2026-07-03T12:01:31Z",
+      "primary_item": {
+        "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
+        "title": "第1424期 - 2026-07-03 20:01",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
+        "source": "大黑AI速报",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -729,14 +1026,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.7036,
-      "importance": 0.7036,
-      "importance_score": 0.7036,
+      "score": 0.6845,
+      "importance": 0.6845,
+      "importance_score": 0.6845,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9528,
+        "recency": 0.8576,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -788,21 +1085,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4051,
+        "recency": 0.3099,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T20:25:32Z",
       "latest_at": "2026-07-02T20:25:32Z",
@@ -849,14 +1145,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -875,341 +1171,386 @@
       }
     },
     {
-      "story_id": "story_dc2fc1977cf5",
-      "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
-      "url": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z",
-      "primary_url": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "59487305b8c3df894be84917b22c27c22099326c",
-          "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
-          "url": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T23:43:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "59487305b8c3df894be84917b22c27c22099326c",
-          "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
-          "url": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T23:43:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5424,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T23:43:15Z",
-      "latest_at": "2026-07-02T23:43:15Z",
-      "primary_item": {
-        "id": "59487305b8c3df894be84917b22c27c22099326c",
-        "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
-        "url": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d207925d643c",
-      "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-      "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/d651124b9e...3275b3b61d",
-      "primary_url": "https://github.com/Dicklesworthstone/franken_numpy/compare/d651124b9e...3275b3b61d",
-      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+      "story_id": "story_87021ff19af5",
+      "title": "人工智能可观测性 / AI observability",
+      "url": "https://en.wikipedia.org/w/index.php?title=AI_observability&diff=1362362593&oldid=1362343662",
+      "primary_url": "https://en.wikipedia.org/w/index.php?title=AI_observability&diff=1362362593&oldid=1362343662",
+      "source": "开源情报 | Open-source intelligence (OSINT)",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "d308fd65d3b7c30fb448efd42b7c37688619e2eb",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/d651124b9e...3275b3b61d",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "5ea01cbb4cc89ff13f46df6a3443472bb839e6b6",
+          "title": "人工智能可观测性 / AI observability",
+          "url": "https://en.wikipedia.org/w/index.php?title=AI_observability&diff=1362362593&oldid=1362343662",
+          "source": "开源情报 | Open-source intelligence (OSINT)",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:34:00Z"
+          "published_at": "2026-07-03T13:00:29Z"
         },
         {
-          "id": "2e0dcc1ba5de056f3f3846ad8f6484b3ac1c7285",
-          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
-          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/c54260eaf4...108d3cd2a6",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "856e863228f0b2b761983cc1066c734ceb519499",
+          "title": "谈话草稿：Prompt Magazine / Draft talk:Prompt Magazine",
+          "url": "https://en.wikipedia.org/w/index.php?title=Draft_talk%3APrompt_Magazine&diff=1362349033&oldid=0",
+          "source": "开源情报 | Open-source intelligence (OSINT)",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:27:04Z"
+          "published_at": "2026-07-03T10:34:29Z"
         },
         {
-          "id": "5d4ea89388e7ae4465f4f3f43eb8f82f7e0373ef",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/5f1f769997...d688b1335b",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "f0c7c3ede006bbdaa20ad3d612fa4473300290e6",
+          "title": "草稿：《Prompt》杂志 / Draft:Prompt Magazine",
+          "url": "https://en.wikipedia.org/w/index.php?title=Draft%3APrompt_Magazine&diff=1362349034&oldid=1362348880",
+          "source": "开源情报 | Open-source intelligence (OSINT)",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T03:45:24Z"
-        },
-        {
-          "id": "e821a05dc9fd2c5a4955c25f5e68a4df825005f3",
-          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
-          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/48a06defbd...c0b283567f",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T03:33:10Z"
-        },
-        {
-          "id": "75beb198fa81418f6f56e6cc768f3a0087cdd93d",
-          "title": "Dicklesworthstone 推动了 Frankenlibc / Dicklesworthstone pushed frankenlibc",
-          "url": "https://github.com/Dicklesworthstone/frankenlibc/compare/7c07441b53...20901156e3",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T03:29:04Z"
+          "published_at": "2026-07-03T10:34:29Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
-        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
+        "开源情报 | Open-source intelligence (OSINT)"
       ],
       "items": [
         {
-          "id": "d308fd65d3b7c30fb448efd42b7c37688619e2eb",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/d651124b9e...3275b3b61d",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "5ea01cbb4cc89ff13f46df6a3443472bb839e6b6",
+          "title": "人工智能可观测性 / AI observability",
+          "url": "https://en.wikipedia.org/w/index.php?title=AI_observability&diff=1362362593&oldid=1362343662",
+          "source": "开源情报 | Open-source intelligence (OSINT)",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:34:00Z"
+          "published_at": "2026-07-03T13:00:29Z"
         },
         {
-          "id": "2e0dcc1ba5de056f3f3846ad8f6484b3ac1c7285",
-          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
-          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/c54260eaf4...108d3cd2a6",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "856e863228f0b2b761983cc1066c734ceb519499",
+          "title": "谈话草稿：Prompt Magazine / Draft talk:Prompt Magazine",
+          "url": "https://en.wikipedia.org/w/index.php?title=Draft_talk%3APrompt_Magazine&diff=1362349033&oldid=0",
+          "source": "开源情报 | Open-source intelligence (OSINT)",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:27:04Z"
+          "published_at": "2026-07-03T10:34:29Z"
         },
         {
-          "id": "5d4ea89388e7ae4465f4f3f43eb8f82f7e0373ef",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/5f1f769997...d688b1335b",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "f0c7c3ede006bbdaa20ad3d612fa4473300290e6",
+          "title": "草稿：《Prompt》杂志 / Draft:Prompt Magazine",
+          "url": "https://en.wikipedia.org/w/index.php?title=Draft%3APrompt_Magazine&diff=1362349034&oldid=1362348880",
+          "source": "开源情报 | Open-source intelligence (OSINT)",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T03:45:24Z"
-        },
-        {
-          "id": "e821a05dc9fd2c5a4955c25f5e68a4df825005f3",
-          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
-          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/48a06defbd...c0b283567f",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T03:33:10Z"
-        },
-        {
-          "id": "75beb198fa81418f6f56e6cc768f3a0087cdd93d",
-          "title": "Dicklesworthstone 推动了 Frankenlibc / Dicklesworthstone pushed frankenlibc",
-          "url": "https://github.com/Dicklesworthstone/frankenlibc/compare/7c07441b53...20901156e3",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T03:29:04Z"
+          "published_at": "2026-07-03T10:34:29Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6839,
-      "importance": 0.6839,
-      "importance_score": 0.6839,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.66,
+      "importance": 0.66,
+      "importance_score": 0.66,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.8693,
-        "story_heat": 1.0
+        "recency": 1.0,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T03:29:04Z",
-      "latest_at": "2026-07-03T07:34:00Z",
+      "earliest_at": "2026-07-03T10:34:29Z",
+      "latest_at": "2026-07-03T13:00:29Z",
       "primary_item": {
-        "id": "d308fd65d3b7c30fb448efd42b7c37688619e2eb",
-        "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-        "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/d651124b9e...3275b3b61d",
-        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "id": "5ea01cbb4cc89ff13f46df6a3443472bb839e6b6",
+        "title": "人工智能可观测性 / AI observability",
+        "url": "https://en.wikipedia.org/w/index.php?title=AI_observability&diff=1362362593&oldid=1362343662",
+        "source": "开源情报 | Open-source intelligence (OSINT)",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_c56b58e9d916",
-      "title": "第1423期 - 2026-07-03 16:01",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-      "source": "大黑AI速报",
+      "story_id": "story_db7c575dece9",
+      "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+      "primary_url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+      "source": "Hacker News Digest",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
-          "title": "第1423期 - 2026-07-03 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-          "source": "大黑AI速报",
+          "id": "7e9d93200ac5a77151e47744dcb119b03d02fc7c",
+          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:01:30Z"
+          "published_at": "2026-07-03T08:48:15.547449Z"
         },
         {
-          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
-          "title": "第1422期 - 2026-07-03 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T04:01:28Z"
+          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
+          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T11:19:37.346000Z"
         },
         {
-          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
-          "title": "第1421期 - 2026-07-03 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T00:01:54Z"
+          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
+          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://news.ycombinator.com/item?id=48772443",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T10:32:06.793000Z"
         },
         {
-          "id": "111762dbcff0bf1cfd31c88f07fa2bbd6f09884f",
-          "title": "第1420期 - 2026-07-03 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T20:01:22Z"
-        },
-        {
-          "id": "1fb86644176ccea99d98af4bd017e8cbbbd64c00",
-          "title": "第1419期 - 2026-07-03 00:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T16:01:46Z"
-        },
-        {
-          "id": "bfd069198f41bcfdf2491be34384d255e12f364c",
-          "title": "第1418期 - 2026-07-02 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-02_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T12:01:22Z"
+          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
+          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
+          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
+          "source": "The Next Web",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T07:30:12Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 4,
       "source_names": [
-        "大黑AI速报"
+        "Hacker News Digest",
+        "The Next Web",
+        "hackernews",
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
-          "title": "第1423期 - 2026-07-03 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-          "source": "大黑AI速报",
+          "id": "7e9d93200ac5a77151e47744dcb119b03d02fc7c",
+          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:01:30Z"
+          "published_at": "2026-07-03T08:48:15.547449Z"
         },
         {
-          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
-          "title": "第1422期 - 2026-07-03 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T04:01:28Z"
+          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
+          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
+          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T11:19:37.346000Z"
         },
         {
-          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
-          "title": "第1421期 - 2026-07-03 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T00:01:54Z"
+          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
+          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+          "url": "https://news.ycombinator.com/item?id=48772443",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T10:32:06.793000Z"
         },
         {
-          "id": "111762dbcff0bf1cfd31c88f07fa2bbd6f09884f",
-          "title": "第1420期 - 2026-07-03 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T20:01:22Z"
-        },
-        {
-          "id": "1fb86644176ccea99d98af4bd017e8cbbbd64c00",
-          "title": "第1419期 - 2026-07-03 00:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T16:01:46Z"
-        },
-        {
-          "id": "bfd069198f41bcfdf2491be34384d255e12f364c",
-          "title": "第1418期 - 2026-07-02 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-02_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T12:01:22Z"
+          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
+          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
+          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
+          "source": "The Next Web",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T07:30:12Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6787,
-      "importance": 0.6787,
-      "importance_score": 0.6787,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6531,
+      "importance": 0.6531,
+      "importance_score": 0.6531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8884,
-        "story_heat": 1.0
+        "ai_relevance": 0.71,
+        "recency": 0.8257,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-02T12:01:22Z",
-      "latest_at": "2026-07-03T08:01:30Z",
+      "earliest_at": "2026-07-03T07:30:12Z",
+      "latest_at": "2026-07-03T11:19:37.346000Z",
       "primary_item": {
-        "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
-        "title": "第1423期 - 2026-07-03 16:01",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-        "source": "大黑AI速报",
+        "id": "7e9d93200ac5a77151e47744dcb119b03d02fc7c",
+        "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
+        "source": "Hacker News Digest",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_a132de71d304",
+      "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py/pull/1770",
+      "primary_url": "https://github.com/teng-lin/notebooklm-py/pull/1770",
+      "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "fa86ce09aecc79861008d125d06e09bab8d8233b",
+          "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1770",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:56:24Z"
+        },
+        {
+          "id": "11c6aee77429f7019dea8b4dd691ffbbbfa466e4",
+          "title": "teng-lin 对拉取请求发表评论 teng-lin/notebooklm-py#1767 / teng-lin commented on pull request teng-lin/notebooklm-py#1767",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1767",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:47:08Z"
+        },
+        {
+          "id": "1ed95c9195f7376feb6600c5822421d9f0069291",
+          "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1767",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T10:24:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
+      ],
+      "items": [
+        {
+          "id": "fa86ce09aecc79861008d125d06e09bab8d8233b",
+          "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1770",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:56:24Z"
+        },
+        {
+          "id": "11c6aee77429f7019dea8b4dd691ffbbbfa466e4",
+          "title": "teng-lin 对拉取请求发表评论 teng-lin/notebooklm-py#1767 / teng-lin commented on pull request teng-lin/notebooklm-py#1767",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1767",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:47:08Z"
+        },
+        {
+          "id": "1ed95c9195f7376feb6600c5822421d9f0069291",
+          "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1767",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T10:24:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6506,
+      "importance": 0.6506,
+      "importance_score": 0.6506,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.998,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T10:24:55Z",
+      "latest_at": "2026-07-03T12:56:24Z",
+      "primary_item": {
+        "id": "fa86ce09aecc79861008d125d06e09bab8d8233b",
+        "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
+        "url": "https://github.com/teng-lin/notebooklm-py/pull/1770",
+        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_55ec43989968",
+      "title": "黄帝高清 主演：林小桃/FuckClaude / huangdihd starred LinXiaoTao/FuckClaude",
+      "url": "https://github.com/LinXiaoTao/FuckClaude",
+      "primary_url": "https://github.com/LinXiaoTao/FuckClaude",
+      "source": "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "3399dba0681afc0d2be511cf043c01d9f40496b4",
+          "title": "黄帝高清 主演：林小桃/FuckClaude / huangdihd starred LinXiaoTao/FuckClaude",
+          "url": "https://github.com/LinXiaoTao/FuckClaude",
+          "source": "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T13:01:00Z"
+        },
+        {
+          "id": "2acd051f7ef62b453dce322e2abc3dfccdda83b8",
+          "title": "秘密者 主演：林小涛/FuckClaude / secreter starred LinXiaoTao/FuckClaude",
+          "url": "https://github.com/LinXiaoTao/FuckClaude",
+          "source": "secreter|开发All in AI(AI资讯|技术、趋势、思考|公众号：AI Reading Hub)",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T09:36:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
+        "secreter|开发All in AI(AI资讯|技术、趋势、思考|公众号：AI Reading Hub)"
+      ],
+      "items": [
+        {
+          "id": "3399dba0681afc0d2be511cf043c01d9f40496b4",
+          "title": "黄帝高清 主演：林小桃/FuckClaude / huangdihd starred LinXiaoTao/FuckClaude",
+          "url": "https://github.com/LinXiaoTao/FuckClaude",
+          "source": "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T13:01:00Z"
+        },
+        {
+          "id": "2acd051f7ef62b453dce322e2abc3dfccdda83b8",
+          "title": "秘密者 主演：林小涛/FuckClaude / secreter starred LinXiaoTao/FuckClaude",
+          "url": "https://github.com/LinXiaoTao/FuckClaude",
+          "source": "secreter|开发All in AI(AI资讯|技术、趋势、思考|公众号：AI Reading Hub)",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T09:36:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.65,
+      "importance": 0.65,
+      "importance_score": 0.65,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T09:36:20Z",
+      "latest_at": "2026-07-03T13:01:00Z",
+      "primary_item": {
+        "id": "3399dba0681afc0d2be511cf043c01d9f40496b4",
+        "title": "黄帝高清 主演：林小桃/FuckClaude / huangdihd starred LinXiaoTao/FuckClaude",
+        "url": "https://github.com/LinXiaoTao/FuckClaude",
+        "source": "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
         "source_name": "OPML RSS"
       }
     },
@@ -1248,14 +1589,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1274,331 +1615,79 @@
       }
     },
     {
-      "story_id": "story_db7c575dece9",
-      "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-      "primary_url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-      "source": "Hacker News Digest",
+      "story_id": "story_d08be26350d8",
+      "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒 / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic",
+      "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
+      "primary_url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
+      "source": "godlikeproductions.com| Forum 1",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "7e9d93200ac5a77151e47744dcb119b03d02fc7c",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "Hacker News Digest",
+          "id": "bfbed3b40362e24d35bd3ff090ef1a04c81898bc",
+          "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒 / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic",
+          "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
+          "source": "godlikeproductions.com| Forum 1",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:33:11.702137Z"
+          "published_at": "2026-07-03T12:07:43Z"
         },
         {
-          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://news.ycombinator.com/item?id=48772443",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T10:32:06.793000Z"
-        },
-        {
-          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
-          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T07:30:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News Digest",
-        "The Next Web",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7e9d93200ac5a77151e47744dcb119b03d02fc7c",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "Hacker News Digest",
+          "id": "e9607eef376ac212ba36903f7761307261488f7b",
+          "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒（已固定） / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic (Pinned)",
+          "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
+          "source": "godlikeproductions.com| Forum 1",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:33:11.702137Z"
-        },
-        {
-          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://news.ycombinator.com/item?id=48772443",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T10:32:06.793000Z"
-        },
-        {
-          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
-          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T07:30:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6534,
-      "importance": 0.6534,
-      "importance_score": 0.6534,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9521,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T07:30:12Z",
-      "latest_at": "2026-07-03T10:32:06.793000Z",
-      "primary_item": {
-        "id": "7e9d93200ac5a77151e47744dcb119b03d02fc7c",
-        "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-        "source": "Hacker News Digest",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_87021ff19af5",
-      "title": "谈话草稿：Prompt Magazine / Draft talk:Prompt Magazine",
-      "url": "https://en.wikipedia.org/w/index.php?title=Draft_talk%3APrompt_Magazine&diff=1362349033&oldid=0",
-      "primary_url": "https://en.wikipedia.org/w/index.php?title=Draft_talk%3APrompt_Magazine&diff=1362349033&oldid=0",
-      "source": "开源情报 | Open-source intelligence (OSINT)",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "856e863228f0b2b761983cc1066c734ceb519499",
-          "title": "谈话草稿：Prompt Magazine / Draft talk:Prompt Magazine",
-          "url": "https://en.wikipedia.org/w/index.php?title=Draft_talk%3APrompt_Magazine&diff=1362349033&oldid=0",
-          "source": "开源情报 | Open-source intelligence (OSINT)",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:34:29Z"
-        },
-        {
-          "id": "f0c7c3ede006bbdaa20ad3d612fa4473300290e6",
-          "title": "草稿：《Prompt》杂志 / Draft:Prompt Magazine",
-          "url": "https://en.wikipedia.org/w/index.php?title=Draft%3APrompt_Magazine&diff=1362349034&oldid=1362348880",
-          "source": "开源情报 | Open-source intelligence (OSINT)",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:34:29Z"
+          "published_at": "2026-07-03T09:24:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "开源情报 | Open-source intelligence (OSINT)"
+        "godlikeproductions.com| Forum 1"
       ],
       "items": [
         {
-          "id": "856e863228f0b2b761983cc1066c734ceb519499",
-          "title": "谈话草稿：Prompt Magazine / Draft talk:Prompt Magazine",
-          "url": "https://en.wikipedia.org/w/index.php?title=Draft_talk%3APrompt_Magazine&diff=1362349033&oldid=0",
-          "source": "开源情报 | Open-source intelligence (OSINT)",
+          "id": "bfbed3b40362e24d35bd3ff090ef1a04c81898bc",
+          "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒 / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic",
+          "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
+          "source": "godlikeproductions.com| Forum 1",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:34:29Z"
+          "published_at": "2026-07-03T12:07:43Z"
         },
         {
-          "id": "f0c7c3ede006bbdaa20ad3d612fa4473300290e6",
-          "title": "草稿：《Prompt》杂志 / Draft:Prompt Magazine",
-          "url": "https://en.wikipedia.org/w/index.php?title=Draft%3APrompt_Magazine&diff=1362349034&oldid=1362348880",
-          "source": "开源情报 | Open-source intelligence (OSINT)",
+          "id": "e9607eef376ac212ba36903f7761307261488f7b",
+          "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒（已固定） / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic (Pinned)",
+          "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
+          "source": "godlikeproductions.com| Forum 1",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:34:29Z"
+          "published_at": "2026-07-03T09:24:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6459,
-      "importance": 0.6459,
-      "importance_score": 0.6459,
+      "score": 0.6428,
+      "importance": 0.6428,
+      "importance_score": 0.6428,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.74,
-        "recency": 0.9947,
+        "ai_relevance": 0.75,
+        "recency": 0.9642,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T10:34:29Z",
-      "latest_at": "2026-07-03T10:34:29Z",
+      "earliest_at": "2026-07-03T09:24:28Z",
+      "latest_at": "2026-07-03T12:07:43Z",
       "primary_item": {
-        "id": "856e863228f0b2b761983cc1066c734ceb519499",
-        "title": "谈话草稿：Prompt Magazine / Draft talk:Prompt Magazine",
-        "url": "https://en.wikipedia.org/w/index.php?title=Draft_talk%3APrompt_Magazine&diff=1362349033&oldid=0",
-        "source": "开源情报 | Open-source intelligence (OSINT)",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_1bf7e1ec92fc",
-      "title": "Copilot agent session streaming is now in public preview",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-          "title": "Copilot agent session streaming is now in public preview",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T18:05:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-          "title": "Copilot agent session streaming is now in public preview",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T18:05:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3076,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T18:05:05Z",
-      "latest_at": "2026-07-02T18:05:05Z",
-      "primary_item": {
-        "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-        "title": "Copilot agent session streaming is now in public preview",
-        "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fa12b5f1ccbf",
-      "title": "马德耶推了 meow-rs / madeye pushed meow-rs",
-      "url": "https://github.com/madeye/meow-rs/compare/7c2d2c1c66...a2a897fdd0",
-      "primary_url": "https://github.com/madeye/meow-rs/compare/7c2d2c1c66...a2a897fdd0",
-      "source": "madeye|AI暴露度CN/clash",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "8f4d028198c3cfcc482fc2d3d298af9088ceece8",
-          "title": "马德耶推了 meow-rs / madeye pushed meow-rs",
-          "url": "https://github.com/madeye/meow-rs/compare/7c2d2c1c66...a2a897fdd0",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:46:17Z"
-        },
-        {
-          "id": "56744ad55602870eca5e6dd46ad2d9a1adbc3781",
-          "title": "马德耶推了 meow-rs / madeye pushed meow-rs",
-          "url": "https://github.com/madeye/meow-rs/compare/7e0b545f8f...498967eed3",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:03:16Z"
-        },
-        {
-          "id": "cc49e5a5b04cc7ac5dc59a99c8bff560eff11b44",
-          "title": "Madeye 推送 meow-ios / madeye pushed meow-ios",
-          "url": "https://github.com/madeye/meow-ios/compare/4f40f567d5...1c197972f3",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:40:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "madeye|AI暴露度CN/clash"
-      ],
-      "items": [
-        {
-          "id": "8f4d028198c3cfcc482fc2d3d298af9088ceece8",
-          "title": "马德耶推了 meow-rs / madeye pushed meow-rs",
-          "url": "https://github.com/madeye/meow-rs/compare/7c2d2c1c66...a2a897fdd0",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:46:17Z"
-        },
-        {
-          "id": "56744ad55602870eca5e6dd46ad2d9a1adbc3781",
-          "title": "马德耶推了 meow-rs / madeye pushed meow-rs",
-          "url": "https://github.com/madeye/meow-rs/compare/7e0b545f8f...498967eed3",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:03:16Z"
-        },
-        {
-          "id": "cc49e5a5b04cc7ac5dc59a99c8bff560eff11b44",
-          "title": "Madeye 推送 meow-ios / madeye pushed meow-ios",
-          "url": "https://github.com/madeye/meow-ios/compare/4f40f567d5...1c197972f3",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:40:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6432,
-      "importance": 0.6432,
-      "importance_score": 0.6432,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9612,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T07:40:35Z",
-      "latest_at": "2026-07-03T09:46:17Z",
-      "primary_item": {
-        "id": "8f4d028198c3cfcc482fc2d3d298af9088ceece8",
-        "title": "马德耶推了 meow-rs / madeye pushed meow-rs",
-        "url": "https://github.com/madeye/meow-rs/compare/7c2d2c1c66...a2a897fdd0",
-        "source": "madeye|AI暴露度CN/clash",
+        "id": "bfbed3b40362e24d35bd3ff090ef1a04c81898bc",
+        "title": "“事情完全错了”：Palantir 的 Alex Karp 对 OpenAI、Anthropic 表示愤怒 / 'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic",
+        "url": "https://www.godlikeproductions.com/forum1/message6184593/pg1",
+        "source": "godlikeproductions.com| Forum 1",
         "source_name": "OPML RSS"
       }
     }
