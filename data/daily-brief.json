@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-03T21:18:01.158508Z",
+  "generated_at": "2026-07-03T22:34:52.161675Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0718-220c-90b9-132f042bd019&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0718-220c-90b9-132f042bd019&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0835-16d4-8b2b-f4813cadba0a&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0835-16d4-8b2b-f4813cadba0a&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "705f1bfbfa506dfef13ae0a162fd7c0d4c17f0c0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0835-16d4-8b2b-f4813cadba0a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "defd4592ab6499c16451f598edd6a18f596cf9dd",
           "title": "点击这里进入 / Click here to enter",
@@ -84,12 +93,21 @@
           "published_at": null
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "705f1bfbfa506dfef13ae0a162fd7c0d4c17f0c0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0835-16d4-8b2b-f4813cadba0a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "defd4592ab6499c16451f598edd6a18f596cf9dd",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0718-220c-90b9-132f042bd019&fp=-3",
@@ -162,8 +180,8 @@
           "published_at": null
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
+      "item_count": 9,
+      "duplicate_count": 9,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -181,11 +199,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-03T04:26:46.770520Z",
-      "latest_at": "2026-07-03T21:18:01.158508Z",
+      "latest_at": "2026-07-03T22:34:52.161675Z",
       "primary_item": {
-        "id": "defd4592ab6499c16451f598edd6a18f596cf9dd",
+        "id": "705f1bfbfa506dfef13ae0a162fd7c0d4c17f0c0",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0718-220c-90b9-132f042bd019&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0835-16d4-8b2b-f4813cadba0a&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -225,14 +243,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7137,
+        "recency": 0.6603,
         "story_heat": 0.0
       },
       "category": "official",
@@ -305,14 +323,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5584,
+        "recency": 0.5051,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -491,14 +509,14 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.7029,
-      "importance": 0.7029,
-      "importance_score": 0.7029,
+      "score": 0.6922,
+      "importance": 0.6922,
+      "importance_score": 0.6922,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.73,
-        "recency": 0.9196,
+        "recency": 0.8662,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -569,17 +587,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
-      "importance_label": "行业动态",
+      "score": 0.7137,
+      "importance": 0.7137,
+      "importance_score": 0.7137,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.437,
+        "recency": 0.3837,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -719,14 +737,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6904,
-      "importance": 0.6904,
-      "importance_score": 0.6904,
+      "score": 0.6797,
+      "importance": 0.6797,
+      "importance_score": 0.6797,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9468,
+        "recency": 0.8934,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -744,194 +762,80 @@
       }
     },
     {
-      "story_id": "story_45743761a27c",
-      "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-      "url": "https://www.aibase.com/news/29378",
-      "primary_url": "https://www.aibase.com/news/29378",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:42:09.653471Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:42:09.653471Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7237,
-      "importance": 0.7237,
-      "importance_score": 0.7237,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5584,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T10:42:09.653471Z",
-      "latest_at": "2026-07-03T10:42:09.653471Z",
-      "primary_item": {
-        "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-        "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-        "url": "https://www.aibase.com/news/29378",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
-      "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
-      "primary_url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
-      "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+      "story_id": "story_f9d31688be70",
+      "title": "Ask HN: 有没有人在尝试用大语言模型（LLM）进行编程的不同方法？",
+      "url": "https://news.ycombinator.com/item?id=48771515",
+      "primary_url": "https://news.ycombinator.com/item?id=48771515",
+      "source": "Buzzing|国外社交媒体热榜",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "599734c9c408218b9c32c31a03962832d70acdac",
-          "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
-          "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
-          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+          "id": "e3da88e932e0d671b1de1eafe9a2d1712e53bf89",
+          "title": "Ask HN: 有没有人在尝试用大语言模型（LLM）进行编程的不同方法？",
+          "url": "https://news.ycombinator.com/item?id=48771515",
+          "source": "Buzzing|国外社交媒体热榜",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T15:23:41Z"
+          "published_at": "2026-07-03T22:31:40.803000Z"
         },
         {
-          "id": "942002d3ed18bdd770ad48c462b494d15ea56a19",
-          "title": "Meta AI不想努力了，求包养——带崩芯片牵头的一众科技股！？",
-          "url": "https://www.youtube.com/watch?v=BuSC4yV3x_w",
-          "source": "范路 | 老范讲故事",
+          "id": "381484e6eebf57fd8d7c38cf34997674823e5863",
+          "title": "Ask HN: 有没有人在尝试用大语言模型（LLM）进行编程的不同方法？ / Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+          "url": "https://news.ycombinator.com/item?id=48771515",
+          "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T13:59:03Z"
-        },
-        {
-          "id": "416740e515b22d5aec1081a3587db7ea1dc14942",
-          "title": "Ed Zitron 在 CNBC 上表示：GenAI 行不通，大型科技公司已经不再有高速增长的想法 / Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
-          "url": "https://www.youtube.com/watch?v=TtmPccUTDP8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T11:04:18Z"
-        },
-        {
-          "id": "28a03f9a1b14308f44cac1ac2f97e46c2334e4c7",
-          "title": "加州在投票继续扼杀游戏后立即投票废除 3D 打印 [视频] / California votes to ruin 3D printing right after voting to keep killing games [video]",
-          "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T03:04:26Z"
-        },
-        {
-          "id": "ff536cf2b7d2028996aee468633df0f03bb26c78",
-          "title": "扎克伯格表示 Meta 对重组的押注“尚未实现” / Zuckerberg says Meta's bets on reorganization 'haven't come to fruition'",
-          "url": "https://www.youtube.com/watch?v=uUJBRX_SkIc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-02T22:22:50Z"
+          "published_at": "2026-07-03T10:31:08.939540Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 2,
       "source_names": [
-        "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-        "Hacker News · 24h最热",
-        "范路 | 老范讲故事"
+        "Buzzing|国外社交媒体热榜",
+        "Hacker News Digest"
       ],
       "items": [
         {
-          "id": "599734c9c408218b9c32c31a03962832d70acdac",
-          "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
-          "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
-          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+          "id": "e3da88e932e0d671b1de1eafe9a2d1712e53bf89",
+          "title": "Ask HN: 有没有人在尝试用大语言模型（LLM）进行编程的不同方法？",
+          "url": "https://news.ycombinator.com/item?id=48771515",
+          "source": "Buzzing|国外社交媒体热榜",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T15:23:41Z"
+          "published_at": "2026-07-03T22:31:40.803000Z"
         },
         {
-          "id": "942002d3ed18bdd770ad48c462b494d15ea56a19",
-          "title": "Meta AI不想努力了，求包养——带崩芯片牵头的一众科技股！？",
-          "url": "https://www.youtube.com/watch?v=BuSC4yV3x_w",
-          "source": "范路 | 老范讲故事",
+          "id": "381484e6eebf57fd8d7c38cf34997674823e5863",
+          "title": "Ask HN: 有没有人在尝试用大语言模型（LLM）进行编程的不同方法？ / Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+          "url": "https://news.ycombinator.com/item?id=48771515",
+          "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T13:59:03Z"
-        },
-        {
-          "id": "416740e515b22d5aec1081a3587db7ea1dc14942",
-          "title": "Ed Zitron 在 CNBC 上表示：GenAI 行不通，大型科技公司已经不再有高速增长的想法 / Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
-          "url": "https://www.youtube.com/watch?v=TtmPccUTDP8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T11:04:18Z"
-        },
-        {
-          "id": "28a03f9a1b14308f44cac1ac2f97e46c2334e4c7",
-          "title": "加州在投票继续扼杀游戏后立即投票废除 3D 打印 [视频] / California votes to ruin 3D printing right after voting to keep killing games [video]",
-          "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T03:04:26Z"
-        },
-        {
-          "id": "ff536cf2b7d2028996aee468633df0f03bb26c78",
-          "title": "扎克伯格表示 Meta 对重组的押注“尚未实现” / Zuckerberg says Meta's bets on reorganization 'haven't come to fruition'",
-          "url": "https://www.youtube.com/watch?v=uUJBRX_SkIc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-02T22:22:50Z"
+          "published_at": "2026-07-03T10:31:08.939540Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6608,
-      "importance": 0.6608,
-      "importance_score": 0.6608,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6586,
+      "importance": 0.6586,
+      "importance_score": 0.6586,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.7539,
-        "story_heat": 1.0
+        "ai_relevance": 0.78,
+        "recency": 0.9978,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-02T22:22:50Z",
-      "latest_at": "2026-07-03T15:23:41Z",
+      "earliest_at": "2026-07-03T10:31:08.939540Z",
+      "latest_at": "2026-07-03T22:31:40.803000Z",
       "primary_item": {
-        "id": "599734c9c408218b9c32c31a03962832d70acdac",
-        "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
-        "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
-        "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+        "id": "e3da88e932e0d671b1de1eafe9a2d1712e53bf89",
+        "title": "Ask HN: 有没有人在尝试用大语言模型（LLM）进行编程的不同方法？",
+        "url": "https://news.ycombinator.com/item?id=48771515",
+        "source": "Buzzing|国外社交媒体热榜",
         "source_name": "OPML RSS"
       }
     },
@@ -1025,14 +929,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6593,
-      "importance": 0.6593,
-      "importance_score": 0.6593,
+      "score": 0.6486,
+      "importance": 0.6486,
+      "importance_score": 0.6486,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9165,
+        "recency": 0.8631,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1050,99 +954,79 @@
       }
     },
     {
-      "story_id": "story_2136c92701f5",
-      "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
-      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-      "primary_url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-      "source": "Buzzing|国外社交媒体热榜",
+      "story_id": "story_ee6cf98383f2",
+      "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
+      "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+      "primary_url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+      "source": "godlikeproductions.com| Forum 1",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "8192809c61a0e31a8258cd9e9f5b4c63ef7b2309",
-          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "Buzzing|国外社交媒体热榜",
+          "id": "dc5ea76e994bf74e1dd287036583667117614d75",
+          "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T20:23:50.986000Z"
+          "published_at": "2026-07-03T22:18:47Z"
         },
         {
-          "id": "6c24023587dbf16c1333dd51ae122dc0a3aba295",
-          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "Hacker News Digest",
+          "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
+          "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T17:55:10.337526Z"
-        },
-        {
-          "id": "b7165184fc44b2e09f1badea34e4ba7d58f1f9d3",
-          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-          "url": "https://news.ycombinator.com/item?id=48777728",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T19:58:55.548000Z"
+          "published_at": "2026-07-03T09:28:07Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Hacker News Digest",
-        "hackernews"
+        "godlikeproductions.com| Forum 1"
       ],
       "items": [
         {
-          "id": "8192809c61a0e31a8258cd9e9f5b4c63ef7b2309",
-          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "Buzzing|国外社交媒体热榜",
+          "id": "dc5ea76e994bf74e1dd287036583667117614d75",
+          "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T20:23:50.986000Z"
+          "published_at": "2026-07-03T22:18:47Z"
         },
         {
-          "id": "6c24023587dbf16c1333dd51ae122dc0a3aba295",
-          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "Hacker News Digest",
+          "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
+          "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T17:55:10.337526Z"
-        },
-        {
-          "id": "b7165184fc44b2e09f1badea34e4ba7d58f1f9d3",
-          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-          "url": "https://news.ycombinator.com/item?id=48777728",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T19:58:55.548000Z"
+          "published_at": "2026-07-03T09:28:07Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6555,
-      "importance": 0.6555,
-      "importance_score": 0.6555,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6328,
+      "importance": 0.6328,
+      "importance_score": 0.6328,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9624,
-        "story_heat": 0.5
+        "ai_relevance": 0.7,
+        "recency": 0.9888,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T17:55:10.337526Z",
-      "latest_at": "2026-07-03T20:23:50.986000Z",
+      "earliest_at": "2026-07-03T09:28:07Z",
+      "latest_at": "2026-07-03T22:18:47Z",
       "primary_item": {
-        "id": "8192809c61a0e31a8258cd9e9f5b4c63ef7b2309",
-        "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
-        "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-        "source": "Buzzing|国外社交媒体热榜",
+        "id": "dc5ea76e994bf74e1dd287036583667117614d75",
+        "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
+        "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+        "source": "godlikeproductions.com| Forum 1",
         "source_name": "OPML RSS"
       }
     },
@@ -1253,14 +1137,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6408,
-      "importance": 0.6408,
-      "importance_score": 0.6408,
+      "score": 0.6302,
+      "importance": 0.6302,
+      "importance_score": 0.6302,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.6542,
+        "recency": 0.6008,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1274,6 +1158,199 @@
         "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
         "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/4ff1a10a5c...d6fecc4375",
         "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_616f8e70b9f8",
+      "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "primary_url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "source": "新闻|开发者|hacker news",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "e71174f120fe99285610ff4befbe289c0f8bcadf",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "新闻|开发者|hacker news",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T21:16:16Z"
+        },
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:35:39.306000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews",
+        "新闻|开发者|hacker news"
+      ],
+      "items": [
+        {
+          "id": "e71174f120fe99285610ff4befbe289c0f8bcadf",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "新闻|开发者|hacker news",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T21:16:16Z"
+        },
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:35:39.306000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6271,
+      "importance": 0.6271,
+      "importance_score": 0.6271,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9454,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:16:16Z",
+      "latest_at": "2026-07-03T22:35:39.306000Z",
+      "primary_item": {
+        "id": "e71174f120fe99285610ff4befbe289c0f8bcadf",
+        "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+        "url": "https://epoch.ai/data-insights/cve-severity-spike",
+        "source": "新闻|开发者|hacker news",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
+      "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+      "primary_url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+      "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "599734c9c408218b9c32c31a03962832d70acdac",
+          "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
+          "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:23:41Z"
+        },
+        {
+          "id": "942002d3ed18bdd770ad48c462b494d15ea56a19",
+          "title": "Meta AI不想努力了，求包养——带崩芯片牵头的一众科技股！？",
+          "url": "https://www.youtube.com/watch?v=BuSC4yV3x_w",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T13:59:03Z"
+        },
+        {
+          "id": "416740e515b22d5aec1081a3587db7ea1dc14942",
+          "title": "Ed Zitron 在 CNBC 上表示：GenAI 行不通，大型科技公司已经不再有高速增长的想法 / Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
+          "url": "https://www.youtube.com/watch?v=TtmPccUTDP8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T11:04:18Z"
+        },
+        {
+          "id": "28a03f9a1b14308f44cac1ac2f97e46c2334e4c7",
+          "title": "加州在投票继续扼杀游戏后立即投票废除 3D 打印 [视频] / California votes to ruin 3D printing right after voting to keep killing games [video]",
+          "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T03:04:26Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+        "Hacker News · 24h最热",
+        "范路 | 老范讲故事"
+      ],
+      "items": [
+        {
+          "id": "599734c9c408218b9c32c31a03962832d70acdac",
+          "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
+          "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:23:41Z"
+        },
+        {
+          "id": "942002d3ed18bdd770ad48c462b494d15ea56a19",
+          "title": "Meta AI不想努力了，求包养——带崩芯片牵头的一众科技股！？",
+          "url": "https://www.youtube.com/watch?v=BuSC4yV3x_w",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T13:59:03Z"
+        },
+        {
+          "id": "416740e515b22d5aec1081a3587db7ea1dc14942",
+          "title": "Ed Zitron 在 CNBC 上表示：GenAI 行不通，大型科技公司已经不再有高速增长的想法 / Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
+          "url": "https://www.youtube.com/watch?v=TtmPccUTDP8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T11:04:18Z"
+        },
+        {
+          "id": "28a03f9a1b14308f44cac1ac2f97e46c2334e4c7",
+          "title": "加州在投票继续扼杀游戏后立即投票废除 3D 打印 [视频] / California votes to ruin 3D printing right after voting to keep killing games [video]",
+          "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T03:04:26Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6251,
+      "importance": 0.6251,
+      "importance_score": 0.6251,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.7006,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T03:04:26Z",
+      "latest_at": "2026-07-03T15:23:41Z",
+      "primary_item": {
+        "id": "599734c9c408218b9c32c31a03962832d70acdac",
+        "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
+        "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+        "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
         "source_name": "OPML RSS"
       }
     },
@@ -1366,14 +1443,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6352,
-      "importance": 0.6352,
-      "importance_score": 0.6352,
+      "score": 0.6245,
+      "importance": 0.6245,
+      "importance_score": 0.6245,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7958,
+        "recency": 0.7425,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1391,139 +1468,157 @@
       }
     },
     {
-      "story_id": "story_ee6cf98383f2",
-      "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
-      "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-      "primary_url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-      "source": "godlikeproductions.com| Forum 1",
+      "story_id": "story_a0cf6e8897a6",
+      "title": "MervinPraison 在 PraisonAIDocs 中关闭了一个问题 / MervinPraison closed an issue in PraisonAIDocs",
+      "url": "https://github.com/MervinPraison/PraisonAIDocs/issues/1446",
+      "primary_url": "https://github.com/MervinPraison/PraisonAIDocs/issues/1446",
+      "source": "MervinPraison| 国外AI测评",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "dc5ea76e994bf74e1dd287036583667117614d75",
-          "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
-          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-          "source": "godlikeproductions.com| Forum 1",
+          "id": "5dafe42f0c0d63ec39d383489b8ec2651cc04cb6",
+          "title": "MervinPraison 在 PraisonAIDocs 中关闭了一个问题 / MervinPraison closed an issue in PraisonAIDocs",
+          "url": "https://github.com/MervinPraison/PraisonAIDocs/issues/1446",
+          "source": "MervinPraison| 国外AI测评",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T21:10:47Z"
+          "published_at": "2026-07-03T22:20:25Z"
         },
         {
-          "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
-          "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
-          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-          "source": "godlikeproductions.com| Forum 1",
+          "id": "aff635872eb6478dd7827738cd3a3f8584604ecd",
+          "title": "MervinPraison 在 PraisonAIDocs 中提出了一个问题 / MervinPraison opened an issue in PraisonAIDocs",
+          "url": "https://github.com/MervinPraison/PraisonAIDocs/issues/1534",
+          "source": "MervinPraison| 国外AI测评",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:28:07Z"
+          "published_at": "2026-07-03T16:57:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "godlikeproductions.com| Forum 1"
+        "MervinPraison| 国外AI测评"
       ],
       "items": [
         {
-          "id": "dc5ea76e994bf74e1dd287036583667117614d75",
-          "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
-          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-          "source": "godlikeproductions.com| Forum 1",
+          "id": "5dafe42f0c0d63ec39d383489b8ec2651cc04cb6",
+          "title": "MervinPraison 在 PraisonAIDocs 中关闭了一个问题 / MervinPraison closed an issue in PraisonAIDocs",
+          "url": "https://github.com/MervinPraison/PraisonAIDocs/issues/1446",
+          "source": "MervinPraison| 国外AI测评",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T21:10:47Z"
+          "published_at": "2026-07-03T22:20:25Z"
         },
         {
-          "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
-          "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
-          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-          "source": "godlikeproductions.com| Forum 1",
+          "id": "aff635872eb6478dd7827738cd3a3f8584604ecd",
+          "title": "MervinPraison 在 PraisonAIDocs 中提出了一个问题 / MervinPraison opened an issue in PraisonAIDocs",
+          "url": "https://github.com/MervinPraison/PraisonAIDocs/issues/1534",
+          "source": "MervinPraison| 国外AI测评",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:28:07Z"
+          "published_at": "2026-07-03T16:57:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.634,
-      "importance": 0.634,
-      "importance_score": 0.634,
+      "score": 0.624,
+      "importance": 0.624,
+      "importance_score": 0.624,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.995,
+        "ai_relevance": 0.67,
+        "recency": 0.99,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T09:28:07Z",
-      "latest_at": "2026-07-03T21:10:47Z",
+      "earliest_at": "2026-07-03T16:57:08Z",
+      "latest_at": "2026-07-03T22:20:25Z",
       "primary_item": {
-        "id": "dc5ea76e994bf74e1dd287036583667117614d75",
-        "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
-        "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-        "source": "godlikeproductions.com| Forum 1",
+        "id": "5dafe42f0c0d63ec39d383489b8ec2651cc04cb6",
+        "title": "MervinPraison 在 PraisonAIDocs 中关闭了一个问题 / MervinPraison closed an issue in PraisonAIDocs",
+        "url": "https://github.com/MervinPraison/PraisonAIDocs/issues/1446",
+        "source": "MervinPraison| 国外AI测评",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_115f21a8d255",
-      "title": "AI 智能体 Elements Claw 成功“闭环”超导材料研发",
-      "url": "https://www.aibase.com/news/29373",
-      "primary_url": "https://www.aibase.com/news/29373",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_25b0de94be93",
+      "title": "teng-lin 对拉取请求发表评论 teng-lin/notebooklm-py#1780 / teng-lin commented on pull request teng-lin/notebooklm-py#1780",
+      "url": "https://github.com/teng-lin/notebooklm-py/pull/1780",
+      "primary_url": "https://github.com/teng-lin/notebooklm-py/pull/1780",
+      "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "c5cdef8fc8910413f1a7fc91b953c6d60deed6d2",
-          "title": "AI 智能体 Elements Claw 成功“闭环”超导材料研发",
-          "url": "https://www.aibase.com/news/29373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:42:09.653471Z"
+          "id": "e68caaa64cd031830a49df55d1d7b154ceef2ae2",
+          "title": "teng-lin 对拉取请求发表评论 teng-lin/notebooklm-py#1780 / teng-lin commented on pull request teng-lin/notebooklm-py#1780",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1780",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T22:15:56Z"
+        },
+        {
+          "id": "85580323074b75b3885b166f6138a726d41cb0ac",
+          "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1780",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T22:03:11Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
       ],
       "items": [
         {
-          "id": "c5cdef8fc8910413f1a7fc91b953c6d60deed6d2",
-          "title": "AI 智能体 Elements Claw 成功“闭环”超导材料研发",
-          "url": "https://www.aibase.com/news/29373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T10:42:09.653471Z"
+          "id": "e68caaa64cd031830a49df55d1d7b154ceef2ae2",
+          "title": "teng-lin 对拉取请求发表评论 teng-lin/notebooklm-py#1780 / teng-lin commented on pull request teng-lin/notebooklm-py#1780",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1780",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T22:15:56Z"
+        },
+        {
+          "id": "85580323074b75b3885b166f6138a726d41cb0ac",
+          "title": "腾林在notebooklm-py中打开了一个拉取请求 / teng-lin opened a pull request in notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1780",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T22:03:11Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7237,
-      "importance": 0.7237,
-      "importance_score": 0.7237,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6234,
+      "importance": 0.6234,
+      "importance_score": 0.6234,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5584,
-        "story_heat": 0.0
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9868,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-03T10:42:09.653471Z",
-      "latest_at": "2026-07-03T10:42:09.653471Z",
+      "earliest_at": "2026-07-03T22:03:11Z",
+      "latest_at": "2026-07-03T22:15:56Z",
       "primary_item": {
-        "id": "c5cdef8fc8910413f1a7fc91b953c6d60deed6d2",
-        "title": "AI 智能体 Elements Claw 成功“闭环”超导材料研发",
-        "url": "https://www.aibase.com/news/29373",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "e68caaa64cd031830a49df55d1d7b154ceef2ae2",
+        "title": "teng-lin 对拉取请求发表评论 teng-lin/notebooklm-py#1780 / teng-lin commented on pull request teng-lin/notebooklm-py#1780",
+        "url": "https://github.com/teng-lin/notebooklm-py/pull/1780",
+        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -1579,14 +1674,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6285,
-      "importance": 0.6285,
-      "importance_score": 0.6285,
+      "score": 0.6178,
+      "importance": 0.6178,
+      "importance_score": 0.6178,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9523,
+        "recency": 0.899,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1656,14 +1751,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.626,
-      "importance": 0.626,
-      "importance_score": 0.626,
+      "score": 0.6153,
+      "importance": 0.6153,
+      "importance_score": 0.6153,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.94,
+        "recency": 0.8866,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1677,6 +1772,103 @@
         "title": "steipete 对 CodexBar 中的一个问题发表了评论 / steipete commented on an issue in CodexBar",
         "url": "https://github.com/steipete/CodexBar/issues/1844",
         "source": "Peter Steinberger",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_2136c92701f5",
+      "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "primary_url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "source": "Buzzing|国外社交媒体热榜",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "8192809c61a0e31a8258cd9e9f5b4c63ef7b2309",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T20:23:50.986000Z"
+        },
+        {
+          "id": "6c24023587dbf16c1333dd51ae122dc0a3aba295",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T17:55:10.337526Z"
+        },
+        {
+          "id": "b7165184fc44b2e09f1badea34e4ba7d58f1f9d3",
+          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+          "url": "https://news.ycombinator.com/item?id=48777728",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T19:58:55.548000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Buzzing|国外社交媒体热榜",
+        "Hacker News Digest",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8192809c61a0e31a8258cd9e9f5b4c63ef7b2309",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T20:23:50.986000Z"
+        },
+        {
+          "id": "6c24023587dbf16c1333dd51ae122dc0a3aba295",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T17:55:10.337526Z"
+        },
+        {
+          "id": "b7165184fc44b2e09f1badea34e4ba7d58f1f9d3",
+          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+          "url": "https://news.ycombinator.com/item?id=48777728",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T19:58:55.548000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6448,
+      "importance": 0.6448,
+      "importance_score": 0.6448,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.909,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T17:55:10.337526Z",
+      "latest_at": "2026-07-03T20:23:50.986000Z",
+      "primary_item": {
+        "id": "8192809c61a0e31a8258cd9e9f5b4c63ef7b2309",
+        "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+        "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+        "source": "Buzzing|国外社交媒体热榜",
         "source_name": "OPML RSS"
       }
     },
@@ -1770,14 +1962,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6544,
-      "importance": 0.6544,
-      "importance_score": 0.6544,
+      "score": 0.6437,
+      "importance": 0.6437,
+      "importance_score": 0.6437,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.892,
+        "recency": 0.8386,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1795,253 +1987,79 @@
       }
     },
     {
-      "story_id": "story_dae15065d97c",
-      "title": "【乾行AI中转站】支持GPT、Claude、Gemini，倍率地址0.01x，有5刀福利，附上检测报告和延迟截图",
-      "url": "https://www.nodeloc.com/t/topic/97451",
-      "primary_url": "https://www.nodeloc.com/t/topic/97451",
-      "source": "NodeLoc最新帖子",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "95acfb85df6a9de6a024a3aaf4d1431fc2630afb",
-          "title": "【乾行AI中转站】支持GPT、Claude、Gemini，倍率地址0.01x，有5刀福利，附上检测报告和延迟截图",
-          "url": "https://www.nodeloc.com/t/topic/97451",
-          "source": "NodeLoc最新帖子",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T15:52:49Z"
-        },
-        {
-          "id": "c35b5f436f880661ab61c3488d6ba875ef56ea55",
-          "title": "【乾行AI中转站】支持GPT、Claude、Gemini，限时开福利分组，0.01x，新用户注册送额度，约等于免费了",
-          "url": "https://www.nodeloc.com/t/topic/97451",
-          "source": "NodeLoc最新帖子",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T15:52:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "NodeLoc最新帖子"
-      ],
-      "items": [
-        {
-          "id": "95acfb85df6a9de6a024a3aaf4d1431fc2630afb",
-          "title": "【乾行AI中转站】支持GPT、Claude、Gemini，倍率地址0.01x，有5刀福利，附上检测报告和延迟截图",
-          "url": "https://www.nodeloc.com/t/topic/97451",
-          "source": "NodeLoc最新帖子",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T15:52:49Z"
-        },
-        {
-          "id": "c35b5f436f880661ab61c3488d6ba875ef56ea55",
-          "title": "【乾行AI中转站】支持GPT、Claude、Gemini，限时开福利分组，0.01x，新用户注册送额度，约等于免费了",
-          "url": "https://www.nodeloc.com/t/topic/97451",
-          "source": "NodeLoc最新帖子",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T15:52:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6168,
-      "importance": 0.6168,
-      "importance_score": 0.6168,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.79,
-        "recency": 0.7742,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T15:52:49Z",
-      "latest_at": "2026-07-03T15:52:49Z",
-      "primary_item": {
-        "id": "95acfb85df6a9de6a024a3aaf4d1431fc2630afb",
-        "title": "【乾行AI中转站】支持GPT、Claude、Gemini，倍率地址0.01x，有5刀福利，附上检测报告和延迟截图",
-        "url": "https://www.nodeloc.com/t/topic/97451",
-        "source": "NodeLoc最新帖子",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_169393b1fff3",
-      "title": "美国程序员用AI做游戏倒欠公司55万 老板一句话造就神级营销",
-      "url": "https://news.mydrivers.com/1/1134/1134046.htm",
-      "primary_url": "https://news.mydrivers.com/1/1134/1134046.htm",
-      "source": "数码 | 快科技资讯_最新资讯",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "3ea2541704514616ccc268e7024086a22a40b61a",
-          "title": "美国程序员用AI做游戏倒欠公司55万 老板一句话造就神级营销",
-          "url": "https://news.mydrivers.com/1/1134/1134046.htm",
-          "source": "数码 | 快科技资讯_最新资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T19:53:00Z"
-        },
-        {
-          "id": "c154be25a6dd6f49204ca5a74e4dd4a16ba01915",
-          "title": "美国程序员用 AI 做游戏倒欠公司 55 万 老板一句话造就神级营销 -- 快科技 -- 科技改变未来",
-          "url": "https://news.mydrivers.com/1/1134/1134046.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "数码 | 快科技资讯_最新资讯"
-      ],
-      "items": [
-        {
-          "id": "3ea2541704514616ccc268e7024086a22a40b61a",
-          "title": "美国程序员用AI做游戏倒欠公司55万 老板一句话造就神级营销",
-          "url": "https://news.mydrivers.com/1/1134/1134046.htm",
-          "source": "数码 | 快科技资讯_最新资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T19:53:00Z"
-        },
-        {
-          "id": "c154be25a6dd6f49204ca5a74e4dd4a16ba01915",
-          "title": "美国程序员用 AI 做游戏倒欠公司 55 万 老板一句话造就神级营销 -- 快科技 -- 科技改变未来",
-          "url": "https://news.mydrivers.com/1/1134/1134046.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6142,
-      "importance": 0.6142,
-      "importance_score": 0.6142,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.941,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T12:59:14.419964Z",
-      "latest_at": "2026-07-03T19:53:00Z",
-      "primary_item": {
-        "id": "3ea2541704514616ccc268e7024086a22a40b61a",
-        "title": "美国程序员用AI做游戏倒欠公司55万 老板一句话造就神级营销",
-        "url": "https://news.mydrivers.com/1/1134/1134046.htm",
-        "source": "数码 | 快科技资讯_最新资讯",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_24e2bdc66332",
-      "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
-      "primary_url": "https://github.com/jamesob/local-llm",
+      "story_id": "story_551c2101be10",
+      "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "url": "https://kagi.com/changelog",
+      "primary_url": "https://kagi.com/changelog",
       "source": "Hacker News Digest",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "5a216fb4f7a410f9e66cd4521635a3a58b176fe1",
-          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://github.com/jamesob/local-llm",
+          "id": "32b7098d9f80afac51d10ba6c55b643aaa40ed0f",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://kagi.com/changelog",
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T15:10:05.401880Z"
+          "published_at": "2026-07-03T20:31:08.931358Z"
         },
         {
-          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
-          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
-          "url": "https://github.com/jamesob/local-llm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T18:47:44.003000Z"
-        },
-        {
-          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
-          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://news.ycombinator.com/item?id=48775921",
+          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://news.ycombinator.com/item?id=48779352",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-03T16:26:38.175000Z"
+          "published_at": "2026-07-03T22:35:39.306000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News Digest",
-        "github.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "5a216fb4f7a410f9e66cd4521635a3a58b176fe1",
-          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://github.com/jamesob/local-llm",
+          "id": "32b7098d9f80afac51d10ba6c55b643aaa40ed0f",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://kagi.com/changelog",
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T15:10:05.401880Z"
+          "published_at": "2026-07-03T20:31:08.931358Z"
         },
         {
-          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
-          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
-          "url": "https://github.com/jamesob/local-llm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T18:47:44.003000Z"
-        },
-        {
-          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
-          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://news.ycombinator.com/item?id=48775921",
+          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://news.ycombinator.com/item?id=48779352",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-03T16:26:38.175000Z"
+          "published_at": "2026-07-03T22:35:39.306000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6119,
-      "importance": 0.6119,
-      "importance_score": 0.6119,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6088,
+      "importance": 0.6088,
+      "importance_score": 0.6088,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.7445,
-        "story_heat": 0.5
+        "ai_relevance": 0.67,
+        "recency": 0.9141,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T15:10:05.401880Z",
-      "latest_at": "2026-07-03T18:47:44.003000Z",
+      "earliest_at": "2026-07-03T20:31:08.931358Z",
+      "latest_at": "2026-07-03T22:35:39.306000Z",
       "primary_item": {
-        "id": "5a216fb4f7a410f9e66cd4521635a3a58b176fe1",
-        "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
-        "url": "https://github.com/jamesob/local-llm",
+        "id": "32b7098d9f80afac51d10ba6c55b643aaa40ed0f",
+        "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+        "url": "https://kagi.com/changelog",
         "source": "Hacker News Digest",
         "source_name": "OPML RSS"
       }
