@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-03T16:55:44.342188Z",
+  "generated_at": "2026-07-03T18:16:42.920501Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0256-1365-a320-4809ae4b3540&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0256-1365-a320-4809ae4b3540&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0417-108e-825d-b1721c0bd63c&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0417-108e-825d-b1721c0bd63c&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "b9d7da19822f771ee7c61d7a773c873f0784693c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0417-108e-825d-b1721c0bd63c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "97d7d379cebb3940894bdd76e10954c82675cb78",
           "title": "点击这里进入 / Click here to enter",
@@ -57,12 +66,21 @@
           "published_at": null
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "b9d7da19822f771ee7c61d7a773c873f0784693c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0417-108e-825d-b1721c0bd63c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "97d7d379cebb3940894bdd76e10954c82675cb78",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0256-1365-a320-4809ae4b3540&fp=-3",
@@ -108,8 +126,8 @@
           "published_at": null
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
+      "item_count": 6,
+      "duplicate_count": 6,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -127,11 +145,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-03T04:26:46.770520Z",
-      "latest_at": "2026-07-03T16:55:44.342188Z",
+      "latest_at": "2026-07-03T18:16:42.920501Z",
       "primary_item": {
-        "id": "97d7d379cebb3940894bdd76e10954c82675cb78",
+        "id": "b9d7da19822f771ee7c61d7a773c873f0784693c",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0256-1365-a320-4809ae4b3540&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0417-108e-825d-b1721c0bd63c&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -171,14 +189,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8958,
+        "recency": 0.8396,
         "story_heat": 0.0
       },
       "category": "official",
@@ -251,14 +269,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7406,
+        "recency": 0.6843,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -312,20 +330,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7137,
+        "recency": 0.6574,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T10:03:25Z",
       "latest_at": "2026-07-03T10:03:25Z",
@@ -372,14 +389,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6782,
+        "recency": 0.6219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -450,21 +467,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6192,
+        "recency": 0.5629,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T07:47:20.309200Z",
       "latest_at": "2026-07-03T07:47:20.309200Z",
@@ -474,66 +490,6 @@
         "url": "https://www.aibase.com/news/29370",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_43115179668d",
-      "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-      "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-      "primary_url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
-          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:19:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
-          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:19:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2662,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T23:19:06Z",
-      "latest_at": "2026-07-02T23:19:06Z",
-      "primary_item": {
-        "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
-        "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-        "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -643,14 +599,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.7002,
-      "importance": 0.7002,
-      "importance_score": 0.7002,
+      "score": 0.689,
+      "importance": 0.689,
+      "importance_score": 0.689,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.9511,
+        "recency": 0.8949,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -702,20 +658,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7406,
+        "recency": 0.6843,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T10:42:09.653471Z",
       "latest_at": "2026-07-03T10:42:09.653471Z",
@@ -836,14 +791,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6972,
-      "importance": 0.6972,
-      "importance_score": 0.6972,
+      "score": 0.686,
+      "importance": 0.686,
+      "importance_score": 0.686,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.9361,
+        "recency": 0.8798,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -858,66 +813,6 @@
         "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
         "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
         "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_95944acec510",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-      "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-      "primary_url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:07:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:07:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2579,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T23:07:06Z",
-      "latest_at": "2026-07-02T23:07:06Z",
-      "primary_item": {
-        "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-        "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1045,14 +940,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6937,
-      "importance": 0.6937,
-      "importance_score": 0.6937,
+      "score": 0.6825,
+      "importance": 0.6825,
+      "importance_score": 0.6825,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9636,
+        "recency": 0.9074,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1176,14 +1071,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6773,
-      "importance": 0.6773,
-      "importance_score": 0.6773,
+      "score": 0.666,
+      "importance": 0.666,
+      "importance_score": 0.666,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.8363,
+        "recency": 0.7801,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1235,20 +1130,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7406,
+        "recency": 0.6843,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T10:42:09.653471Z",
       "latest_at": "2026-07-03T10:42:09.653471Z",
@@ -1367,14 +1261,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6517,
-      "importance": 0.6517,
-      "importance_score": 0.6517,
+      "score": 0.6404,
+      "importance": 0.6404,
+      "importance_score": 0.6404,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.6934,
+        "recency": 0.6371,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1463,14 +1357,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6495,
-      "importance": 0.6495,
-      "importance_score": 0.6495,
+      "score": 0.6382,
+      "importance": 0.6382,
+      "importance_score": 0.6382,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9924,
+        "recency": 0.9361,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1484,6 +1378,83 @@
         "title": "Gus Mueller 对 Godot 新贡献政策的评论为 AI 障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Gus Mueller",
         "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
         "source": "Hackaday » Comments",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_313f28eef823",
+      "title": "基岩 – 寓言 5：无法联系到模型提供商 / Bedrock – Fable 5: Unable to reach the model provider",
+      "url": "https://forum.cursor.com/t/bedrock-fable-5-unable-to-reach-the-model-provider/162844?page=2",
+      "primary_url": "https://forum.cursor.com/t/bedrock-fable-5-unable-to-reach-the-model-provider/162844?page=2",
+      "source": "Cursor| Latest posts",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "9f6691f1eecdd9bfc427d7927a267c0236925dc9",
+          "title": "基岩 – 寓言 5：无法联系到模型提供商 / Bedrock – Fable 5: Unable to reach the model provider",
+          "url": "https://forum.cursor.com/t/bedrock-fable-5-unable-to-reach-the-model-provider/162844?page=2",
+          "source": "Cursor| Latest posts",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T17:56:19Z"
+        },
+        {
+          "id": "22024f02bd877d23ce52b937c13ffcb4c87d506e",
+          "title": "基岩 – 寓言 5：无法联系到模型提供商 / Bedrock – Fable 5: Unable to reach the model provider",
+          "url": "https://forum.cursor.com/t/bedrock-fable-5-unable-to-reach-the-model-provider/162844",
+          "source": "Cursor| Latest posts",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-02T19:23:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Cursor| Latest posts"
+      ],
+      "items": [
+        {
+          "id": "9f6691f1eecdd9bfc427d7927a267c0236925dc9",
+          "title": "基岩 – 寓言 5：无法联系到模型提供商 / Bedrock – Fable 5: Unable to reach the model provider",
+          "url": "https://forum.cursor.com/t/bedrock-fable-5-unable-to-reach-the-model-provider/162844?page=2",
+          "source": "Cursor| Latest posts",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T17:56:19Z"
+        },
+        {
+          "id": "22024f02bd877d23ce52b937c13ffcb4c87d506e",
+          "title": "基岩 – 寓言 5：无法联系到模型提供商 / Bedrock – Fable 5: Unable to reach the model provider",
+          "url": "https://forum.cursor.com/t/bedrock-fable-5-unable-to-reach-the-model-provider/162844",
+          "source": "Cursor| Latest posts",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-02T19:23:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6352,
+      "importance": 0.6352,
+      "importance_score": 0.6352,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9858,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-02T19:23:53Z",
+      "latest_at": "2026-07-03T17:56:19Z",
+      "primary_item": {
+        "id": "9f6691f1eecdd9bfc427d7927a267c0236925dc9",
+        "title": "基岩 – 寓言 5：无法联系到模型提供商 / Bedrock – Fable 5: Unable to reach the model provider",
+        "url": "https://forum.cursor.com/t/bedrock-fable-5-unable-to-reach-the-model-provider/162844?page=2",
+        "source": "Cursor| Latest posts",
         "source_name": "OPML RSS"
       }
     },
@@ -1541,14 +1512,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.645,
-      "importance": 0.645,
-      "importance_score": 0.645,
+      "score": 0.6337,
+      "importance": 0.6337,
+      "importance_score": 0.6337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.81,
-        "recency": 0.8848,
+        "recency": 0.8285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1604,7 +1575,6 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
         "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
       ],
       "items": [
@@ -1638,14 +1608,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6427,
-      "importance": 0.6427,
-      "importance_score": 0.6427,
+      "score": 0.6315,
+      "importance": 0.6315,
+      "importance_score": 0.6315,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9585,
+        "recency": 0.9023,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1697,20 +1667,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7406,
+        "recency": 0.6843,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T10:42:09.653471Z",
       "latest_at": "2026-07-03T10:42:09.653471Z",
@@ -1776,14 +1745,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.64,
-      "importance": 0.64,
-      "importance_score": 0.64,
+      "score": 0.6288,
+      "importance": 0.6288,
+      "importance_score": 0.6288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.78,
-        "recency": 0.9051,
+        "recency": 0.8488,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1797,6 +1766,101 @@
         "title": "claude和codex的悲欢并不相通 一个让我用尽各种方式规避风控结果最后来个中国江浙沪的都干掉 一个让我能正常使用并且烧了10亿token给我交付 无比期待智谱和ds也能做一个codex…",
         "url": "https://t.me/https1024/48968",
         "source": "互联网从业者充电站 | 技术、产品、设计、运营等不同话题内容",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_fe37871fbe92",
+      "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+      "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/d4d07e737c...34faede44b",
+      "primary_url": "https://github.com/Dicklesworthstone/franken_numpy/compare/d4d07e737c...34faede44b",
+      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "b8274dd959b933d835c89cc19bbd917ce5330f11",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/d4d07e737c...34faede44b",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T18:05:43Z"
+        },
+        {
+          "id": "da814142caac91387438fd72d2493a33f3db80b5",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/11a29c947f...bf6c981ac9",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:44:32Z"
+        },
+        {
+          "id": "2388681ac49aab3663cb148c117face5a12a882c",
+          "title": "迪克斯沃斯通推动了弗兰肯贾克斯 / Dicklesworthstone pushed frankenjax",
+          "url": "https://github.com/Dicklesworthstone/frankenjax/compare/9aab080434...14fee8243b",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:42:08Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
+      ],
+      "items": [
+        {
+          "id": "b8274dd959b933d835c89cc19bbd917ce5330f11",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/d4d07e737c...34faede44b",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T18:05:43Z"
+        },
+        {
+          "id": "da814142caac91387438fd72d2493a33f3db80b5",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/11a29c947f...bf6c981ac9",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:44:32Z"
+        },
+        {
+          "id": "2388681ac49aab3663cb148c117face5a12a882c",
+          "title": "迪克斯沃斯通推动了弗兰肯贾克斯 / Dicklesworthstone pushed frankenjax",
+          "url": "https://github.com/Dicklesworthstone/frankenjax/compare/9aab080434...14fee8243b",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:42:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6585,
+      "importance": 0.6585,
+      "importance_score": 0.6585,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.9924,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T12:42:08Z",
+      "latest_at": "2026-07-03T18:05:43Z",
+      "primary_item": {
+        "id": "b8274dd959b933d835c89cc19bbd917ce5330f11",
+        "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+        "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/d4d07e737c...34faede44b",
+        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
         "source_name": "OPML RSS"
       }
     }
