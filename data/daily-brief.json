@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-03T19:58:26.424635Z",
+  "generated_at": "2026-07-03T21:18:01.158508Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0558-5204-b76f-3fcd5c39ee42&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0558-5204-b76f-3fcd5c39ee42&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0718-220c-90b9-132f042bd019&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0718-220c-90b9-132f042bd019&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "defd4592ab6499c16451f598edd6a18f596cf9dd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0718-220c-90b9-132f042bd019&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "46e2d129afef2bfd068eb5422f6581814531b424",
           "title": "点击这里进入 / Click here to enter",
@@ -75,12 +84,21 @@
           "published_at": null
         }
       ],
-      "source_count": 7,
+      "source_count": 8,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "defd4592ab6499c16451f598edd6a18f596cf9dd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0718-220c-90b9-132f042bd019&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "46e2d129afef2bfd068eb5422f6581814531b424",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0558-5204-b76f-3fcd5c39ee42&fp=-3",
@@ -144,8 +162,8 @@
           "published_at": null
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
+      "item_count": 8,
+      "duplicate_count": 8,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -163,11 +181,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-03T04:26:46.770520Z",
-      "latest_at": "2026-07-03T19:58:26.424635Z",
+      "latest_at": "2026-07-03T21:18:01.158508Z",
       "primary_item": {
-        "id": "46e2d129afef2bfd068eb5422f6581814531b424",
+        "id": "defd4592ab6499c16451f598edd6a18f596cf9dd",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0558-5204-b76f-3fcd5c39ee42&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0718-220c-90b9-132f042bd019&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -207,14 +225,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7689,
+        "recency": 0.7137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -287,21 +305,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6137,
+        "recency": 0.5584,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T10:42:09.653471Z",
       "latest_at": "2026-07-03T10:42:09.653471Z",
@@ -311,124 +328,6 @@
         "url": "https://www.aibase.com/news/29379",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5a7b3e0e1abf",
-      "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-      "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-      "primary_url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-      "source": "公众号：京东JoyAI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bebf0ff6ea46d9586ea2baebf153aa4fd011b087",
-          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-          "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-          "source": "公众号：京东JoyAI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T10:03:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：京东JoyAI"
-      ],
-      "items": [
-        {
-          "id": "bebf0ff6ea46d9586ea2baebf153aa4fd011b087",
-          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-          "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-          "source": "公众号：京东JoyAI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T10:03:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5868,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T10:03:25Z",
-      "latest_at": "2026-07-03T10:03:25Z",
-      "primary_item": {
-        "id": "bebf0ff6ea46d9586ea2baebf153aa4fd011b087",
-        "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-        "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-        "source": "公众号：京东JoyAI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_10123b922e56",
-      "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-      "url": "https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3",
-      "primary_url": "https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e4ac38274d414fa99db01c70b4b0b949e6a378c1",
-          "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-          "url": "https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:12:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "e4ac38274d414fa99db01c70b4b0b949e6a378c1",
-          "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-          "url": "https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:12:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5513,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T09:12:17Z",
-      "latest_at": "2026-07-03T09:12:17Z",
-      "primary_item": {
-        "id": "e4ac38274d414fa99db01c70b4b0b949e6a378c1",
-        "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-        "url": "https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -592,14 +491,14 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.714,
-      "importance": 0.714,
-      "importance_score": 0.714,
+      "score": 0.7029,
+      "importance": 0.7029,
+      "importance_score": 0.7029,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.73,
-        "recency": 0.9748,
+        "recency": 0.9196,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -670,14 +569,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4923,
+        "recency": 0.437,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -693,6 +592,155 @@
         "url": "https://www.aibase.com/news/29370",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c56b58e9d916",
+      "title": "第1426期 - 2026-07-04 04:01",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "e09d0bdd7ce48aa6951b6aba2a6201504f69634a",
+          "title": "第1426期 - 2026-07-04 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T20:01:26Z"
+        },
+        {
+          "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
+          "title": "第1425期 - 2026-07-04 00:03",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:03:21Z"
+        },
+        {
+          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
+          "title": "第1424期 - 2026-07-03 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:01:31Z"
+        },
+        {
+          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
+          "title": "第1423期 - 2026-07-03 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T08:01:30Z"
+        },
+        {
+          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
+          "title": "第1422期 - 2026-07-03 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T04:01:28Z"
+        },
+        {
+          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
+          "title": "第1421期 - 2026-07-03 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T00:01:54Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "大黑AI速报"
+      ],
+      "items": [
+        {
+          "id": "e09d0bdd7ce48aa6951b6aba2a6201504f69634a",
+          "title": "第1426期 - 2026-07-04 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T20:01:26Z"
+        },
+        {
+          "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
+          "title": "第1425期 - 2026-07-04 00:03",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:03:21Z"
+        },
+        {
+          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
+          "title": "第1424期 - 2026-07-03 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:01:31Z"
+        },
+        {
+          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
+          "title": "第1423期 - 2026-07-03 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T08:01:30Z"
+        },
+        {
+          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
+          "title": "第1422期 - 2026-07-03 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T04:01:28Z"
+        },
+        {
+          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
+          "title": "第1421期 - 2026-07-03 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T00:01:54Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6904,
+      "importance": 0.6904,
+      "importance_score": 0.6904,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9468,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T00:01:54Z",
+      "latest_at": "2026-07-03T20:01:26Z",
+      "primary_item": {
+        "id": "e09d0bdd7ce48aa6951b6aba2a6201504f69634a",
+        "title": "第1426期 - 2026-07-04 04:01",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
+        "source": "大黑AI速报",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -730,14 +778,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6137,
+        "recency": 0.5584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -863,14 +911,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6718,
-      "importance": 0.6718,
-      "importance_score": 0.6718,
+      "score": 0.6608,
+      "importance": 0.6608,
+      "importance_score": 0.6608,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.8092,
+        "recency": 0.7539,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -977,14 +1025,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6703,
-      "importance": 0.6703,
-      "importance_score": 0.6703,
+      "score": 0.6593,
+      "importance": 0.6593,
+      "importance_score": 0.6593,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9717,
+        "recency": 0.9165,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1002,151 +1050,99 @@
       }
     },
     {
-      "story_id": "story_c56b58e9d916",
-      "title": "第1425期 - 2026-07-04 00:03",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
-      "source": "大黑AI速报",
+      "story_id": "story_2136c92701f5",
+      "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "primary_url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "source": "Buzzing|国外社交媒体热榜",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
-          "title": "第1425期 - 2026-07-04 00:03",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
-          "source": "大黑AI速报",
+          "id": "8192809c61a0e31a8258cd9e9f5b4c63ef7b2309",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Buzzing|国外社交媒体热榜",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T16:03:21Z"
+          "published_at": "2026-07-03T20:23:50.986000Z"
         },
         {
-          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
-          "title": "第1424期 - 2026-07-03 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
-          "source": "大黑AI速报",
+          "id": "6c24023587dbf16c1333dd51ae122dc0a3aba295",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:01:31Z"
+          "published_at": "2026-07-03T17:55:10.337526Z"
         },
         {
-          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
-          "title": "第1423期 - 2026-07-03 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:01:30Z"
-        },
-        {
-          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
-          "title": "第1422期 - 2026-07-03 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T04:01:28Z"
-        },
-        {
-          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
-          "title": "第1421期 - 2026-07-03 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T00:01:54Z"
-        },
-        {
-          "id": "111762dbcff0bf1cfd31c88f07fa2bbd6f09884f",
-          "title": "第1420期 - 2026-07-03 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T20:01:22Z"
+          "id": "b7165184fc44b2e09f1badea34e4ba7d58f1f9d3",
+          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+          "url": "https://news.ycombinator.com/item?id=48777728",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T19:58:55.548000Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 3,
       "source_names": [
-        "大黑AI速报"
+        "Buzzing|国外社交媒体热榜",
+        "Hacker News Digest",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
-          "title": "第1425期 - 2026-07-04 00:03",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
-          "source": "大黑AI速报",
+          "id": "8192809c61a0e31a8258cd9e9f5b4c63ef7b2309",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Buzzing|国外社交媒体热榜",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T16:03:21Z"
+          "published_at": "2026-07-03T20:23:50.986000Z"
         },
         {
-          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
-          "title": "第1424期 - 2026-07-03 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
-          "source": "大黑AI速报",
+          "id": "6c24023587dbf16c1333dd51ae122dc0a3aba295",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:01:31Z"
+          "published_at": "2026-07-03T17:55:10.337526Z"
         },
         {
-          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
-          "title": "第1423期 - 2026-07-03 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:01:30Z"
-        },
-        {
-          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
-          "title": "第1422期 - 2026-07-03 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T04:01:28Z"
-        },
-        {
-          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
-          "title": "第1421期 - 2026-07-03 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T00:01:54Z"
-        },
-        {
-          "id": "111762dbcff0bf1cfd31c88f07fa2bbd6f09884f",
-          "title": "第1420期 - 2026-07-03 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-02T20:01:22Z"
+          "id": "b7165184fc44b2e09f1badea34e4ba7d58f1f9d3",
+          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+          "url": "https://news.ycombinator.com/item?id=48777728",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T19:58:55.548000Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6683,
-      "importance": 0.6683,
-      "importance_score": 0.6683,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6555,
+      "importance": 0.6555,
+      "importance_score": 0.6555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8367,
-        "story_heat": 1.0
+        "ai_relevance": 0.71,
+        "recency": 0.9624,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-02T20:01:22Z",
-      "latest_at": "2026-07-03T16:03:21Z",
+      "earliest_at": "2026-07-03T17:55:10.337526Z",
+      "latest_at": "2026-07-03T20:23:50.986000Z",
       "primary_item": {
-        "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
-        "title": "第1425期 - 2026-07-04 00:03",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
-        "source": "大黑AI速报",
+        "id": "8192809c61a0e31a8258cd9e9f5b4c63ef7b2309",
+        "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+        "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+        "source": "Buzzing|国外社交媒体热榜",
         "source_name": "OPML RSS"
       }
     },
@@ -1257,14 +1253,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6519,
-      "importance": 0.6519,
-      "importance_score": 0.6519,
+      "score": 0.6408,
+      "importance": 0.6408,
+      "importance_score": 0.6408,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.7094,
+        "recency": 0.6542,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1278,6 +1274,196 @@
         "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
         "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/4ff1a10a5c...d6fecc4375",
         "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_6a6993d63193",
+      "title": "“关闭假新闻”：特朗普最新的人工智能视频让他“对待”过去批评过他的名人，这太疯狂了 / \"Turn Off Fake News\": Trump's Latest AI Slop Video Has Him \"Treating\" Celebrities Who've Criticized Him In The Past, And It's Bonkers",
+      "url": "https://www.buzzfeed.com/edmazza/trump-ai-doctor-video",
+      "primary_url": "https://www.buzzfeed.com/edmazza/trump-ai-doctor-video",
+      "source": "BuzzFeed - Latest",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "2f94ac5c0570db27171a9f71a6d2da8069a80a56",
+          "title": "“关闭假新闻”：特朗普最新的人工智能视频让他“对待”过去批评过他的名人，这太疯狂了 / \"Turn Off Fake News\": Trump's Latest AI Slop Video Has Him \"Treating\" Celebrities Who've Criticized Him In The Past, And It's Bonkers",
+          "url": "https://www.buzzfeed.com/edmazza/trump-ai-doctor-video",
+          "source": "BuzzFeed - Latest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:24:02Z"
+        },
+        {
+          "id": "fc688eadf277ff482f8d7380f3bf291c49cb58dc",
+          "title": "特朗普刚刚发布了一段完全疯狂的人工智能视频，攻击他的名人批评者，老实说，我无话可说 / Trump Just Released A Completely Bonkers AI Video Attacking His Celebrity Critics, And Honestly, I Have No Words",
+          "url": "https://www.buzzfeed.com/edmazza/trump-ai-doctor-video",
+          "source": "BuzzFeed - Latest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:24:02Z"
+        },
+        {
+          "id": "4be6fa5ee8c0d398664cc4184dc92931ffbe63f4",
+          "title": "特朗普刚刚分享了最疯狂的人工智能视频，他追随批评他的名人，这绝对是疯狂的 / Trump Just Shared The Most Unhinged AI Video Where He Went After Celebrities Who Criticized Him, And It's Absolutely Wild",
+          "url": "https://www.buzzfeed.com/edmazza/trump-ai-doctor-video",
+          "source": "BuzzFeed - Latest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:24:02Z"
+        },
+        {
+          "id": "318ee6273c8b403f3d795d8f2cebbc9e06617c88",
+          "title": "特朗普发布了一段针对批评他的名人的绝对疯狂的人工智能视频，我真的无语了 / Trump Posted An Absolutely Deranged AI Video Targeting Celebrities Who Criticized Him, And I'm Genuinely Speechless",
+          "url": "https://www.buzzfeed.com/edmazza/trump-ai-doctor-video",
+          "source": "BuzzFeed - Latest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:24:02Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "BuzzFeed - Latest"
+      ],
+      "items": [
+        {
+          "id": "2f94ac5c0570db27171a9f71a6d2da8069a80a56",
+          "title": "“关闭假新闻”：特朗普最新的人工智能视频让他“对待”过去批评过他的名人，这太疯狂了 / \"Turn Off Fake News\": Trump's Latest AI Slop Video Has Him \"Treating\" Celebrities Who've Criticized Him In The Past, And It's Bonkers",
+          "url": "https://www.buzzfeed.com/edmazza/trump-ai-doctor-video",
+          "source": "BuzzFeed - Latest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:24:02Z"
+        },
+        {
+          "id": "fc688eadf277ff482f8d7380f3bf291c49cb58dc",
+          "title": "特朗普刚刚发布了一段完全疯狂的人工智能视频，攻击他的名人批评者，老实说，我无话可说 / Trump Just Released A Completely Bonkers AI Video Attacking His Celebrity Critics, And Honestly, I Have No Words",
+          "url": "https://www.buzzfeed.com/edmazza/trump-ai-doctor-video",
+          "source": "BuzzFeed - Latest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:24:02Z"
+        },
+        {
+          "id": "4be6fa5ee8c0d398664cc4184dc92931ffbe63f4",
+          "title": "特朗普刚刚分享了最疯狂的人工智能视频，他追随批评他的名人，这绝对是疯狂的 / Trump Just Shared The Most Unhinged AI Video Where He Went After Celebrities Who Criticized Him, And It's Absolutely Wild",
+          "url": "https://www.buzzfeed.com/edmazza/trump-ai-doctor-video",
+          "source": "BuzzFeed - Latest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:24:02Z"
+        },
+        {
+          "id": "318ee6273c8b403f3d795d8f2cebbc9e06617c88",
+          "title": "特朗普发布了一段针对批评他的名人的绝对疯狂的人工智能视频，我真的无语了 / Trump Posted An Absolutely Deranged AI Video Targeting Celebrities Who Criticized Him, And I'm Genuinely Speechless",
+          "url": "https://www.buzzfeed.com/edmazza/trump-ai-doctor-video",
+          "source": "BuzzFeed - Latest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:24:02Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6352,
+      "importance": 0.6352,
+      "importance_score": 0.6352,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.7958,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T16:24:02Z",
+      "latest_at": "2026-07-03T16:24:02Z",
+      "primary_item": {
+        "id": "2f94ac5c0570db27171a9f71a6d2da8069a80a56",
+        "title": "“关闭假新闻”：特朗普最新的人工智能视频让他“对待”过去批评过他的名人，这太疯狂了 / \"Turn Off Fake News\": Trump's Latest AI Slop Video Has Him \"Treating\" Celebrities Who've Criticized Him In The Past, And It's Bonkers",
+        "url": "https://www.buzzfeed.com/edmazza/trump-ai-doctor-video",
+        "source": "BuzzFeed - Latest",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_ee6cf98383f2",
+      "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
+      "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+      "primary_url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+      "source": "godlikeproductions.com| Forum 1",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "dc5ea76e994bf74e1dd287036583667117614d75",
+          "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T21:10:47Z"
+        },
+        {
+          "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
+          "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T09:28:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "godlikeproductions.com| Forum 1"
+      ],
+      "items": [
+        {
+          "id": "dc5ea76e994bf74e1dd287036583667117614d75",
+          "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T21:10:47Z"
+        },
+        {
+          "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
+          "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T09:28:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.634,
+      "importance": 0.634,
+      "importance_score": 0.634,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.995,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T09:28:07Z",
+      "latest_at": "2026-07-03T21:10:47Z",
+      "primary_item": {
+        "id": "dc5ea76e994bf74e1dd287036583667117614d75",
+        "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
+        "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+        "source": "godlikeproductions.com| Forum 1",
         "source_name": "OPML RSS"
       }
     },
@@ -1316,14 +1502,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6137,
+        "recency": 0.5584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1341,99 +1527,79 @@
       }
     },
     {
-      "story_id": "story_6dd39e80e7d5",
-      "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
-      "url": "https://github.com/kerlenton/mcpsnoop",
-      "primary_url": "https://github.com/kerlenton/mcpsnoop",
-      "source": "Buzzing|国外社交媒体热榜",
+      "story_id": "story_f8dc40e1d6a3",
+      "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+      "url": "https://lobste.rs/c/7lf5c3",
+      "primary_url": "https://lobste.rs/c/7lf5c3",
+      "source": "Comments",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "bf979e2f384b5b93a6aeeb5f9edcff6b8b07d2ae",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
-          "url": "https://github.com/kerlenton/mcpsnoop",
-          "source": "Buzzing|国外社交媒体热榜",
+          "id": "ac71e8d5033a9a5e136488d7c6e71ed3c102d598",
+          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+          "url": "https://lobste.rs/c/7lf5c3",
+          "source": "Comments",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T16:55:50.504000Z"
+          "published_at": "2026-07-03T20:09:24Z"
         },
         {
-          "id": "721287e50ef66c1585d492aac301c04c5eac8e5e",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://github.com/kerlenton/mcpsnoop",
-          "source": "Hacker News Digest",
+          "id": "2a4b67470de4e3afbb4af4bff246fcc480dfbd63",
+          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+          "url": "https://lobste.rs/c/ngfewq",
+          "source": "Comments",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T16:55:10.328120Z"
-        },
-        {
-          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
-          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://news.ycombinator.com/item?id=48777144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T19:58:55.548000Z"
+          "published_at": "2026-07-03T18:11:48Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Hacker News Digest",
-        "hackernews"
+        "Comments"
       ],
       "items": [
         {
-          "id": "bf979e2f384b5b93a6aeeb5f9edcff6b8b07d2ae",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
-          "url": "https://github.com/kerlenton/mcpsnoop",
-          "source": "Buzzing|国外社交媒体热榜",
+          "id": "ac71e8d5033a9a5e136488d7c6e71ed3c102d598",
+          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+          "url": "https://lobste.rs/c/7lf5c3",
+          "source": "Comments",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T16:55:50.504000Z"
+          "published_at": "2026-07-03T20:09:24Z"
         },
         {
-          "id": "721287e50ef66c1585d492aac301c04c5eac8e5e",
-          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://github.com/kerlenton/mcpsnoop",
-          "source": "Hacker News Digest",
+          "id": "2a4b67470de4e3afbb4af4bff246fcc480dfbd63",
+          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+          "url": "https://lobste.rs/c/ngfewq",
+          "source": "Comments",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T16:55:10.328120Z"
-        },
-        {
-          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
-          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-          "url": "https://news.ycombinator.com/item?id=48777144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T19:58:55.548000Z"
+          "published_at": "2026-07-03T18:11:48Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6376,
-      "importance": 0.6376,
-      "importance_score": 0.6376,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6285,
+      "importance": 0.6285,
+      "importance_score": 0.6285,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8732,
-        "story_heat": 0.5
+        "recency": 0.9523,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T16:55:10.328120Z",
-      "latest_at": "2026-07-03T19:58:55.548000Z",
+      "earliest_at": "2026-07-03T18:11:48Z",
+      "latest_at": "2026-07-03T20:09:24Z",
       "primary_item": {
-        "id": "bf979e2f384b5b93a6aeeb5f9edcff6b8b07d2ae",
-        "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
-        "url": "https://github.com/kerlenton/mcpsnoop",
-        "source": "Buzzing|国外社交媒体热榜",
+        "id": "ac71e8d5033a9a5e136488d7c6e71ed3c102d598",
+        "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+        "url": "https://lobste.rs/c/7lf5c3",
+        "source": "Comments",
         "source_name": "OPML RSS"
       }
     },
@@ -1490,14 +1656,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.637,
-      "importance": 0.637,
-      "importance_score": 0.637,
+      "score": 0.626,
+      "importance": 0.626,
+      "importance_score": 0.626,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9952,
+        "recency": 0.94,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1604,14 +1770,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6655,
-      "importance": 0.6655,
-      "importance_score": 0.6655,
+      "score": 0.6544,
+      "importance": 0.6544,
+      "importance_score": 0.6544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9473,
+        "recency": 0.892,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1625,84 +1791,6 @@
         "title": "马修对戈多新贡献政策的评论为人工智能障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Matthew",
         "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
         "source": "Hackaday » Comments",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_2136c92701f5",
-      "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-      "primary_url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-      "source": "Hacker News Digest",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "6c24023587dbf16c1333dd51ae122dc0a3aba295",
-          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T17:55:10.337526Z"
-        },
-        {
-          "id": "b7165184fc44b2e09f1badea34e4ba7d58f1f9d3",
-          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-          "url": "https://news.ycombinator.com/item?id=48777728",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T19:58:55.548000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News Digest",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6c24023587dbf16c1333dd51ae122dc0a3aba295",
-          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T17:55:10.337526Z"
-        },
-        {
-          "id": "b7165184fc44b2e09f1badea34e4ba7d58f1f9d3",
-          "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-          "url": "https://news.ycombinator.com/item?id=48777728",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T19:58:55.548000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6329,
-      "importance": 0.6329,
-      "importance_score": 0.6329,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.9144,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T17:55:10.337526Z",
-      "latest_at": "2026-07-03T19:58:55.548000Z",
-      "primary_item": {
-        "id": "6c24023587dbf16c1333dd51ae122dc0a3aba295",
-        "title": "我不被允许在粉笔演讲中提示 ChatGPT：这是歧视 (2025) / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-        "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-        "source": "Hacker News Digest",
         "source_name": "OPML RSS"
       }
     },
@@ -1759,14 +1847,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6279,
-      "importance": 0.6279,
-      "importance_score": 0.6279,
+      "score": 0.6168,
+      "importance": 0.6168,
+      "importance_score": 0.6168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.79,
-        "recency": 0.8294,
+        "recency": 0.7742,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1780,137 +1868,6 @@
         "title": "【乾行AI中转站】支持GPT、Claude、Gemini，倍率地址0.01x，有5刀福利，附上检测报告和延迟截图",
         "url": "https://www.nodeloc.com/t/topic/97451",
         "source": "NodeLoc最新帖子",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_e45b9303c075",
-      "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-      "url": "https://lobste.rs/c/uibtcb",
-      "primary_url": "https://lobste.rs/c/uibtcb",
-      "source": "Comments",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "db9c7cee34c6defda7bf34c397c17483d44f97c4",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://lobste.rs/c/uibtcb",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:34:10Z"
-        },
-        {
-          "id": "a9140874e4c2c54992a8c0ccec095d62ac2c52c3",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://lobste.rs/c/qi2whv",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:15:33Z"
-        },
-        {
-          "id": "ca9ff396978fdab326e9580b1c790b56ab83b5a9",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://lobste.rs/c/s2zcwi",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:36:54Z"
-        },
-        {
-          "id": "e55a369014c8f7a0a785244d3931dd8215c7790d",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://lobste.rs/c/limdbl",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T06:29:01Z"
-        },
-        {
-          "id": "77e4b5410f0db27772e05ed1036d6fcd4aec5a8e",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://lobste.rs/c/jyukte",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T03:51:39Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Comments"
-      ],
-      "items": [
-        {
-          "id": "db9c7cee34c6defda7bf34c397c17483d44f97c4",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://lobste.rs/c/uibtcb",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:34:10Z"
-        },
-        {
-          "id": "a9140874e4c2c54992a8c0ccec095d62ac2c52c3",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://lobste.rs/c/qi2whv",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:15:33Z"
-        },
-        {
-          "id": "ca9ff396978fdab326e9580b1c790b56ab83b5a9",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://lobste.rs/c/s2zcwi",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:36:54Z"
-        },
-        {
-          "id": "e55a369014c8f7a0a785244d3931dd8215c7790d",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://lobste.rs/c/limdbl",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T06:29:01Z"
-        },
-        {
-          "id": "77e4b5410f0db27772e05ed1036d6fcd4aec5a8e",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://lobste.rs/c/jyukte",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T03:51:39Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6263,
-      "importance": 0.6263,
-      "importance_score": 0.6263,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.5665,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T03:51:39Z",
-      "latest_at": "2026-07-03T09:34:10Z",
-      "primary_item": {
-        "id": "db9c7cee34c6defda7bf34c397c17483d44f97c4",
-        "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-        "url": "https://lobste.rs/c/uibtcb",
-        "source": "Comments",
         "source_name": "OPML RSS"
       }
     },
@@ -1968,14 +1925,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6252,
-      "importance": 0.6252,
-      "importance_score": 0.6252,
+      "score": 0.6142,
+      "importance": 0.6142,
+      "importance_score": 0.6142,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9962,
+        "recency": 0.941,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1989,6 +1946,103 @@
         "title": "美国程序员用AI做游戏倒欠公司55万 老板一句话造就神级营销",
         "url": "https://news.mydrivers.com/1/1134/1134046.htm",
         "source": "数码 | 快科技资讯_最新资讯",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_24e2bdc66332",
+      "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "primary_url": "https://github.com/jamesob/local-llm",
+      "source": "Hacker News Digest",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "5a216fb4f7a410f9e66cd4521635a3a58b176fe1",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:10:05.401880Z"
+        },
+        {
+          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T18:47:44.003000Z"
+        },
+        {
+          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
+          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://news.ycombinator.com/item?id=48775921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T16:26:38.175000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News Digest",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5a216fb4f7a410f9e66cd4521635a3a58b176fe1",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:10:05.401880Z"
+        },
+        {
+          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T18:47:44.003000Z"
+        },
+        {
+          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
+          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://news.ycombinator.com/item?id=48775921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T16:26:38.175000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6119,
+      "importance": 0.6119,
+      "importance_score": 0.6119,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.7445,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T15:10:05.401880Z",
+      "latest_at": "2026-07-03T18:47:44.003000Z",
+      "primary_item": {
+        "id": "5a216fb4f7a410f9e66cd4521635a3a58b176fe1",
+        "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
+        "url": "https://github.com/jamesob/local-llm",
+        "source": "Hacker News Digest",
         "source_name": "OPML RSS"
       }
     }
