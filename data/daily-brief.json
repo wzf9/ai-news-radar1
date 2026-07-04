@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-03T22:34:52.161675Z",
+  "generated_at": "2026-07-04T00:09:41.376442Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0835-16d4-8b2b-f4813cadba0a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0835-16d4-8b2b-f4813cadba0a&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1010-047e-9fc1-b91431ef5ecf&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-1010-047e-9fc1-b91431ef5ecf&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "ed4f626b10a228e8e884d42bb437137ed658546a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1010-047e-9fc1-b91431ef5ecf&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "705f1bfbfa506dfef13ae0a162fd7c0d4c17f0c0",
           "title": "点击这里进入 / Click here to enter",
@@ -93,12 +102,21 @@
           "published_at": null
         }
       ],
-      "source_count": 9,
+      "source_count": 10,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "ed4f626b10a228e8e884d42bb437137ed658546a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1010-047e-9fc1-b91431ef5ecf&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "705f1bfbfa506dfef13ae0a162fd7c0d4c17f0c0",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0835-16d4-8b2b-f4813cadba0a&fp=-3",
@@ -180,8 +198,8 @@
           "published_at": null
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
+      "item_count": 10,
+      "duplicate_count": 10,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -199,11 +217,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-03T04:26:46.770520Z",
-      "latest_at": "2026-07-03T22:34:52.161675Z",
+      "latest_at": "2026-07-04T00:09:41.376442Z",
       "primary_item": {
-        "id": "705f1bfbfa506dfef13ae0a162fd7c0d4c17f0c0",
+        "id": "ed4f626b10a228e8e884d42bb437137ed658546a",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0835-16d4-8b2b-f4813cadba0a&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1010-047e-9fc1-b91431ef5ecf&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -243,14 +261,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6603,
+        "recency": 0.5945,
         "story_heat": 0.0
       },
       "category": "official",
@@ -323,14 +341,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5051,
+        "recency": 0.4392,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -346,6 +364,421 @@
         "url": "https://www.aibase.com/news/29379",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c56b58e9d916",
+      "title": "第1427期 - 2026-07-04 08:01",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0801",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0801",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "09a16fdd5a01b6489310d5e3f16594314717ca7b",
+          "title": "第1427期 - 2026-07-04 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T00:01:10Z"
+        },
+        {
+          "id": "e09d0bdd7ce48aa6951b6aba2a6201504f69634a",
+          "title": "第1426期 - 2026-07-04 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T20:01:26Z"
+        },
+        {
+          "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
+          "title": "第1425期 - 2026-07-04 00:03",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:03:21Z"
+        },
+        {
+          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
+          "title": "第1424期 - 2026-07-03 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:01:31Z"
+        },
+        {
+          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
+          "title": "第1423期 - 2026-07-03 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T08:01:30Z"
+        },
+        {
+          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
+          "title": "第1422期 - 2026-07-03 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T04:01:28Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "大黑AI速报"
+      ],
+      "items": [
+        {
+          "id": "09a16fdd5a01b6489310d5e3f16594314717ca7b",
+          "title": "第1427期 - 2026-07-04 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T00:01:10Z"
+        },
+        {
+          "id": "e09d0bdd7ce48aa6951b6aba2a6201504f69634a",
+          "title": "第1426期 - 2026-07-04 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T20:01:26Z"
+        },
+        {
+          "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
+          "title": "第1425期 - 2026-07-04 00:03",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:03:21Z"
+        },
+        {
+          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
+          "title": "第1424期 - 2026-07-03 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:01:31Z"
+        },
+        {
+          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
+          "title": "第1423期 - 2026-07-03 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T08:01:30Z"
+        },
+        {
+          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
+          "title": "第1422期 - 2026-07-03 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T04:01:28Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6998,
+      "importance": 0.6998,
+      "importance_score": 0.6998,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9941,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T04:01:28Z",
+      "latest_at": "2026-07-04T00:01:10Z",
+      "primary_item": {
+        "id": "09a16fdd5a01b6489310d5e3f16594314717ca7b",
+        "title": "第1427期 - 2026-07-04 08:01",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0801",
+        "source": "大黑AI速报",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "人工智能主权战争、Palantir-Nvidia 交易、SCOTUS 出生权裁决、Newsom 的加州预算谎言 / AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom’s CA Budget Lie",
+      "url": "https://www.youtube.com/watch?v=wgdxSCsmS-Q",
+      "primary_url": "https://www.youtube.com/watch?v=wgdxSCsmS-Q",
+      "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "c0ca452b01414d5421cda0ea437300f378b81ba3",
+          "title": "人工智能主权战争、Palantir-Nvidia 交易、SCOTUS 出生权裁决、Newsom 的加州预算谎言 / AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom’s CA Budget Lie",
+          "url": "https://www.youtube.com/watch?v=wgdxSCsmS-Q",
+          "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T23:31:28Z"
+        },
+        {
+          "id": "599734c9c408218b9c32c31a03962832d70acdac",
+          "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
+          "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:23:41Z"
+        },
+        {
+          "id": "942002d3ed18bdd770ad48c462b494d15ea56a19",
+          "title": "Meta AI不想努力了，求包养——带崩芯片牵头的一众科技股！？",
+          "url": "https://www.youtube.com/watch?v=BuSC4yV3x_w",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T13:59:03Z"
+        },
+        {
+          "id": "416740e515b22d5aec1081a3587db7ea1dc14942",
+          "title": "Ed Zitron 在 CNBC 上表示：GenAI 行不通，大型科技公司已经不再有高速增长的想法 / Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
+          "url": "https://www.youtube.com/watch?v=TtmPccUTDP8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T11:04:18Z"
+        },
+        {
+          "id": "28a03f9a1b14308f44cac1ac2f97e46c2334e4c7",
+          "title": "加州在投票继续扼杀游戏后立即投票废除 3D 打印 [视频] / California votes to ruin 3D printing right after voting to keep killing games [video]",
+          "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T03:04:26Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+        "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+        "Hacker News · 24h最热",
+        "范路 | 老范讲故事"
+      ],
+      "items": [
+        {
+          "id": "c0ca452b01414d5421cda0ea437300f378b81ba3",
+          "title": "人工智能主权战争、Palantir-Nvidia 交易、SCOTUS 出生权裁决、Newsom 的加州预算谎言 / AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom’s CA Budget Lie",
+          "url": "https://www.youtube.com/watch?v=wgdxSCsmS-Q",
+          "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T23:31:28Z"
+        },
+        {
+          "id": "599734c9c408218b9c32c31a03962832d70acdac",
+          "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
+          "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
+          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:23:41Z"
+        },
+        {
+          "id": "942002d3ed18bdd770ad48c462b494d15ea56a19",
+          "title": "Meta AI不想努力了，求包养——带崩芯片牵头的一众科技股！？",
+          "url": "https://www.youtube.com/watch?v=BuSC4yV3x_w",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T13:59:03Z"
+        },
+        {
+          "id": "416740e515b22d5aec1081a3587db7ea1dc14942",
+          "title": "Ed Zitron 在 CNBC 上表示：GenAI 行不通，大型科技公司已经不再有高速增长的想法 / Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
+          "url": "https://www.youtube.com/watch?v=TtmPccUTDP8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T11:04:18Z"
+        },
+        {
+          "id": "28a03f9a1b14308f44cac1ac2f97e46c2334e4c7",
+          "title": "加州在投票继续扼杀游戏后立即投票废除 3D 打印 [视频] / California votes to ruin 3D printing right after voting to keep killing games [video]",
+          "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T03:04:26Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6957,
+      "importance": 0.6957,
+      "importance_score": 0.6957,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9735,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T03:04:26Z",
+      "latest_at": "2026-07-03T23:31:28Z",
+      "primary_item": {
+        "id": "c0ca452b01414d5421cda0ea437300f378b81ba3",
+        "title": "人工智能主权战争、Palantir-Nvidia 交易、SCOTUS 出生权裁决、Newsom 的加州预算谎言 / AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom’s CA Budget Lie",
+        "url": "https://www.youtube.com/watch?v=wgdxSCsmS-Q",
+        "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_795ec808fffe",
+      "title": "Greg A 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Greg A",
+      "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+      "primary_url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+      "source": "Hackaday » Comments",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "135ef05adbb2cf99fde4e2897dfcc1b640b3d90c",
+          "title": "Greg A 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Greg A",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T22:43:50Z"
+        },
+        {
+          "id": "899575277cffdfb4b58bbca1ed47284258e49bdf",
+          "title": "匿名者评论思想链欺骗目标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Anonymous",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T19:17:43Z"
+        },
+        {
+          "id": "3c96be31725b8538acf6125d62117f592f3f03a7",
+          "title": "Sedit T 对推理 AI 模型的思想链欺骗目标的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Sedit T",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T07:44:46Z"
+        },
+        {
+          "id": "74f2547d9042556e9422f9a8a5f0393978d73665",
+          "title": "Thinkerer 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Thinkerer",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T02:50:52Z"
+        },
+        {
+          "id": "ee892345ce7b2915e59e587e8c94d0e60b3ecca0",
+          "title": "思想链欺骗目标推理人工智能模型 / Chain-of-Thought Spoofing Targets Reasoning AI Models",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T02:00:07Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hackaday",
+        "Hackaday » Comments"
+      ],
+      "items": [
+        {
+          "id": "135ef05adbb2cf99fde4e2897dfcc1b640b3d90c",
+          "title": "Greg A 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Greg A",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T22:43:50Z"
+        },
+        {
+          "id": "899575277cffdfb4b58bbca1ed47284258e49bdf",
+          "title": "匿名者评论思想链欺骗目标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Anonymous",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T19:17:43Z"
+        },
+        {
+          "id": "3c96be31725b8538acf6125d62117f592f3f03a7",
+          "title": "Sedit T 对推理 AI 模型的思想链欺骗目标的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Sedit T",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T07:44:46Z"
+        },
+        {
+          "id": "74f2547d9042556e9422f9a8a5f0393978d73665",
+          "title": "Thinkerer 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Thinkerer",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T02:50:52Z"
+        },
+        {
+          "id": "ee892345ce7b2915e59e587e8c94d0e60b3ecca0",
+          "title": "思想链欺骗目标推理人工智能模型 / Chain-of-Thought Spoofing Targets Reasoning AI Models",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T02:00:07Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6891,
+      "importance": 0.6891,
+      "importance_score": 0.6891,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9404,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T02:00:07Z",
+      "latest_at": "2026-07-03T22:43:50Z",
+      "primary_item": {
+        "id": "135ef05adbb2cf99fde4e2897dfcc1b640b3d90c",
+        "title": "Greg A 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Greg A",
+        "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+        "source": "Hackaday » Comments",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -509,14 +942,14 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.6922,
-      "importance": 0.6922,
-      "importance_score": 0.6922,
+      "score": 0.6791,
+      "importance": 0.6791,
+      "importance_score": 0.6791,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.73,
-        "recency": 0.8662,
+        "recency": 0.8004,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -587,14 +1020,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7137,
-      "importance": 0.7137,
-      "importance_score": 0.7137,
+      "score": 0.7006,
+      "importance": 0.7006,
+      "importance_score": 0.7006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3837,
+        "recency": 0.3178,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -613,151 +1046,97 @@
       }
     },
     {
-      "story_id": "story_c56b58e9d916",
-      "title": "第1426期 - 2026-07-04 04:01",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
-      "source": "大黑AI速报",
+      "story_id": "story_4d8919df52cd",
+      "title": "steipete 在 CodexBar 中关闭了该问题 / steipete closed an issue in CodexBar",
+      "url": "https://github.com/steipete/CodexBar/issues/1855",
+      "primary_url": "https://github.com/steipete/CodexBar/issues/1855",
+      "source": "Peter Steinberger",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "e09d0bdd7ce48aa6951b6aba2a6201504f69634a",
-          "title": "第1426期 - 2026-07-04 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
-          "source": "大黑AI速报",
+          "id": "db6f4db8dbf039c893c42d079256ab37aaf45505",
+          "title": "steipete 在 CodexBar 中关闭了该问题 / steipete closed an issue in CodexBar",
+          "url": "https://github.com/steipete/CodexBar/issues/1855",
+          "source": "Peter Steinberger",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T20:01:26Z"
+          "published_at": "2026-07-03T22:58:32Z"
         },
         {
-          "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
-          "title": "第1425期 - 2026-07-04 00:03",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
-          "source": "大黑AI速报",
+          "id": "84c02f465fb1470fa85269acff18e16a16272356",
+          "title": "steipete 对 CodexBar 中的一个问题发表了评论 / steipete commented on an issue in CodexBar",
+          "url": "https://github.com/steipete/CodexBar/issues/1844",
+          "source": "Peter Steinberger",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T16:03:21Z"
+          "published_at": "2026-07-03T19:51:33Z"
         },
         {
-          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
-          "title": "第1424期 - 2026-07-03 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
-          "source": "大黑AI速报",
+          "id": "2d90c0c04c1e4e910c99ea1b2de7f982c6550a9e",
+          "title": "steipete 在 CodexBar 中关闭了该问题 / steipete closed an issue in CodexBar",
+          "url": "https://github.com/steipete/CodexBar/issues/1844",
+          "source": "Peter Steinberger",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:01:31Z"
-        },
-        {
-          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
-          "title": "第1423期 - 2026-07-03 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:01:30Z"
-        },
-        {
-          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
-          "title": "第1422期 - 2026-07-03 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T04:01:28Z"
-        },
-        {
-          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
-          "title": "第1421期 - 2026-07-03 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T00:01:54Z"
+          "published_at": "2026-07-03T19:51:04Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 3,
       "source_names": [
-        "大黑AI速报"
+        "Peter Steinberger"
       ],
       "items": [
         {
-          "id": "e09d0bdd7ce48aa6951b6aba2a6201504f69634a",
-          "title": "第1426期 - 2026-07-04 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
-          "source": "大黑AI速报",
+          "id": "db6f4db8dbf039c893c42d079256ab37aaf45505",
+          "title": "steipete 在 CodexBar 中关闭了该问题 / steipete closed an issue in CodexBar",
+          "url": "https://github.com/steipete/CodexBar/issues/1855",
+          "source": "Peter Steinberger",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T20:01:26Z"
+          "published_at": "2026-07-03T22:58:32Z"
         },
         {
-          "id": "76e3e94de8e07d98fcaf360b59f602c69894df6b",
-          "title": "第1425期 - 2026-07-04 00:03",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0003",
-          "source": "大黑AI速报",
+          "id": "84c02f465fb1470fa85269acff18e16a16272356",
+          "title": "steipete 对 CodexBar 中的一个问题发表了评论 / steipete commented on an issue in CodexBar",
+          "url": "https://github.com/steipete/CodexBar/issues/1844",
+          "source": "Peter Steinberger",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T16:03:21Z"
+          "published_at": "2026-07-03T19:51:33Z"
         },
         {
-          "id": "0a809b4d3e0158e7756728b6f8c290219acda33a",
-          "title": "第1424期 - 2026-07-03 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_2001",
-          "source": "大黑AI速报",
+          "id": "2d90c0c04c1e4e910c99ea1b2de7f982c6550a9e",
+          "title": "steipete 在 CodexBar 中关闭了该问题 / steipete closed an issue in CodexBar",
+          "url": "https://github.com/steipete/CodexBar/issues/1844",
+          "source": "Peter Steinberger",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T12:01:31Z"
-        },
-        {
-          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
-          "title": "第1423期 - 2026-07-03 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:01:30Z"
-        },
-        {
-          "id": "7d0d3fec88f32f7ad0447c9efe310a493f266373",
-          "title": "第1422期 - 2026-07-03 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T04:01:28Z"
-        },
-        {
-          "id": "22ee0200f5fac3413437fb4b66b898a5272c0786",
-          "title": "第1421期 - 2026-07-03 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T00:01:54Z"
+          "published_at": "2026-07-03T19:51:04Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6797,
-      "importance": 0.6797,
-      "importance_score": 0.6797,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6531,
+      "importance": 0.6531,
+      "importance_score": 0.6531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8934,
-        "story_heat": 1.0
+        "ai_relevance": 0.71,
+        "recency": 0.9506,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T00:01:54Z",
-      "latest_at": "2026-07-03T20:01:26Z",
+      "earliest_at": "2026-07-03T19:51:04Z",
+      "latest_at": "2026-07-03T22:58:32Z",
       "primary_item": {
-        "id": "e09d0bdd7ce48aa6951b6aba2a6201504f69634a",
-        "title": "第1426期 - 2026-07-04 04:01",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_0401",
-        "source": "大黑AI速报",
+        "id": "db6f4db8dbf039c893c42d079256ab37aaf45505",
+        "title": "steipete 在 CodexBar 中关闭了该问题 / steipete closed an issue in CodexBar",
+        "url": "https://github.com/steipete/CodexBar/issues/1855",
+        "source": "Peter Steinberger",
         "source_name": "OPML RSS"
       }
     },
@@ -785,7 +1164,7 @@
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:31:08.939540Z"
+          "published_at": "2026-07-03T11:09:23.224899Z"
         }
       ],
       "source_count": 2,
@@ -810,146 +1189,32 @@
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T10:31:08.939540Z"
+          "published_at": "2026-07-03T11:09:23.224899Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6586,
-      "importance": 0.6586,
-      "importance_score": 0.6586,
+      "score": 0.6454,
+      "importance": 0.6454,
+      "importance_score": 0.6454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.78,
-        "recency": 0.9978,
+        "recency": 0.9319,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T10:31:08.939540Z",
+      "earliest_at": "2026-07-03T11:09:23.224899Z",
       "latest_at": "2026-07-03T22:31:40.803000Z",
       "primary_item": {
         "id": "e3da88e932e0d671b1de1eafe9a2d1712e53bf89",
         "title": "Ask HN: 有没有人在尝试用大语言模型（LLM）进行编程的不同方法？",
         "url": "https://news.ycombinator.com/item?id=48771515",
         "source": "Buzzing|国外社交媒体热榜",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_795ec808fffe",
-      "title": "匿名者评论思想链欺骗目标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Anonymous",
-      "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-      "primary_url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-      "source": "Hackaday » Comments",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "899575277cffdfb4b58bbca1ed47284258e49bdf",
-          "title": "匿名者评论思想链欺骗目标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Anonymous",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T19:17:43Z"
-        },
-        {
-          "id": "3c96be31725b8538acf6125d62117f592f3f03a7",
-          "title": "Sedit T 对推理 AI 模型的思想链欺骗目标的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Sedit T",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:44:46Z"
-        },
-        {
-          "id": "74f2547d9042556e9422f9a8a5f0393978d73665",
-          "title": "Thinkerer 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Thinkerer",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T02:50:52Z"
-        },
-        {
-          "id": "ee892345ce7b2915e59e587e8c94d0e60b3ecca0",
-          "title": "思想链欺骗目标推理人工智能模型 / Chain-of-Thought Spoofing Targets Reasoning AI Models",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T02:00:07Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hackaday",
-        "Hackaday » Comments"
-      ],
-      "items": [
-        {
-          "id": "899575277cffdfb4b58bbca1ed47284258e49bdf",
-          "title": "匿名者评论思想链欺骗目标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Anonymous",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T19:17:43Z"
-        },
-        {
-          "id": "3c96be31725b8538acf6125d62117f592f3f03a7",
-          "title": "Sedit T 对推理 AI 模型的思想链欺骗目标的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Sedit T",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:44:46Z"
-        },
-        {
-          "id": "74f2547d9042556e9422f9a8a5f0393978d73665",
-          "title": "Thinkerer 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Thinkerer",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T02:50:52Z"
-        },
-        {
-          "id": "ee892345ce7b2915e59e587e8c94d0e60b3ecca0",
-          "title": "思想链欺骗目标推理人工智能模型 / Chain-of-Thought Spoofing Targets Reasoning AI Models",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T02:00:07Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6486,
-      "importance": 0.6486,
-      "importance_score": 0.6486,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8631,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T02:00:07Z",
-      "latest_at": "2026-07-03T19:17:43Z",
-      "primary_item": {
-        "id": "899575277cffdfb4b58bbca1ed47284258e49bdf",
-        "title": "匿名者评论思想链欺骗目标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Anonymous",
-        "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-        "source": "Hackaday » Comments",
         "source_name": "OPML RSS"
       }
     },
@@ -968,7 +1233,7 @@
           "source": "godlikeproductions.com| Forum 1",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T22:18:47Z"
+          "published_at": "2026-07-03T23:45:15Z"
         },
         {
           "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
@@ -992,7 +1257,7 @@
           "source": "godlikeproductions.com| Forum 1",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T22:18:47Z"
+          "published_at": "2026-07-03T23:45:15Z"
         },
         {
           "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
@@ -1006,14 +1271,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6328,
-      "importance": 0.6328,
-      "importance_score": 0.6328,
+      "score": 0.6316,
+      "importance": 0.6316,
+      "importance_score": 0.6316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.9888,
+        "recency": 0.983,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1021,12 +1286,90 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-03T09:28:07Z",
-      "latest_at": "2026-07-03T22:18:47Z",
+      "latest_at": "2026-07-03T23:45:15Z",
       "primary_item": {
         "id": "dc5ea76e994bf74e1dd287036583667117614d75",
         "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
         "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
         "source": "godlikeproductions.com| Forum 1",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_616f8e70b9f8",
+      "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "primary_url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "source": "Hacker News Digest",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "a1009b74c4f522d96fbf342e5782255b2fa55252",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T22:09:23.218255Z"
+        },
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:35:39.306000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News Digest",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a1009b74c4f522d96fbf342e5782255b2fa55252",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T22:09:23.218255Z"
+        },
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:35:39.306000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6213,
+      "importance": 0.6213,
+      "importance_score": 0.6213,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9165,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T22:09:23.218255Z",
+      "latest_at": "2026-07-03T22:35:39.306000Z",
+      "primary_item": {
+        "id": "a1009b74c4f522d96fbf342e5782255b2fa55252",
+        "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+        "url": "https://epoch.ai/data-insights/cve-severity-spike",
+        "source": "Hacker News Digest",
         "source_name": "OPML RSS"
       }
     },
@@ -1137,14 +1480,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6302,
-      "importance": 0.6302,
-      "importance_score": 0.6302,
+      "score": 0.617,
+      "importance": 0.617,
+      "importance_score": 0.617,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.6008,
+        "recency": 0.5349,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1158,199 +1501,6 @@
         "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
         "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/4ff1a10a5c...d6fecc4375",
         "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_616f8e70b9f8",
-      "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "primary_url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "source": "新闻|开发者|hacker news",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "e71174f120fe99285610ff4befbe289c0f8bcadf",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "新闻|开发者|hacker news",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T21:16:16Z"
-        },
-        {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:35:39.306000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews",
-        "新闻|开发者|hacker news"
-      ],
-      "items": [
-        {
-          "id": "e71174f120fe99285610ff4befbe289c0f8bcadf",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "新闻|开发者|hacker news",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T21:16:16Z"
-        },
-        {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:35:39.306000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6271,
-      "importance": 0.6271,
-      "importance_score": 0.6271,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9454,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:16:16Z",
-      "latest_at": "2026-07-03T22:35:39.306000Z",
-      "primary_item": {
-        "id": "e71174f120fe99285610ff4befbe289c0f8bcadf",
-        "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-        "url": "https://epoch.ai/data-insights/cve-severity-spike",
-        "source": "新闻|开发者|hacker news",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
-      "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
-      "primary_url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
-      "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "599734c9c408218b9c32c31a03962832d70acdac",
-          "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
-          "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
-          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T15:23:41Z"
-        },
-        {
-          "id": "942002d3ed18bdd770ad48c462b494d15ea56a19",
-          "title": "Meta AI不想努力了，求包养——带崩芯片牵头的一众科技股！？",
-          "url": "https://www.youtube.com/watch?v=BuSC4yV3x_w",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T13:59:03Z"
-        },
-        {
-          "id": "416740e515b22d5aec1081a3587db7ea1dc14942",
-          "title": "Ed Zitron 在 CNBC 上表示：GenAI 行不通，大型科技公司已经不再有高速增长的想法 / Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
-          "url": "https://www.youtube.com/watch?v=TtmPccUTDP8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T11:04:18Z"
-        },
-        {
-          "id": "28a03f9a1b14308f44cac1ac2f97e46c2334e4c7",
-          "title": "加州在投票继续扼杀游戏后立即投票废除 3D 打印 [视频] / California votes to ruin 3D printing right after voting to keep killing games [video]",
-          "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T03:04:26Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-        "Hacker News · 24h最热",
-        "范路 | 老范讲故事"
-      ],
-      "items": [
-        {
-          "id": "599734c9c408218b9c32c31a03962832d70acdac",
-          "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
-          "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
-          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T15:23:41Z"
-        },
-        {
-          "id": "942002d3ed18bdd770ad48c462b494d15ea56a19",
-          "title": "Meta AI不想努力了，求包养——带崩芯片牵头的一众科技股！？",
-          "url": "https://www.youtube.com/watch?v=BuSC4yV3x_w",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T13:59:03Z"
-        },
-        {
-          "id": "416740e515b22d5aec1081a3587db7ea1dc14942",
-          "title": "Ed Zitron 在 CNBC 上表示：GenAI 行不通，大型科技公司已经不再有高速增长的想法 / Ed Zitron on CNBC: GenAI Doesn't Work, and Big Tech Is Out of Hypergrowth Ideas",
-          "url": "https://www.youtube.com/watch?v=TtmPccUTDP8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T11:04:18Z"
-        },
-        {
-          "id": "28a03f9a1b14308f44cac1ac2f97e46c2334e4c7",
-          "title": "加州在投票继续扼杀游戏后立即投票废除 3D 打印 [视频] / California votes to ruin 3D printing right after voting to keep killing games [video]",
-          "url": "https://www.youtube.com/watch?v=_GIigWnNRVg",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T03:04:26Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6251,
-      "importance": 0.6251,
-      "importance_score": 0.6251,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.7006,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T03:04:26Z",
-      "latest_at": "2026-07-03T15:23:41Z",
-      "primary_item": {
-        "id": "599734c9c408218b9c32c31a03962832d70acdac",
-        "title": "最好的人工智能编码设置并不是最自主的（原因如下） / The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
-        "url": "https://www.youtube.com/watch?v=muwRbfuKbR4",
-        "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
         "source_name": "OPML RSS"
       }
     },
@@ -1443,14 +1593,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6245,
-      "importance": 0.6245,
-      "importance_score": 0.6245,
+      "score": 0.6113,
+      "importance": 0.6113,
+      "importance_score": 0.6113,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7425,
+        "recency": 0.6766,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1520,14 +1670,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.624,
-      "importance": 0.624,
-      "importance_score": 0.624,
+      "score": 0.6108,
+      "importance": 0.6108,
+      "importance_score": 0.6108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.99,
+        "recency": 0.9241,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1597,14 +1747,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6234,
-      "importance": 0.6234,
-      "importance_score": 0.6234,
+      "score": 0.6102,
+      "importance": 0.6102,
+      "importance_score": 0.6102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9868,
+        "recency": 0.921,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1674,14 +1824,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6178,
-      "importance": 0.6178,
-      "importance_score": 0.6178,
+      "score": 0.6046,
+      "importance": 0.6046,
+      "importance_score": 0.6046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.899,
+        "recency": 0.8331,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1695,83 +1845,6 @@
         "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
         "url": "https://lobste.rs/c/7lf5c3",
         "source": "Comments",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_4d8919df52cd",
-      "title": "steipete 对 CodexBar 中的一个问题发表了评论 / steipete commented on an issue in CodexBar",
-      "url": "https://github.com/steipete/CodexBar/issues/1844",
-      "primary_url": "https://github.com/steipete/CodexBar/issues/1844",
-      "source": "Peter Steinberger",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "84c02f465fb1470fa85269acff18e16a16272356",
-          "title": "steipete 对 CodexBar 中的一个问题发表了评论 / steipete commented on an issue in CodexBar",
-          "url": "https://github.com/steipete/CodexBar/issues/1844",
-          "source": "Peter Steinberger",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T19:51:33Z"
-        },
-        {
-          "id": "2d90c0c04c1e4e910c99ea1b2de7f982c6550a9e",
-          "title": "steipete 在 CodexBar 中关闭了该问题 / steipete closed an issue in CodexBar",
-          "url": "https://github.com/steipete/CodexBar/issues/1844",
-          "source": "Peter Steinberger",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T19:51:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Peter Steinberger"
-      ],
-      "items": [
-        {
-          "id": "84c02f465fb1470fa85269acff18e16a16272356",
-          "title": "steipete 对 CodexBar 中的一个问题发表了评论 / steipete commented on an issue in CodexBar",
-          "url": "https://github.com/steipete/CodexBar/issues/1844",
-          "source": "Peter Steinberger",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T19:51:33Z"
-        },
-        {
-          "id": "2d90c0c04c1e4e910c99ea1b2de7f982c6550a9e",
-          "title": "steipete 在 CodexBar 中关闭了该问题 / steipete closed an issue in CodexBar",
-          "url": "https://github.com/steipete/CodexBar/issues/1844",
-          "source": "Peter Steinberger",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T19:51:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6153,
-      "importance": 0.6153,
-      "importance_score": 0.6153,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8866,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T19:51:04Z",
-      "latest_at": "2026-07-03T19:51:33Z",
-      "primary_item": {
-        "id": "84c02f465fb1470fa85269acff18e16a16272356",
-        "title": "steipete 对 CodexBar 中的一个问题发表了评论 / steipete commented on an issue in CodexBar",
-        "url": "https://github.com/steipete/CodexBar/issues/1844",
-        "source": "Peter Steinberger",
         "source_name": "OPML RSS"
       }
     },
@@ -1799,7 +1872,7 @@
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T17:55:10.337526Z"
+          "published_at": "2026-07-03T18:09:23.223570Z"
         },
         {
           "id": "b7165184fc44b2e09f1badea34e4ba7d58f1f9d3",
@@ -1834,7 +1907,7 @@
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T17:55:10.337526Z"
+          "published_at": "2026-07-03T18:09:23.223570Z"
         },
         {
           "id": "b7165184fc44b2e09f1badea34e4ba7d58f1f9d3",
@@ -1848,21 +1921,21 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6448,
-      "importance": 0.6448,
-      "importance_score": 0.6448,
+      "score": 0.6316,
+      "importance": 0.6316,
+      "importance_score": 0.6316,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.909,
+        "recency": 0.8432,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T17:55:10.337526Z",
+      "earliest_at": "2026-07-03T18:09:23.223570Z",
       "latest_at": "2026-07-03T20:23:50.986000Z",
       "primary_item": {
         "id": "8192809c61a0e31a8258cd9e9f5b4c63ef7b2309",
@@ -1962,14 +2035,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6437,
-      "importance": 0.6437,
-      "importance_score": 0.6437,
+      "score": 0.6306,
+      "importance": 0.6306,
+      "importance_score": 0.6306,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8386,
+        "recency": 0.7728,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1987,80 +2060,79 @@
       }
     },
     {
-      "story_id": "story_551c2101be10",
-      "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "url": "https://kagi.com/changelog",
-      "primary_url": "https://kagi.com/changelog",
-      "source": "Hacker News Digest",
+      "story_id": "story_dae15065d97c",
+      "title": "【乾行AI中转站】支持GPT、Claude、Gemini，倍率地址0.01x，有5刀福利，附上检测报告和延迟截图",
+      "url": "https://www.nodeloc.com/t/topic/97451",
+      "primary_url": "https://www.nodeloc.com/t/topic/97451",
+      "source": "NodeLoc最新帖子",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "32b7098d9f80afac51d10ba6c55b643aaa40ed0f",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://kagi.com/changelog",
-          "source": "Hacker News Digest",
+          "id": "95acfb85df6a9de6a024a3aaf4d1431fc2630afb",
+          "title": "【乾行AI中转站】支持GPT、Claude、Gemini，倍率地址0.01x，有5刀福利，附上检测报告和延迟截图",
+          "url": "https://www.nodeloc.com/t/topic/97451",
+          "source": "NodeLoc最新帖子",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T20:31:08.931358Z"
+          "published_at": "2026-07-03T15:52:49Z"
         },
         {
-          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://news.ycombinator.com/item?id=48779352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:35:39.306000Z"
+          "id": "c35b5f436f880661ab61c3488d6ba875ef56ea55",
+          "title": "【乾行AI中转站】支持GPT、Claude、Gemini，限时开福利分组，0.01x，新用户注册送额度，约等于免费了",
+          "url": "https://www.nodeloc.com/t/topic/97451",
+          "source": "NodeLoc最新帖子",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:52:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News Digest",
-        "hackernews"
+        "NodeLoc最新帖子"
       ],
       "items": [
         {
-          "id": "32b7098d9f80afac51d10ba6c55b643aaa40ed0f",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://kagi.com/changelog",
-          "source": "Hacker News Digest",
+          "id": "95acfb85df6a9de6a024a3aaf4d1431fc2630afb",
+          "title": "【乾行AI中转站】支持GPT、Claude、Gemini，倍率地址0.01x，有5刀福利，附上检测报告和延迟截图",
+          "url": "https://www.nodeloc.com/t/topic/97451",
+          "source": "NodeLoc最新帖子",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T20:31:08.931358Z"
+          "published_at": "2026-07-03T15:52:49Z"
         },
         {
-          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://news.ycombinator.com/item?id=48779352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:35:39.306000Z"
+          "id": "c35b5f436f880661ab61c3488d6ba875ef56ea55",
+          "title": "【乾行AI中转站】支持GPT、Claude、Gemini，限时开福利分组，0.01x，新用户注册送额度，约等于免费了",
+          "url": "https://www.nodeloc.com/t/topic/97451",
+          "source": "NodeLoc最新帖子",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T15:52:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6088,
-      "importance": 0.6088,
-      "importance_score": 0.6088,
+      "score": 0.593,
+      "importance": 0.593,
+      "importance_score": 0.593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9141,
+        "ai_relevance": 0.79,
+        "recency": 0.6549,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T20:31:08.931358Z",
-      "latest_at": "2026-07-03T22:35:39.306000Z",
+      "earliest_at": "2026-07-03T15:52:49Z",
+      "latest_at": "2026-07-03T15:52:49Z",
       "primary_item": {
-        "id": "32b7098d9f80afac51d10ba6c55b643aaa40ed0f",
-        "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-        "url": "https://kagi.com/changelog",
-        "source": "Hacker News Digest",
+        "id": "95acfb85df6a9de6a024a3aaf4d1431fc2630afb",
+        "title": "【乾行AI中转站】支持GPT、Claude、Gemini，倍率地址0.01x，有5刀福利，附上检测报告和延迟截图",
+        "url": "https://www.nodeloc.com/t/topic/97451",
+        "source": "NodeLoc最新帖子",
         "source_name": "OPML RSS"
       }
     }
