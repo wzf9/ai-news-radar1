@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-04T07:24:03.453379Z",
+  "generated_at": "2026-07-04T09:37:32.553334Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1724-30cb-9cc4-96de3671981b&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-1724-30cb-9cc4-96de3671981b&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1938-0016-b662-980b8bc9504d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-1938-0016-b662-980b8bc9504d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "c9c6a1fb772a40a406717bd55b67536f0cf186a0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1938-0016-b662-980b8bc9504d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "00425e23951f83ebaf1d58fc167b72cc43024c91",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "efd8af5a37a73aac3a7427207e2077673d0a3811",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2042-3220-b1c5-e0ec1fd82590&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "5a16b3b7666e5bc8eedf63637f0e713244208beb",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1747-49d5-b50a-78b155a96fda&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "c9c6a1fb772a40a406717bd55b67536f0cf186a0",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1938-0016-b662-980b8bc9504d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "00425e23951f83ebaf1d58fc167b72cc43024c91",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1724-30cb-9cc4-96de3671981b&fp=-3",
@@ -201,15 +210,6 @@
           "id": "efd8af5a37a73aac3a7427207e2077673d0a3811",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-2042-3220-b1c5-e0ec1fd82590&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "5a16b3b7666e5bc8eedf63637f0e713244208beb",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1747-49d5-b50a-78b155a96fda&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,268 +234,296 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-03T07:47:20.309200Z",
-      "latest_at": "2026-07-04T07:24:03.453379Z",
+      "earliest_at": "2026-07-03T10:42:09.653471Z",
+      "latest_at": "2026-07-04T09:37:32.553334Z",
       "primary_item": {
-        "id": "00425e23951f83ebaf1d58fc167b72cc43024c91",
+        "id": "c9c6a1fb772a40a406717bd55b67536f0cf186a0",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1724-30cb-9cc4-96de3671981b&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1938-0016-b662-980b8bc9504d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_795ec808fffe",
-      "title": "评论思想链欺骗目标通过鼠标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Mouse",
-      "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-      "primary_url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-      "source": "Hackaday » Comments",
+      "story_id": "story_79734a616417",
+      "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+      "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/d250fe78ca...1b0be65677",
+      "primary_url": "https://github.com/Dicklesworthstone/franken_whisper/compare/d250fe78ca...1b0be65677",
+      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "542c77a6eca6802a4053be10ac5f8887549826c1",
-          "title": "评论思想链欺骗目标通过鼠标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Mouse",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
+          "id": "b7c10a6b4965c43308627f6f48b395cd5b897e45",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/d250fe78ca...1b0be65677",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-04T06:34:14Z"
+          "published_at": "2026-07-04T09:36:43Z"
         },
         {
-          "id": "eba9e8d825bf431b990694d2d51a1b87fd787dea",
-          "title": "NSFW 对推理 AI 模型的思想链欺骗目标的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by NSFW",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
+          "id": "8110f24bc0f1ebc84166694d189e4734d14344cd",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/bb9d2879c4...d01b0d6eb8",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-04T03:56:37Z"
+          "published_at": "2026-07-04T07:11:50Z"
         },
         {
-          "id": "135ef05adbb2cf99fde4e2897dfcc1b640b3d90c",
-          "title": "Greg A 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Greg A",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
+          "id": "485c257393945db692c39463b80fdf21b1f14814",
+          "title": "Dicklesworthstone 推动了 Franken_engine / Dicklesworthstone pushed franken_engine",
+          "url": "https://github.com/Dicklesworthstone/franken_engine/compare/fea33f8583...4bae9f133b",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T22:43:50Z"
+          "published_at": "2026-07-04T04:15:20Z"
         },
         {
-          "id": "899575277cffdfb4b58bbca1ed47284258e49bdf",
-          "title": "匿名者评论思想链欺骗目标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Anonymous",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
+          "id": "187cebb50f41f0a87855ef4d7407c4f9a8127576",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/8e06df4b9f...9efe17cab0",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T19:17:43Z"
+          "published_at": "2026-07-04T04:05:20Z"
         },
         {
-          "id": "3c96be31725b8538acf6125d62117f592f3f03a7",
-          "title": "Sedit T 对推理 AI 模型的思想链欺骗目标的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Sedit T",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
+          "id": "f936a46c59dce2c28dd2c57d1e6f110e8b1a48e7",
+          "title": "迪克尔斯沃斯通推了弗兰肯雷迪斯 / Dicklesworthstone pushed frankenredis",
+          "url": "https://github.com/Dicklesworthstone/frankenredis/compare/eefa0ce7a3...66470f1fbe",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:44:46Z"
+          "published_at": "2026-07-04T03:59:09Z"
         }
       ],
       "source_count": 5,
       "source_names": [
-        "Hackaday » Comments"
+        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
       ],
       "items": [
         {
-          "id": "542c77a6eca6802a4053be10ac5f8887549826c1",
-          "title": "评论思想链欺骗目标通过鼠标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Mouse",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
+          "id": "b7c10a6b4965c43308627f6f48b395cd5b897e45",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/d250fe78ca...1b0be65677",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-04T06:34:14Z"
+          "published_at": "2026-07-04T09:36:43Z"
         },
         {
-          "id": "eba9e8d825bf431b990694d2d51a1b87fd787dea",
-          "title": "NSFW 对推理 AI 模型的思想链欺骗目标的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by NSFW",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
+          "id": "8110f24bc0f1ebc84166694d189e4734d14344cd",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/bb9d2879c4...d01b0d6eb8",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-04T03:56:37Z"
+          "published_at": "2026-07-04T07:11:50Z"
         },
         {
-          "id": "135ef05adbb2cf99fde4e2897dfcc1b640b3d90c",
-          "title": "Greg A 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Greg A",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
+          "id": "485c257393945db692c39463b80fdf21b1f14814",
+          "title": "Dicklesworthstone 推动了 Franken_engine / Dicklesworthstone pushed franken_engine",
+          "url": "https://github.com/Dicklesworthstone/franken_engine/compare/fea33f8583...4bae9f133b",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T22:43:50Z"
+          "published_at": "2026-07-04T04:15:20Z"
         },
         {
-          "id": "899575277cffdfb4b58bbca1ed47284258e49bdf",
-          "title": "匿名者评论思想链欺骗目标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Anonymous",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
+          "id": "187cebb50f41f0a87855ef4d7407c4f9a8127576",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/8e06df4b9f...9efe17cab0",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T19:17:43Z"
+          "published_at": "2026-07-04T04:05:20Z"
         },
         {
-          "id": "3c96be31725b8538acf6125d62117f592f3f03a7",
-          "title": "Sedit T 对推理 AI 模型的思想链欺骗目标的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Sedit T",
-          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-          "source": "Hackaday » Comments",
+          "id": "f936a46c59dce2c28dd2c57d1e6f110e8b1a48e7",
+          "title": "迪克尔斯沃斯通推了弗兰肯雷迪斯 / Dicklesworthstone pushed frankenredis",
+          "url": "https://github.com/Dicklesworthstone/frankenredis/compare/eefa0ce7a3...66470f1fbe",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:44:46Z"
+          "published_at": "2026-07-04T03:59:09Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6941,
-      "importance": 0.6941,
-      "importance_score": 0.6941,
+      "score": 0.7099,
+      "importance": 0.7099,
+      "importance_score": 0.7099,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9654,
+        "ai_relevance": 0.7,
+        "recency": 0.9994,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T07:44:46Z",
-      "latest_at": "2026-07-04T06:34:14Z",
+      "earliest_at": "2026-07-04T03:59:09Z",
+      "latest_at": "2026-07-04T09:36:43Z",
       "primary_item": {
-        "id": "542c77a6eca6802a4053be10ac5f8887549826c1",
-        "title": "评论思想链欺骗目标通过鼠标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Mouse",
-        "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
-        "source": "Hackaday » Comments",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_767e555d9821",
-      "title": "Dicklesworthstone 推动了 Franken_networkx / Dicklesworthstone pushed franken_networkx",
-      "url": "https://github.com/Dicklesworthstone/franken_networkx/compare/7b55dbe234...4b13dbd03c",
-      "primary_url": "https://github.com/Dicklesworthstone/franken_networkx/compare/7b55dbe234...4b13dbd03c",
-      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "0d517cc4b21ea479881e6adeac8bca1975a658c2",
-          "title": "Dicklesworthstone 推动了 Franken_networkx / Dicklesworthstone pushed franken_networkx",
-          "url": "https://github.com/Dicklesworthstone/franken_networkx/compare/7b55dbe234...4b13dbd03c",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T07:11:58Z"
-        },
-        {
-          "id": "577b0b85eccd5f223e7de46fef7bacd9066d5a2e",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/02d8c7d0f9...01c307b216",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T07:07:31Z"
-        },
-        {
-          "id": "87783c71ac441d6631c76156a9fe610d72c145ec",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/228c7092d5...490d9bb964",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:09:16Z"
-        },
-        {
-          "id": "667d310d3aaef38e396cc3889523371f4149bc31",
-          "title": "迪克斯沃斯通推动了弗兰肯贾克斯 / Dicklesworthstone pushed frankenjax",
-          "url": "https://github.com/Dicklesworthstone/frankenjax/compare/957700f7be...7c65ab63bf",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:00:30Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
-      ],
-      "items": [
-        {
-          "id": "0d517cc4b21ea479881e6adeac8bca1975a658c2",
-          "title": "Dicklesworthstone 推动了 Franken_networkx / Dicklesworthstone pushed franken_networkx",
-          "url": "https://github.com/Dicklesworthstone/franken_networkx/compare/7b55dbe234...4b13dbd03c",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T07:11:58Z"
-        },
-        {
-          "id": "577b0b85eccd5f223e7de46fef7bacd9066d5a2e",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/02d8c7d0f9...01c307b216",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T07:07:31Z"
-        },
-        {
-          "id": "87783c71ac441d6631c76156a9fe610d72c145ec",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/228c7092d5...490d9bb964",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:09:16Z"
-        },
-        {
-          "id": "667d310d3aaef38e396cc3889523371f4149bc31",
-          "title": "迪克斯沃斯通推动了弗兰肯贾克斯 / Dicklesworthstone pushed frankenjax",
-          "url": "https://github.com/Dicklesworthstone/frankenjax/compare/957700f7be...7c65ab63bf",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:00:30Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6833,
-      "importance": 0.6833,
-      "importance_score": 0.6833,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.9916,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T04:00:30Z",
-      "latest_at": "2026-07-04T07:11:58Z",
-      "primary_item": {
-        "id": "0d517cc4b21ea479881e6adeac8bca1975a658c2",
-        "title": "Dicklesworthstone 推动了 Franken_networkx / Dicklesworthstone pushed franken_networkx",
-        "url": "https://github.com/Dicklesworthstone/franken_networkx/compare/7b55dbe234...4b13dbd03c",
+        "id": "b7c10a6b4965c43308627f6f48b395cd5b897e45",
+        "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+        "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/d250fe78ca...1b0be65677",
         "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
         "source_name": "OPML RSS"
       }
     },
     {
+      "story_id": "story_1673f151139e",
+      "title": "Sammie Gee 对 Godot 新贡献政策的评论为 AI 障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Sammie Gee",
+      "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+      "primary_url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+      "source": "Hackaday » Comments",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "54cccc4bd37c5d36884fe4a7696ddb0b02572a3c",
+          "title": "Sammie Gee 对 Godot 新贡献政策的评论为 AI 障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Sammie Gee",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T09:10:14Z"
+        },
+        {
+          "id": "1646b1733e22e968d89f323802e2b7e71bdfa3dc",
+          "title": "马修对戈多新贡献政策的评论为人工智能障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Matthew",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T18:42:30Z"
+        },
+        {
+          "id": "27553f50f92b41c4d1f96b6c89a7aa3064e9f46f",
+          "title": "Gus Mueller 对 Godot 新贡献政策的评论为 AI 障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Gus Mueller",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:44:45Z"
+        },
+        {
+          "id": "558ef0188e5a646ae49d959d3f87cf6f04bf85f6",
+          "title": "PWalsh 对 Godot 新贡献政策增加 AI 障碍的评论 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by PWalsh",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:35:12Z"
+        },
+        {
+          "id": "fd9921cd49b08d8e8f8de9c065dc9d2a9ab18355",
+          "title": "Godot 的新贡献政策为 AI 发展增添了障碍 / Godot’s New Contributing Policy Adds Barriers for AI Slop",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T11:00:06Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hackaday",
+        "Hackaday » Comments"
+      ],
+      "items": [
+        {
+          "id": "54cccc4bd37c5d36884fe4a7696ddb0b02572a3c",
+          "title": "Sammie Gee 对 Godot 新贡献政策的评论为 AI 障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Sammie Gee",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T09:10:14Z"
+        },
+        {
+          "id": "1646b1733e22e968d89f323802e2b7e71bdfa3dc",
+          "title": "马修对戈多新贡献政策的评论为人工智能障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Matthew",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T18:42:30Z"
+        },
+        {
+          "id": "27553f50f92b41c4d1f96b6c89a7aa3064e9f46f",
+          "title": "Gus Mueller 对 Godot 新贡献政策的评论为 AI 障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Gus Mueller",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T16:44:45Z"
+        },
+        {
+          "id": "558ef0188e5a646ae49d959d3f87cf6f04bf85f6",
+          "title": "PWalsh 对 Godot 新贡献政策增加 AI 障碍的评论 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by PWalsh",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T12:35:12Z"
+        },
+        {
+          "id": "fd9921cd49b08d8e8f8de9c065dc9d2a9ab18355",
+          "title": "Godot 的新贡献政策为 AI 发展增添了障碍 / Godot’s New Contributing Policy Adds Barriers for AI Slop",
+          "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T11:00:06Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6972,
+      "importance": 0.6972,
+      "importance_score": 0.6972,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.981,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T11:00:06Z",
+      "latest_at": "2026-07-04T09:10:14Z",
+      "primary_item": {
+        "id": "54cccc4bd37c5d36884fe4a7696ddb0b02572a3c",
+        "title": "Sammie Gee 对 Godot 新贡献政策的评论为 AI 障碍增加了障碍 / Comment on Godot’s New Contributing Policy Adds Barriers for AI Slop by Sammie Gee",
+        "url": "https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop",
+        "source": "Hackaday » Comments",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
       "story_id": "story_c56b58e9d916",
-      "title": "第1428期 - 2026-07-04 12:00",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_1200",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_1200",
+      "title": "第1429期 - 2026-07-04 16:01",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_1601",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_1601",
       "source": "大黑AI速报",
       "source_name": "OPML RSS",
       "sources": [
+        {
+          "id": "106176381e85e58925bf607a4f5a286a0065ebf4",
+          "title": "第1429期 - 2026-07-04 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T08:01:15Z"
+        },
         {
           "id": "c38fd905bf7498d43c07266dfbae649097f2a56c",
           "title": "第1428期 - 2026-07-04 12:00",
@@ -540,15 +568,6 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-07-03T12:01:31Z"
-        },
-        {
-          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
-          "title": "第1423期 - 2026-07-03 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:01:30Z"
         }
       ],
       "source_count": 6,
@@ -557,6 +576,15 @@
       ],
       "items": [
         {
+          "id": "106176381e85e58925bf607a4f5a286a0065ebf4",
+          "title": "第1429期 - 2026-07-04 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T08:01:15Z"
+        },
+        {
           "id": "c38fd905bf7498d43c07266dfbae649097f2a56c",
           "title": "第1428期 - 2026-07-04 12:00",
           "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_1200",
@@ -600,40 +628,180 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-07-03T12:01:31Z"
-        },
-        {
-          "id": "11bc0b924d35a11d79e5e19914800c7f2de87882",
-          "title": "第1423期 - 2026-07-03 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-03_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:01:30Z"
         }
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6728,
-      "importance": 0.6728,
-      "importance_score": 0.6728,
+      "score": 0.6876,
+      "importance": 0.6876,
+      "importance_score": 0.6876,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.859,
+        "recency": 0.9331,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T08:01:30Z",
-      "latest_at": "2026-07-04T04:00:59Z",
+      "earliest_at": "2026-07-03T12:01:31Z",
+      "latest_at": "2026-07-04T08:01:15Z",
       "primary_item": {
-        "id": "c38fd905bf7498d43c07266dfbae649097f2a56c",
-        "title": "第1428期 - 2026-07-04 12:00",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_1200",
+        "id": "106176381e85e58925bf607a4f5a286a0065ebf4",
+        "title": "第1429期 - 2026-07-04 16:01",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-04_1601",
         "source": "大黑AI速报",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_767e555d9821",
+      "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+      "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/123cc3d4fc...9aab335608",
+      "primary_url": "https://github.com/Dicklesworthstone/franken_numpy/compare/123cc3d4fc...9aab335608",
+      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "b2fa8aec572da3c853f259507142d62f4c5e5dcb",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/123cc3d4fc...9aab335608",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T09:36:20Z"
+        },
+        {
+          "id": "fd75255c844f630fc1b6cd6474be7c522e4bf528",
+          "title": "Dicklesworthstone 推动了 Franken_networkx / Dicklesworthstone pushed franken_networkx",
+          "url": "https://github.com/Dicklesworthstone/franken_networkx/compare/b9dd90efb9...9bac9574e0",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T09:33:45Z"
+        },
+        {
+          "id": "0d517cc4b21ea479881e6adeac8bca1975a658c2",
+          "title": "Dicklesworthstone 推动了 Franken_networkx / Dicklesworthstone pushed franken_networkx",
+          "url": "https://github.com/Dicklesworthstone/franken_networkx/compare/7b55dbe234...4b13dbd03c",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T07:11:58Z"
+        },
+        {
+          "id": "577b0b85eccd5f223e7de46fef7bacd9066d5a2e",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/02d8c7d0f9...01c307b216",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T07:07:31Z"
+        },
+        {
+          "id": "87783c71ac441d6631c76156a9fe610d72c145ec",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/228c7092d5...490d9bb964",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T04:09:16Z"
+        },
+        {
+          "id": "667d310d3aaef38e396cc3889523371f4149bc31",
+          "title": "迪克斯沃斯通推动了弗兰肯贾克斯 / Dicklesworthstone pushed frankenjax",
+          "url": "https://github.com/Dicklesworthstone/frankenjax/compare/957700f7be...7c65ab63bf",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T04:00:30Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
+      ],
+      "items": [
+        {
+          "id": "b2fa8aec572da3c853f259507142d62f4c5e5dcb",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/123cc3d4fc...9aab335608",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T09:36:20Z"
+        },
+        {
+          "id": "fd75255c844f630fc1b6cd6474be7c522e4bf528",
+          "title": "Dicklesworthstone 推动了 Franken_networkx / Dicklesworthstone pushed franken_networkx",
+          "url": "https://github.com/Dicklesworthstone/franken_networkx/compare/b9dd90efb9...9bac9574e0",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T09:33:45Z"
+        },
+        {
+          "id": "0d517cc4b21ea479881e6adeac8bca1975a658c2",
+          "title": "Dicklesworthstone 推动了 Franken_networkx / Dicklesworthstone pushed franken_networkx",
+          "url": "https://github.com/Dicklesworthstone/franken_networkx/compare/7b55dbe234...4b13dbd03c",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T07:11:58Z"
+        },
+        {
+          "id": "577b0b85eccd5f223e7de46fef7bacd9066d5a2e",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/02d8c7d0f9...01c307b216",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T07:07:31Z"
+        },
+        {
+          "id": "87783c71ac441d6631c76156a9fe610d72c145ec",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/228c7092d5...490d9bb964",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T04:09:16Z"
+        },
+        {
+          "id": "667d310d3aaef38e396cc3889523371f4149bc31",
+          "title": "迪克斯沃斯通推动了弗兰肯贾克斯 / Dicklesworthstone pushed frankenjax",
+          "url": "https://github.com/Dicklesworthstone/frankenjax/compare/957700f7be...7c65ab63bf",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T04:00:30Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.7098,
+      "importance": 0.7098,
+      "importance_score": 0.7098,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.9992,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T04:00:30Z",
+      "latest_at": "2026-07-04T09:36:20Z",
+      "primary_item": {
+        "id": "b2fa8aec572da3c853f259507142d62f4c5e5dcb",
+        "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+        "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/123cc3d4fc...9aab335608",
+        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
         "source_name": "OPML RSS"
       }
     },
@@ -691,14 +859,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6645,
-      "importance": 0.6645,
-      "importance_score": 0.6645,
+      "score": 0.646,
+      "importance": 0.646,
+      "importance_score": 0.646,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1376,
+        "recency": 0.0449,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -717,480 +885,79 @@
       }
     },
     {
-      "story_id": "story_06361a5b1167",
-      "title": "Madeye 关闭了 meow-rs 中的一个问题 / madeye closed an issue in meow-rs",
-      "url": "https://github.com/madeye/meow-rs/issues/289",
-      "primary_url": "https://github.com/madeye/meow-rs/issues/289",
-      "source": "madeye|AI暴露度CN/clash",
+      "story_id": "story_4cff4dc48993",
+      "title": "steipete 为 steipete/CodexBar 做出了贡献 / steipete contributed to steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar/pull/1875",
+      "primary_url": "https://github.com/steipete/CodexBar/pull/1875",
+      "source": "Peter Steinberger",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "9d7332cb018d89e3391be4702686a79061bc3cfb",
-          "title": "Madeye 关闭了 meow-rs 中的一个问题 / madeye closed an issue in meow-rs",
-          "url": "https://github.com/madeye/meow-rs/issues/289",
-          "source": "madeye|AI暴露度CN/clash",
+          "id": "3cb7902d95b5769e8bf944dc29850ec455336654",
+          "title": "steipete 为 steipete/CodexBar 做出了贡献 / steipete contributed to steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar/pull/1875",
+          "source": "Peter Steinberger",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:46:30Z"
+          "published_at": "2026-07-04T09:38:18Z"
         },
         {
-          "id": "638f82cd183eb081d6194a409cec8689dedc3e94",
-          "title": "madeye 在 meow-rs 中评论了一个问题 / madeye commented on an issue in meow-rs",
-          "url": "https://github.com/madeye/meow-rs/issues/289",
-          "source": "madeye|AI暴露度CN/clash",
+          "id": "47721d477d30e5a88ad8ac8fb828dada5399be83",
+          "title": "steipete 在 CodexBar 中打开了拉取请求 / steipete opened a pull request in CodexBar",
+          "url": "https://github.com/steipete/CodexBar/pull/1875",
+          "source": "Peter Steinberger",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:46:57Z"
-        },
-        {
-          "id": "472649a8b4e6d4bab733a4abae651643c4a5a9ec",
-          "title": "madeye 关闭了 meow-ios 中的一个问题 / madeye closed an issue in meow-ios",
-          "url": "https://github.com/madeye/meow-ios/issues/255",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:40:35Z"
-        },
-        {
-          "id": "e5f62affbd2318080d5e0ec153806b7ad3b44d9d",
-          "title": "madeye 评论了 meow-ios 中的一个问题 / madeye commented on an issue in meow-ios",
-          "url": "https://github.com/madeye/meow-ios/issues/274",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:24:07Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "madeye|AI暴露度CN/clash"
-      ],
-      "items": [
-        {
-          "id": "9d7332cb018d89e3391be4702686a79061bc3cfb",
-          "title": "Madeye 关闭了 meow-rs 中的一个问题 / madeye closed an issue in meow-rs",
-          "url": "https://github.com/madeye/meow-rs/issues/289",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:46:30Z"
-        },
-        {
-          "id": "638f82cd183eb081d6194a409cec8689dedc3e94",
-          "title": "madeye 在 meow-rs 中评论了一个问题 / madeye commented on an issue in meow-rs",
-          "url": "https://github.com/madeye/meow-rs/issues/289",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:46:57Z"
-        },
-        {
-          "id": "472649a8b4e6d4bab733a4abae651643c4a5a9ec",
-          "title": "madeye 关闭了 meow-ios 中的一个问题 / madeye closed an issue in meow-ios",
-          "url": "https://github.com/madeye/meow-ios/issues/255",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:40:35Z"
-        },
-        {
-          "id": "e5f62affbd2318080d5e0ec153806b7ad3b44d9d",
-          "title": "madeye 评论了 meow-ios 中的一个问题 / madeye commented on an issue in meow-ios",
-          "url": "https://github.com/madeye/meow-ios/issues/274",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:24:07Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6541,
-      "importance": 0.6541,
-      "importance_score": 0.6541,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8906,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T07:24:07Z",
-      "latest_at": "2026-07-04T04:46:30Z",
-      "primary_item": {
-        "id": "9d7332cb018d89e3391be4702686a79061bc3cfb",
-        "title": "Madeye 关闭了 meow-rs 中的一个问题 / madeye closed an issue in meow-rs",
-        "url": "https://github.com/madeye/meow-rs/issues/289",
-        "source": "madeye|AI暴露度CN/clash",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_79734a616417",
-      "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
-      "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/bb9d2879c4...d01b0d6eb8",
-      "primary_url": "https://github.com/Dicklesworthstone/franken_whisper/compare/bb9d2879c4...d01b0d6eb8",
-      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "8110f24bc0f1ebc84166694d189e4734d14344cd",
-          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
-          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/bb9d2879c4...d01b0d6eb8",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T07:11:50Z"
-        },
-        {
-          "id": "485c257393945db692c39463b80fdf21b1f14814",
-          "title": "Dicklesworthstone 推动了 Franken_engine / Dicklesworthstone pushed franken_engine",
-          "url": "https://github.com/Dicklesworthstone/franken_engine/compare/fea33f8583...4bae9f133b",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:15:20Z"
-        },
-        {
-          "id": "187cebb50f41f0a87855ef4d7407c4f9a8127576",
-          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
-          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/8e06df4b9f...9efe17cab0",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:05:20Z"
-        },
-        {
-          "id": "f936a46c59dce2c28dd2c57d1e6f110e8b1a48e7",
-          "title": "迪克尔斯沃斯通推了弗兰肯雷迪斯 / Dicklesworthstone pushed frankenredis",
-          "url": "https://github.com/Dicklesworthstone/frankenredis/compare/eefa0ce7a3...66470f1fbe",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T03:59:09Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
-      ],
-      "items": [
-        {
-          "id": "8110f24bc0f1ebc84166694d189e4734d14344cd",
-          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
-          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/bb9d2879c4...d01b0d6eb8",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T07:11:50Z"
-        },
-        {
-          "id": "485c257393945db692c39463b80fdf21b1f14814",
-          "title": "Dicklesworthstone 推动了 Franken_engine / Dicklesworthstone pushed franken_engine",
-          "url": "https://github.com/Dicklesworthstone/franken_engine/compare/fea33f8583...4bae9f133b",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:15:20Z"
-        },
-        {
-          "id": "187cebb50f41f0a87855ef4d7407c4f9a8127576",
-          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
-          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/8e06df4b9f...9efe17cab0",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:05:20Z"
-        },
-        {
-          "id": "f936a46c59dce2c28dd2c57d1e6f110e8b1a48e7",
-          "title": "迪克尔斯沃斯通推了弗兰肯雷迪斯 / Dicklesworthstone pushed frankenredis",
-          "url": "https://github.com/Dicklesworthstone/frankenredis/compare/eefa0ce7a3...66470f1fbe",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T03:59:09Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6833,
-      "importance": 0.6833,
-      "importance_score": 0.6833,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.9915,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T03:59:09Z",
-      "latest_at": "2026-07-04T07:11:50Z",
-      "primary_item": {
-        "id": "8110f24bc0f1ebc84166694d189e4734d14344cd",
-        "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
-        "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/bb9d2879c4...d01b0d6eb8",
-        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_55ec43989968",
-      "title": "xixu-me starred LinXiaoTao/FuckClaude",
-      "url": "https://github.com/LinXiaoTao/FuckClaude",
-      "primary_url": "https://github.com/LinXiaoTao/FuckClaude",
-      "source": "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "c5b2beeeff7c05eb81600c5abd6db2c246b1e4fe",
-          "title": "xixu-me starred LinXiaoTao/FuckClaude",
-          "url": "https://github.com/LinXiaoTao/FuckClaude",
-          "source": "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:31:43Z"
-        },
-        {
-          "id": "3399dba0681afc0d2be511cf043c01d9f40496b4",
-          "title": "黄帝高清 主演：林小桃/FuckClaude / huangdihd starred LinXiaoTao/FuckClaude",
-          "url": "https://github.com/LinXiaoTao/FuckClaude",
-          "source": "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T13:01:00Z"
-        },
-        {
-          "id": "2acd051f7ef62b453dce322e2abc3dfccdda83b8",
-          "title": "秘密者 主演：林小涛/FuckClaude / secreter starred LinXiaoTao/FuckClaude",
-          "url": "https://github.com/LinXiaoTao/FuckClaude",
-          "source": "secreter|开发All in AI(AI资讯|技术、趋势、思考|公众号：AI Reading Hub)",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:36:20Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
-        "secreter|开发All in AI(AI资讯|技术、趋势、思考|公众号：AI Reading Hub)",
-        "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏"
-      ],
-      "items": [
-        {
-          "id": "c5b2beeeff7c05eb81600c5abd6db2c246b1e4fe",
-          "title": "xixu-me starred LinXiaoTao/FuckClaude",
-          "url": "https://github.com/LinXiaoTao/FuckClaude",
-          "source": "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T04:31:43Z"
-        },
-        {
-          "id": "3399dba0681afc0d2be511cf043c01d9f40496b4",
-          "title": "黄帝高清 主演：林小桃/FuckClaude / huangdihd starred LinXiaoTao/FuckClaude",
-          "url": "https://github.com/LinXiaoTao/FuckClaude",
-          "source": "huangdihd|call_me_as_agent\"把自己封装成 LLM 接口供大家调用\"",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T13:01:00Z"
-        },
-        {
-          "id": "2acd051f7ef62b453dce322e2abc3dfccdda83b8",
-          "title": "秘密者 主演：林小涛/FuckClaude / secreter starred LinXiaoTao/FuckClaude",
-          "url": "https://github.com/LinXiaoTao/FuckClaude",
-          "source": "secreter|开发All in AI(AI资讯|技术、趋势、思考|公众号：AI Reading Hub)",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T09:36:20Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6511,
-      "importance": 0.6511,
-      "importance_score": 0.6511,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.8803,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T09:36:20Z",
-      "latest_at": "2026-07-04T04:31:43Z",
-      "primary_item": {
-        "id": "c5b2beeeff7c05eb81600c5abd6db2c246b1e4fe",
-        "title": "xixu-me starred LinXiaoTao/FuckClaude",
-        "url": "https://github.com/LinXiaoTao/FuckClaude",
-        "source": "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_aad0fc7647d6",
-      "title": "Bugbot 无法运行 / Bugbot cannot run",
-      "url": "https://forum.cursor.com/t/bugbot-cannot-run/164372?page=2",
-      "primary_url": "https://forum.cursor.com/t/bugbot-cannot-run/164372?page=2",
-      "source": "Cursor| Latest posts",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "a772f89d40a57b572553a71c2881227a642c46f7",
-          "title": "Bugbot 无法运行 / Bugbot cannot run",
-          "url": "https://forum.cursor.com/t/bugbot-cannot-run/164372?page=2",
-          "source": "Cursor| Latest posts",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T06:22:14Z"
-        },
-        {
-          "id": "0a417271eef5e33184d27cf16c76e83d2dae9e5a",
-          "title": "Bugbot 无法运行 / Bugbot cannot run",
-          "url": "https://forum.cursor.com/t/bugbot-cannot-run/164372",
-          "source": "Cursor| Latest posts",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:37:01Z"
+          "published_at": "2026-07-04T04:10:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Cursor| Latest posts"
+        "Peter Steinberger"
       ],
       "items": [
         {
-          "id": "a772f89d40a57b572553a71c2881227a642c46f7",
-          "title": "Bugbot 无法运行 / Bugbot cannot run",
-          "url": "https://forum.cursor.com/t/bugbot-cannot-run/164372?page=2",
-          "source": "Cursor| Latest posts",
+          "id": "3cb7902d95b5769e8bf944dc29850ec455336654",
+          "title": "steipete 为 steipete/CodexBar 做出了贡献 / steipete contributed to steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar/pull/1875",
+          "source": "Peter Steinberger",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-04T06:22:14Z"
+          "published_at": "2026-07-04T09:38:18Z"
         },
         {
-          "id": "0a417271eef5e33184d27cf16c76e83d2dae9e5a",
-          "title": "Bugbot 无法运行 / Bugbot cannot run",
-          "url": "https://forum.cursor.com/t/bugbot-cannot-run/164372",
-          "source": "Cursor| Latest posts",
+          "id": "47721d477d30e5a88ad8ac8fb828dada5399be83",
+          "title": "steipete 在 CodexBar 中打开了拉取请求 / steipete opened a pull request in CodexBar",
+          "url": "https://github.com/steipete/CodexBar/pull/1875",
+          "source": "Peter Steinberger",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-03T07:37:01Z"
+          "published_at": "2026-07-04T04:10:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6294,
-      "importance": 0.6294,
-      "importance_score": 0.6294,
+      "score": 0.638,
+      "importance": 0.638,
+      "importance_score": 0.638,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9571,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T07:37:01Z",
-      "latest_at": "2026-07-04T06:22:14Z",
+      "earliest_at": "2026-07-04T04:10:47Z",
+      "latest_at": "2026-07-04T09:38:18Z",
       "primary_item": {
-        "id": "a772f89d40a57b572553a71c2881227a642c46f7",
-        "title": "Bugbot 无法运行 / Bugbot cannot run",
-        "url": "https://forum.cursor.com/t/bugbot-cannot-run/164372?page=2",
-        "source": "Cursor| Latest posts",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_e928f0704221",
-      "title": "请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
-      "url": "https://www.cocoloop.cn/t/topic/10605",
-      "primary_url": "https://www.cocoloop.cn/t/topic/10605",
-      "source": "CocoLoop AI社区 - 最新话题",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "ee7b4f36307ccd7ed3f2ee8ad09178ba8ac3eb1e",
-          "title": "请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
-          "url": "https://www.cocoloop.cn/t/topic/10605",
-          "source": "CocoLoop AI社区 - 最新话题",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T06:14:49Z"
-        },
-        {
-          "id": "87513af4ea73a90eda2afb5383a57f2df0474839",
-          "title": "[Claude Code] 请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
-          "url": "https://www.v2ex.com/t/1224902",
-          "source": "V2EX",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T03:31:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "CocoLoop AI社区 - 最新话题",
-        "V2EX"
-      ],
-      "items": [
-        {
-          "id": "ee7b4f36307ccd7ed3f2ee8ad09178ba8ac3eb1e",
-          "title": "请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
-          "url": "https://www.cocoloop.cn/t/topic/10605",
-          "source": "CocoLoop AI社区 - 最新话题",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T06:14:49Z"
-        },
-        {
-          "id": "87513af4ea73a90eda2afb5383a57f2df0474839",
-          "title": "[Claude Code] 请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
-          "url": "https://www.v2ex.com/t/1224902",
-          "source": "V2EX",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T03:31:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6284,
-      "importance": 0.6284,
-      "importance_score": 0.6284,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9519,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T03:31:39Z",
-      "latest_at": "2026-07-04T06:14:49Z",
-      "primary_item": {
-        "id": "ee7b4f36307ccd7ed3f2ee8ad09178ba8ac3eb1e",
-        "title": "请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
-        "url": "https://www.cocoloop.cn/t/topic/10605",
-        "source": "CocoLoop AI社区 - 最新话题",
+        "id": "3cb7902d95b5769e8bf944dc29850ec455336654",
+        "title": "steipete 为 steipete/CodexBar 做出了贡献 / steipete contributed to steipete/CodexBar",
+        "url": "https://github.com/steipete/CodexBar/pull/1875",
+        "source": "Peter Steinberger",
         "source_name": "OPML RSS"
       }
     },
@@ -1273,6 +1040,505 @@
       }
     },
     {
+      "story_id": "story_2f71f3f13c22",
+      "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+      "url": "https://lobste.rs/c/zlywfc",
+      "primary_url": "https://lobste.rs/c/zlywfc",
+      "source": "Comments",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "6ff8bf236fbf5849892a990cf899c9e8a38a021b",
+          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+          "url": "https://lobste.rs/c/zlywfc",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T08:04:21Z"
+        },
+        {
+          "id": "d70e35f32a147e94b0777d5debd6d5897cf1af56",
+          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+          "url": "https://lobste.rs/c/9uvmb8",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T02:47:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Comments"
+      ],
+      "items": [
+        {
+          "id": "6ff8bf236fbf5849892a990cf899c9e8a38a021b",
+          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+          "url": "https://lobste.rs/c/zlywfc",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T08:04:21Z"
+        },
+        {
+          "id": "d70e35f32a147e94b0777d5debd6d5897cf1af56",
+          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+          "url": "https://lobste.rs/c/9uvmb8",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T02:47:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6251,
+      "importance": 0.6251,
+      "importance_score": 0.6251,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9353,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T02:47:08Z",
+      "latest_at": "2026-07-04T08:04:21Z",
+      "primary_item": {
+        "id": "6ff8bf236fbf5849892a990cf899c9e8a38a021b",
+        "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+        "url": "https://lobste.rs/c/zlywfc",
+        "source": "Comments",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_3561a48611ab",
+      "title": "xixu-me 推送 skvlt / xixu-me pushed skvlt",
+      "url": "https://github.com/xixu-me/skvlt/compare/8a9d547210...15a39f3b6a",
+      "primary_url": "https://github.com/xixu-me/skvlt/compare/8a9d547210...15a39f3b6a",
+      "source": "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "fe169e71d8607f40636b220c2cb18029e88b3339",
+          "title": "xixu-me 推送 skvlt / xixu-me pushed skvlt",
+          "url": "https://github.com/xixu-me/skvlt/compare/8a9d547210...15a39f3b6a",
+          "source": "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T07:56:59Z"
+        },
+        {
+          "id": "408ed33075c48f90a7dfafa3bd630c58f62490e1",
+          "title": "xixu-me 推 tzst / xixu-me pushed tzst",
+          "url": "https://github.com/xixu-me/tzst/compare/f5262c92c6...e59431b610",
+          "source": "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T07:15:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏"
+      ],
+      "items": [
+        {
+          "id": "fe169e71d8607f40636b220c2cb18029e88b3339",
+          "title": "xixu-me 推送 skvlt / xixu-me pushed skvlt",
+          "url": "https://github.com/xixu-me/skvlt/compare/8a9d547210...15a39f3b6a",
+          "source": "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T07:56:59Z"
+        },
+        {
+          "id": "408ed33075c48f90a7dfafa3bd630c58f62490e1",
+          "title": "xixu-me 推 tzst / xixu-me pushed tzst",
+          "url": "https://github.com/xixu-me/tzst/compare/f5262c92c6...e59431b610",
+          "source": "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T07:15:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.624,
+      "importance": 0.624,
+      "importance_score": 0.624,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9302,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T07:15:18Z",
+      "latest_at": "2026-07-04T07:56:59Z",
+      "primary_item": {
+        "id": "fe169e71d8607f40636b220c2cb18029e88b3339",
+        "title": "xixu-me 推送 skvlt / xixu-me pushed skvlt",
+        "url": "https://github.com/xixu-me/skvlt/compare/8a9d547210...15a39f3b6a",
+        "source": "xixu-me|Xget/Agent Skills 收录列表|人格蒸馏",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_7d4b0763b49b",
+      "title": "MervinPraison 在 PraisonAI 中标记了一个问题 / MervinPraison labeled an issue in PraisonAI",
+      "url": "https://github.com/MervinPraison/PraisonAI/issues/2661",
+      "primary_url": "https://github.com/MervinPraison/PraisonAI/issues/2661",
+      "source": "MervinPraison| 国外AI测评",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "3535212f4c775a82e99e3414ddca7e0b01918a1c",
+          "title": "MervinPraison 在 PraisonAI 中标记了一个问题 / MervinPraison labeled an issue in PraisonAI",
+          "url": "https://github.com/MervinPraison/PraisonAI/issues/2661",
+          "source": "MervinPraison| 国外AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T09:11:50Z"
+        },
+        {
+          "id": "9f44cd62d119908c4e4307bce40acf7ee6461650",
+          "title": "MervinPraison 在 PraisonAIDocs 中提出了一个问题 / MervinPraison opened an issue in PraisonAIDocs",
+          "url": "https://github.com/MervinPraison/PraisonAIDocs/issues/1547",
+          "source": "MervinPraison| 国外AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T06:51:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MervinPraison| 国外AI测评"
+      ],
+      "items": [
+        {
+          "id": "3535212f4c775a82e99e3414ddca7e0b01918a1c",
+          "title": "MervinPraison 在 PraisonAI 中标记了一个问题 / MervinPraison labeled an issue in PraisonAI",
+          "url": "https://github.com/MervinPraison/PraisonAI/issues/2661",
+          "source": "MervinPraison| 国外AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T09:11:50Z"
+        },
+        {
+          "id": "9f44cd62d119908c4e4307bce40acf7ee6461650",
+          "title": "MervinPraison 在 PraisonAIDocs 中提出了一个问题 / MervinPraison opened an issue in PraisonAIDocs",
+          "url": "https://github.com/MervinPraison/PraisonAIDocs/issues/1547",
+          "source": "MervinPraison| 国外AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T06:51:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6224,
+      "importance": 0.6224,
+      "importance_score": 0.6224,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9821,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T06:51:51Z",
+      "latest_at": "2026-07-04T09:11:50Z",
+      "primary_item": {
+        "id": "3535212f4c775a82e99e3414ddca7e0b01918a1c",
+        "title": "MervinPraison 在 PraisonAI 中标记了一个问题 / MervinPraison labeled an issue in PraisonAI",
+        "url": "https://github.com/MervinPraison/PraisonAI/issues/2661",
+        "source": "MervinPraison| 国外AI测评",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_795ec808fffe",
+      "title": "评论思想链欺骗目标通过鼠标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Mouse",
+      "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+      "primary_url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+      "source": "Hackaday » Comments",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "542c77a6eca6802a4053be10ac5f8887549826c1",
+          "title": "评论思想链欺骗目标通过鼠标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Mouse",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T06:34:14Z"
+        },
+        {
+          "id": "eba9e8d825bf431b990694d2d51a1b87fd787dea",
+          "title": "NSFW 对推理 AI 模型的思想链欺骗目标的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by NSFW",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T03:56:37Z"
+        },
+        {
+          "id": "135ef05adbb2cf99fde4e2897dfcc1b640b3d90c",
+          "title": "Greg A 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Greg A",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T22:43:50Z"
+        },
+        {
+          "id": "899575277cffdfb4b58bbca1ed47284258e49bdf",
+          "title": "匿名者评论思想链欺骗目标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Anonymous",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T19:17:43Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hackaday » Comments"
+      ],
+      "items": [
+        {
+          "id": "542c77a6eca6802a4053be10ac5f8887549826c1",
+          "title": "评论思想链欺骗目标通过鼠标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Mouse",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T06:34:14Z"
+        },
+        {
+          "id": "eba9e8d825bf431b990694d2d51a1b87fd787dea",
+          "title": "NSFW 对推理 AI 模型的思想链欺骗目标的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by NSFW",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T03:56:37Z"
+        },
+        {
+          "id": "135ef05adbb2cf99fde4e2897dfcc1b640b3d90c",
+          "title": "Greg A 对思想链欺骗目标推理 AI 模型的评论 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Greg A",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T22:43:50Z"
+        },
+        {
+          "id": "899575277cffdfb4b58bbca1ed47284258e49bdf",
+          "title": "匿名者评论思想链欺骗目标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Anonymous",
+          "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-03T19:17:43Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6505,
+      "importance": 0.6505,
+      "importance_score": 0.6505,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.8727,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T19:17:43Z",
+      "latest_at": "2026-07-04T06:34:14Z",
+      "primary_item": {
+        "id": "542c77a6eca6802a4053be10ac5f8887549826c1",
+        "title": "评论思想链欺骗目标通过鼠标推理人工智能模型 / Comment on Chain-of-Thought Spoofing Targets Reasoning AI Models by Mouse",
+        "url": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models",
+        "source": "Hackaday » Comments",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_ee6cf98383f2",
+      "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
+      "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+      "primary_url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+      "source": "godlikeproductions.com| Forum 1",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
+          "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T07:52:34Z"
+        },
+        {
+          "id": "dc5ea76e994bf74e1dd287036583667117614d75",
+          "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T03:48:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "godlikeproductions.com| Forum 1"
+      ],
+      "items": [
+        {
+          "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
+          "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T07:52:34Z"
+        },
+        {
+          "id": "dc5ea76e994bf74e1dd287036583667117614d75",
+          "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
+          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+          "source": "godlikeproductions.com| Forum 1",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T03:48:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6204,
+      "importance": 0.6204,
+      "importance_score": 0.6204,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.9271,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T03:48:15Z",
+      "latest_at": "2026-07-04T07:52:34Z",
+      "primary_item": {
+        "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
+        "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
+        "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
+        "source": "godlikeproductions.com| Forum 1",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_e928f0704221",
+      "title": "请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
+      "url": "https://www.cocoloop.cn/t/topic/10605",
+      "primary_url": "https://www.cocoloop.cn/t/topic/10605",
+      "source": "CocoLoop AI社区 - 最新话题",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "ee7b4f36307ccd7ed3f2ee8ad09178ba8ac3eb1e",
+          "title": "请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
+          "url": "https://www.cocoloop.cn/t/topic/10605",
+          "source": "CocoLoop AI社区 - 最新话题",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T06:14:49Z"
+        },
+        {
+          "id": "87513af4ea73a90eda2afb5383a57f2df0474839",
+          "title": "[Claude Code] 请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
+          "url": "https://www.v2ex.com/t/1224902",
+          "source": "V2EX",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T03:31:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "CocoLoop AI社区 - 最新话题",
+        "V2EX"
+      ],
+      "items": [
+        {
+          "id": "ee7b4f36307ccd7ed3f2ee8ad09178ba8ac3eb1e",
+          "title": "请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
+          "url": "https://www.cocoloop.cn/t/topic/10605",
+          "source": "CocoLoop AI社区 - 最新话题",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T06:14:49Z"
+        },
+        {
+          "id": "87513af4ea73a90eda2afb5383a57f2df0474839",
+          "title": "[Claude Code] 请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
+          "url": "https://www.v2ex.com/t/1224902",
+          "source": "V2EX",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-04T03:31:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6098,
+      "importance": 0.6098,
+      "importance_score": 0.6098,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.8592,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T03:31:39Z",
+      "latest_at": "2026-07-04T06:14:49Z",
+      "primary_item": {
+        "id": "ee7b4f36307ccd7ed3f2ee8ad09178ba8ac3eb1e",
+        "title": "请问大家都是如何让 Claude Code CLI 远程 Vibe Coding 的呢？",
+        "url": "https://www.cocoloop.cn/t/topic/10605",
+        "source": "CocoLoop AI社区 - 最新话题",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
       "story_id": "story_ec5e6b0606c1",
       "title": "业内首个AI-eSIM产业协同平台成立",
       "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
@@ -1326,14 +1592,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6255,
-      "importance": 0.6255,
-      "importance_score": 0.6255,
+      "score": 0.607,
+      "importance": 0.607,
+      "importance_score": 0.607,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9975,
+        "recency": 0.9048,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1403,14 +1669,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6239,
-      "importance": 0.6239,
-      "importance_score": 0.6239,
+      "score": 0.6053,
+      "importance": 0.6053,
+      "importance_score": 0.6053,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9894,
+        "recency": 0.8967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1424,83 +1690,6 @@
         "title": "krishnakanthb13 推送了amplenote_prod_plugins / krishnakanthb13 pushed amplenote_prod_plugins",
         "url": "https://github.com/krishnakanthb13/amplenote_prod_plugins/compare/151e8e6a37...734be2bb12",
         "source": "krishnakanthb13|ai_cli_manager",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_ee6cf98383f2",
-      "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
-      "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-      "primary_url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-      "source": "godlikeproductions.com| Forum 1",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
-          "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
-          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-          "source": "godlikeproductions.com| Forum 1",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T05:57:04Z"
-        },
-        {
-          "id": "dc5ea76e994bf74e1dd287036583667117614d75",
-          "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
-          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-          "source": "godlikeproductions.com| Forum 1",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T03:48:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "godlikeproductions.com| Forum 1"
-      ],
-      "items": [
-        {
-          "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
-          "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
-          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-          "source": "godlikeproductions.com| Forum 1",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T05:57:04Z"
-        },
-        {
-          "id": "dc5ea76e994bf74e1dd287036583667117614d75",
-          "title": "乌克兰计划对人形机器人士兵进行超创新（已固定） / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers (Pinned)",
-          "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-          "source": "godlikeproductions.com| Forum 1",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T03:48:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6229,
-      "importance": 0.6229,
-      "importance_score": 0.6229,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.9396,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T03:48:15Z",
-      "latest_at": "2026-07-04T05:57:04Z",
-      "primary_item": {
-        "id": "5890cdf3d740ec9a894951cc7dfa322eb3e12ef4",
-        "title": "乌克兰计划对人形机器人士兵进行超级创新 / Ukraine Plans To Hyper-Innovate Humanoid Robot Soldiers",
-        "url": "https://www.godlikeproductions.com/forum1/message6184860/pg1",
-        "source": "godlikeproductions.com| Forum 1",
         "source_name": "OPML RSS"
       }
     },
@@ -1574,18 +1763,9 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-07-03T10:35:30Z"
-        },
-        {
-          "id": "c95dac98bec037b8c7c655e96d67f026bd42cbff",
-          "title": "AI War 2 (2019) [En] (5.825/dlc) GOG 许可证 [黄金] / AI War 2 (2019) [En] (5.825/dlc) License GOG [Gold]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1873868",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:56:13Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 7,
       "source_names": [
         "NNM-Club 俄罗斯分享软件等"
       ],
@@ -1652,34 +1832,25 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-07-03T10:35:30Z"
-        },
-        {
-          "id": "c95dac98bec037b8c7c655e96d67f026bd42cbff",
-          "title": "AI War 2 (2019) [En] (5.825/dlc) GOG 许可证 [黄金] / AI War 2 (2019) [En] (5.825/dlc) License GOG [Gold]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1873868",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T08:56:13Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6187,
-      "importance": 0.6187,
-      "importance_score": 0.6187,
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6002,
+      "importance": 0.6002,
+      "importance_score": 0.6002,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.73,
-        "recency": 0.4987,
+        "recency": 0.406,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T08:56:13Z",
+      "earliest_at": "2026-07-03T10:35:30Z",
       "latest_at": "2026-07-03T20:00:02Z",
       "primary_item": {
         "id": "c89249fcfc249009466a8dde92e34695ea60fe38",
@@ -1743,14 +1914,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6178,
-      "importance": 0.6178,
-      "importance_score": 0.6178,
+      "score": 0.5992,
+      "importance": 0.5992,
+      "importance_score": 0.5992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9588,
+        "recency": 0.8661,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1821,14 +1992,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6136,
-      "importance": 0.6136,
-      "importance_score": 0.6136,
+      "score": 0.5951,
+      "importance": 0.5951,
+      "importance_score": 0.5951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9381,
+        "recency": 0.8454,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1937,14 +2108,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6104,
-      "importance": 0.6104,
-      "importance_score": 0.6104,
+      "score": 0.5918,
+      "importance": 0.5918,
+      "importance_score": 0.5918,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.6718,
+        "recency": 0.5791,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1959,181 +2130,6 @@
         "url": "https://www.youtube.com/watch?v=wgdxSCsmS-Q",
         "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
         "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_b7e86ff92336",
-      "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "primary_url": "https://www.wafer.ai/blog/glm52-amd",
-      "source": "Buzzing|国外社交媒体热榜",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "8171017dcecb78658186d86c37547715c2278e86",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T02:31:35.646000Z"
-        },
-        {
-          "id": "277a758dc0467e1dc78c714d35321d22065dadb9",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T22:14:45.132318Z"
-        },
-        {
-          "id": "1d1fab48a076f4d730dff9fbd33153efc781cdba",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T22:07:34.481232Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Hacker News Digest"
-      ],
-      "items": [
-        {
-          "id": "8171017dcecb78658186d86c37547715c2278e86",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T02:31:35.646000Z"
-        },
-        {
-          "id": "277a758dc0467e1dc78c714d35321d22065dadb9",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T22:14:45.132318Z"
-        },
-        {
-          "id": "1d1fab48a076f4d730dff9fbd33153efc781cdba",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-03T22:07:34.481232Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6104,
-      "importance": 0.6104,
-      "importance_score": 0.6104,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.7969,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T22:07:34.481232Z",
-      "latest_at": "2026-07-04T02:31:35.646000Z",
-      "primary_item": {
-        "id": "8171017dcecb78658186d86c37547715c2278e86",
-        "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-        "url": "https://www.wafer.ai/blog/glm52-amd",
-        "source": "Buzzing|国外社交媒体热榜",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_de5294d3d649",
-      "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-      "url": "https://www.aibase.com/news/29370",
-      "primary_url": "https://www.aibase.com/news/29370",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "34ae436a2aa422cb3e67e19c3d6bf9a5cc169d08",
-          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-          "url": "https://www.aibase.com/news/29370",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T07:47:20.309200Z"
-        },
-        {
-          "id": "29d4556aa78a5b5333bc1fec0d20d3eed7b71579",
-          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-          "url": "https://www.aibase.com/zh/news/29370",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "34ae436a2aa422cb3e67e19c3d6bf9a5cc169d08",
-          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-          "url": "https://www.aibase.com/news/29370",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T07:47:20.309200Z"
-        },
-        {
-          "id": "29d4556aa78a5b5333bc1fec0d20d3eed7b71579",
-          "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-          "url": "https://www.aibase.com/zh/news/29370",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6402,
-      "importance": 0.6402,
-      "importance_score": 0.6402,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0162,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T07:47:20.309200Z",
-      "latest_at": "2026-07-03T07:47:20.309200Z",
-      "primary_item": {
-        "id": "34ae436a2aa422cb3e67e19c3d6bf9a5cc169d08",
-        "title": "微软 AI PC 专属系统 Project Aion 曝光，彻底取消传统开始菜单",
-        "url": "https://www.aibase.com/news/29370",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
