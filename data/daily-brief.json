@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-05T19:52:25.288411Z",
+  "generated_at": "2026-07-05T21:07:15.942431Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0552-463a-a3b1-30ee137128eb&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0552-463a-a3b1-30ee137128eb&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0707-38b1-bbad-d2b3962d7a00&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0707-38b1-bbad-d2b3962d7a00&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4364ffc491d9f858c8bbfba3eb2d0af9a961daa6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0707-38b1-bbad-d2b3962d7a00&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "0994eed1b181434320e37df751ef4ff433e3ebd4",
           "title": "点击这里进入 / Click here to enter",
@@ -30,12 +39,21 @@
           "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "4364ffc491d9f858c8bbfba3eb2d0af9a961daa6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0707-38b1-bbad-d2b3962d7a00&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "0994eed1b181434320e37df751ef4ff433e3ebd4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0552-463a-a3b1-30ee137128eb&fp=-3",
@@ -54,30 +72,30 @@
           "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-07-05T18:07:26.995564Z",
-      "latest_at": "2026-07-05T19:52:25.288411Z",
+      "latest_at": "2026-07-05T21:07:15.942431Z",
       "primary_item": {
-        "id": "0994eed1b181434320e37df751ef4ff433e3ebd4",
+        "id": "4364ffc491d9f858c8bbfba3eb2d0af9a961daa6",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0552-463a-a3b1-30ee137128eb&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0707-38b1-bbad-d2b3962d7a00&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -117,14 +135,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9108,
+        "recency": 0.8588,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -177,14 +195,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7555,
+        "recency": 0.7035,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -200,6 +218,137 @@
         "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
         "source": "X：美团 LongCat (@Meituan_LongCat)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c56b58e9d916",
+      "title": "第1438期 - 2026-07-06 04:01",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0401",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0401",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "33935b276689bc19429ce5bc13a0be1a215d7c55",
+          "title": "第1438期 - 2026-07-06 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T20:01:11Z"
+        },
+        {
+          "id": "406bbe57d296e1d79b90b7c6f8b0cc5fbf52f806",
+          "title": "第1437期 - 2026-07-06 00:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0002",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T16:02:49Z"
+        },
+        {
+          "id": "f2a392babfada9802f2a335592ae52483a4ced09",
+          "title": "第1436期 - 2026-07-05 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T12:01:06Z"
+        },
+        {
+          "id": "4b0bd860b54259b385417db1bf9779dd921f1c79",
+          "title": "第1434期 - 2026-07-05 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T04:01:38Z"
+        },
+        {
+          "id": "9bb6e91f2518b0304c7a752e75ebf702f161b6b0",
+          "title": "第1433期 - 2026-07-05 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T00:01:25Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "大黑AI速报"
+      ],
+      "items": [
+        {
+          "id": "33935b276689bc19429ce5bc13a0be1a215d7c55",
+          "title": "第1438期 - 2026-07-06 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T20:01:11Z"
+        },
+        {
+          "id": "406bbe57d296e1d79b90b7c6f8b0cc5fbf52f806",
+          "title": "第1437期 - 2026-07-06 00:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0002",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T16:02:49Z"
+        },
+        {
+          "id": "f2a392babfada9802f2a335592ae52483a4ced09",
+          "title": "第1436期 - 2026-07-05 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T12:01:06Z"
+        },
+        {
+          "id": "4b0bd860b54259b385417db1bf9779dd921f1c79",
+          "title": "第1434期 - 2026-07-05 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T04:01:38Z"
+        },
+        {
+          "id": "9bb6e91f2518b0304c7a752e75ebf702f161b6b0",
+          "title": "第1433期 - 2026-07-05 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T00:01:25Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6918,
+      "importance": 0.6918,
+      "importance_score": 0.6918,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9541,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T00:01:25Z",
+      "latest_at": "2026-07-05T20:01:11Z",
+      "primary_item": {
+        "id": "33935b276689bc19429ce5bc13a0be1a215d7c55",
+        "title": "第1438期 - 2026-07-06 04:01",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0401",
+        "source": "大黑AI速报",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -309,14 +458,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.702,
-      "importance": 0.702,
-      "importance_score": 0.702,
+      "score": 0.6916,
+      "importance": 0.6916,
+      "importance_score": 0.6916,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.96,
+        "recency": 0.908,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -422,14 +571,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.685,
-      "importance": 0.685,
-      "importance_score": 0.685,
+      "score": 0.6746,
+      "importance": 0.6746,
+      "importance_score": 0.6746,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 1.0,
+        "recency": 0.948,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -535,14 +684,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6641,
-      "importance": 0.6641,
-      "importance_score": 0.6641,
+      "score": 0.6537,
+      "importance": 0.6537,
+      "importance_score": 0.6537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8804,
+        "recency": 0.8285,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -632,14 +781,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6562,
-      "importance": 0.6562,
-      "importance_score": 0.6562,
+      "score": 0.6458,
+      "importance": 0.6458,
+      "importance_score": 0.6458,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9661,
+        "recency": 0.9141,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -653,119 +802,6 @@
         "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
         "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
         "source": "Buzzing|国外社交媒体热榜",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_c56b58e9d916",
-      "title": "第1437期 - 2026-07-06 00:02",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0002",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0002",
-      "source": "大黑AI速报",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "406bbe57d296e1d79b90b7c6f8b0cc5fbf52f806",
-          "title": "第1437期 - 2026-07-06 00:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0002",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:02:49Z"
-        },
-        {
-          "id": "f2a392babfada9802f2a335592ae52483a4ced09",
-          "title": "第1436期 - 2026-07-05 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T12:01:06Z"
-        },
-        {
-          "id": "4b0bd860b54259b385417db1bf9779dd921f1c79",
-          "title": "第1434期 - 2026-07-05 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T04:01:38Z"
-        },
-        {
-          "id": "90a680f4b06fddc6c64a4526a1985b7022187304",
-          "title": "第1432期 - 2026-07-05 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T20:01:11Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "大黑AI速报"
-      ],
-      "items": [
-        {
-          "id": "406bbe57d296e1d79b90b7c6f8b0cc5fbf52f806",
-          "title": "第1437期 - 2026-07-06 00:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0002",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:02:49Z"
-        },
-        {
-          "id": "f2a392babfada9802f2a335592ae52483a4ced09",
-          "title": "第1436期 - 2026-07-05 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T12:01:06Z"
-        },
-        {
-          "id": "4b0bd860b54259b385417db1bf9779dd921f1c79",
-          "title": "第1434期 - 2026-07-05 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T04:01:38Z"
-        },
-        {
-          "id": "90a680f4b06fddc6c64a4526a1985b7022187304",
-          "title": "第1432期 - 2026-07-05 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-05_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-04T20:01:11Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6441,
-      "importance": 0.6441,
-      "importance_score": 0.6441,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8406,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T20:01:11Z",
-      "latest_at": "2026-07-05T16:02:49Z",
-      "primary_item": {
-        "id": "406bbe57d296e1d79b90b7c6f8b0cc5fbf52f806",
-        "title": "第1437期 - 2026-07-06 00:02",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-06_0002",
-        "source": "大黑AI速报",
         "source_name": "OPML RSS"
       }
     },
@@ -823,14 +859,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6201,
-      "importance": 0.6201,
-      "importance_score": 0.6201,
+      "score": 0.6097,
+      "importance": 0.6097,
+      "importance_score": 0.6097,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9705,
+        "recency": 0.9185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -876,6 +912,7 @@
       ],
       "source_count": 2,
       "source_names": [
+        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
         "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
       ],
       "items": [
@@ -900,14 +937,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.619,
-      "importance": 0.619,
-      "importance_score": 0.619,
+      "score": 0.6086,
+      "importance": 0.6086,
+      "importance_score": 0.6086,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.965,
+        "recency": 0.913,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -939,7 +976,7 @@
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T18:50:25.243690Z"
+          "published_at": "2026-07-05T18:59:37.064565Z"
         },
         {
           "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
@@ -964,7 +1001,7 @@
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T18:50:25.243690Z"
+          "published_at": "2026-07-05T18:59:37.064565Z"
         },
         {
           "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
@@ -978,21 +1015,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6174,
-      "importance": 0.6174,
-      "importance_score": 0.6174,
+      "score": 0.6083,
+      "importance": 0.6083,
+      "importance_score": 0.6083,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9569,
+        "recency": 0.9114,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T18:50:25.243690Z",
+      "earliest_at": "2026-07-05T18:59:37.064565Z",
       "latest_at": "2026-07-05T19:52:49.987000Z",
       "primary_item": {
         "id": "92a298125ceea8b52f5cb62d9effafc79f82f3cb",
@@ -1056,14 +1093,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6118,
-      "importance": 0.6118,
-      "importance_score": 0.6118,
+      "score": 0.6014,
+      "importance": 0.6014,
+      "importance_score": 0.6014,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.77,
-        "recency": 0.7788,
+        "recency": 0.7268,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1133,14 +1170,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6197,
-      "importance": 0.6197,
-      "importance_score": 0.6197,
+      "score": 0.6093,
+      "importance": 0.6093,
+      "importance_score": 0.6093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.9233,
+        "recency": 0.8714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1211,14 +1248,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5866,
-      "importance": 0.5866,
-      "importance_score": 0.5866,
+      "score": 0.5762,
+      "importance": 0.5762,
+      "importance_score": 0.5762,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8032,
+        "recency": 0.7512,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1236,79 +1273,79 @@
       }
     },
     {
-      "story_id": "story_d900ec4b1bf6",
-      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-      "primary_url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+      "story_id": "story_c39b7836f50e",
+      "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+      "url": "https://arxiv.org/abs/2602.09239",
+      "primary_url": "https://arxiv.org/abs/2602.09239",
       "source": "Hacker News Digest",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+          "id": "3d3a6da4a310d2b1ca9dfcdde072f8b0a0a4bec4",
+          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+          "url": "https://arxiv.org/abs/2602.09239",
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:47:25.251566Z"
+          "published_at": "2026-07-05T17:59:37.073435Z"
         },
         {
-          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://news.ycombinator.com/item?id=48795174",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T17:45:29.936000Z"
+          "id": "b761e69786e8cb0cc03f6a9483a3adaae9284a4f",
+          "title": "“这些相机就像索伦之眼” / \"These cameras are just like the Eye of Sauron\"",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:05:57Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News Digest",
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+          "id": "3d3a6da4a310d2b1ca9dfcdde072f8b0a0a4bec4",
+          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+          "url": "https://arxiv.org/abs/2602.09239",
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:47:25.251566Z"
+          "published_at": "2026-07-05T17:59:37.073435Z"
         },
         {
-          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://news.ycombinator.com/item?id=48795174",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T17:45:29.936000Z"
+          "id": "b761e69786e8cb0cc03f6a9483a3adaae9284a4f",
+          "title": "“这些相机就像索伦之眼” / \"These cameras are just like the Eye of Sauron\"",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:05:57Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6093,
-      "importance": 0.6093,
-      "importance_score": 0.6093,
+      "score": 0.5999,
+      "importance": 0.5999,
+      "importance_score": 0.5999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.8715,
+        "ai_relevance": 0.67,
+        "recency": 0.8697,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T16:47:25.251566Z",
-      "latest_at": "2026-07-05T17:45:29.936000Z",
+      "earliest_at": "2026-07-05T17:05:57Z",
+      "latest_at": "2026-07-05T17:59:37.073435Z",
       "primary_item": {
-        "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
-        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-        "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+        "id": "3d3a6da4a310d2b1ca9dfcdde072f8b0a0a4bec4",
+        "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+        "url": "https://arxiv.org/abs/2602.09239",
         "source": "Hacker News Digest",
         "source_name": "OPML RSS"
       }
@@ -1366,14 +1403,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.578,
-      "importance": 0.578,
-      "importance_score": 0.578,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7601,
+        "recency": 0.7081,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1444,14 +1481,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6023,
-      "importance": 0.6023,
-      "importance_score": 0.6023,
+      "score": 0.592,
+      "importance": 0.592,
+      "importance_score": 0.592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8217,
+        "recency": 0.7698,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1521,14 +1558,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "score": 0.6016,
+      "importance": 0.6016,
+      "importance_score": 0.6016,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.8849,
+        "recency": 0.8329,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1546,79 +1583,79 @@
       }
     },
     {
-      "story_id": "story_c39b7836f50e",
-      "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
-      "url": "https://arxiv.org/abs/2602.09239",
-      "primary_url": "https://arxiv.org/abs/2602.09239",
+      "story_id": "story_d900ec4b1bf6",
+      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+      "primary_url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
       "source": "Hacker News Digest",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "3d3a6da4a310d2b1ca9dfcdde072f8b0a0a4bec4",
-          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
-          "url": "https://arxiv.org/abs/2602.09239",
+          "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T17:47:25.248984Z"
+          "published_at": "2026-07-05T16:47:25.251566Z"
         },
         {
-          "id": "b761e69786e8cb0cc03f6a9483a3adaae9284a4f",
-          "title": "“这些相机就像索伦之眼” / \"These cameras are just like the Eye of Sauron\"",
-          "url": "https://arxiv.org/abs/2602.09239",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T17:05:57Z"
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T17:45:29.936000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News Digest",
-        "Hacker News · 24h最热"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "3d3a6da4a310d2b1ca9dfcdde072f8b0a0a4bec4",
-          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
-          "url": "https://arxiv.org/abs/2602.09239",
+          "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T17:47:25.248984Z"
+          "published_at": "2026-07-05T16:47:25.251566Z"
         },
         {
-          "id": "b761e69786e8cb0cc03f6a9483a3adaae9284a4f",
-          "title": "“这些相机就像索伦之眼” / \"These cameras are just like the Eye of Sauron\"",
-          "url": "https://arxiv.org/abs/2602.09239",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T17:05:57Z"
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T17:45:29.936000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6086,
-      "importance": 0.6086,
-      "importance_score": 0.6086,
+      "score": 0.5989,
+      "importance": 0.5989,
+      "importance_score": 0.5989,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9132,
+        "ai_relevance": 0.7,
+        "recency": 0.8196,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T17:05:57Z",
-      "latest_at": "2026-07-05T17:47:25.248984Z",
+      "earliest_at": "2026-07-05T16:47:25.251566Z",
+      "latest_at": "2026-07-05T17:45:29.936000Z",
       "primary_item": {
-        "id": "3d3a6da4a310d2b1ca9dfcdde072f8b0a0a4bec4",
-        "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
-        "url": "https://arxiv.org/abs/2602.09239",
+        "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
+        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+        "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
         "source": "Hacker News Digest",
         "source_name": "OPML RSS"
       }
@@ -1676,14 +1713,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5735,
-      "importance": 0.5735,
-      "importance_score": 0.5735,
+      "score": 0.5631,
+      "importance": 0.5631,
+      "importance_score": 0.5631,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7375,
+        "recency": 0.6855,
         "story_heat": 0.25
       },
       "category": "watch",
