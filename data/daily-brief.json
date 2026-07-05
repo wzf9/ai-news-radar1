@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-05T18:07:26.995564Z",
+  "generated_at": "2026-07-05T19:52:25.288411Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0407-4970-af36-7b8850579487&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0407-4970-af36-7b8850579487&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0552-463a-a3b1-30ee137128eb&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0552-463a-a3b1-30ee137128eb&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "0994eed1b181434320e37df751ef4ff433e3ebd4",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0552-463a-a3b1-30ee137128eb&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b9b68584b7ca13eb268ed31579ee771b1bbd9e0c",
           "title": "点击这里进入 / Click here to enter",
@@ -21,12 +30,21 @@
           "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "0994eed1b181434320e37df751ef4ff433e3ebd4",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0552-463a-a3b1-30ee137128eb&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b9b68584b7ca13eb268ed31579ee771b1bbd9e0c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0407-4970-af36-7b8850579487&fp=-3",
@@ -36,29 +54,30 @@
           "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-07-05T18:07:26.995564Z",
-      "latest_at": "2026-07-05T18:07:26.995564Z",
+      "latest_at": "2026-07-05T19:52:25.288411Z",
       "primary_item": {
-        "id": "b9b68584b7ca13eb268ed31579ee771b1bbd9e0c",
+        "id": "0994eed1b181434320e37df751ef4ff433e3ebd4",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0407-4970-af36-7b8850579487&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0552-463a-a3b1-30ee137128eb&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -98,14 +117,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9837,
+        "recency": 0.9108,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -121,6 +140,310 @@
         "url": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61d157d55656",
+      "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+      "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+      "primary_url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "98f6ce5592bc9fe24c91cc7d203b30e905c2a9fc",
+          "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+          "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T14:00:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：美团 LongCat (@Meituan_LongCat)"
+      ],
+      "items": [
+        {
+          "id": "98f6ce5592bc9fe24c91cc7d203b30e905c2a9fc",
+          "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+          "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T14:00:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7555,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T14:00:18Z",
+      "latest_at": "2026-07-05T14:00:18Z",
+      "primary_item": {
+        "id": "98f6ce5592bc9fe24c91cc7d203b30e905c2a9fc",
+        "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+        "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+        "source": "X：美团 LongCat (@Meituan_LongCat)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4793d6d22a55",
+      "title": "Dicklesworthstone 关闭了 ntm 中的一个问题 / Dicklesworthstone closed an issue in ntm",
+      "url": "https://github.com/Dicklesworthstone/ntm/issues/209",
+      "primary_url": "https://github.com/Dicklesworthstone/ntm/issues/209",
+      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "a6b3b41a4c29621f9bb21228845969f748abeb16",
+          "title": "Dicklesworthstone 关闭了 ntm 中的一个问题 / Dicklesworthstone closed an issue in ntm",
+          "url": "https://github.com/Dicklesworthstone/ntm/issues/209",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T18:54:49Z"
+        },
+        {
+          "id": "0f8e034001fc59645afcbf0412ad8f0797aeaeca",
+          "title": "Dicklesworthstone 对 ntm 中的一个问题发表了评论 / Dicklesworthstone commented on an issue in ntm",
+          "url": "https://github.com/Dicklesworthstone/ntm/issues/209",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T18:54:48Z"
+        },
+        {
+          "id": "f6178a95ca5c6b426fb34f26849fa0d54fb9b6be",
+          "title": "Dicklesworthstone 评论了 pi_agent_rust 中的一个问题 / Dicklesworthstone commented on an issue in pi_agent_rust",
+          "url": "https://github.com/Dicklesworthstone/pi_agent_rust/issues/122",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T18:47:02Z"
+        },
+        {
+          "id": "80ae9dc1af1fa22ffdb6224cda138ead7db774a9",
+          "title": "Dicklesworthstone 关闭了 ntm 中的一个问题 / Dicklesworthstone closed an issue in ntm",
+          "url": "https://github.com/Dicklesworthstone/ntm/issues/207",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T16:44:21Z"
+        },
+        {
+          "id": "ebc3fe6fde8e6fde99bf5c593b0e8ab4818ecfc6",
+          "title": "Dicklesworthstone 对 ntm 中的一个问题发表了评论 / Dicklesworthstone commented on an issue in ntm",
+          "url": "https://github.com/Dicklesworthstone/ntm/issues/207",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T16:44:21Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
+      ],
+      "items": [
+        {
+          "id": "a6b3b41a4c29621f9bb21228845969f748abeb16",
+          "title": "Dicklesworthstone 关闭了 ntm 中的一个问题 / Dicklesworthstone closed an issue in ntm",
+          "url": "https://github.com/Dicklesworthstone/ntm/issues/209",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T18:54:49Z"
+        },
+        {
+          "id": "0f8e034001fc59645afcbf0412ad8f0797aeaeca",
+          "title": "Dicklesworthstone 对 ntm 中的一个问题发表了评论 / Dicklesworthstone commented on an issue in ntm",
+          "url": "https://github.com/Dicklesworthstone/ntm/issues/209",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T18:54:48Z"
+        },
+        {
+          "id": "f6178a95ca5c6b426fb34f26849fa0d54fb9b6be",
+          "title": "Dicklesworthstone 评论了 pi_agent_rust 中的一个问题 / Dicklesworthstone commented on an issue in pi_agent_rust",
+          "url": "https://github.com/Dicklesworthstone/pi_agent_rust/issues/122",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T18:47:02Z"
+        },
+        {
+          "id": "80ae9dc1af1fa22ffdb6224cda138ead7db774a9",
+          "title": "Dicklesworthstone 关闭了 ntm 中的一个问题 / Dicklesworthstone closed an issue in ntm",
+          "url": "https://github.com/Dicklesworthstone/ntm/issues/207",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T16:44:21Z"
+        },
+        {
+          "id": "ebc3fe6fde8e6fde99bf5c593b0e8ab4818ecfc6",
+          "title": "Dicklesworthstone 对 ntm 中的一个问题发表了评论 / Dicklesworthstone commented on an issue in ntm",
+          "url": "https://github.com/Dicklesworthstone/ntm/issues/207",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T16:44:21Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.702,
+      "importance": 0.702,
+      "importance_score": 0.702,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.96,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T16:44:21Z",
+      "latest_at": "2026-07-05T18:54:49Z",
+      "primary_item": {
+        "id": "a6b3b41a4c29621f9bb21228845969f748abeb16",
+        "title": "Dicklesworthstone 关闭了 ntm 中的一个问题 / Dicklesworthstone closed an issue in ntm",
+        "url": "https://github.com/Dicklesworthstone/ntm/issues/209",
+        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_59b729f4a9be",
+      "title": "前几天1961-2003：我们的时代（1997-2003）DVDRip [H.264/1080p]（第1-43集，共43集）[手工制作的高档AI][白金] / Намедни 1961-2003: Наша эра (1997-2003) DVDRip [H.264/1080p] (серии 1-43 из 43) [handmade Upscale AI] [Platinum]",
+      "url": "https://nnmclub.to/forum/viewtopic.php?t=1880221",
+      "primary_url": "https://nnmclub.to/forum/viewtopic.php?t=1880221",
+      "source": "NNM-Club 俄罗斯分享软件等",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "2a43d4e17b144a64a2a5c16dfcaf4418c03b7265",
+          "title": "前几天1961-2003：我们的时代（1997-2003）DVDRip [H.264/1080p]（第1-43集，共43集）[手工制作的高档AI][白金] / Намедни 1961-2003: Наша эра (1997-2003) DVDRip [H.264/1080p] (серии 1-43 из 43) [handmade Upscale AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880221",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T19:52:24Z"
+        },
+        {
+          "id": "f785c55dcaab91ec510da1b34bc86fcb7dfb8cf6",
+          "title": "Брат 2 (2000) WEB-DLRip [AV1/2160p] [4K, SDR, 10-bit] [手工制作的高档 AI] [白金] / Брат 2 (2000) WEB-DLRip [AV1/2160p] [4K, SDR, 10-bit] [handmade Upscale AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880287",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T19:40:48Z"
+        },
+        {
+          "id": "8e55241a161564b129e9a23180c8ecd7ceb4b860",
+          "title": "金蝉脱壳 2：冥府 (2018) HDRip [H.265/1080p] [10 位] [手工 AI] [白金] / План побега 2 / Escape Plan 2: Hades (2018) HDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880272",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T18:25:44Z"
+        },
+        {
+          "id": "37fdb81c3cd874c4fdc4410d1b01342950997a75",
+          "title": "黑夜传说：血战 (2016) HDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Другой мир: Войны крови / Underworld: Blood Wars (2016) HDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880269",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T17:53:06Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "NNM-Club 俄罗斯分享软件等"
+      ],
+      "items": [
+        {
+          "id": "2a43d4e17b144a64a2a5c16dfcaf4418c03b7265",
+          "title": "前几天1961-2003：我们的时代（1997-2003）DVDRip [H.264/1080p]（第1-43集，共43集）[手工制作的高档AI][白金] / Намедни 1961-2003: Наша эра (1997-2003) DVDRip [H.264/1080p] (серии 1-43 из 43) [handmade Upscale AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880221",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T19:52:24Z"
+        },
+        {
+          "id": "f785c55dcaab91ec510da1b34bc86fcb7dfb8cf6",
+          "title": "Брат 2 (2000) WEB-DLRip [AV1/2160p] [4K, SDR, 10-bit] [手工制作的高档 AI] [白金] / Брат 2 (2000) WEB-DLRip [AV1/2160p] [4K, SDR, 10-bit] [handmade Upscale AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880287",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T19:40:48Z"
+        },
+        {
+          "id": "8e55241a161564b129e9a23180c8ecd7ceb4b860",
+          "title": "金蝉脱壳 2：冥府 (2018) HDRip [H.265/1080p] [10 位] [手工 AI] [白金] / План побега 2 / Escape Plan 2: Hades (2018) HDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880272",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T18:25:44Z"
+        },
+        {
+          "id": "37fdb81c3cd874c4fdc4410d1b01342950997a75",
+          "title": "黑夜传说：血战 (2016) HDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Другой мир: Войны крови / Underworld: Blood Wars (2016) HDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880269",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T17:53:06Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.685,
+      "importance": 0.685,
+      "importance_score": 0.685,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T17:53:06Z",
+      "latest_at": "2026-07-05T19:52:24Z",
+      "primary_item": {
+        "id": "2a43d4e17b144a64a2a5c16dfcaf4418c03b7265",
+        "title": "前几天1961-2003：我们的时代（1997-2003）DVDRip [H.264/1080p]（第1-43集，共43集）[手工制作的高档AI][白金] / Намедни 1961-2003: Наша эра (1997-2003) DVDRip [H.264/1080p] (серии 1-43 из 43) [handmade Upscale AI] [Platinum]",
+        "url": "https://nnmclub.to/forum/viewtopic.php?t=1880221",
+        "source": "NNM-Club 俄罗斯分享软件等",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -212,14 +535,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6787,
-      "importance": 0.6787,
-      "importance_score": 0.6787,
+      "score": 0.6641,
+      "importance": 0.6641,
+      "importance_score": 0.6641,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9533,
+        "recency": 0.8804,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -233,6 +556,103 @@
         "title": "simonw 关闭了 llm 中的一个问题 / simonw closed an issue in llm",
         "url": "https://github.com/simonw/llm/issues/1515",
         "source": "GitHub Public Timeline Feed",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_b97dfb6a3918",
+      "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "primary_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "source": "Buzzing|国外社交媒体热榜",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "7cbb854ddb7a4761e8431c3ea2988de657c3217b",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T19:03:35.047000Z"
+        },
+        {
+          "id": "a3c68367054f01ebe7d8dad8f1a05c496472335a",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T17:05:48.637374Z"
+        },
+        {
+          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://news.ycombinator.com/item?id=48795826",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T17:45:29.936000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Buzzing|国外社交媒体热榜",
+        "Hacker News Digest",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7cbb854ddb7a4761e8431c3ea2988de657c3217b",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T19:03:35.047000Z"
+        },
+        {
+          "id": "a3c68367054f01ebe7d8dad8f1a05c496472335a",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T17:05:48.637374Z"
+        },
+        {
+          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://news.ycombinator.com/item?id=48795826",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T17:45:29.936000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6562,
+      "importance": 0.6562,
+      "importance_score": 0.6562,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9661,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T17:05:48.637374Z",
+      "latest_at": "2026-07-05T19:03:35.047000Z",
+      "primary_item": {
+        "id": "7cbb854ddb7a4761e8431c3ea2988de657c3217b",
+        "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+        "source": "Buzzing|国外社交媒体热榜",
         "source_name": "OPML RSS"
       }
     },
@@ -325,14 +745,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6587,
-      "importance": 0.6587,
-      "importance_score": 0.6587,
+      "score": 0.6441,
+      "importance": 0.6441,
+      "importance_score": 0.6441,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9134,
+        "recency": 0.8406,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -350,156 +770,235 @@
       }
     },
     {
-      "story_id": "story_1ce6a7dfc1f0",
-      "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
-      "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/b55c477487...275b7ac108",
-      "primary_url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/b55c477487...275b7ac108",
-      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+      "story_id": "story_774f7412d1a3",
+      "title": "21 世纪最赚钱的技能（非人工智能） / The Most Profitable Skill Of The 21st Century (Not AI)",
+      "url": "https://www.youtube.com/watch?v=bWR_3Sg-H-8",
+      "primary_url": "https://www.youtube.com/watch?v=bWR_3Sg-H-8",
+      "source": "Dan Koe|发挥人的全部潜力|开发Eden伊甸园",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "750cda8e95a7b6b0d47ae29dc2c8c91795e9ce95",
-          "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
-          "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/b55c477487...275b7ac108",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "aff30e5d42790b51b5e00b6c0862b2c8be08b8fd",
+          "title": "21 世纪最赚钱的技能（非人工智能） / The Most Profitable Skill Of The 21st Century (Not AI)",
+          "url": "https://www.youtube.com/watch?v=bWR_3Sg-H-8",
+          "source": "Dan Koe|发挥人的全部潜力|开发Eden伊甸园",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T18:02:02Z"
+          "published_at": "2026-07-05T19:09:58Z"
         },
         {
-          "id": "57dbc3368db0eca3b6683fc7f9bd5156fef06ea2",
-          "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
-          "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/d26b8c64e7...b55c477487",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "c1f0b94bb7376e57c6901433923c11233358d700",
+          "title": "AI45 | Copilot in Excel｜批次套印，公式自動帶入更靈活！ #copilot #excel #meiko微課頻道",
+          "url": "https://www.youtube.com/watch?v=iMDLq8szegE",
+          "source": "excel学习 | Meiko微課頻道",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:28:33Z"
+          "published_at": "2026-07-05T12:00:20Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
+        "Dan Koe|发挥人的全部潜力|开发Eden伊甸园",
+        "excel学习 | Meiko微課頻道"
       ],
       "items": [
         {
-          "id": "750cda8e95a7b6b0d47ae29dc2c8c91795e9ce95",
-          "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
-          "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/b55c477487...275b7ac108",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "aff30e5d42790b51b5e00b6c0862b2c8be08b8fd",
+          "title": "21 世纪最赚钱的技能（非人工智能） / The Most Profitable Skill Of The 21st Century (Not AI)",
+          "url": "https://www.youtube.com/watch?v=bWR_3Sg-H-8",
+          "source": "Dan Koe|发挥人的全部潜力|开发Eden伊甸园",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T18:02:02Z"
+          "published_at": "2026-07-05T19:09:58Z"
         },
         {
-          "id": "57dbc3368db0eca3b6683fc7f9bd5156fef06ea2",
-          "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
-          "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/d26b8c64e7...b55c477487",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "c1f0b94bb7376e57c6901433923c11233358d700",
+          "title": "AI45 | Copilot in Excel｜批次套印，公式自動帶入更靈活！ #copilot #excel #meiko微課頻道",
+          "url": "https://www.youtube.com/watch?v=iMDLq8szegE",
+          "source": "excel学习 | Meiko微課頻道",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:28:33Z"
+          "published_at": "2026-07-05T12:00:20Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6342,
-      "importance": 0.6342,
-      "importance_score": 0.6342,
+      "score": 0.6201,
+      "importance": 0.6201,
+      "importance_score": 0.6201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.9962,
+        "ai_relevance": 0.67,
+        "recency": 0.9705,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T16:28:33Z",
-      "latest_at": "2026-07-05T18:02:02Z",
+      "earliest_at": "2026-07-05T12:00:20Z",
+      "latest_at": "2026-07-05T19:09:58Z",
       "primary_item": {
-        "id": "750cda8e95a7b6b0d47ae29dc2c8c91795e9ce95",
-        "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
-        "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/b55c477487...275b7ac108",
-        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "id": "aff30e5d42790b51b5e00b6c0862b2c8be08b8fd",
+        "title": "21 世纪最赚钱的技能（非人工智能） / The Most Profitable Skill Of The 21st Century (Not AI)",
+        "url": "https://www.youtube.com/watch?v=bWR_3Sg-H-8",
+        "source": "Dan Koe|发挥人的全部潜力|开发Eden伊甸园",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_59b729f4a9be",
-      "title": "黑夜传说：血战 (2016) HDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Другой мир: Войны крови / Underworld: Blood Wars (2016) HDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
-      "url": "https://nnmclub.to/forum/viewtopic.php?t=1880269",
-      "primary_url": "https://nnmclub.to/forum/viewtopic.php?t=1880269",
-      "source": "NNM-Club 俄罗斯分享软件等",
+      "story_id": "story_4ae2ca575ed3",
+      "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py/pull/1810",
+      "primary_url": "https://github.com/teng-lin/notebooklm-py/pull/1810",
+      "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "37fdb81c3cd874c4fdc4410d1b01342950997a75",
-          "title": "黑夜传说：血战 (2016) HDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Другой мир: Войны крови / Underworld: Blood Wars (2016) HDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880269",
-          "source": "NNM-Club 俄罗斯分享软件等",
+          "id": "fa86403d656e811d7397cfe074677be3da57565a",
+          "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1810",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T17:53:06Z"
+          "published_at": "2026-07-05T19:02:00Z"
         },
         {
-          "id": "2a43d4e17b144a64a2a5c16dfcaf4418c03b7265",
-          "title": "前几天1961-2003：我们的时代（1997-2003）DVDRip [H.264/1080p]（第1-43集，共43集）[手工制作的高档AI][白金] / Намедни 1961-2003: Наша эра (1997-2003) DVDRip [H.264/1080p] (серии 1-43 из 43) [handmade Upscale AI] [Platinum]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880221",
-          "source": "NNM-Club 俄罗斯分享软件等",
+          "id": "340633215b2c62d7d624a36be51cefe02bb0f2f8",
+          "title": "teng-lin 对拉取请求发表评论 teng-lin/notebooklm-py#1810 / teng-lin commented on pull request teng-lin/notebooklm-py#1810",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1810",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T17:28:46Z"
+          "published_at": "2026-07-05T18:45:48Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "NNM-Club 俄罗斯分享软件等"
+        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
       ],
       "items": [
         {
-          "id": "37fdb81c3cd874c4fdc4410d1b01342950997a75",
-          "title": "黑夜传说：血战 (2016) HDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Другой мир: Войны крови / Underworld: Blood Wars (2016) HDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880269",
-          "source": "NNM-Club 俄罗斯分享软件等",
+          "id": "fa86403d656e811d7397cfe074677be3da57565a",
+          "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1810",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T17:53:06Z"
+          "published_at": "2026-07-05T19:02:00Z"
         },
         {
-          "id": "2a43d4e17b144a64a2a5c16dfcaf4418c03b7265",
-          "title": "前几天1961-2003：我们的时代（1997-2003）DVDRip [H.264/1080p]（第1-43集，共43集）[手工制作的高档AI][白金] / Намедни 1961-2003: Наша эра (1997-2003) DVDRip [H.264/1080p] (серии 1-43 из 43) [handmade Upscale AI] [Platinum]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1880221",
-          "source": "NNM-Club 俄罗斯分享软件等",
+          "id": "340633215b2c62d7d624a36be51cefe02bb0f2f8",
+          "title": "teng-lin 对拉取请求发表评论 teng-lin/notebooklm-py#1810 / teng-lin commented on pull request teng-lin/notebooklm-py#1810",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/1810",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T17:28:46Z"
+          "published_at": "2026-07-05T18:45:48Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.633,
-      "importance": 0.633,
-      "importance_score": 0.633,
+      "score": 0.619,
+      "importance": 0.619,
+      "importance_score": 0.619,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.99,
+        "ai_relevance": 0.67,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T17:28:46Z",
-      "latest_at": "2026-07-05T17:53:06Z",
+      "earliest_at": "2026-07-05T18:45:48Z",
+      "latest_at": "2026-07-05T19:02:00Z",
       "primary_item": {
-        "id": "37fdb81c3cd874c4fdc4410d1b01342950997a75",
-        "title": "黑夜传说：血战 (2016) HDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Другой мир: Войны крови / Underworld: Blood Wars (2016) HDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
-        "url": "https://nnmclub.to/forum/viewtopic.php?t=1880269",
-        "source": "NNM-Club 俄罗斯分享软件等",
+        "id": "fa86403d656e811d7397cfe074677be3da57565a",
+        "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
+        "url": "https://github.com/teng-lin/notebooklm-py/pull/1810",
+        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_54e97f468046",
+      "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "primary_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "source": "Hacker News Digest",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "92a298125ceea8b52f5cb62d9effafc79f82f3cb",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T18:50:25.243690Z"
+        },
+        {
+          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48796817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T19:52:49.987000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News Digest",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "92a298125ceea8b52f5cb62d9effafc79f82f3cb",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T18:50:25.243690Z"
+        },
+        {
+          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48796817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T19:52:49.987000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6174,
+      "importance": 0.6174,
+      "importance_score": 0.6174,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9569,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T18:50:25.243690Z",
+      "latest_at": "2026-07-05T19:52:49.987000Z",
+      "primary_item": {
+        "id": "92a298125ceea8b52f5cb62d9effafc79f82f3cb",
+        "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+        "source": "Hacker News Digest",
         "source_name": "OPML RSS"
       }
     },
@@ -557,14 +1056,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6263,
-      "importance": 0.6263,
-      "importance_score": 0.6263,
+      "score": 0.6118,
+      "importance": 0.6118,
+      "importance_score": 0.6118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.77,
-        "recency": 0.8517,
+        "recency": 0.7788,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -582,158 +1081,79 @@
       }
     },
     {
-      "story_id": "story_b97dfb6a3918",
-      "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-      "primary_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-      "source": "Hacker News Digest",
+      "story_id": "story_1ce6a7dfc1f0",
+      "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
+      "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/b55c477487...275b7ac108",
+      "primary_url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/b55c477487...275b7ac108",
+      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "a3c68367054f01ebe7d8dad8f1a05c496472335a",
-          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-          "source": "Hacker News Digest",
+          "id": "750cda8e95a7b6b0d47ae29dc2c8c91795e9ce95",
+          "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
+          "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/b55c477487...275b7ac108",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T17:05:48.637374Z"
+          "published_at": "2026-07-05T18:02:02Z"
         },
         {
-          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
-          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-          "url": "https://news.ycombinator.com/item?id=48795826",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T17:45:29.936000Z"
+          "id": "57dbc3368db0eca3b6683fc7f9bd5156fef06ea2",
+          "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
+          "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/d26b8c64e7...b55c477487",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T16:28:33Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News Digest",
-        "hackernews"
+        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
       ],
       "items": [
         {
-          "id": "a3c68367054f01ebe7d8dad8f1a05c496472335a",
-          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-          "source": "Hacker News Digest",
+          "id": "750cda8e95a7b6b0d47ae29dc2c8c91795e9ce95",
+          "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
+          "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/b55c477487...275b7ac108",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T17:05:48.637374Z"
+          "published_at": "2026-07-05T18:02:02Z"
         },
         {
-          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
-          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-          "url": "https://news.ycombinator.com/item?id=48795826",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T17:45:29.936000Z"
+          "id": "57dbc3368db0eca3b6683fc7f9bd5156fef06ea2",
+          "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
+          "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/d26b8c64e7...b55c477487",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T16:28:33Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6174,
-      "importance": 0.6174,
-      "importance_score": 0.6174,
+      "score": 0.6197,
+      "importance": 0.6197,
+      "importance_score": 0.6197,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9572,
+        "ai_relevance": 0.7,
+        "recency": 0.9233,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T17:05:48.637374Z",
-      "latest_at": "2026-07-05T17:45:29.936000Z",
+      "earliest_at": "2026-07-05T16:28:33Z",
+      "latest_at": "2026-07-05T18:02:02Z",
       "primary_item": {
-        "id": "a3c68367054f01ebe7d8dad8f1a05c496472335a",
-        "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-        "source": "Hacker News Digest",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_44de5f528adc",
-      "title": "Claude 设计系统提示词",
-      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "primary_url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "source": "Buzzing|国外社交媒体热榜",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "619eceb44bf0d525a463053abfb852d2893da40f",
-          "title": "Claude 设计系统提示词",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        },
-        {
-          "id": "21c8e03608576391a997ed5bcdd98deb50994c50",
-          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T08:43:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "619eceb44bf0d525a463053abfb852d2893da40f",
-          "title": "Claude 设计系统提示词",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T15:35:42.919000Z"
-        },
-        {
-          "id": "21c8e03608576391a997ed5bcdd98deb50994c50",
-          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
-          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T08:43:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6169,
-      "importance": 0.6169,
-      "importance_score": 0.6169,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8946,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T08:43:37Z",
-      "latest_at": "2026-07-05T15:35:42.919000Z",
-      "primary_item": {
-        "id": "619eceb44bf0d525a463053abfb852d2893da40f",
-        "title": "Claude 设计系统提示词",
-        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-        "source": "Buzzing|国外社交媒体热榜",
+        "id": "750cda8e95a7b6b0d47ae29dc2c8c91795e9ce95",
+        "title": "Dicklesworthstone 推出自制水龙头 / Dicklesworthstone pushed homebrew-tap",
+        "url": "https://github.com/Dicklesworthstone/homebrew-tap/compare/b55c477487...275b7ac108",
+        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
         "source_name": "OPML RSS"
       }
     },
@@ -791,14 +1211,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6012,
-      "importance": 0.6012,
-      "importance_score": 0.6012,
+      "score": 0.5866,
+      "importance": 0.5866,
+      "importance_score": 0.5866,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8761,
+        "recency": 0.8032,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -816,79 +1236,80 @@
       }
     },
     {
-      "story_id": "story_d3d33b344e12",
-      "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
-      "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/1a0eed12b1...6e4266afe3",
-      "primary_url": "https://github.com/Dicklesworthstone/franken_ocr/compare/1a0eed12b1...6e4266afe3",
-      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+      "story_id": "story_d900ec4b1bf6",
+      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+      "primary_url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+      "source": "Hacker News Digest",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "25d4e0159bbcca80cb661bebfac118b28c711074",
-          "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
-          "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/1a0eed12b1...6e4266afe3",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+          "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T17:06:40Z"
+          "published_at": "2026-07-05T16:47:25.251566Z"
         },
         {
-          "id": "3bd2c3ca4b48afa55795711b054511e7a7a4eafa",
-          "title": "迪克尔斯沃斯通推了弗兰肯图伊 / Dicklesworthstone pushed frankentui",
-          "url": "https://github.com/Dicklesworthstone/frankentui/compare/ffdf760732...1cf15490cb",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:31:11Z"
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T17:45:29.936000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
+        "Hacker News Digest",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "25d4e0159bbcca80cb661bebfac118b28c711074",
-          "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
-          "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/1a0eed12b1...6e4266afe3",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+          "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T17:06:40Z"
+          "published_at": "2026-07-05T16:47:25.251566Z"
         },
         {
-          "id": "3bd2c3ca4b48afa55795711b054511e7a7a4eafa",
-          "title": "迪克尔斯沃斯通推了弗兰肯图伊 / Dicklesworthstone pushed frankentui",
-          "url": "https://github.com/Dicklesworthstone/frankentui/compare/ffdf760732...1cf15490cb",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:31:11Z"
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T17:45:29.936000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6266,
-      "importance": 0.6266,
-      "importance_score": 0.6266,
+      "score": 0.6093,
+      "importance": 0.6093,
+      "importance_score": 0.6093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.9578,
+        "recency": 0.8715,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T16:31:11Z",
-      "latest_at": "2026-07-05T17:06:40Z",
+      "earliest_at": "2026-07-05T16:47:25.251566Z",
+      "latest_at": "2026-07-05T17:45:29.936000Z",
       "primary_item": {
-        "id": "25d4e0159bbcca80cb661bebfac118b28c711074",
-        "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
-        "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/1a0eed12b1...6e4266afe3",
-        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
+        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+        "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+        "source": "Hacker News Digest",
         "source_name": "OPML RSS"
       }
     },
@@ -945,14 +1366,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5926,
-      "importance": 0.5926,
-      "importance_score": 0.5926,
+      "score": 0.578,
+      "importance": 0.578,
+      "importance_score": 0.578,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.833,
+        "recency": 0.7601,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -970,108 +1391,108 @@
       }
     },
     {
-      "story_id": "story_d900ec4b1bf6",
-      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-      "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-      "primary_url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-      "source": "Hacker News Digest",
+      "story_id": "story_44de5f528adc",
+      "title": "Claude 设计系统提示词",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "primary_url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "source": "Buzzing|国外社交媒体热榜",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-          "source": "Hacker News Digest",
+          "id": "619eceb44bf0d525a463053abfb852d2893da40f",
+          "title": "Claude 设计系统提示词",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Buzzing|国外社交媒体热榜",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T15:52:48.639261Z"
+          "published_at": "2026-07-05T15:35:42.919000Z"
         },
         {
-          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://news.ycombinator.com/item?id=48795174",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T17:45:29.936000Z"
+          "id": "21c8e03608576391a997ed5bcdd98deb50994c50",
+          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T08:43:37Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News Digest",
-        "hackernews"
+        "Buzzing|国外社交媒体热榜",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-          "source": "Hacker News Digest",
+          "id": "619eceb44bf0d525a463053abfb852d2893da40f",
+          "title": "Claude 设计系统提示词",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Buzzing|国外社交媒体热榜",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T15:52:48.639261Z"
+          "published_at": "2026-07-05T15:35:42.919000Z"
         },
         {
-          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://news.ycombinator.com/item?id=48795174",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T17:45:29.936000Z"
+          "id": "21c8e03608576391a997ed5bcdd98deb50994c50",
+          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T08:43:37Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6163,
-      "importance": 0.6163,
-      "importance_score": 0.6163,
+      "score": 0.6023,
+      "importance": 0.6023,
+      "importance_score": 0.6023,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.9065,
+        "ai_relevance": 0.71,
+        "recency": 0.8217,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T15:52:48.639261Z",
-      "latest_at": "2026-07-05T17:45:29.936000Z",
+      "earliest_at": "2026-07-05T08:43:37Z",
+      "latest_at": "2026-07-05T15:35:42.919000Z",
       "primary_item": {
-        "id": "b8de662634bbbdfa16dcd9a34aad5414f9dd650d",
-        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-        "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-        "source": "Hacker News Digest",
+        "id": "619eceb44bf0d525a463053abfb852d2893da40f",
+        "title": "Claude 设计系统提示词",
+        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+        "source": "Buzzing|国外社交媒体热榜",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_4793d6d22a55",
-      "title": "Dicklesworthstone 关闭了 ntm 中的一个问题 / Dicklesworthstone closed an issue in ntm",
-      "url": "https://github.com/Dicklesworthstone/ntm/issues/207",
-      "primary_url": "https://github.com/Dicklesworthstone/ntm/issues/207",
+      "story_id": "story_d3d33b344e12",
+      "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
+      "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/1a0eed12b1...6e4266afe3",
+      "primary_url": "https://github.com/Dicklesworthstone/franken_ocr/compare/1a0eed12b1...6e4266afe3",
       "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "80ae9dc1af1fa22ffdb6224cda138ead7db774a9",
-          "title": "Dicklesworthstone 关闭了 ntm 中的一个问题 / Dicklesworthstone closed an issue in ntm",
-          "url": "https://github.com/Dicklesworthstone/ntm/issues/207",
+          "id": "25d4e0159bbcca80cb661bebfac118b28c711074",
+          "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
+          "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/1a0eed12b1...6e4266afe3",
           "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:44:21Z"
+          "published_at": "2026-07-05T17:06:40Z"
         },
         {
-          "id": "ebc3fe6fde8e6fde99bf5c593b0e8ab4818ecfc6",
-          "title": "Dicklesworthstone 对 ntm 中的一个问题发表了评论 / Dicklesworthstone commented on an issue in ntm",
-          "url": "https://github.com/Dicklesworthstone/ntm/issues/207",
+          "id": "3bd2c3ca4b48afa55795711b054511e7a7a4eafa",
+          "title": "迪克尔斯沃斯通推了弗兰肯图伊 / Dicklesworthstone pushed frankentui",
+          "url": "https://github.com/Dicklesworthstone/frankentui/compare/ffdf760732...1cf15490cb",
           "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:44:21Z"
+          "published_at": "2026-07-05T16:31:11Z"
         }
       ],
       "source_count": 2,
@@ -1080,47 +1501,125 @@
       ],
       "items": [
         {
-          "id": "80ae9dc1af1fa22ffdb6224cda138ead7db774a9",
-          "title": "Dicklesworthstone 关闭了 ntm 中的一个问题 / Dicklesworthstone closed an issue in ntm",
-          "url": "https://github.com/Dicklesworthstone/ntm/issues/207",
+          "id": "25d4e0159bbcca80cb661bebfac118b28c711074",
+          "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
+          "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/1a0eed12b1...6e4266afe3",
           "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:44:21Z"
+          "published_at": "2026-07-05T17:06:40Z"
         },
         {
-          "id": "ebc3fe6fde8e6fde99bf5c593b0e8ab4818ecfc6",
-          "title": "Dicklesworthstone 对 ntm 中的一个问题发表了评论 / Dicklesworthstone commented on an issue in ntm",
-          "url": "https://github.com/Dicklesworthstone/ntm/issues/207",
+          "id": "3bd2c3ca4b48afa55795711b054511e7a7a4eafa",
+          "title": "迪克尔斯沃斯通推了弗兰肯图伊 / Dicklesworthstone pushed frankentui",
+          "url": "https://github.com/Dicklesworthstone/frankentui/compare/ffdf760732...1cf15490cb",
           "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-05T16:44:21Z"
+          "published_at": "2026-07-05T16:31:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6235,
-      "importance": 0.6235,
-      "importance_score": 0.6235,
+      "score": 0.612,
+      "importance": 0.612,
+      "importance_score": 0.612,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.9423,
+        "recency": 0.8849,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T16:44:21Z",
-      "latest_at": "2026-07-05T16:44:21Z",
+      "earliest_at": "2026-07-05T16:31:11Z",
+      "latest_at": "2026-07-05T17:06:40Z",
       "primary_item": {
-        "id": "80ae9dc1af1fa22ffdb6224cda138ead7db774a9",
-        "title": "Dicklesworthstone 关闭了 ntm 中的一个问题 / Dicklesworthstone closed an issue in ntm",
-        "url": "https://github.com/Dicklesworthstone/ntm/issues/207",
+        "id": "25d4e0159bbcca80cb661bebfac118b28c711074",
+        "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
+        "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/1a0eed12b1...6e4266afe3",
         "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_c39b7836f50e",
+      "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+      "url": "https://arxiv.org/abs/2602.09239",
+      "primary_url": "https://arxiv.org/abs/2602.09239",
+      "source": "Hacker News Digest",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "3d3a6da4a310d2b1ca9dfcdde072f8b0a0a4bec4",
+          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T17:47:25.248984Z"
+        },
+        {
+          "id": "b761e69786e8cb0cc03f6a9483a3adaae9284a4f",
+          "title": "“这些相机就像索伦之眼” / \"These cameras are just like the Eye of Sauron\"",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:05:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News Digest",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "3d3a6da4a310d2b1ca9dfcdde072f8b0a0a4bec4",
+          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-05T17:47:25.248984Z"
+        },
+        {
+          "id": "b761e69786e8cb0cc03f6a9483a3adaae9284a4f",
+          "title": "“这些相机就像索伦之眼” / \"These cameras are just like the Eye of Sauron\"",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:05:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6086,
+      "importance": 0.6086,
+      "importance_score": 0.6086,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9132,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T17:05:57Z",
+      "latest_at": "2026-07-05T17:47:25.248984Z",
+      "primary_item": {
+        "id": "3d3a6da4a310d2b1ca9dfcdde072f8b0a0a4bec4",
+        "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+        "url": "https://arxiv.org/abs/2602.09239",
+        "source": "Hacker News Digest",
         "source_name": "OPML RSS"
       }
     },
@@ -1177,14 +1676,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5881,
-      "importance": 0.5881,
-      "importance_score": 0.5881,
+      "score": 0.5735,
+      "importance": 0.5735,
+      "importance_score": 0.5735,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8104,
+        "recency": 0.7375,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1197,412 +1696,6 @@
         "id": "95dcf1040a0d0aadfd7f89965e571757cb4075d4",
         "title": "腾林推送notebooklm-py / teng-lin pushed notebooklm-py",
         "url": "https://github.com/teng-lin/notebooklm-py/compare/ce1ac84dfb...09abfa77b8",
-        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_655bb15bb133",
-      "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-      "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872798.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
-          "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d5eceb0b967ea1e2ec7946c77c5dbea9753ea313",
-          "title": "AI教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T16:07:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
-          "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d5eceb0b967ea1e2ec7946c77c5dbea9753ea313",
-          "title": "AI教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T16:07:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T16:07:34Z",
-      "latest_at": "2026-07-05T18:07:26.995564Z",
-      "primary_item": {
-        "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
-        "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
-        "url": "https://www.huxiu.com/article/4872798.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c7f7e9fbc46c",
-      "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "primary_url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T17:56:50.292000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
-          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
-          "url": "https://github.com/hesreallyhim/awesome-claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T17:56:50.292000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T17:56:50.292000Z",
-      "latest_at": "2026-07-05T18:07:26.995564Z",
-      "primary_item": {
-        "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
-        "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
-        "url": "https://github.com/hesreallyhim/awesome-claude-code",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_df20f480cb59",
-      "title": "BlueSkyXN 推送 CPA-Core-LTS / BlueSkyXN pushed CPA-Core-LTS",
-      "url": "https://github.com/BlueSkyXN/CPA-Core-LTS/compare/961d2a2c7a...067f3d896b",
-      "primary_url": "https://github.com/BlueSkyXN/CPA-Core-LTS/compare/961d2a2c7a...067f3d896b",
-      "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "052bdb2b08e588bbcc2cb2572dde0a76928bf267",
-          "title": "BlueSkyXN 推送 CPA-Core-LTS / BlueSkyXN pushed CPA-Core-LTS",
-          "url": "https://github.com/BlueSkyXN/CPA-Core-LTS/compare/961d2a2c7a...067f3d896b",
-          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T04:55:57Z"
-        },
-        {
-          "id": "3f487ae143558384063c544389114c4300e174f3",
-          "title": "BlueSkyXN 推送 CPA-Panel-LTS / BlueSkyXN pushed CPA-Panel-LTS",
-          "url": "https://github.com/BlueSkyXN/CPA-Panel-LTS/compare/4141cdde0a...46cf997ee4",
-          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T02:45:16Z"
-        },
-        {
-          "id": "74286334eb20c44234903d8b4dfb5b9cc46d76b4",
-          "title": "BlueSkyXN 推送 CPA-Core-LTS / BlueSkyXN pushed CPA-Core-LTS",
-          "url": "https://github.com/BlueSkyXN/CPA-Core-LTS/compare/0fb2d0cb33...a4b25cc66d",
-          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T01:01:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力"
-      ],
-      "items": [
-        {
-          "id": "052bdb2b08e588bbcc2cb2572dde0a76928bf267",
-          "title": "BlueSkyXN 推送 CPA-Core-LTS / BlueSkyXN pushed CPA-Core-LTS",
-          "url": "https://github.com/BlueSkyXN/CPA-Core-LTS/compare/961d2a2c7a...067f3d896b",
-          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T04:55:57Z"
-        },
-        {
-          "id": "3f487ae143558384063c544389114c4300e174f3",
-          "title": "BlueSkyXN 推送 CPA-Panel-LTS / BlueSkyXN pushed CPA-Panel-LTS",
-          "url": "https://github.com/BlueSkyXN/CPA-Panel-LTS/compare/4141cdde0a...46cf997ee4",
-          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T02:45:16Z"
-        },
-        {
-          "id": "74286334eb20c44234903d8b4dfb5b9cc46d76b4",
-          "title": "BlueSkyXN 推送 CPA-Core-LTS / BlueSkyXN pushed CPA-Core-LTS",
-          "url": "https://github.com/BlueSkyXN/CPA-Core-LTS/compare/0fb2d0cb33...a4b25cc66d",
-          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T01:01:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.4503,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T01:01:43Z",
-      "latest_at": "2026-07-05T04:55:57Z",
-      "primary_item": {
-        "id": "052bdb2b08e588bbcc2cb2572dde0a76928bf267",
-        "title": "BlueSkyXN 推送 CPA-Core-LTS / BlueSkyXN pushed CPA-Core-LTS",
-        "url": "https://github.com/BlueSkyXN/CPA-Core-LTS/compare/961d2a2c7a...067f3d896b",
-        "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_fa6538e9d176",
-      "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
-      "url": "https://github.com/steipete/CodexBar",
-      "primary_url": "https://github.com/steipete/CodexBar",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
-          "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
-          "url": "https://github.com/steipete/CodexBar",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
-          "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
-          "url": "https://github.com/steipete/CodexBar",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T17:56:50.292000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
-          "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
-          "url": "https://github.com/steipete/CodexBar",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
-          "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
-          "url": "https://github.com/steipete/CodexBar",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T17:56:50.292000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T17:56:50.292000Z",
-      "latest_at": "2026-07-05T18:07:26.995564Z",
-      "primary_item": {
-        "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
-        "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
-        "url": "https://github.com/steipete/CodexBar",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_1ffc58d36e1a",
-      "title": "teng-lin commented on pull request teng-lin/notebooklm-py#1802",
-      "url": "https://github.com/teng-lin/notebooklm-py/pull/1802",
-      "primary_url": "https://github.com/teng-lin/notebooklm-py/pull/1802",
-      "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "6a499f7a993983b6f89f94a3a64b26d9dee5f843",
-          "title": "teng-lin commented on pull request teng-lin/notebooklm-py#1802",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/1802",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T11:12:24Z"
-        },
-        {
-          "id": "4ffee843e6bcfbbe7a595c048a9e8209cb12d27a",
-          "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/1802",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T10:59:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
-      ],
-      "items": [
-        {
-          "id": "6a499f7a993983b6f89f94a3a64b26d9dee5f843",
-          "title": "teng-lin commented on pull request teng-lin/notebooklm-py#1802",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/1802",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T11:12:24Z"
-        },
-        {
-          "id": "4ffee843e6bcfbbe7a595c048a9e8209cb12d27a",
-          "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/1802",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-05T10:59:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.7118,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T10:59:49Z",
-      "latest_at": "2026-07-05T11:12:24Z",
-      "primary_item": {
-        "id": "6a499f7a993983b6f89f94a3a64b26d9dee5f843",
-        "title": "teng-lin commented on pull request teng-lin/notebooklm-py#1802",
-        "url": "https://github.com/teng-lin/notebooklm-py/pull/1802",
         "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
         "source_name": "OPML RSS"
       }
