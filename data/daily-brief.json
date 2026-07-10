@@ -1,180 +1,58 @@
 {
-  "generated_at": "2026-07-08T03:55:30.292038Z",
+  "generated_at": "2026-07-10T03:46:44.087072Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.143.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b96bf72e90172017de5c8d627a99cb4b47baf860",
-          "title": "Codex CLI 0.143.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "b96bf72e90172017de5c8d627a99cb4b47baf860",
-          "title": "Codex CLI 0.143.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.8613,
-      "importance_score": 0.8613,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8365,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T00:00:00Z",
-      "latest_at": "2026-07-08T00:00:00Z",
-      "primary_item": {
-        "id": "b96bf72e90172017de5c8d627a99cb4b47baf860",
-        "title": "Codex CLI 0.143.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d4caa9e3147d",
-      "title": "Kimi K2.7 now available for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
-          "title": "Kimi K2.7 now available for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:05:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
-          "title": "Kimi K2.7 now available for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:05:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8403,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T00:05:35Z",
-      "latest_at": "2026-07-08T00:05:35Z",
-      "primary_item": {
-        "id": "b427cd492df69b4d3c3f1408299434345a197ded",
-        "title": "Kimi K2.7 now available for Copilot Business and Enterprise",
-        "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a69110748b59",
-      "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-      "url": "https://www.aibase.com/news/29445",
-      "primary_url": "https://www.aibase.com/news/29445",
+      "story_id": "story_1c8735028aaa",
+      "title": "马斯克公开认错\"看走眼\"：Anthropic才是AI老大，我不会拔它服务器",
+      "url": "https://www.aibase.com/news/29520",
+      "primary_url": "https://www.aibase.com/news/29520",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1551e6a51c3fde23e405759647f859d5b7082328",
-          "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-          "url": "https://www.aibase.com/news/29445",
+          "id": "401dee5b8377c7437938ec56a01b1c671db2ed1c",
+          "title": "马斯克公开认错\"看走眼\"：Anthropic才是AI老大，我不会拔它服务器",
+          "url": "https://www.aibase.com/news/29520",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:55:30.292038Z"
+          "published_at": "2026-07-10T03:46:44.087072Z"
         },
         {
-          "id": "e9908c0997ac5ce2d62a58716d01fb95ac04831c",
-          "title": "Claude Cowork 移动端与网页版正式上线",
-          "url": "https://www.1ai.net/54560.html",
-          "source": "ai,人工智能,1ai.net",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-08T02:12:46Z"
+          "id": "94e970705009cf19de0da60c35bc314f30c59154",
+          "title": "马斯克公开认错「看走眼」：Anthropic 才是 AI 老大，我不会拔它服务器",
+          "url": "https://www.aibase.com/zh/news/29520",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
         "AIbase",
-        "ai,人工智能,1ai.net"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "1551e6a51c3fde23e405759647f859d5b7082328",
-          "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-          "url": "https://www.aibase.com/news/29445",
+          "id": "401dee5b8377c7437938ec56a01b1c671db2ed1c",
+          "title": "马斯克公开认错\"看走眼\"：Anthropic才是AI老大，我不会拔它服务器",
+          "url": "https://www.aibase.com/news/29520",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:55:30.292038Z"
+          "published_at": "2026-07-10T03:46:44.087072Z"
         },
         {
-          "id": "e9908c0997ac5ce2d62a58716d01fb95ac04831c",
-          "title": "Claude Cowork 移动端与网页版正式上线",
-          "url": "https://www.1ai.net/54560.html",
-          "source": "ai,人工智能,1ai.net",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-08T02:12:46Z"
+          "id": "94e970705009cf19de0da60c35bc314f30c59154",
+          "title": "马斯克公开认错「看走眼」：Anthropic 才是 AI 老大，我不会拔它服务器",
+          "url": "https://www.aibase.com/zh/news/29520",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
@@ -195,89 +73,28 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T02:12:46Z",
-      "latest_at": "2026-07-08T03:55:30.292038Z",
+      "earliest_at": "2026-07-10T03:46:44.087072Z",
+      "latest_at": "2026-07-10T03:46:44.087072Z",
       "primary_item": {
-        "id": "1551e6a51c3fde23e405759647f859d5b7082328",
-        "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-        "url": "https://www.aibase.com/news/29445",
+        "id": "401dee5b8377c7437938ec56a01b1c671db2ed1c",
+        "title": "马斯克公开认错\"看走眼\"：Anthropic才是AI老大，我不会拔它服务器",
+        "url": "https://www.aibase.com/news/29520",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ca9a2a21da07",
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "primary_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
-          "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T21:15:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
-          "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T21:15:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7223,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T21:15:33Z",
-      "latest_at": "2026-07-07T21:15:33Z",
-      "primary_item": {
-        "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
-        "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-        "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1355-5433-928e-44a7c5262b2e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-1355-5433-928e-44a7c5262b2e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260710-1347-0899-9f00-e8f58dddaf76&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260710-1347-0899-9f00-e8f58dddaf76&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "12fe01927bc722b12b2e67bb1e5c00f81f103df6",
+          "id": "aad35c82fe7cca22f42e99625ad6417c6c6f1344",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1355-5433-928e-44a7c5262b2e&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-1347-0899-9f00-e8f58dddaf76&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -290,9 +107,9 @@
       ],
       "items": [
         {
-          "id": "12fe01927bc722b12b2e67bb1e5c00f81f103df6",
+          "id": "aad35c82fe7cca22f42e99625ad6417c6c6f1344",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1355-5433-928e-44a7c5262b2e&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-1347-0899-9f00-e8f58dddaf76&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -316,112 +133,213 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T03:55:30.292038Z",
-      "latest_at": "2026-07-08T03:55:30.292038Z",
+      "earliest_at": "2026-07-10T03:46:44.087072Z",
+      "latest_at": "2026-07-10T03:46:44.087072Z",
       "primary_item": {
-        "id": "12fe01927bc722b12b2e67bb1e5c00f81f103df6",
+        "id": "aad35c82fe7cca22f42e99625ad6417c6c6f1344",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1355-5433-928e-44a7c5262b2e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260710-1347-0899-9f00-e8f58dddaf76&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_8532ab119db9",
-      "title": "英伟达推出统一音频智能模型 Nemotron-Labs-Audex-30B-A3B",
-      "url": "https://www.aibase.com/news/29453",
-      "primary_url": "https://www.aibase.com/news/29453",
+      "story_id": "story_281a7d3afe46",
+      "title": "OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
+          "title": "OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T16:41:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
+          "title": "OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T16:41:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.538,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T16:41:29Z",
+      "latest_at": "2026-07-09T16:41:29Z",
+      "primary_item": {
+        "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
+        "title": "OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1234bd4935ed",
+      "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+      "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
+      "primary_url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
+      "source": "Google Research：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b20928a0dcd38e8b09920d9dca9fb815a98a74da",
+          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T00:20:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Research：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b20928a0dcd38e8b09920d9dca9fb815a98a74da",
+          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+          "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T00:20:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8567,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T00:20:20Z",
+      "latest_at": "2026-07-10T00:20:20Z",
+      "primary_item": {
+        "id": "b20928a0dcd38e8b09920d9dca9fb815a98a74da",
+        "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+        "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
+        "source": "Google Research：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d738e13faca6",
+      "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+      "url": "https://www.aibase.com/news/29506",
+      "primary_url": "https://www.aibase.com/news/29506",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4d34ab6283b756ec2ea3b86e346074c834080bba",
-          "title": "英伟达推出统一音频智能模型 Nemotron-Labs-Audex-30B-A3B",
-          "url": "https://www.aibase.com/news/29453",
+          "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+          "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+          "url": "https://www.aibase.com/news/29506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:55:30.292038Z"
-        },
-        {
-          "id": "db84b6c4669201a41f9a7603da174123b6b63be8",
-          "title": "英伟达开源统一音频智能模型 Nemotron-Labs-Audex-30B-A3B",
-          "url": "https://www.oschina.net/news/471548",
-          "source": "最新开源资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-08T02:34:36Z"
+          "published_at": "2026-07-10T03:46:44.087072Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "最新开源资讯"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4d34ab6283b756ec2ea3b86e346074c834080bba",
-          "title": "英伟达推出统一音频智能模型 Nemotron-Labs-Audex-30B-A3B",
-          "url": "https://www.aibase.com/news/29453",
+          "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+          "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+          "url": "https://www.aibase.com/news/29506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:55:30.292038Z"
-        },
-        {
-          "id": "db84b6c4669201a41f9a7603da174123b6b63be8",
-          "title": "英伟达开源统一音频智能模型 Nemotron-Labs-Audex-30B-A3B",
-          "url": "https://www.oschina.net/news/471548",
-          "source": "最新开源资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-08T02:34:36Z"
+          "published_at": "2026-07-10T03:46:44.087072Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T02:34:36Z",
-      "latest_at": "2026-07-08T03:55:30.292038Z",
+      "earliest_at": "2026-07-10T03:46:44.087072Z",
+      "latest_at": "2026-07-10T03:46:44.087072Z",
       "primary_item": {
-        "id": "4d34ab6283b756ec2ea3b86e346074c834080bba",
-        "title": "英伟达推出统一音频智能模型 Nemotron-Labs-Audex-30B-A3B",
-        "url": "https://www.aibase.com/news/29453",
+        "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+        "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+        "url": "https://www.aibase.com/news/29506",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1914d2df88e3",
-      "title": "Pulpie：用于清理网络的Pareto最优模型",
-      "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
-      "primary_url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
+      "story_id": "story_4e767f9bd34a",
+      "title": "Show HN： 如何在我的低配置电脑上运行 GLM-5.2",
+      "url": "https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru",
+      "primary_url": "https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d8355baeae99484972fd4d46c8079da011af0ea3",
-          "title": "Pulpie：用于清理网络的Pareto最优模型",
-          "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
+          "id": "d04fbd813371a6ba61c79d024688134138d7d16c",
+          "title": "Show HN： 如何在我的低配置电脑上运行 GLM-5.2",
+          "url": "https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T01:33:24Z"
+          "published_at": "2026-07-09T22:18:12Z"
         }
       ],
       "source_count": 1,
@@ -430,25 +348,25 @@
       ],
       "items": [
         {
-          "id": "d8355baeae99484972fd4d46c8079da011af0ea3",
-          "title": "Pulpie：用于清理网络的Pareto最优模型",
-          "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
+          "id": "d04fbd813371a6ba61c79d024688134138d7d16c",
+          "title": "Show HN： 如何在我的低配置电脑上运行 GLM-5.2",
+          "url": "https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T01:33:24Z"
+          "published_at": "2026-07-09T22:18:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9013,
+        "recency": 0.7719,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -456,59 +374,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T01:33:24Z",
-      "latest_at": "2026-07-08T01:33:24Z",
+      "earliest_at": "2026-07-09T22:18:12Z",
+      "latest_at": "2026-07-09T22:18:12Z",
       "primary_item": {
-        "id": "d8355baeae99484972fd4d46c8079da011af0ea3",
-        "title": "Pulpie：用于清理网络的Pareto最优模型",
-        "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
+        "id": "d04fbd813371a6ba61c79d024688134138d7d16c",
+        "title": "Show HN： 如何在我的低配置电脑上运行 GLM-5.2",
+        "url": "https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_72f921915605",
-      "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
-      "url": "https://aihot.virxact.com/items/cmrbdqlcv02y4ihl11xbxx9xs",
-      "primary_url": "https://aihot.virxact.com/items/cmrbdqlcv02y4ihl11xbxx9xs",
-      "source": "X：邵猛 (@shao__meng)",
+      "story_id": "story_913e1e1c10bf",
+      "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+      "url": "https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99",
+      "primary_url": "https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ca9ac4e5110bdfae78d95fe09de73396d774fb6a",
-          "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
-          "url": "https://aihot.virxact.com/items/cmrbdqlcv02y4ihl11xbxx9xs",
-          "source": "X：邵猛 (@shao__meng)",
+          "id": "c199595f1ccd82aaf563dd5b9435f08b44f55732",
+          "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "url": "https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T01:06:01Z"
+          "published_at": "2026-07-09T21:57:42Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：邵猛 (@shao__meng)"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "ca9ac4e5110bdfae78d95fe09de73396d774fb6a",
-          "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
-          "url": "https://aihot.virxact.com/items/cmrbdqlcv02y4ihl11xbxx9xs",
-          "source": "X：邵猛 (@shao__meng)",
+          "id": "c199595f1ccd82aaf563dd5b9435f08b44f55732",
+          "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+          "url": "https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T01:06:01Z"
+          "published_at": "2026-07-09T21:57:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8823,
+        "recency": 0.7576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -516,59 +434,140 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T01:06:01Z",
-      "latest_at": "2026-07-08T01:06:01Z",
+      "earliest_at": "2026-07-09T21:57:42Z",
+      "latest_at": "2026-07-09T21:57:42Z",
       "primary_item": {
-        "id": "ca9ac4e5110bdfae78d95fe09de73396d774fb6a",
-        "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
-        "url": "https://aihot.virxact.com/items/cmrbdqlcv02y4ihl11xbxx9xs",
-        "source": "X：邵猛 (@shao__meng)",
+        "id": "c199595f1ccd82aaf563dd5b9435f08b44f55732",
+        "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+        "url": "https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_04b1189477a2",
-      "title": "蚂蚁集团周俊AICon演讲：从Token数量到Token密度，万亿参数模型效率优先",
-      "url": "https://aihot.virxact.com/items/cmrbdsefa02yjihl17gg7mhx3",
-      "primary_url": "https://aihot.virxact.com/items/cmrbdsefa02yjihl17gg7mhx3",
-      "source": "公众号：蚂蚁百灵（Ling）",
+      "story_id": "story_5941cef110c0",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "primary_url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c8aad6129e33dd74a8a176bfa3d478d9acf5ae0b",
+          "title": "ChatGPT is now a partner for your most ambitious work",
+          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T10:00:00Z"
+        },
+        {
+          "id": "a6c727a47c1be60dbae0bc5ca8e3c447f647f7b0",
+          "title": "ChatGPT Work",
+          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-09T21:46:30.429000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "c8aad6129e33dd74a8a176bfa3d478d9acf5ae0b",
+          "title": "ChatGPT is now a partner for your most ambitious work",
+          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-09T10:00:00Z"
+        },
+        {
+          "id": "a6c727a47c1be60dbae0bc5ca8e3c447f647f7b0",
+          "title": "ChatGPT Work",
+          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-09T21:46:30.429000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.2592,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T10:00:00Z",
+      "latest_at": "2026-07-09T21:46:30.429000Z",
+      "primary_item": {
+        "id": "c8aad6129e33dd74a8a176bfa3d478d9acf5ae0b",
+        "title": "ChatGPT is now a partner for your most ambitious work",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1b38a875845f",
+      "title": "ChatGPT Sites将创意变可发布网站",
+      "url": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
+      "primary_url": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ce63cec1759bc6ef7be395d5db05457bedd4543d",
-          "title": "蚂蚁集团周俊AICon演讲：从Token数量到Token密度，万亿参数模型效率优先",
-          "url": "https://aihot.virxact.com/items/cmrbdsefa02yjihl17gg7mhx3",
-          "source": "公众号：蚂蚁百灵（Ling）",
+          "id": "dc5ab204715e14c133718042751cfc8b149fa44e",
+          "title": "ChatGPT Sites将创意变可发布网站",
+          "url": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T01:00:00Z"
+          "published_at": "2026-07-09T21:27:27Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
+        "X：OpenAI Developers (@OpenAIDevs)"
       ],
       "items": [
         {
-          "id": "ce63cec1759bc6ef7be395d5db05457bedd4543d",
-          "title": "蚂蚁集团周俊AICon演讲：从Token数量到Token密度，万亿参数模型效率优先",
-          "url": "https://aihot.virxact.com/items/cmrbdsefa02yjihl17gg7mhx3",
-          "source": "公众号：蚂蚁百灵（Ling）",
+          "id": "dc5ab204715e14c133718042751cfc8b149fa44e",
+          "title": "ChatGPT Sites将创意变可发布网站",
+          "url": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T01:00:00Z"
+          "published_at": "2026-07-09T21:27:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.7366,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -576,32 +575,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T01:00:00Z",
-      "latest_at": "2026-07-08T01:00:00Z",
+      "earliest_at": "2026-07-09T21:27:27Z",
+      "latest_at": "2026-07-09T21:27:27Z",
       "primary_item": {
-        "id": "ce63cec1759bc6ef7be395d5db05457bedd4543d",
-        "title": "蚂蚁集团周俊AICon演讲：从Token数量到Token密度，万亿参数模型效率优先",
-        "url": "https://aihot.virxact.com/items/cmrbdsefa02yjihl17gg7mhx3",
-        "source": "公众号：蚂蚁百灵（Ling）",
+        "id": "dc5ab204715e14c133718042751cfc8b149fa44e",
+        "title": "ChatGPT Sites将创意变可发布网站",
+        "url": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5146272332c9",
-      "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-      "url": "https://www.aibase.com/news/29446",
-      "primary_url": "https://www.aibase.com/news/29446",
+      "story_id": "story_9372e21fb1cc",
+      "title": "Meta携手博通与台积电，自研AI芯片“Iris”将于9月正式量产",
+      "url": "https://www.aibase.com/news/29511",
+      "primary_url": "https://www.aibase.com/news/29511",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-          "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-          "url": "https://www.aibase.com/news/29446",
+          "id": "e73bbc81540aab47bcf9043871ce93ca29df3342",
+          "title": "Meta携手博通与台积电，自研AI芯片“Iris”将于9月正式量产",
+          "url": "https://www.aibase.com/news/29511",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:55:30.292038Z"
+          "published_at": "2026-07-10T03:46:44.087072Z"
         }
       ],
       "source_count": 1,
@@ -610,13 +609,13 @@
       ],
       "items": [
         {
-          "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-          "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-          "url": "https://www.aibase.com/news/29446",
+          "id": "e73bbc81540aab47bcf9043871ce93ca29df3342",
+          "title": "Meta携手博通与台积电，自研AI芯片“Iris”将于9月正式量产",
+          "url": "https://www.aibase.com/news/29511",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:55:30.292038Z"
+          "published_at": "2026-07-10T03:46:44.087072Z"
         }
       ],
       "item_count": 1,
@@ -636,152 +635,92 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T03:55:30.292038Z",
-      "latest_at": "2026-07-08T03:55:30.292038Z",
+      "earliest_at": "2026-07-10T03:46:44.087072Z",
+      "latest_at": "2026-07-10T03:46:44.087072Z",
       "primary_item": {
-        "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-        "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-        "url": "https://www.aibase.com/news/29446",
+        "id": "e73bbc81540aab47bcf9043871ce93ca29df3342",
+        "title": "Meta携手博通与台积电，自研AI芯片“Iris”将于9月正式量产",
+        "url": "https://www.aibase.com/news/29511",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_024a3808c07a",
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "primary_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-          "title": "Hugging Face Models on Foundry Managed Compute",
-          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:20:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-          "title": "Hugging Face Models on Foundry Managed Compute",
-          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:20:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.4754,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T15:20:06Z",
-      "latest_at": "2026-07-07T15:20:06Z",
-      "primary_item": {
-        "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-        "title": "Hugging Face Models on Foundry Managed Compute",
-        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b39e53757bd9",
-      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-      "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-      "primary_url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-      "source": "X：AI at Meta (@AIatMeta)",
+      "story_id": "story_5b4dc26bab04",
+      "title": "AI 能否回答 3 万亿美元的问题？",
+      "url": "https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l",
+      "primary_url": "https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
-          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-          "source": "X：AI at Meta (@AIatMeta)",
+          "id": "d83f63906f56362ae3fdae298d28d6cc8074f4f5",
+          "title": "AI 能否回答 3 万亿美元的问题？",
+          "url": "https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T19:33:53Z"
+          "published_at": "2026-07-09T21:47:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：AI at Meta (@AIatMeta)"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
-          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-          "source": "X：AI at Meta (@AIatMeta)",
+          "id": "d83f63906f56362ae3fdae298d28d6cc8074f4f5",
+          "title": "AI 能否回答 3 万亿美元的问题？",
+          "url": "https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T19:33:53Z"
+          "published_at": "2026-07-09T21:47:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6517,
+        "recency": 0.7508,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-07T19:33:53Z",
-      "latest_at": "2026-07-07T19:33:53Z",
+      "earliest_at": "2026-07-09T21:47:50Z",
+      "latest_at": "2026-07-09T21:47:50Z",
       "primary_item": {
-        "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
-        "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-        "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-        "source": "X：AI at Meta (@AIatMeta)",
+        "id": "d83f63906f56362ae3fdae298d28d6cc8074f4f5",
+        "title": "AI 能否回答 3 万亿美元的问题？",
+        "url": "https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_7722e8723f31",
-      "title": "Per-user budgets for cost centers in the billing UI",
-      "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
-      "primary_url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+      "story_id": "story_76bc3afbe01a",
+      "title": "Organization-level targeting for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
-          "title": "Per-user budgets for cost centers in the billing UI",
-          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+          "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
+          "title": "Organization-level targeting for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T17:09:29Z"
+          "published_at": "2026-07-09T15:54:01Z"
         }
       ],
       "source_count": 1,
@@ -790,25 +729,25 @@
       ],
       "items": [
         {
-          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
-          "title": "Per-user budgets for cost centers in the billing UI",
-          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+          "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
+          "title": "Organization-level targeting for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T17:09:29Z"
+          "published_at": "2026-07-09T15:54:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5514,
+        "recency": 0.5051,
         "story_heat": 0.0
       },
       "category": "official",
@@ -817,150 +756,92 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T17:09:29Z",
-      "latest_at": "2026-07-07T17:09:29Z",
+      "earliest_at": "2026-07-09T15:54:01Z",
+      "latest_at": "2026-07-09T15:54:01Z",
       "primary_item": {
-        "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
-        "title": "Per-user budgets for cost centers in the billing UI",
-        "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+        "id": "6336487e95335ac0c06fab5a2323f3a386d5b017",
+        "title": "Organization-level targeting for GitHub Code Quality",
+        "url": "https://github.blog/changelog/2026-07-09-organization-level-targeting-for-github-code-quality",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_87f69b1f29d7",
-      "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-      "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-      "primary_url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_81be3104335c",
+      "title": "Bun 被 Anthropic 收购后用 Rust 重写，月下载超 2200 万",
+      "url": "https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk",
+      "primary_url": "https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "8d99bad9b60bafc4c1769ea21d676f8a485163ee",
+          "title": "Bun 被 Anthropic 收购后用 Rust 重写，月下载超 2200 万",
+          "url": "https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T18:35:58Z"
+          "published_at": "2026-07-09T21:46:21Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "8d99bad9b60bafc4c1769ea21d676f8a485163ee",
+          "title": "Bun 被 Anthropic 收购后用 Rust 重写，月下载超 2200 万",
+          "url": "https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-07T18:35:58Z"
+          "published_at": "2026-07-09T21:46:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6114,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-07T18:35:58Z",
-      "latest_at": "2026-07-07T18:35:58Z",
+      "earliest_at": "2026-07-09T21:46:21Z",
+      "latest_at": "2026-07-09T21:46:21Z",
       "primary_item": {
-        "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-        "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-        "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-        "source": "The Decoder：AI News（RSS）",
+        "id": "8d99bad9b60bafc4c1769ea21d676f8a485163ee",
+        "title": "Bun 被 Anthropic 收购后用 Rust 重写，月下载超 2200 万",
+        "url": "https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ccfc900bc193",
-      "title": "NotebookLM短视频概览正式上线",
-      "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-      "primary_url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f8af11111c8cd99293ea955766fd0ca3438c04d0",
-          "title": "NotebookLM短视频概览正式上线",
-          "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-          "source": "X：NotebookLM (@NotebookLM)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:48:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：NotebookLM (@NotebookLM)"
-      ],
-      "items": [
-        {
-          "id": "f8af11111c8cd99293ea955766fd0ca3438c04d0",
-          "title": "NotebookLM短视频概览正式上线",
-          "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-          "source": "X：NotebookLM (@NotebookLM)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:48:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5787,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T17:48:50Z",
-      "latest_at": "2026-07-07T17:48:50Z",
-      "primary_item": {
-        "id": "f8af11111c8cd99293ea955766fd0ca3438c04d0",
-        "title": "NotebookLM短视频概览正式上线",
-        "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-        "source": "X：NotebookLM (@NotebookLM)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8a44728534d6",
-      "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-      "url": "https://www.aibase.com/news/29454",
-      "primary_url": "https://www.aibase.com/news/29454",
+      "story_id": "story_9b3d587a8278",
+      "title": "MiniMax完成160亿港元新一轮融资，创始人闫俊杰宣布零薪酬直至实现AGI",
+      "url": "https://www.aibase.com/news/29519",
+      "primary_url": "https://www.aibase.com/news/29519",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
-          "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-          "url": "https://www.aibase.com/news/29454",
+          "id": "42bc7188ee463bf4dccb1d0ad515befaa25ee6b8",
+          "title": "MiniMax完成160亿港元新一轮融资，创始人闫俊杰宣布零薪酬直至实现AGI",
+          "url": "https://www.aibase.com/news/29519",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:55:30.292038Z"
+          "published_at": "2026-07-10T03:46:44.087072Z"
         }
       ],
       "source_count": 1,
@@ -969,13 +850,13 @@
       ],
       "items": [
         {
-          "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
-          "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-          "url": "https://www.aibase.com/news/29454",
+          "id": "42bc7188ee463bf4dccb1d0ad515befaa25ee6b8",
+          "title": "MiniMax完成160亿港元新一轮融资，创始人闫俊杰宣布零薪酬直至实现AGI",
+          "url": "https://www.aibase.com/news/29519",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:55:30.292038Z"
+          "published_at": "2026-07-10T03:46:44.087072Z"
         }
       ],
       "item_count": 1,
@@ -995,163 +876,223 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T03:55:30.292038Z",
-      "latest_at": "2026-07-08T03:55:30.292038Z",
+      "earliest_at": "2026-07-10T03:46:44.087072Z",
+      "latest_at": "2026-07-10T03:46:44.087072Z",
       "primary_item": {
-        "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
-        "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-        "url": "https://www.aibase.com/news/29454",
+        "id": "42bc7188ee463bf4dccb1d0ad515befaa25ee6b8",
+        "title": "MiniMax完成160亿港元新一轮融资，创始人闫俊杰宣布零薪酬直至实现AGI",
+        "url": "https://www.aibase.com/news/29519",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2b2bff4cd8ff",
-      "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
-      "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/9bc715e31d...3f2878dcd3",
-      "primary_url": "https://github.com/Dicklesworthstone/franken_ocr/compare/9bc715e31d...3f2878dcd3",
-      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+      "story_id": "story_22c4e4f1e945",
+      "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+      "url": "https://github.com/mudler/vllm.cpp/compare/d52e5a05ce...5d31758b16",
+      "primary_url": "https://github.com/mudler/vllm.cpp/compare/d52e5a05ce...5d31758b16",
+      "source": "mudler",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "466d3fba78170e3bf1cb4bb89b41c402570fed42",
-          "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
-          "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/9bc715e31d...3f2878dcd3",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "a89cfea7e3b3b149ba3fac693fe0567cd5bc6bde",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/d52e5a05ce...5d31758b16",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-08T03:52:27Z"
+          "published_at": "2026-07-10T03:36:49Z"
         },
         {
-          "id": "b843189506f746a4161671a033e70f5c0e023635",
-          "title": "Dicklesworthstone 推动了 Franken_markdown / Dicklesworthstone pushed franken_markdown",
-          "url": "https://github.com/Dicklesworthstone/franken_markdown/compare/2a0ab58ddc...3bb26c22f2",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "bb6f763dc09b0436d5ee2946a143b9ab009c18cb",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/4b309fbc19...d52e5a05ce",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-08T03:37:42Z"
+          "published_at": "2026-07-10T02:49:13Z"
         },
         {
-          "id": "616a8d4f21a77f5d040da3e8abc6f402131c2d1d",
-          "title": "Dicklesworthstone 推动了 Franken_markdown / Dicklesworthstone pushed franken_markdown",
-          "url": "https://github.com/Dicklesworthstone/franken_markdown/compare/a914110d50...31c0def7f8",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "df14c46886ae81e9dce72232949e164d69c5b5ad",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/66159610f8...a9c8e18749",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-08T02:44:41Z"
+          "published_at": "2026-07-10T01:50:04Z"
         },
         {
-          "id": "b9fd7139b650c0b626efc89704066c809da951c5",
-          "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
-          "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/f1ac972fe4...2665750991",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "48e23373116230ae57645f888413bfe9bc8ac782",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/1489774735...4b309fbc19",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-08T02:12:14Z"
+          "published_at": "2026-07-10T00:50:24Z"
         },
         {
-          "id": "1bb97b54276cae7c3aeba5b75363abf54c238e33",
-          "title": "Dicklesworthstone 推动了 Franken_markdown / Dicklesworthstone pushed franken_markdown",
-          "url": "https://github.com/Dicklesworthstone/franken_markdown/compare/8979b9e528...787e661f6e",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "7722d70a8c4ecb00a7ab9ad246673ebec037374e",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/38fc459bcd...c098534c1a",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-08T02:03:43Z"
+          "published_at": "2026-07-09T22:27:45Z"
         }
       ],
       "source_count": 5,
       "source_names": [
-        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
+        "mudler"
       ],
       "items": [
         {
-          "id": "466d3fba78170e3bf1cb4bb89b41c402570fed42",
-          "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
-          "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/9bc715e31d...3f2878dcd3",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "a89cfea7e3b3b149ba3fac693fe0567cd5bc6bde",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/d52e5a05ce...5d31758b16",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-08T03:52:27Z"
+          "published_at": "2026-07-10T03:36:49Z"
         },
         {
-          "id": "b843189506f746a4161671a033e70f5c0e023635",
-          "title": "Dicklesworthstone 推动了 Franken_markdown / Dicklesworthstone pushed franken_markdown",
-          "url": "https://github.com/Dicklesworthstone/franken_markdown/compare/2a0ab58ddc...3bb26c22f2",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "bb6f763dc09b0436d5ee2946a143b9ab009c18cb",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/4b309fbc19...d52e5a05ce",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-08T03:37:42Z"
+          "published_at": "2026-07-10T02:49:13Z"
         },
         {
-          "id": "616a8d4f21a77f5d040da3e8abc6f402131c2d1d",
-          "title": "Dicklesworthstone 推动了 Franken_markdown / Dicklesworthstone pushed franken_markdown",
-          "url": "https://github.com/Dicklesworthstone/franken_markdown/compare/a914110d50...31c0def7f8",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "df14c46886ae81e9dce72232949e164d69c5b5ad",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/66159610f8...a9c8e18749",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-08T02:44:41Z"
+          "published_at": "2026-07-10T01:50:04Z"
         },
         {
-          "id": "b9fd7139b650c0b626efc89704066c809da951c5",
-          "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
-          "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/f1ac972fe4...2665750991",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "48e23373116230ae57645f888413bfe9bc8ac782",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/1489774735...4b309fbc19",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-08T02:12:14Z"
+          "published_at": "2026-07-10T00:50:24Z"
         },
         {
-          "id": "1bb97b54276cae7c3aeba5b75363abf54c238e33",
-          "title": "Dicklesworthstone 推动了 Franken_markdown / Dicklesworthstone pushed franken_markdown",
-          "url": "https://github.com/Dicklesworthstone/franken_markdown/compare/8979b9e528...787e661f6e",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "id": "7722d70a8c4ecb00a7ab9ad246673ebec037374e",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/38fc459bcd...c098534c1a",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-08T02:03:43Z"
+          "published_at": "2026-07-09T22:27:45Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.7096,
-      "importance": 0.7096,
-      "importance_score": 0.7096,
+      "score": 0.7116,
+      "importance": 0.7116,
+      "importance_score": 0.7116,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.9979,
+        "ai_relevance": 0.71,
+        "recency": 0.9931,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-08T02:03:43Z",
-      "latest_at": "2026-07-08T03:52:27Z",
+      "earliest_at": "2026-07-09T22:27:45Z",
+      "latest_at": "2026-07-10T03:36:49Z",
       "primary_item": {
-        "id": "466d3fba78170e3bf1cb4bb89b41c402570fed42",
-        "title": "Dicklesworthstone 推动了 Franken_ocr / Dicklesworthstone pushed franken_ocr",
-        "url": "https://github.com/Dicklesworthstone/franken_ocr/compare/9bc715e31d...3f2878dcd3",
-        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "id": "a89cfea7e3b3b149ba3fac693fe0567cd5bc6bde",
+        "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+        "url": "https://github.com/mudler/vllm.cpp/compare/d52e5a05ce...5d31758b16",
+        "source": "mudler",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_7d245f6dc1a1",
-      "title": "Secret scanning extended metadata and multipart validation",
-      "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-      "primary_url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
+      "story_id": "story_f2fbd41d5537",
+      "title": "微软发布Flint：面向AI智能体的可视化语言",
+      "url": "https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46",
+      "primary_url": "https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9af47f1a95fe75e7d2e8553ae1aa350f233983f9",
+          "title": "微软发布Flint：面向AI智能体的可视化语言",
+          "url": "https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:46:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "9af47f1a95fe75e7d2e8553ae1aa350f233983f9",
+          "title": "微软发布Flint：面向AI智能体的可视化语言",
+          "url": "https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T21:46:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7497,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T21:46:19Z",
+      "latest_at": "2026-07-09T21:46:19Z",
+      "primary_item": {
+        "id": "9af47f1a95fe75e7d2e8553ae1aa350f233983f9",
+        "title": "微软发布Flint：面向AI智能体的可视化语言",
+        "url": "https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3f5c6212602a",
+      "title": "Ask Copilot for a repository overview",
+      "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+      "primary_url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-          "title": "Secret scanning extended metadata and multipart validation",
-          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
+          "id": "602db55ea0f01347e40139da035e5d4e57b78000",
+          "title": "Ask Copilot for a repository overview",
+          "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T16:43:04Z"
+          "published_at": "2026-07-09T14:25:33Z"
         }
       ],
       "source_count": 1,
@@ -1160,25 +1101,25 @@
       ],
       "items": [
         {
-          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-          "title": "Secret scanning extended metadata and multipart validation",
-          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
+          "id": "602db55ea0f01347e40139da035e5d4e57b78000",
+          "title": "Ask Copilot for a repository overview",
+          "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T16:43:04Z"
+          "published_at": "2026-07-09T14:25:33Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.533,
+        "ai_relevance": 0.91,
+        "recency": 0.4436,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1187,32 +1128,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T16:43:04Z",
-      "latest_at": "2026-07-07T16:43:04Z",
+      "earliest_at": "2026-07-09T14:25:33Z",
+      "latest_at": "2026-07-09T14:25:33Z",
       "primary_item": {
-        "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-        "title": "Secret scanning extended metadata and multipart validation",
-        "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
+        "id": "602db55ea0f01347e40139da035e5d4e57b78000",
+        "title": "Ask Copilot for a repository overview",
+        "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_5467c6cdcd66",
-      "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-      "url": "https://www.aibase.com/news/29447",
-      "primary_url": "https://www.aibase.com/news/29447",
+      "story_id": "story_20abc4553542",
+      "title": "OpenAI\"二号人物\"卸任:因神经免疫系统疾病复发，Fidji Simo转任兼职顾问",
+      "url": "https://www.aibase.com/news/29508",
+      "primary_url": "https://www.aibase.com/news/29508",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e63f94ac66f9ed2cc7d162ed1c9abae5000dd26d",
-          "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-          "url": "https://www.aibase.com/news/29447",
+          "id": "5e84c49661d12b80cb30aed89076360c5577dced",
+          "title": "OpenAI\"二号人物\"卸任:因神经免疫系统疾病复发，Fidji Simo转任兼职顾问",
+          "url": "https://www.aibase.com/news/29508",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:55:30.292038Z"
+          "published_at": "2026-07-10T03:46:44.087072Z"
         }
       ],
       "source_count": 1,
@@ -1221,13 +1162,13 @@
       ],
       "items": [
         {
-          "id": "e63f94ac66f9ed2cc7d162ed1c9abae5000dd26d",
-          "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-          "url": "https://www.aibase.com/news/29447",
+          "id": "5e84c49661d12b80cb30aed89076360c5577dced",
+          "title": "OpenAI\"二号人物\"卸任:因神经免疫系统疾病复发，Fidji Simo转任兼职顾问",
+          "url": "https://www.aibase.com/news/29508",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:55:30.292038Z"
+          "published_at": "2026-07-10T03:46:44.087072Z"
         }
       ],
       "item_count": 1,
@@ -1247,75 +1188,258 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T03:55:30.292038Z",
-      "latest_at": "2026-07-08T03:55:30.292038Z",
+      "earliest_at": "2026-07-10T03:46:44.087072Z",
+      "latest_at": "2026-07-10T03:46:44.087072Z",
       "primary_item": {
-        "id": "e63f94ac66f9ed2cc7d162ed1c9abae5000dd26d",
-        "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-        "url": "https://www.aibase.com/news/29447",
+        "id": "5e84c49661d12b80cb30aed89076360c5577dced",
+        "title": "OpenAI\"二号人物\"卸任:因神经免疫系统疾病复发，Fidji Simo转任兼职顾问",
+        "url": "https://www.aibase.com/news/29508",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_5b541b9a66cd",
-      "title": "GitHub Copilot app available to all",
-      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-      "primary_url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_49de5fa6f29d",
+      "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+      "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/cee1bffe25...3f8c663dd5",
+      "primary_url": "https://github.com/Dicklesworthstone/franken_numpy/compare/cee1bffe25...3f8c663dd5",
+      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-          "title": "GitHub Copilot app available to all",
-          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:10:14Z"
+          "id": "5e1a8d76c2bd7de83d13264d8eab1709f9e25da8",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/cee1bffe25...3f8c663dd5",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-10T03:36:31Z"
+        },
+        {
+          "id": "86802d74fdf440ae70facec2ef4659bfdc9b329b",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/a997f37da9...91b44b1dba",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-10T03:34:29Z"
+        },
+        {
+          "id": "f4ec4e8a33d28484d6a5e8218993ea9d3cbf041d",
+          "title": "Dicklesworthstone 推动了 Franken_markdown / Dicklesworthstone pushed franken_markdown",
+          "url": "https://github.com/Dicklesworthstone/franken_markdown/compare/add6c6b97d...1eda6f9bc2",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-10T03:31:16Z"
+        },
+        {
+          "id": "b53ba21567195415fbc69cca00b7977a2c48f8c4",
+          "title": "迪克斯沃斯通推动了弗兰肯模拟 / Dicklesworthstone pushed frankensim",
+          "url": "https://github.com/Dicklesworthstone/frankensim/compare/6744e07dc7...23f4a717af",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-10T03:25:20Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "GitHub Changelog"
+        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
       ],
       "items": [
         {
-          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-          "title": "GitHub Copilot app available to all",
-          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:10:14Z"
+          "id": "5e1a8d76c2bd7de83d13264d8eab1709f9e25da8",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/cee1bffe25...3f8c663dd5",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-10T03:36:31Z"
+        },
+        {
+          "id": "86802d74fdf440ae70facec2ef4659bfdc9b329b",
+          "title": "迪克尔斯沃斯通推了 Franken_whisper / Dicklesworthstone pushed franken_whisper",
+          "url": "https://github.com/Dicklesworthstone/franken_whisper/compare/a997f37da9...91b44b1dba",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-10T03:34:29Z"
+        },
+        {
+          "id": "f4ec4e8a33d28484d6a5e8218993ea9d3cbf041d",
+          "title": "Dicklesworthstone 推动了 Franken_markdown / Dicklesworthstone pushed franken_markdown",
+          "url": "https://github.com/Dicklesworthstone/franken_markdown/compare/add6c6b97d...1eda6f9bc2",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-10T03:31:16Z"
+        },
+        {
+          "id": "b53ba21567195415fbc69cca00b7977a2c48f8c4",
+          "title": "迪克斯沃斯通推动了弗兰肯模拟 / Dicklesworthstone pushed frankensim",
+          "url": "https://github.com/Dicklesworthstone/frankensim/compare/6744e07dc7...23f4a717af",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-10T03:25:20Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
-      "importance_label": "官方更新",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6836,
+      "importance": 0.6836,
+      "importance_score": 0.6836,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4686,
-        "story_heat": 0.0
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.9929,
+        "story_heat": 0.75
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-07T15:10:14Z",
-      "latest_at": "2026-07-07T15:10:14Z",
+      "earliest_at": "2026-07-10T03:25:20Z",
+      "latest_at": "2026-07-10T03:36:31Z",
       "primary_item": {
-        "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-        "title": "GitHub Copilot app available to all",
-        "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "5e1a8d76c2bd7de83d13264d8eab1709f9e25da8",
+        "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+        "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/cee1bffe25...3f8c663dd5",
+        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_c56b58e9d916",
+      "title": "第1462期 - 2026-07-10 08:01",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-10_0801",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-10_0801",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "f1ba9860e0b72ef17e7c4027b374635319a5b6eb",
+          "title": "第1462期 - 2026-07-10 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-10_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-10T00:01:14Z"
+        },
+        {
+          "id": "ea4f1b985d9126185830440e3c32d40a053d3573",
+          "title": "第1461期 - 2026-07-10 00:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-10_0001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-09T16:01:58Z"
+        },
+        {
+          "id": "65f8a7d642e7e1bb605c0ff4c5b8dbd218b51cbe",
+          "title": "第1460期 - 2026-07-09 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-09_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-09T12:01:01Z"
+        },
+        {
+          "id": "786a5e12a759a0b5e4a2e4f7f40d958ca81c0031",
+          "title": "第1459期 - 2026-07-09 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-09_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-09T08:01:14Z"
+        },
+        {
+          "id": "3eaa9c1af57e8799e18ee2fe9710c93f7b373267",
+          "title": "第1458期 - 2026-07-09 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-09_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-09T04:01:46Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "大黑AI速报"
+      ],
+      "items": [
+        {
+          "id": "f1ba9860e0b72ef17e7c4027b374635319a5b6eb",
+          "title": "第1462期 - 2026-07-10 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-10_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-10T00:01:14Z"
+        },
+        {
+          "id": "ea4f1b985d9126185830440e3c32d40a053d3573",
+          "title": "第1461期 - 2026-07-10 00:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-10_0001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-09T16:01:58Z"
+        },
+        {
+          "id": "65f8a7d642e7e1bb605c0ff4c5b8dbd218b51cbe",
+          "title": "第1460期 - 2026-07-09 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-09_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-09T12:01:01Z"
+        },
+        {
+          "id": "786a5e12a759a0b5e4a2e4f7f40d958ca81c0031",
+          "title": "第1459期 - 2026-07-09 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-09_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-09T08:01:14Z"
+        },
+        {
+          "id": "3eaa9c1af57e8799e18ee2fe9710c93f7b373267",
+          "title": "第1458期 - 2026-07-09 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-09_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-09T04:01:46Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6697,
+      "importance": 0.6697,
+      "importance_score": 0.6697,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.8434,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-09T04:01:46Z",
+      "latest_at": "2026-07-10T00:01:14Z",
+      "primary_item": {
+        "id": "f1ba9860e0b72ef17e7c4027b374635319a5b6eb",
+        "title": "第1462期 - 2026-07-10 08:01",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-10_0801",
+        "source": "大黑AI速报",
+        "source_name": "OPML RSS"
       }
     }
   ]
