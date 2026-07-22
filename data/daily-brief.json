@@ -1,281 +1,468 @@
 {
-  "generated_at": "2026-07-21T12:09:22.439243Z",
+  "generated_at": "2026-07-22T19:53:06.988232Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_d8ab4e37a1c1",
+      "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8656,
+      "importance": 0.8656,
+      "importance_score": 0.8656,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9631,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T19:00:00Z",
+      "latest_at": "2026-07-22T19:00:00Z",
+      "primary_item": {
+        "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+        "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+        "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3710e649c509",
+      "title": "New Copilot usage metrics impact dashboard",
+      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8532,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T16:21:47Z",
+      "latest_at": "2026-07-22T16:21:47Z",
+      "primary_item": {
+        "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+        "title": "New Copilot usage metrics impact dashboard",
+        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_482712912042",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+      "primary_url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d153609eb57845646058e7718e14183113f17a91",
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:38:54Z"
+        },
+        {
+          "id": "6455cb01f12eeec7cf0e56dc41b5e06e9d009007",
+          "title": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分 / Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d153609eb57845646058e7718e14183113f17a91",
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:38:54Z"
+        },
+        {
+          "id": "6455cb01f12eeec7cf0e56dc41b5e06e9d009007",
+          "title": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分 / Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7401,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T13:38:54Z",
+      "latest_at": "2026-07-22T19:53:06.988232Z",
+      "primary_item": {
+        "id": "d153609eb57845646058e7718e14183113f17a91",
+        "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-2209-47b7-8c24-dcb25d793d15&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-2209-47b7-8c24-dcb25d793d15&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0553-3292-8d36-02699b138f0f&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260723-0553-3292-8d36-02699b138f0f&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "bb791eddbb4e5bba82649bc5aa9d5bea145a137e",
+          "id": "537288c59571f3f513d3bf94a9d4ef88f367aa9f",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-2209-47b7-8c24-dcb25d793d15&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d4bcdd01ae07b3ad3995456e167dad7ae2262bc4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-2004-2344-be84-d224fd460180&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "3d901978a3816e1300e6ebb3339160b0954945e8",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1711-3646-ad3b-ca08096389d7&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0553-3292-8d36-02699b138f0f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
-          "id": "bb791eddbb4e5bba82649bc5aa9d5bea145a137e",
+          "id": "537288c59571f3f513d3bf94a9d4ef88f367aa9f",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-2209-47b7-8c24-dcb25d793d15&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d4bcdd01ae07b3ad3995456e167dad7ae2262bc4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-2004-2344-be84-d224fd460180&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "3d901978a3816e1300e6ebb3339160b0954945e8",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1711-3646-ad3b-ca08096389d7&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0553-3292-8d36-02699b138f0f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.5
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T07:10:59.625071Z",
-      "latest_at": "2026-07-21T12:09:22.439243Z",
+      "earliest_at": "2026-07-22T19:53:06.988232Z",
+      "latest_at": "2026-07-22T19:53:06.988232Z",
       "primary_item": {
-        "id": "bb791eddbb4e5bba82649bc5aa9d5bea145a137e",
+        "id": "537288c59571f3f513d3bf94a9d4ef88f367aa9f",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-2209-47b7-8c24-dcb25d793d15&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0553-3292-8d36-02699b138f0f&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_acccba44298c",
-      "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
-      "url": "https://www.aibase.com/news/29753",
-      "primary_url": "https://www.aibase.com/news/29753",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_ce1fa4ef5bc0",
+      "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+      "url": "https://aihot.virxact.com/items/cmrwh0flv01siroj05i4ny5pc",
+      "primary_url": "https://aihot.virxact.com/items/cmrwh0flv01siroj05i4ny5pc",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
-          "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
-          "url": "https://www.aibase.com/news/29753",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T10:03:55.779723Z"
-        },
-        {
-          "id": "aca907820c54710161a06255d301084df2f1cda3",
-          "title": "阿里发布 Qwen-Image-3.0，支持 4.5K Token 超长输入与复杂图文生成",
-          "url": "https://www.aibase.com/zh/news/29753",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "52d67d3413f0c4d40b1916cd7d069eb1fdb6a140",
+          "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+          "url": "https://aihot.virxact.com/items/cmrwh0flv01siroj05i4ny5pc",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:11:46Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
-          "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
-          "url": "https://www.aibase.com/news/29753",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T10:03:55.779723Z"
-        },
-        {
-          "id": "aca907820c54710161a06255d301084df2f1cda3",
-          "title": "阿里发布 Qwen-Image-3.0，支持 4.5K Token 超长输入与复杂图文生成",
-          "url": "https://www.aibase.com/zh/news/29753",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "52d67d3413f0c4d40b1916cd7d069eb1fdb6a140",
+          "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+          "url": "https://aihot.virxact.com/items/cmrwh0flv01siroj05i4ny5pc",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:11:46Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9129,
-        "story_heat": 0.25
+        "recency": 0.9713,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T10:03:55.779723Z",
-      "latest_at": "2026-07-21T10:03:55.779723Z",
+      "earliest_at": "2026-07-22T19:11:46Z",
+      "latest_at": "2026-07-22T19:11:46Z",
       "primary_item": {
-        "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
-        "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
-        "url": "https://www.aibase.com/news/29753",
+        "id": "52d67d3413f0c4d40b1916cd7d069eb1fdb6a140",
+        "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+        "url": "https://aihot.virxact.com/items/cmrwh0flv01siroj05i4ny5pc",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1f057cbede4c",
+      "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
+      "url": "https://www.aibase.com/news/29808",
+      "primary_url": "https://www.aibase.com/news/29808",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b7c219ef6e1173c63976698c56d9950c0364f363",
+          "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
+          "url": "https://www.aibase.com/news/29808",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T18:53:06.988232Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b7c219ef6e1173c63976698c56d9950c0364f363",
+          "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
+          "url": "https://www.aibase.com/news/29808",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T18:53:06.988232Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9583,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T18:53:06.988232Z",
+      "latest_at": "2026-07-22T18:53:06.988232Z",
+      "primary_item": {
+        "id": "b7c219ef6e1173c63976698c56d9950c0364f363",
+        "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
+        "url": "https://www.aibase.com/news/29808",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_786743caa711",
-      "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-      "url": "https://www.aibase.com/news/29743",
-      "primary_url": "https://www.aibase.com/news/29743",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_844ec17c6121",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+      "primary_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "510b356a0644522ede024f6bd0e58373564d27b1",
-          "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-          "url": "https://www.aibase.com/news/29743",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T07:10:59.625071Z"
-        },
-        {
-          "id": "f29b00da2e2b528865d10ad9a25de9e629c94dad",
-          "title": "Gartner：全球 AI 模型与平台市场 2026 年规模将达 640 亿美元",
-          "url": "https://www.oschina.net/news/475932",
-          "source": "最新开源资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T06:22:40Z"
+          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+          "title": "3 Google updates from Galaxy Unpacked 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "最新开源资讯"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "510b356a0644522ede024f6bd0e58373564d27b1",
-          "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-          "url": "https://www.aibase.com/news/29743",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T07:10:59.625071Z"
-        },
-        {
-          "id": "f29b00da2e2b528865d10ad9a25de9e629c94dad",
-          "title": "Gartner：全球 AI 模型与平台市场 2026 年规模将达 640 亿美元",
-          "url": "https://www.oschina.net/news/475932",
-          "source": "最新开源资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T06:22:40Z"
+          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+          "title": "3 Google updates from Galaxy Unpacked 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7928,
-        "story_heat": 0.25
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7131,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T06:22:40Z",
-      "latest_at": "2026-07-21T07:10:59.625071Z",
+      "earliest_at": "2026-07-22T13:00:00Z",
+      "latest_at": "2026-07-22T13:00:00Z",
       "primary_item": {
-        "id": "510b356a0644522ede024f6bd0e58373564d27b1",
-        "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-        "url": "https://www.aibase.com/news/29743",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+        "title": "3 Google updates from Galaxy Unpacked 2026",
+        "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f13e575380b6",
-      "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
-      "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
-      "primary_url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+      "story_id": "story_3b9fc043d741",
+      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+      "url": "https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09",
+      "primary_url": "https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "de243a1ac0ae955d42f3a8d2df12a776cc1e2eb5",
-          "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
-          "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+          "id": "bd22261353fdc7a106e6f98d0c09b674d6bc6bfc",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "url": "https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T05:54:05Z"
+          "published_at": "2026-07-22T18:51:32Z"
         }
       ],
       "source_count": 1,
@@ -284,25 +471,25 @@
       ],
       "items": [
         {
-          "id": "de243a1ac0ae955d42f3a8d2df12a776cc1e2eb5",
-          "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
-          "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+          "id": "bd22261353fdc7a106e6f98d0c09b674d6bc6bfc",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "url": "https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T05:54:05Z"
+          "published_at": "2026-07-22T18:51:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7394,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -310,118 +497,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T05:54:05Z",
-      "latest_at": "2026-07-21T05:54:05Z",
+      "earliest_at": "2026-07-22T18:51:32Z",
+      "latest_at": "2026-07-22T18:51:32Z",
       "primary_item": {
-        "id": "de243a1ac0ae955d42f3a8d2df12a776cc1e2eb5",
-        "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
-        "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+        "id": "bd22261353fdc7a106e6f98d0c09b674d6bc6bfc",
+        "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+        "url": "https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ea83daa3c624",
-      "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-      "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-      "primary_url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-      "source": "公众号：腾讯混元",
+      "story_id": "story_0a87cd13b5a2",
+      "title": "微软 MagenticLite 模型全面开源",
+      "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+      "primary_url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+      "source": "X：Microsoft Research (@MSFTResearch)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
-          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-          "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-          "source": "公众号：腾讯混元",
+          "id": "4f8bd931522fb41e3924bb032107136c25fea917",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+          "source": "X：Microsoft Research (@MSFTResearch)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T03:33:08Z"
+          "published_at": "2026-07-22T17:57:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：腾讯混元"
+        "X：Microsoft Research (@MSFTResearch)"
       ],
       "items": [
         {
-          "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
-          "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-          "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-          "source": "公众号：腾讯混元",
+          "id": "4f8bd931522fb41e3924bb032107136c25fea917",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+          "source": "X：Microsoft Research (@MSFTResearch)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T03:33:08Z"
+          "published_at": "2026-07-22T17:57:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6415,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T03:33:08Z",
-      "latest_at": "2026-07-21T03:33:08Z",
-      "primary_item": {
-        "id": "5a1e6650ad80351d944a99f6533cec8ea267ec94",
-        "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-        "url": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d127e2322390",
-      "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
-      "url": "https://www.aibase.com/news/29760",
-      "primary_url": "https://www.aibase.com/news/29760",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
-          "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
-          "url": "https://www.aibase.com/news/29760",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T10:03:55.779723Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
-          "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
-          "url": "https://www.aibase.com/news/29760",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T10:03:55.779723Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7946,
-      "importance": 0.7946,
-      "importance_score": 0.7946,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9129,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -429,244 +557,234 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T10:03:55.779723Z",
-      "latest_at": "2026-07-21T10:03:55.779723Z",
+      "earliest_at": "2026-07-22T17:57:57Z",
+      "latest_at": "2026-07-22T17:57:57Z",
       "primary_item": {
-        "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
-        "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
-        "url": "https://www.aibase.com/news/29760",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_66436d2a6729",
-      "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
-      "url": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
-      "primary_url": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "77a5813a914802a22ef6b6c405ad59e9bd56b77d",
-          "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
-          "url": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T01:10:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "77a5813a914802a22ef6b6c405ad59e9bd56b77d",
-          "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
-          "url": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T01:10:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5427,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T01:10:49Z",
-      "latest_at": "2026-07-21T01:10:49Z",
-      "primary_item": {
-        "id": "77a5813a914802a22ef6b6c405ad59e9bd56b77d",
-        "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
-        "url": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
-        "source": "公众号：数字生命卡兹克",
+        "id": "4f8bd931522fb41e3924bb032107136c25fea917",
+        "title": "微软 MagenticLite 模型全面开源",
+        "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+        "source": "X：Microsoft Research (@MSFTResearch)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "Kimi K3发布，是不是又一次DeepSeek时刻？",
-      "url": "https://www.youtube.com/watch?v=RJpboflzZAg",
-      "primary_url": "https://www.youtube.com/watch?v=RJpboflzZAg",
-      "source": "范路 | 老范讲故事",
-      "source_name": "OPML RSS",
+      "story_id": "story_0b061dcff925",
+      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+      "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+      "primary_url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9e30ea50ae36f719794256ecb8d9a549172ff3c1",
-          "title": "Kimi K3发布，是不是又一次DeepSeek时刻？",
-          "url": "https://www.youtube.com/watch?v=RJpboflzZAg",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T11:54:36Z"
+          "id": "1ea4458ad903d8da0a63ddb0491bdfa44b5dc62e",
+          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+          "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:23:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "1ea4458ad903d8da0a63ddb0491bdfa44b5dc62e",
+          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+          "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:23:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8961,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T17:23:31Z",
+      "latest_at": "2026-07-22T17:23:31Z",
+      "primary_item": {
+        "id": "1ea4458ad903d8da0a63ddb0491bdfa44b5dc62e",
+        "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+        "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1d793ca53d31",
+      "title": "Upcoming GHES change impacting uploading support bundles",
+      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "primary_url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8001,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T15:05:19Z",
+      "latest_at": "2026-07-22T15:05:19Z",
+      "primary_item": {
+        "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+        "title": "Upcoming GHES change impacting uploading support bundles",
+        "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c54f46e53d48",
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "primary_url": "https://openai.com/index/introducing-openai-presence",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+          "title": "Introducing OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T05:30:00Z"
         },
         {
-          "id": "1599af48d87082b431eb6cf30326ef2571f2837d",
-          "title": "一个Skill 让 Agent 自动操作浏览器，告别重复枯燥任务",
-          "url": "https://www.youtube.com/watch?v=wBN2BniLoHM",
-          "source": "技术爬爬虾  TechShrimp",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T07:16:56Z"
-        },
-        {
-          "id": "35ed63c016a5ace0438ea0b7f4cd6903a2238a94",
-          "title": "AI裁员最危险的后果：公司可能退回血汗工厂！",
-          "url": "https://www.youtube.com/watch?v=hXMPmA_b7Vo",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T00:30:16Z"
-        },
-        {
-          "id": "2af8140030271e15bbeefb2be4a737630a9793c6",
-          "title": "我用 AI 杀死了史上最难的跑步游戏",
-          "url": "https://www.youtube.com/watch?v=NgneWNGmq7g",
-          "source": "林亦LYi",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T13:31:02Z"
-        },
-        {
-          "id": "0ddd3a468078848faf026efc490ee6e900d52ea0",
-          "title": "AI48 | 超萌！ChatGPT Codex寵物功能，除了萌還有這些功能 #chatgpt #codex  #meiko微課頻道",
-          "url": "https://www.youtube.com/watch?v=0IJOWZHFSJg",
-          "source": "excel学习 | Meiko微課頻道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T13:24:09Z"
-        },
-        {
-          "id": "5d49ea3cebb1ed8f6a886858c774906837241c89",
-          "title": "利用飞秒激光在电子显微镜下对昆虫进行横截面观察 [视频] / Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
-          "url": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
+          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
+          "title": "OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-20T15:40:03Z"
+          "published_at": "2026-07-22T15:12:26Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "excel学习 | Meiko微課頻道",
-        "技术爬爬虾  TechShrimp",
-        "林亦LYi",
-        "范路 | 老范讲故事"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "9e30ea50ae36f719794256ecb8d9a549172ff3c1",
-          "title": "Kimi K3发布，是不是又一次DeepSeek时刻？",
-          "url": "https://www.youtube.com/watch?v=RJpboflzZAg",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T11:54:36Z"
+          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+          "title": "Introducing OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T05:30:00Z"
         },
         {
-          "id": "1599af48d87082b431eb6cf30326ef2571f2837d",
-          "title": "一个Skill 让 Agent 自动操作浏览器，告别重复枯燥任务",
-          "url": "https://www.youtube.com/watch?v=wBN2BniLoHM",
-          "source": "技术爬爬虾  TechShrimp",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T07:16:56Z"
-        },
-        {
-          "id": "35ed63c016a5ace0438ea0b7f4cd6903a2238a94",
-          "title": "AI裁员最危险的后果：公司可能退回血汗工厂！",
-          "url": "https://www.youtube.com/watch?v=hXMPmA_b7Vo",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T00:30:16Z"
-        },
-        {
-          "id": "2af8140030271e15bbeefb2be4a737630a9793c6",
-          "title": "我用 AI 杀死了史上最难的跑步游戏",
-          "url": "https://www.youtube.com/watch?v=NgneWNGmq7g",
-          "source": "林亦LYi",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T13:31:02Z"
-        },
-        {
-          "id": "0ddd3a468078848faf026efc490ee6e900d52ea0",
-          "title": "AI48 | 超萌！ChatGPT Codex寵物功能，除了萌還有這些功能 #chatgpt #codex  #meiko微課頻道",
-          "url": "https://www.youtube.com/watch?v=0IJOWZHFSJg",
-          "source": "excel学习 | Meiko微課頻道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T13:24:09Z"
-        },
-        {
-          "id": "5d49ea3cebb1ed8f6a886858c774906837241c89",
-          "title": "利用飞秒激光在电子显微镜下对昆虫进行横截面观察 [视频] / Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
-          "url": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
+          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
+          "title": "OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-20T15:40:03Z"
+          "published_at": "2026-07-22T15:12:26Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.7109,
-      "importance": 0.7109,
-      "importance_score": 0.7109,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9897,
-        "story_heat": 1.0
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.4006,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source"
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-20T13:24:09Z",
-      "latest_at": "2026-07-21T11:54:36Z",
+      "earliest_at": "2026-07-22T05:30:00Z",
+      "latest_at": "2026-07-22T15:12:26Z",
       "primary_item": {
-        "id": "9e30ea50ae36f719794256ecb8d9a549172ff3c1",
-        "title": "Kimi K3发布，是不是又一次DeepSeek时刻？",
-        "url": "https://www.youtube.com/watch?v=RJpboflzZAg",
-        "source": "范路 | 老范讲故事",
-        "source_name": "OPML RSS"
+        "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+        "title": "Introducing OpenAI Presence",
+        "url": "https://openai.com/index/introducing-openai-presence",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_db4933908fbc",
-      "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
-      "url": "https://www.aibase.com/news/29755",
-      "primary_url": "https://www.aibase.com/news/29755",
+      "story_id": "story_e26eabffaa96",
+      "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+      "url": "https://www.aibase.com/news/29806",
+      "primary_url": "https://www.aibase.com/news/29806",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
-          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
-          "url": "https://www.aibase.com/news/29755",
+          "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
+          "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+          "url": "https://www.aibase.com/news/29806",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T10:03:55.779723Z"
+          "published_at": "2026-07-22T17:53:06.988232Z"
         }
       ],
       "source_count": 1,
@@ -675,25 +793,25 @@
       ],
       "items": [
         {
-          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
-          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
-          "url": "https://www.aibase.com/news/29755",
+          "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
+          "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+          "url": "https://www.aibase.com/news/29806",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T10:03:55.779723Z"
+          "published_at": "2026-07-22T17:53:06.988232Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7946,
-      "importance": 0.7946,
-      "importance_score": 0.7946,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9129,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -701,163 +819,212 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T10:03:55.779723Z",
-      "latest_at": "2026-07-21T10:03:55.779723Z",
+      "earliest_at": "2026-07-22T17:53:06.988232Z",
+      "latest_at": "2026-07-22T17:53:06.988232Z",
       "primary_item": {
-        "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
-        "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
-        "url": "https://www.aibase.com/news/29755",
+        "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
+        "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+        "url": "https://www.aibase.com/news/29806",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c56b58e9d916",
-      "title": "第1531期 - 2026-07-21 20:01",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_2001",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_2001",
-      "source": "大黑AI速报",
-      "source_name": "OPML RSS",
+      "story_id": "story_c9a4eba8a17e",
+      "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+      "url": "https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9",
+      "primary_url": "https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a0fabeb4e259df57f05b6ab5c3c9d1ef11f7739e",
-          "title": "第1531期 - 2026-07-21 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T12:01:42Z"
-        },
-        {
-          "id": "ecbc91855dbc61545e1fec1033b2029f34662137",
-          "title": "第1530期 - 2026-07-21 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T08:01:24Z"
-        },
-        {
-          "id": "c633a959e578e476d65f7f194cccc8eb23213c78",
-          "title": "第1529期 - 2026-07-21 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T04:01:09Z"
-        },
-        {
-          "id": "5dbbf6538ff8794c9807a2d0c3f2ab0202ebb29e",
-          "title": "第1527期 - 2026-07-21 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T20:01:20Z"
-        },
-        {
-          "id": "ab982c21d2aa3f42d03e93955f2da1837e1b1ff7",
-          "title": "第1526期 - 2026-07-21 00:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_0002",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T16:02:30Z"
+          "id": "dcadc68f1b1e1badf4746991709ba35e2d5fe8ba",
+          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+          "url": "https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:00:35Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 1,
       "source_names": [
-        "大黑AI速报"
+        "X：SemiAnalysis (@SemiAnalysis_)"
       ],
       "items": [
         {
-          "id": "a0fabeb4e259df57f05b6ab5c3c9d1ef11f7739e",
-          "title": "第1531期 - 2026-07-21 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T12:01:42Z"
-        },
-        {
-          "id": "ecbc91855dbc61545e1fec1033b2029f34662137",
-          "title": "第1530期 - 2026-07-21 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T08:01:24Z"
-        },
-        {
-          "id": "c633a959e578e476d65f7f194cccc8eb23213c78",
-          "title": "第1529期 - 2026-07-21 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T04:01:09Z"
-        },
-        {
-          "id": "5dbbf6538ff8794c9807a2d0c3f2ab0202ebb29e",
-          "title": "第1527期 - 2026-07-21 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T20:01:20Z"
-        },
-        {
-          "id": "ab982c21d2aa3f42d03e93955f2da1837e1b1ff7",
-          "title": "第1526期 - 2026-07-21 00:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_0002",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T16:02:30Z"
+          "id": "dcadc68f1b1e1badf4746991709ba35e2d5fe8ba",
+          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+          "url": "https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T14:00:35Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6999,
-      "importance": 0.6999,
-      "importance_score": 0.6999,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9947,
-        "story_heat": 1.0
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7552,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-20T16:02:30Z",
-      "latest_at": "2026-07-21T12:01:42Z",
+      "earliest_at": "2026-07-22T14:00:35Z",
+      "latest_at": "2026-07-22T14:00:35Z",
       "primary_item": {
-        "id": "a0fabeb4e259df57f05b6ab5c3c9d1ef11f7739e",
-        "title": "第1531期 - 2026-07-21 20:01",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-21_2001",
-        "source": "大黑AI速报",
-        "source_name": "OPML RSS"
+        "id": "dcadc68f1b1e1badf4746991709ba35e2d5fe8ba",
+        "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+        "url": "https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9",
+        "source": "X：SemiAnalysis (@SemiAnalysis_)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_3b41417a4f6b",
-      "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
-      "url": "https://www.aibase.com/news/29759",
-      "primary_url": "https://www.aibase.com/news/29759",
+      "story_id": "story_b8b46afee8ce",
+      "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
+      "url": "https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2",
+      "primary_url": "https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1be1043914b01274b5c7f41177d2b9149bbd17f8",
+          "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
+          "url": "https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T12:34:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "1be1043914b01274b5c7f41177d2b9149bbd17f8",
+          "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
+          "url": "https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T12:34:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6953,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T12:34:24Z",
+      "latest_at": "2026-07-22T12:34:24Z",
+      "primary_item": {
+        "id": "1be1043914b01274b5c7f41177d2b9149bbd17f8",
+        "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
+        "url": "https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cf2ba833f30c",
+      "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
+      "url": "https://aihot.virxact.com/items/cmrw3195500ep1p88xaztf2mf",
+      "primary_url": "https://aihot.virxact.com/items/cmrw3195500ep1p88xaztf2mf",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b91764a3d30c4ae3e7e2ba96a4a2b163999e76df",
+          "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
+          "url": "https://aihot.virxact.com/items/cmrw3195500ep1p88xaztf2mf",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T12:28:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "b91764a3d30c4ae3e7e2ba96a4a2b163999e76df",
+          "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
+          "url": "https://aihot.virxact.com/items/cmrw3195500ep1p88xaztf2mf",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T12:28:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.691,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T12:28:08Z",
+      "latest_at": "2026-07-22T12:28:08Z",
+      "primary_item": {
+        "id": "b91764a3d30c4ae3e7e2ba96a4a2b163999e76df",
+        "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
+        "url": "https://aihot.virxact.com/items/cmrw3195500ep1p88xaztf2mf",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7eba12590249",
+      "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
+      "url": "https://www.aibase.com/news/29805",
+      "primary_url": "https://www.aibase.com/news/29805",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
-          "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
-          "url": "https://www.aibase.com/news/29759",
+          "id": "3396a2a369fc91e41894a092dd8d5ed78978ae1e",
+          "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
+          "url": "https://www.aibase.com/news/29805",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T10:03:55.779723Z"
+          "published_at": "2026-07-22T17:53:06.988232Z"
         }
       ],
       "source_count": 1,
@@ -866,25 +1033,25 @@
       ],
       "items": [
         {
-          "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
-          "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
-          "url": "https://www.aibase.com/news/29759",
+          "id": "3396a2a369fc91e41894a092dd8d5ed78978ae1e",
+          "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
+          "url": "https://www.aibase.com/news/29805",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T10:03:55.779723Z"
+          "published_at": "2026-07-22T17:53:06.988232Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7946,
-      "importance": 0.7946,
-      "importance_score": 0.7946,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9129,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -892,353 +1059,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T10:03:55.779723Z",
-      "latest_at": "2026-07-21T10:03:55.779723Z",
+      "earliest_at": "2026-07-22T17:53:06.988232Z",
+      "latest_at": "2026-07-22T17:53:06.988232Z",
       "primary_item": {
-        "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
-        "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
-        "url": "https://www.aibase.com/news/29759",
+        "id": "3396a2a369fc91e41894a092dd8d5ed78978ae1e",
+        "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
+        "url": "https://www.aibase.com/news/29805",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d30596fd31b3",
-      "title": "LeonardNJU 推送了 local-shell-mcp / LeonardNJU pushed local-shell-mcp",
-      "url": "https://github.com/LeonardNJU/local-shell-mcp/compare/5822e023f2...62c63156cc",
-      "primary_url": "https://github.com/LeonardNJU/local-shell-mcp/compare/5822e023f2...62c63156cc",
-      "source": "LeonardNJU|Linux语音输入法",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "2733b702f0b95ba24c0ab92a100e17afe08deddd",
-          "title": "LeonardNJU 推送了 local-shell-mcp / LeonardNJU pushed local-shell-mcp",
-          "url": "https://github.com/LeonardNJU/local-shell-mcp/compare/5822e023f2...62c63156cc",
-          "source": "LeonardNJU|Linux语音输入法",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T09:51:35Z"
-        },
-        {
-          "id": "0906c5a740d46a94d21b7125150f0950963792cd",
-          "title": "LeonardNJU 推送了 local-shell-mcp / LeonardNJU pushed local-shell-mcp",
-          "url": "https://github.com/LeonardNJU/local-shell-mcp/compare/60c3395fdd...a0235dad83",
-          "source": "LeonardNJU|Linux语音输入法",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T09:07:26Z"
-        },
-        {
-          "id": "b6f97fdeea8b071269e4daf8a233987464ec28b7",
-          "title": "LeonardNJU 推送了 local-shell-mcp / LeonardNJU pushed local-shell-mcp",
-          "url": "https://github.com/LeonardNJU/local-shell-mcp/compare/cf2e683687...26ac847dcc",
-          "source": "LeonardNJU|Linux语音输入法",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T08:29:32Z"
-        },
-        {
-          "id": "7f700ba9717dd86b844f669de000572e6ecd83d3",
-          "title": "LeonardNJU 推送了 local-shell-mcp / LeonardNJU pushed local-shell-mcp",
-          "url": "https://github.com/LeonardNJU/local-shell-mcp/compare/1278272978...96653f9112",
-          "source": "LeonardNJU|Linux语音输入法",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T07:05:28Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "LeonardNJU|Linux语音输入法"
-      ],
-      "items": [
-        {
-          "id": "2733b702f0b95ba24c0ab92a100e17afe08deddd",
-          "title": "LeonardNJU 推送了 local-shell-mcp / LeonardNJU pushed local-shell-mcp",
-          "url": "https://github.com/LeonardNJU/local-shell-mcp/compare/5822e023f2...62c63156cc",
-          "source": "LeonardNJU|Linux语音输入法",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T09:51:35Z"
-        },
-        {
-          "id": "0906c5a740d46a94d21b7125150f0950963792cd",
-          "title": "LeonardNJU 推送了 local-shell-mcp / LeonardNJU pushed local-shell-mcp",
-          "url": "https://github.com/LeonardNJU/local-shell-mcp/compare/60c3395fdd...a0235dad83",
-          "source": "LeonardNJU|Linux语音输入法",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T09:07:26Z"
-        },
-        {
-          "id": "b6f97fdeea8b071269e4daf8a233987464ec28b7",
-          "title": "LeonardNJU 推送了 local-shell-mcp / LeonardNJU pushed local-shell-mcp",
-          "url": "https://github.com/LeonardNJU/local-shell-mcp/compare/cf2e683687...26ac847dcc",
-          "source": "LeonardNJU|Linux语音输入法",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T08:29:32Z"
-        },
-        {
-          "id": "7f700ba9717dd86b844f669de000572e6ecd83d3",
-          "title": "LeonardNJU 推送了 local-shell-mcp / LeonardNJU pushed local-shell-mcp",
-          "url": "https://github.com/LeonardNJU/local-shell-mcp/compare/1278272978...96653f9112",
-          "source": "LeonardNJU|Linux语音输入法",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T07:05:28Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6689,
-      "importance": 0.6689,
-      "importance_score": 0.6689,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9043,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-21T07:05:28Z",
-      "latest_at": "2026-07-21T09:51:35Z",
-      "primary_item": {
-        "id": "2733b702f0b95ba24c0ab92a100e17afe08deddd",
-        "title": "LeonardNJU 推送了 local-shell-mcp / LeonardNJU pushed local-shell-mcp",
-        "url": "https://github.com/LeonardNJU/local-shell-mcp/compare/5822e023f2...62c63156cc",
-        "source": "LeonardNJU|Linux语音输入法",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_a6a91795d81d",
-      "title": "📢 复活：军人认证重新开放，免费送一年 ChatGPT Plus！",
-      "url": "https://www.nodeloc.com/t/topic/100376",
-      "primary_url": "https://www.nodeloc.com/t/topic/100376",
-      "source": "NodeLoc最新帖子",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "7eb2d32d903cd4736cff88651c50421cbc27f0da",
-          "title": "📢 复活：军人认证重新开放，免费送一年 ChatGPT Plus！",
-          "url": "https://www.nodeloc.com/t/topic/100376",
-          "source": "NodeLoc最新帖子",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T11:02:38Z"
-        },
-        {
-          "id": "da54368960f45d7fcb953e7b026dd76a6ca20ca0",
-          "title": "📢 复活：军人认证重新开放，免费送一年 ChatGPT Plus！",
-          "url": "https://www.nodeloc.com/t/topic/100371",
-          "source": "NodeLoc最新帖子",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T09:49:36Z"
-        },
-        {
-          "id": "49060702f2e0fdb379c06fb309e6b4d60d269107",
-          "title": "军人认证重新开放，免费送一年 ChatGPT Plus！",
-          "url": "https://www.nodeloc.com/t/topic/100334",
-          "source": "NodeLoc最新帖子",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T06:36:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "NodeLoc最新帖子"
-      ],
-      "items": [
-        {
-          "id": "7eb2d32d903cd4736cff88651c50421cbc27f0da",
-          "title": "📢 复活：军人认证重新开放，免费送一年 ChatGPT Plus！",
-          "url": "https://www.nodeloc.com/t/topic/100376",
-          "source": "NodeLoc最新帖子",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T11:02:38Z"
-        },
-        {
-          "id": "da54368960f45d7fcb953e7b026dd76a6ca20ca0",
-          "title": "📢 复活：军人认证重新开放，免费送一年 ChatGPT Plus！",
-          "url": "https://www.nodeloc.com/t/topic/100371",
-          "source": "NodeLoc最新帖子",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T09:49:36Z"
-        },
-        {
-          "id": "49060702f2e0fdb379c06fb309e6b4d60d269107",
-          "title": "军人认证重新开放，免费送一年 ChatGPT Plus！",
-          "url": "https://www.nodeloc.com/t/topic/100334",
-          "source": "NodeLoc最新帖子",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T06:36:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6537,
-      "importance": 0.6537,
-      "importance_score": 0.6537,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9537,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-21T06:36:41Z",
-      "latest_at": "2026-07-21T11:02:38Z",
-      "primary_item": {
-        "id": "7eb2d32d903cd4736cff88651c50421cbc27f0da",
-        "title": "📢 复活：军人认证重新开放，免费送一年 ChatGPT Plus！",
-        "url": "https://www.nodeloc.com/t/topic/100376",
-        "source": "NodeLoc最新帖子",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_fcc02508d51d",
-      "title": "红果主动踩刹车，AI短剧的账算不过来",
-      "url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260242",
-      "primary_url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260242",
-      "source": "鱼C论坛 - 导读 - 最新发表",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "e7a4fce2fac6280f9445b54a63ee23e433fd29d5",
-          "title": "红果主动踩刹车，AI短剧的账算不过来",
-          "url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260242",
-          "source": "鱼C论坛 - 导读 - 最新发表",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T09:20:07Z"
-        },
-        {
-          "id": "f29289da37a036a7ba0c6673da2631dc0abffabb",
-          "title": "CuspAI融资4.5亿美元，用AI寻找尚不存在的新材料",
-          "url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260241",
-          "source": "鱼C论坛 - 导读 - 最新发表",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T08:37:03Z"
-        },
-        {
-          "id": "61010d294184f7de72d7d7e2ca1eedda929f8ae2",
-          "title": "微软将在Azure大规模部署AMD Helios AI系统",
-          "url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260240",
-          "source": "鱼C论坛 - 导读 - 最新发表",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T08:33:53Z"
-        },
-        {
-          "id": "a6116827b430847060ce2cbcca5f49c7ecefa713",
-          "title": "AI定价崩溃速度是PC时代的五倍，人工智能的成本正在趋近于零",
-          "url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260235",
-          "source": "鱼C论坛 - 导读 - 最新发表",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T20:41:18Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "鱼C论坛 - 导读 - 最新发表"
-      ],
-      "items": [
-        {
-          "id": "e7a4fce2fac6280f9445b54a63ee23e433fd29d5",
-          "title": "红果主动踩刹车，AI短剧的账算不过来",
-          "url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260242",
-          "source": "鱼C论坛 - 导读 - 最新发表",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T09:20:07Z"
-        },
-        {
-          "id": "f29289da37a036a7ba0c6673da2631dc0abffabb",
-          "title": "CuspAI融资4.5亿美元，用AI寻找尚不存在的新材料",
-          "url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260241",
-          "source": "鱼C论坛 - 导读 - 最新发表",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T08:37:03Z"
-        },
-        {
-          "id": "61010d294184f7de72d7d7e2ca1eedda929f8ae2",
-          "title": "微软将在Azure大规模部署AMD Helios AI系统",
-          "url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260240",
-          "source": "鱼C论坛 - 导读 - 最新发表",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T08:33:53Z"
-        },
-        {
-          "id": "a6116827b430847060ce2cbcca5f49c7ecefa713",
-          "title": "AI定价崩溃速度是PC时代的五倍，人工智能的成本正在趋近于零",
-          "url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260235",
-          "source": "鱼C论坛 - 导读 - 最新发表",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-20T20:41:18Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6525,
-      "importance": 0.6525,
-      "importance_score": 0.6525,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8825,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T20:41:18Z",
-      "latest_at": "2026-07-21T09:20:07Z",
-      "primary_item": {
-        "id": "e7a4fce2fac6280f9445b54a63ee23e433fd29d5",
-        "title": "红果主动踩刹车，AI短剧的账算不过来",
-        "url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260242",
-        "source": "鱼C论坛 - 导读 - 最新发表",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_f21e1902b7f0",
-      "title": "​YouTube 收紧政策，严打低质 AI 内容",
-      "url": "https://www.aibase.com/news/29757",
-      "primary_url": "https://www.aibase.com/news/29757",
+      "story_id": "story_588d66ca6918",
+      "title": "太空数据砸进AI！马斯克掏出SpaceX家底， 2 万亿参数Grok大模型即刻炼成",
+      "url": "https://www.aibase.com/news/29804",
+      "primary_url": "https://www.aibase.com/news/29804",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
-          "title": "​YouTube 收紧政策，严打低质 AI 内容",
-          "url": "https://www.aibase.com/news/29757",
+          "id": "5481b226256d605f447769a922154695037ea976",
+          "title": "太空数据砸进AI！马斯克掏出SpaceX家底， 2 万亿参数Grok大模型即刻炼成",
+          "url": "https://www.aibase.com/news/29804",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T10:03:55.779723Z"
+          "published_at": "2026-07-22T17:53:06.988232Z"
         }
       ],
       "source_count": 1,
@@ -1247,25 +1093,25 @@
       ],
       "items": [
         {
-          "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
-          "title": "​YouTube 收紧政策，严打低质 AI 内容",
-          "url": "https://www.aibase.com/news/29757",
+          "id": "5481b226256d605f447769a922154695037ea976",
+          "title": "太空数据砸进AI！马斯克掏出SpaceX家底， 2 万亿参数Grok大模型即刻炼成",
+          "url": "https://www.aibase.com/news/29804",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T10:03:55.779723Z"
+          "published_at": "2026-07-22T17:53:06.988232Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7946,
-      "importance": 0.7946,
-      "importance_score": 0.7946,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9129,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1273,441 +1119,187 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T10:03:55.779723Z",
-      "latest_at": "2026-07-21T10:03:55.779723Z",
+      "earliest_at": "2026-07-22T17:53:06.988232Z",
+      "latest_at": "2026-07-22T17:53:06.988232Z",
       "primary_item": {
-        "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
-        "title": "​YouTube 收紧政策，严打低质 AI 内容",
-        "url": "https://www.aibase.com/news/29757",
+        "id": "5481b226256d605f447769a922154695037ea976",
+        "title": "太空数据砸进AI！马斯克掏出SpaceX家底， 2 万亿参数Grok大模型即刻炼成",
+        "url": "https://www.aibase.com/news/29804",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ccfdc5d9b58c",
-      "title": "使用基于 LLM 的验证消除 Linux 网络堆栈中的错误 / Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
-      "url": "https://lobste.rs/c/7ev8eh",
-      "primary_url": "https://lobste.rs/c/7ev8eh",
-      "source": "Comments",
+      "story_id": "story_17f69a8bd0ed",
+      "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+      "url": "https://github.com/mudler/vllm.cpp/compare/490ead32e6...3a2d05d8b1",
+      "primary_url": "https://github.com/mudler/vllm.cpp/compare/490ead32e6...3a2d05d8b1",
+      "source": "mudler",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "3f9b8b3bf7f5f2e5fb8c72e9f647e80818f511b3",
-          "title": "使用基于 LLM 的验证消除 Linux 网络堆栈中的错误 / Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
-          "url": "https://lobste.rs/c/7ev8eh",
-          "source": "Comments",
+          "id": "aef217472a4adfad8aaffe6b930548c385ba4c20",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/490ead32e6...3a2d05d8b1",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-21T12:00:37Z"
+          "published_at": "2026-07-22T19:27:38Z"
         },
         {
-          "id": "a8a068837ddaa8cba9231c70fff9a0f0635a3f7d",
-          "title": "使用基于 LLM 的验证消除 Linux 网络堆栈中的错误 / Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
-          "url": "https://lobste.rs/c/zwixod",
-          "source": "Comments",
+          "id": "39bb356d72bd41419767a70146c45d5698301694",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/c603ebc47f...490ead32e6",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-21T10:54:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Comments"
-      ],
-      "items": [
-        {
-          "id": "3f9b8b3bf7f5f2e5fb8c72e9f647e80818f511b3",
-          "title": "使用基于 LLM 的验证消除 Linux 网络堆栈中的错误 / Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
-          "url": "https://lobste.rs/c/7ev8eh",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T12:00:37Z"
+          "published_at": "2026-07-22T17:49:20Z"
         },
         {
-          "id": "a8a068837ddaa8cba9231c70fff9a0f0635a3f7d",
-          "title": "使用基于 LLM 的验证消除 Linux 网络堆栈中的错误 / Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
-          "url": "https://lobste.rs/c/zwixod",
-          "source": "Comments",
+          "id": "b2cbd0d4a43e81fea4d3101fa0e1cc1b931ea87e",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/ea4b3e7756...2c0c076e82",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-21T10:54:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6368,
-      "importance": 0.6368,
-      "importance_score": 0.6368,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9939,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-21T10:54:57Z",
-      "latest_at": "2026-07-21T12:00:37Z",
-      "primary_item": {
-        "id": "3f9b8b3bf7f5f2e5fb8c72e9f647e80818f511b3",
-        "title": "使用基于 LLM 的验证消除 Linux 网络堆栈中的错误 / Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack",
-        "url": "https://lobste.rs/c/7ev8eh",
-        "source": "Comments",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_3a5a551057f4",
-      "title": "渗透测试从业者：把AI智能体接进Burp 数据包分析交给它",
-      "url": "https://mp.weixin.qq.com/s/dK6v4bhmXG3bxKLZ-TRaRA",
-      "primary_url": "https://mp.weixin.qq.com/s/dK6v4bhmXG3bxKLZ-TRaRA",
-      "source": "网络安全 | 洞见网安",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "a0a37bcde308cfc728a8dbffee900f4d14d64048",
-          "title": "渗透测试从业者：把AI智能体接进Burp 数据包分析交给它",
-          "url": "https://mp.weixin.qq.com/s/dK6v4bhmXG3bxKLZ-TRaRA",
-          "source": "网络安全 | 洞见网安",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T12:00:00Z"
+          "published_at": "2026-07-22T16:17:18Z"
         },
         {
-          "id": "66f9fd320a171d5c1ddb8427790e32bab3ce457f",
-          "title": "渗透测试从业者：把AI智能体接进Burp 数据包分析交给它",
-          "url": "https://www.gm7.org/archives/132194",
-          "source": "信息安全知识库 » Feed",
+          "id": "a6d93dc9d40c6295954f286a4d120d2445719dcd",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/13bb7241f8...88a0b86950",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-21T06:04:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "信息安全知识库 » Feed",
-        "网络安全 | 洞见网安"
-      ],
-      "items": [
-        {
-          "id": "a0a37bcde308cfc728a8dbffee900f4d14d64048",
-          "title": "渗透测试从业者：把AI智能体接进Burp 数据包分析交给它",
-          "url": "https://mp.weixin.qq.com/s/dK6v4bhmXG3bxKLZ-TRaRA",
-          "source": "网络安全 | 洞见网安",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T12:00:00Z"
-        },
-        {
-          "id": "66f9fd320a171d5c1ddb8427790e32bab3ce457f",
-          "title": "渗透测试从业者：把AI智能体接进Burp 数据包分析交给它",
-          "url": "https://www.gm7.org/archives/132194",
-          "source": "信息安全知识库 » Feed",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T06:04:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6367,
-      "importance": 0.6367,
-      "importance_score": 0.6367,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9935,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-21T06:04:51Z",
-      "latest_at": "2026-07-21T12:00:00Z",
-      "primary_item": {
-        "id": "a0a37bcde308cfc728a8dbffee900f4d14d64048",
-        "title": "渗透测试从业者：把AI智能体接进Burp 数据包分析交给它",
-        "url": "https://mp.weixin.qq.com/s/dK6v4bhmXG3bxKLZ-TRaRA",
-        "source": "网络安全 | 洞见网安",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_09a48ccb5b78",
-      "title": "官宣！西门子收购EDA软件公司：用AI挑战Synopsys和Cadence",
-      "url": "https://news.mydrivers.com/1/1138/1138046.htm",
-      "primary_url": "https://news.mydrivers.com/1/1138/1138046.htm",
-      "source": "数码 | 快科技资讯_最新资讯",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "a5937ed5674bdba28d6fb00274ec52ef0d71f267",
-          "title": "官宣！西门子收购EDA软件公司：用AI挑战Synopsys和Cadence",
-          "url": "https://news.mydrivers.com/1/1138/1138046.htm",
-          "source": "数码 | 快科技资讯_最新资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T19:13:35Z"
-        },
-        {
-          "id": "33db7beec44be9d51225787df7c38761060abe11",
-          "title": "西门子收购 EDA 软件公司，用 AI 挑战 Synopsys 和 Cadence",
-          "url": "https://news.mydrivers.com/1/1138/1138046.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "数码 | 快科技资讯_最新资讯"
-      ],
-      "items": [
-        {
-          "id": "a5937ed5674bdba28d6fb00274ec52ef0d71f267",
-          "title": "官宣！西门子收购EDA软件公司：用AI挑战Synopsys和Cadence",
-          "url": "https://news.mydrivers.com/1/1138/1138046.htm",
-          "source": "数码 | 快科技资讯_最新资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T19:13:35Z"
-        },
-        {
-          "id": "33db7beec44be9d51225787df7c38761060abe11",
-          "title": "西门子收购 EDA 软件公司，用 AI 挑战 Synopsys 和 Cadence",
-          "url": "https://news.mydrivers.com/1/1138/1138046.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.635,
-      "importance": 0.635,
-      "importance_score": 0.635,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-21T12:09:22.439243Z",
-      "latest_at": "2026-07-21T19:13:35Z",
-      "primary_item": {
-        "id": "a5937ed5674bdba28d6fb00274ec52ef0d71f267",
-        "title": "官宣！西门子收购EDA软件公司：用AI挑战Synopsys和Cadence",
-        "url": "https://news.mydrivers.com/1/1138/1138046.htm",
-        "source": "数码 | 快科技资讯_最新资讯",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_14d84fbf710e",
-      "title": "中国最新的人工智能模型是否终于赶上了美国竞争对手？科学家们怎么看",
-      "url": "https://www.nature.com/articles/d41586-026-02281-2",
-      "primary_url": "https://www.nature.com/articles/d41586-026-02281-2",
-      "source": "Buzzing|国外社交媒体热榜",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "f103518c66d33dfffd76c2b04646ac1b76fadc6c",
-          "title": "中国最新的人工智能模型是否终于赶上了美国竞争对手？科学家们怎么看",
-          "url": "https://www.nature.com/articles/d41586-026-02281-2",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T11:26:08.965000Z"
-        },
-        {
-          "id": "266d6bab34187ed9a2b28734f7fea7738986a4f7",
-          "title": "中国最新的人工智能模型是否终于赶上了美国竞争对手？科学家们怎么看 / Does China’s latest AI model finally equal US rivals? What scientists think",
-          "url": "https://www.nature.com/articles/d41586-026-02281-2",
-          "source": "Nature",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Nature"
-      ],
-      "items": [
-        {
-          "id": "f103518c66d33dfffd76c2b04646ac1b76fadc6c",
-          "title": "中国最新的人工智能模型是否终于赶上了美国竞争对手？科学家们怎么看",
-          "url": "https://www.nature.com/articles/d41586-026-02281-2",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T11:26:08.965000Z"
-        },
-        {
-          "id": "266d6bab34187ed9a2b28734f7fea7738986a4f7",
-          "title": "中国最新的人工智能模型是否终于赶上了美国竞争对手？科学家们怎么看 / Does China’s latest AI model finally equal US rivals? What scientists think",
-          "url": "https://www.nature.com/articles/d41586-026-02281-2",
-          "source": "Nature",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.632,
-      "importance": 0.632,
-      "importance_score": 0.632,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.97,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-21T00:00:00Z",
-      "latest_at": "2026-07-21T11:26:08.965000Z",
-      "primary_item": {
-        "id": "f103518c66d33dfffd76c2b04646ac1b76fadc6c",
-        "title": "中国最新的人工智能模型是否终于赶上了美国竞争对手？科学家们怎么看",
-        "url": "https://www.nature.com/articles/d41586-026-02281-2",
-        "source": "Buzzing|国外社交媒体热榜",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_d7a8400303a8",
-      "title": "JimmyLv 主演 thinkany-ai/termany / JimmyLv starred thinkany-ai/termany",
-      "url": "https://github.com/thinkany-ai/termany",
-      "primary_url": "https://github.com/thinkany-ai/termany",
-      "source": "吕立青JimmyLv|Building BibiGPT, Prev @alibaba @thoughtworks | Writer, Trainer, Photographer #roamcult #RoamC",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "77e2925b755d5213bd539f1cc102724c5e09b7f9",
-          "title": "Bin-Huang 将 Bin-Huang 添加到 thinkany-ai/termany / Bin-Huang added Bin-Huang to thinkany-ai/termany",
-          "url": "https://github.com/thinkany-ai/termany",
-          "source": "Bin-Huang|camoufox-cli|google-analytics-cli",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T05:59:30Z"
-        },
-        {
-          "id": "d0d9717dee074518ea66308da914650f5e45a6bf",
-          "title": "oldcai 主演 thinkany-ai/termany / oldcai starred thinkany-ai/termany",
-          "url": "https://github.com/thinkany-ai/termany",
-          "source": "老蔡/oldcai",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T05:51:50Z"
-        },
-        {
-          "id": "6013dfffebc0c555c24bae0fd6eba0c6559a5b9b",
-          "title": "xxnuo 主演 thinkany-ai/termany / xxnuo starred thinkany-ai/termany",
-          "url": "https://github.com/thinkany-ai/termany",
-          "source": "xxnuo|全栈开发工程师|开发MTranServer",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T05:51:10Z"
-        },
-        {
-          "id": "ba749fcfb84935968b3fe60305b0467d261adc3c",
-          "title": "JimmyLv 主演 thinkany-ai/termany / JimmyLv starred thinkany-ai/termany",
-          "url": "https://github.com/thinkany-ai/termany",
-          "source": "吕立青JimmyLv|Building BibiGPT, Prev @alibaba @thoughtworks | Writer, Trainer, Photographer #roamcult #RoamC",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-21T05:16:58Z"
+          "published_at": "2026-07-22T14:47:55Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Bin-Huang|camoufox-cli|google-analytics-cli",
-        "xxnuo|全栈开发工程师|开发MTranServer",
-        "吕立青JimmyLv|Building BibiGPT, Prev @alibaba @thoughtworks | Writer, Trainer, Photographer #roamcult #RoamC",
-        "老蔡/oldcai"
+        "mudler"
       ],
       "items": [
         {
-          "id": "77e2925b755d5213bd539f1cc102724c5e09b7f9",
-          "title": "Bin-Huang 将 Bin-Huang 添加到 thinkany-ai/termany / Bin-Huang added Bin-Huang to thinkany-ai/termany",
-          "url": "https://github.com/thinkany-ai/termany",
-          "source": "Bin-Huang|camoufox-cli|google-analytics-cli",
+          "id": "aef217472a4adfad8aaffe6b930548c385ba4c20",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/490ead32e6...3a2d05d8b1",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-21T05:59:30Z"
+          "published_at": "2026-07-22T19:27:38Z"
         },
         {
-          "id": "d0d9717dee074518ea66308da914650f5e45a6bf",
-          "title": "oldcai 主演 thinkany-ai/termany / oldcai starred thinkany-ai/termany",
-          "url": "https://github.com/thinkany-ai/termany",
-          "source": "老蔡/oldcai",
+          "id": "39bb356d72bd41419767a70146c45d5698301694",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/c603ebc47f...490ead32e6",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-21T05:51:50Z"
+          "published_at": "2026-07-22T17:49:20Z"
         },
         {
-          "id": "6013dfffebc0c555c24bae0fd6eba0c6559a5b9b",
-          "title": "xxnuo 主演 thinkany-ai/termany / xxnuo starred thinkany-ai/termany",
-          "url": "https://github.com/thinkany-ai/termany",
-          "source": "xxnuo|全栈开发工程师|开发MTranServer",
+          "id": "b2cbd0d4a43e81fea4d3101fa0e1cc1b931ea87e",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/ea4b3e7756...2c0c076e82",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-21T05:51:10Z"
+          "published_at": "2026-07-22T16:17:18Z"
         },
         {
-          "id": "ba749fcfb84935968b3fe60305b0467d261adc3c",
-          "title": "JimmyLv 主演 thinkany-ai/termany / JimmyLv starred thinkany-ai/termany",
-          "url": "https://github.com/thinkany-ai/termany",
-          "source": "吕立青JimmyLv|Building BibiGPT, Prev @alibaba @thoughtworks | Writer, Trainer, Photographer #roamcult #RoamC",
+          "id": "a6d93dc9d40c6295954f286a4d120d2445719dcd",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/13bb7241f8...88a0b86950",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-21T05:16:58Z"
+          "published_at": "2026-07-22T14:47:55Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6307,
-      "importance": 0.6307,
-      "importance_score": 0.6307,
+      "score": 0.6845,
+      "importance": 0.6845,
+      "importance_score": 0.6845,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7136,
+        "recency": 0.9823,
         "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-21T05:16:58Z",
-      "latest_at": "2026-07-21T05:59:30Z",
+      "earliest_at": "2026-07-22T14:47:55Z",
+      "latest_at": "2026-07-22T19:27:38Z",
       "primary_item": {
-        "id": "ba749fcfb84935968b3fe60305b0467d261adc3c",
-        "title": "JimmyLv 主演 thinkany-ai/termany / JimmyLv starred thinkany-ai/termany",
-        "url": "https://github.com/thinkany-ai/termany",
-        "source": "吕立青JimmyLv|Building BibiGPT, Prev @alibaba @thoughtworks | Writer, Trainer, Photographer #roamcult #RoamC",
+        "id": "aef217472a4adfad8aaffe6b930548c385ba4c20",
+        "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+        "url": "https://github.com/mudler/vllm.cpp/compare/490ead32e6...3a2d05d8b1",
+        "source": "mudler",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_451a96df2cc8",
+      "title": "微软测试月之暗面 Kimi K3，或将引入 Copilot 与 Azure 平台",
+      "url": "https://www.aibase.com/news/29807",
+      "primary_url": "https://www.aibase.com/news/29807",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c825d852a4be7c6105058434f102fc65ff335bd8",
+          "title": "微软测试月之暗面 Kimi K3，或将引入 Copilot 与 Azure 平台",
+          "url": "https://www.aibase.com/news/29807",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T17:53:06.988232Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c825d852a4be7c6105058434f102fc65ff335bd8",
+          "title": "微软测试月之暗面 Kimi K3，或将引入 Copilot 与 Azure 平台",
+          "url": "https://www.aibase.com/news/29807",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-22T17:53:06.988232Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9167,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T17:53:06.988232Z",
+      "latest_at": "2026-07-22T17:53:06.988232Z",
+      "primary_item": {
+        "id": "c825d852a4be7c6105058434f102fc65ff335bd8",
+        "title": "微软测试月之暗面 Kimi K3，或将引入 Copilot 与 Azure 平台",
+        "url": "https://www.aibase.com/news/29807",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
