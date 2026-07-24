@@ -1,11 +1,108 @@
 {
-  "generated_at": "2026-07-24T20:37:11.559691Z",
+  "generated_at": "2026-07-24T23:34:07.355127Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_0c55289d534f",
+      "title": "点击这里进入 / Click here to enter",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0934-2930-ac14-8deb8f4ad2b6&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0934-2930-ac14-8deb8f4ad2b6&fp=-3",
+      "source": "Page Fallback",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "e783c51b8831525f69baa026b141fcec23593613",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0934-2930-ac14-8deb8f4ad2b6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "9ff449a8a50848e3130a30ab4c3ae38c2a8b4164",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0637-31fa-8aaf-8ed153875e9b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "cc771131a641117c7d10bb992c9ebc421785ec3e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2354-3417-8161-496d6f870c49&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Page Fallback"
+      ],
+      "items": [
+        {
+          "id": "e783c51b8831525f69baa026b141fcec23593613",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0934-2930-ac14-8deb8f4ad2b6&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "9ff449a8a50848e3130a30ab4c3ae38c2a8b4164",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0637-31fa-8aaf-8ed153875e9b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "cc771131a641117c7d10bb992c9ebc421785ec3e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2354-3417-8161-496d6f870c49&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T13:54:03.968002Z",
+      "latest_at": "2026-07-24T23:34:07.355127Z",
+      "primary_item": {
+        "id": "e783c51b8831525f69baa026b141fcec23593613",
+        "title": "点击这里进入 / Click here to enter",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0934-2930-ac14-8deb8f4ad2b6&fp=-3",
+        "source": "Page Fallback",
+        "source_name": "AI HubToday"
+      }
+    },
+    {
       "story_id": "story_67c184ed18ef",
-      "title": "Claude Opus 5 is now available in GitHub Copilot",
+      "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
       "primary_url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
       "source": "GitHub Changelog",
@@ -13,7 +110,7 @@
       "sources": [
         {
           "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-          "title": "Claude Opus 5 is now available in GitHub Copilot",
+          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
           "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -28,7 +125,7 @@
       "items": [
         {
           "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-          "title": "Claude Opus 5 is now available in GitHub Copilot",
+          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
           "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -38,14 +135,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8353,
+        "recency": 0.7125,
         "story_heat": 0.0
       },
       "category": "official",
@@ -58,89 +155,70 @@
       "latest_at": "2026-07-24T16:40:04Z",
       "primary_item": {
         "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-        "title": "Claude Opus 5 is now available in GitHub Copilot",
+        "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_0c55289d534f",
-      "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0637-31fa-8aaf-8ed153875e9b&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0637-31fa-8aaf-8ed153875e9b&fp=-3",
-      "source": "Page Fallback",
-      "source_name": "AI HubToday",
+      "story_id": "story_a93f595d6f60",
+      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+      "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
+      "primary_url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
+      "source": "Midjourney：Updates（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9ff449a8a50848e3130a30ab4c3ae38c2a8b4164",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0637-31fa-8aaf-8ed153875e9b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cc771131a641117c7d10bb992c9ebc421785ec3e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2354-3417-8161-496d6f870c49&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
+          "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Page Fallback"
+        "Midjourney：Updates（RSS）"
       ],
       "items": [
         {
-          "id": "9ff449a8a50848e3130a30ab4c3ae38c2a8b4164",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0637-31fa-8aaf-8ed153875e9b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cc771131a641117c7d10bb992c9ebc421785ec3e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2354-3417-8161-496d6f870c49&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
+          "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9477,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T13:54:03.968002Z",
-      "latest_at": "2026-07-24T20:37:11.559691Z",
+      "earliest_at": "2026-07-24T22:18:48Z",
+      "latest_at": "2026-07-24T22:18:48Z",
       "primary_item": {
-        "id": "9ff449a8a50848e3130a30ab4c3ae38c2a8b4164",
-        "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0637-31fa-8aaf-8ed153875e9b&fp=-3",
-        "source": "Page Fallback",
-        "source_name": "AI HubToday"
+        "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
+        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+        "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
+        "source": "Midjourney：Updates（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -178,14 +256,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.775,
+      "importance": 0.775,
+      "importance_score": 0.775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.938,
+        "recency": 0.8151,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -238,14 +316,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8671,
+        "recency": 0.7442,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -298,20 +376,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7837,
+        "recency": 0.6609,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T15:25:45Z",
       "latest_at": "2026-07-24T15:25:45Z",
@@ -358,20 +435,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7201,
+        "recency": 0.5972,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:54:03.968002Z",
       "latest_at": "2026-07-24T13:54:03.968002Z",
@@ -381,66 +457,6 @@
         "url": "https://www.aibase.com/news/29868",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_377317381525",
-      "title": "Runway Agent 推出自然语言工作流功能",
-      "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-      "primary_url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
-          "title": "Runway Agent 推出自然语言工作流功能",
-          "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
-          "title": "Runway Agent 推出自然语言工作流功能",
-          "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7104,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T13:40:08Z",
-      "latest_at": "2026-07-24T13:40:08Z",
-      "primary_item": {
-        "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
-        "title": "Runway Agent 推出自然语言工作流功能",
-        "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-        "source": "X：Runway (@runwayml)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -478,20 +494,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7106,
+        "recency": 0.5878,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:40:30Z",
       "latest_at": "2026-07-24T13:40:30Z",
@@ -500,6 +515,65 @@
         "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
         "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
         "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_377317381525",
+      "title": "Runway Agent 推出自然语言工作流功能",
+      "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+      "primary_url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
+          "title": "Runway Agent 推出自然语言工作流功能",
+          "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
+          "title": "Runway Agent 推出自然语言工作流功能",
+          "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5875,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T13:40:08Z",
+      "latest_at": "2026-07-24T13:40:08Z",
+      "primary_item": {
+        "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
+        "title": "Runway Agent 推出自然语言工作流功能",
+        "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
       }
     },
@@ -538,20 +612,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7019,
+        "recency": 0.579,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:27:56Z",
       "latest_at": "2026-07-24T13:27:56Z",
@@ -560,65 +633,6 @@
         "title": "微软阐述开源模型助力美国竞争力路径",
         "url": "https://aihot.virxact.com/items/cmrz061qu00itroey2lemh731",
         "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_668147b0e678",
-      "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-      "url": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2",
-      "primary_url": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2",
-      "source": "公众号：百度智能云（文心）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "911b4669a337404f96bc96db1be778d05fcaabc1",
-          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-          "url": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T12:28:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：百度智能云（文心）"
-      ],
-      "items": [
-        {
-          "id": "911b4669a337404f96bc96db1be778d05fcaabc1",
-          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-          "url": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2",
-          "source": "公众号：百度智能云（文心）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T12:28:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6606,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T12:28:24Z",
-      "latest_at": "2026-07-24T12:28:24Z",
-      "primary_item": {
-        "id": "911b4669a337404f96bc96db1be778d05fcaabc1",
-        "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-        "url": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2",
-        "source": "公众号：百度智能云（文心）",
         "source_name": "AI HOT"
       }
     },
@@ -646,7 +660,7 @@
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T17:29:56.301488Z"
+          "published_at": "2026-07-24T17:23:08.152586Z"
         }
       ],
       "source_count": 2,
@@ -671,19 +685,19 @@
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T17:29:56.301488Z"
+          "published_at": "2026-07-24T17:23:08.152586Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7136,
+      "importance": 0.7136,
+      "importance_score": 0.7136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.1408,
+        "recency": 0.018,
         "story_heat": 0.25
       },
       "category": "official",
@@ -693,7 +707,7 @@
         "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T00:00:00Z",
-      "latest_at": "2026-07-24T17:29:56.301488Z",
+      "latest_at": "2026-07-24T17:23:08.152586Z",
       "primary_item": {
         "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
         "title": "Introducing Claude Opus 5",
@@ -737,20 +751,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7201,
+        "recency": 0.5972,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:54:03.968002Z",
       "latest_at": "2026-07-24T13:54:03.968002Z",
@@ -763,72 +776,22 @@
       }
     },
     {
-      "story_id": "story_d585c40377ed",
-      "title": "FLUX 3 x mimic：新一代视频动作模型",
-      "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
-      "primary_url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
-          "title": "FLUX 3 x mimic：新一代视频动作模型",
-          "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T11:55:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
-          "title": "FLUX 3 x mimic：新一代视频动作模型",
-          "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T11:55:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6379,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T11:55:45Z",
-      "latest_at": "2026-07-24T11:55:45Z",
-      "primary_item": {
-        "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
-        "title": "FLUX 3 x mimic：新一代视频动作模型",
-        "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
       "story_id": "story_774f7412d1a3",
-      "title": "克劳德作品 5 摧毁了寓言 5 / Claude Opus 5 DESTROYS Fable 5",
-      "url": "https://www.youtube.com/watch?v=Vh1v2VSroes",
-      "primary_url": "https://www.youtube.com/watch?v=Vh1v2VSroes",
-      "source": "AlexFinn | AI测评",
+      "title": "关于开源人工智能的斗争、Anthropic 的 $1.5B 支出、纽约市社会主义者：驱逐 = 暴力？ / The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+      "url": "https://www.youtube.com/watch?v=wcV0SRPFK9s",
+      "primary_url": "https://www.youtube.com/watch?v=wcV0SRPFK9s",
+      "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
       "source_name": "OPML RSS",
       "sources": [
+        {
+          "id": "bb9f1d5f65aaf5188a6335e6f4324446427a0d06",
+          "title": "关于开源人工智能的斗争、Anthropic 的 $1.5B 支出、纽约市社会主义者：驱逐 = 暴力？ / The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "https://www.youtube.com/watch?v=wcV0SRPFK9s",
+          "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T21:04:37Z"
+        },
         {
           "id": "f96e99df6762136488d1df0da2f90c7988551a44",
           "title": "克劳德作品 5 摧毁了寓言 5 / Claude Opus 5 DESTROYS Fable 5",
@@ -884,10 +847,11 @@
           "published_at": "2026-07-24T16:48:57Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "source_names": [
         "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
         "AlexFinn | AI测评",
+        "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
         "Hacker News · 24h最热",
         "数码 | 联想官方",
         "林亦LYi",
@@ -895,6 +859,15 @@
       ],
       "items": [
         {
+          "id": "bb9f1d5f65aaf5188a6335e6f4324446427a0d06",
+          "title": "关于开源人工智能的斗争、Anthropic 的 $1.5B 支出、纽约市社会主义者：驱逐 = 暴力？ / The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "https://www.youtube.com/watch?v=wcV0SRPFK9s",
+          "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T21:04:37Z"
+        },
+        {
           "id": "f96e99df6762136488d1df0da2f90c7988551a44",
           "title": "克劳德作品 5 摧毁了寓言 5 / Claude Opus 5 DESTROYS Fable 5",
           "url": "https://www.youtube.com/watch?v=Vh1v2VSroes",
@@ -949,16 +922,16 @@
           "published_at": "2026-07-24T16:48:57Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.7052,
-      "importance": 0.7052,
-      "importance_score": 0.7052,
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6922,
+      "importance": 0.6922,
+      "importance_score": 0.6922,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9609,
+        "recency": 0.8962,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -966,12 +939,12 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-24T09:35:23Z",
-      "latest_at": "2026-07-24T19:40:51Z",
+      "latest_at": "2026-07-24T21:04:37Z",
       "primary_item": {
-        "id": "f96e99df6762136488d1df0da2f90c7988551a44",
-        "title": "克劳德作品 5 摧毁了寓言 5 / Claude Opus 5 DESTROYS Fable 5",
-        "url": "https://www.youtube.com/watch?v=Vh1v2VSroes",
-        "source": "AlexFinn | AI测评",
+        "id": "bb9f1d5f65aaf5188a6335e6f4324446427a0d06",
+        "title": "关于开源人工智能的斗争、Anthropic 的 $1.5B 支出、纽约市社会主义者：驱逐 = 暴力？ / The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+        "url": "https://www.youtube.com/watch?v=wcV0SRPFK9s",
+        "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
         "source_name": "OPML RSS"
       }
     },
@@ -1100,14 +1073,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6961,
-      "importance": 0.6961,
-      "importance_score": 0.6961,
+      "score": 0.6715,
+      "importance": 0.6715,
+      "importance_score": 0.6715,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9754,
+        "recency": 0.8525,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1159,20 +1132,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7201,
+        "recency": 0.5972,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:54:03.968002Z",
       "latest_at": "2026-07-24T13:54:03.968002Z",
@@ -1295,14 +1267,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6916,
-      "importance": 0.6916,
-      "importance_score": 0.6916,
+      "score": 0.667,
+      "importance": 0.667,
+      "importance_score": 0.667,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.953,
+        "recency": 0.8302,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1316,6 +1288,257 @@
         "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
         "url": "https://lobste.rs/c/aazxzo",
         "source": "Comments",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_a7c8f79afb47",
+      "title": "Tony M 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Tony M",
+      "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+      "primary_url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+      "source": "Hackaday » Comments",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "dcb1a2d6a215be489abd96cff2e5201699133d74",
+          "title": "Tony M 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Tony M",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:51:46Z"
+        },
+        {
+          "id": "191924fa0a2ab2d8d054abbbe72d48e37a06e5b5",
+          "title": "ganzuul 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by ganzuul",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:24:52Z"
+        },
+        {
+          "id": "30d7c3a8ad4af3a27ccea8ce6c1114ea8d0484a6",
+          "title": "Codeberg 禁止加密货币和 LLM 生成的代码项目 / Codeberg Bans Cryptocurrency and LLM-Generated Code Projects",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:00:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hackaday",
+        "Hackaday » Comments"
+      ],
+      "items": [
+        {
+          "id": "dcb1a2d6a215be489abd96cff2e5201699133d74",
+          "title": "Tony M 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Tony M",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:51:46Z"
+        },
+        {
+          "id": "191924fa0a2ab2d8d054abbbe72d48e37a06e5b5",
+          "title": "ganzuul 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by ganzuul",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:24:52Z"
+        },
+        {
+          "id": "30d7c3a8ad4af3a27ccea8ce6c1114ea8d0484a6",
+          "title": "Codeberg 禁止加密货币和 LLM 生成的代码项目 / Codeberg Bans Cryptocurrency and LLM-Generated Code Projects",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:00:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6571,
+      "importance": 0.6571,
+      "importance_score": 0.6571,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9706,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T20:00:00Z",
+      "latest_at": "2026-07-24T22:51:46Z",
+      "primary_item": {
+        "id": "dcb1a2d6a215be489abd96cff2e5201699133d74",
+        "title": "Tony M 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Tony M",
+        "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+        "source": "Hackaday » Comments",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_f92768603c53",
+      "title": "Anthropic 正式发布 Claude Opus 5",
+      "url": "https://t.me/nodeseekc/811613",
+      "primary_url": "https://t.me/nodeseekc/811613",
+      "source": "NodeSeek | 主机服务器社区",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "b807f845a33959d44b9f6b8d93cd606f94604b12",
+          "title": "Anthropic 正式发布 Claude Opus 5",
+          "url": "https://t.me/nodeseekc/811613",
+          "source": "NodeSeek | 主机服务器社区",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T23:08:20Z"
+        },
+        {
+          "id": "d1dd9edc4ab76d2c43af89a7117d79d0efa39b52",
+          "title": "Anthropic 发布 Claude Opus 5",
+          "url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
+          "source": "AI HOT — 精选",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T17:24:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AI HOT — 精选",
+        "NodeSeek | 主机服务器社区"
+      ],
+      "items": [
+        {
+          "id": "b807f845a33959d44b9f6b8d93cd606f94604b12",
+          "title": "Anthropic 正式发布 Claude Opus 5",
+          "url": "https://t.me/nodeseekc/811613",
+          "source": "NodeSeek | 主机服务器社区",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T23:08:20Z"
+        },
+        {
+          "id": "d1dd9edc4ab76d2c43af89a7117d79d0efa39b52",
+          "title": "Anthropic 发布 Claude Opus 5",
+          "url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
+          "source": "AI HOT — 精选",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T17:24:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6464,
+      "importance": 0.6464,
+      "importance_score": 0.6464,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.9821,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T17:24:25Z",
+      "latest_at": "2026-07-24T23:08:20Z",
+      "primary_item": {
+        "id": "b807f845a33959d44b9f6b8d93cd606f94604b12",
+        "title": "Anthropic 正式发布 Claude Opus 5",
+        "url": "https://t.me/nodeseekc/811613",
+        "source": "NodeSeek | 主机服务器社区",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_a51a89eaba35",
+      "title": "simonw 推动 llm-anthropic / simonw pushed llm-anthropic",
+      "url": "https://github.com/simonw/llm-anthropic/compare/8272dfee5b...feaab840ea",
+      "primary_url": "https://github.com/simonw/llm-anthropic/compare/8272dfee5b...feaab840ea",
+      "source": "GitHub Public Timeline Feed",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "5f3d6aabd91f17b7789a14dcb89e180037129689",
+          "title": "simonw 推动 llm-anthropic / simonw pushed llm-anthropic",
+          "url": "https://github.com/simonw/llm-anthropic/compare/8272dfee5b...feaab840ea",
+          "source": "GitHub Public Timeline Feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T23:06:28Z"
+        },
+        {
+          "id": "84a64117a63b6c4e96499e0b1d5e8d889f5ccdbe",
+          "title": "simonw 推动 llm-anthropic / simonw pushed llm-anthropic",
+          "url": "https://github.com/simonw/llm-anthropic/compare/667511ffbf...8272dfee5b",
+          "source": "GitHub Public Timeline Feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T18:52:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Public Timeline Feed"
+      ],
+      "items": [
+        {
+          "id": "5f3d6aabd91f17b7789a14dcb89e180037129689",
+          "title": "simonw 推动 llm-anthropic / simonw pushed llm-anthropic",
+          "url": "https://github.com/simonw/llm-anthropic/compare/8272dfee5b...feaab840ea",
+          "source": "GitHub Public Timeline Feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T23:06:28Z"
+        },
+        {
+          "id": "84a64117a63b6c4e96499e0b1d5e8d889f5ccdbe",
+          "title": "simonw 推动 llm-anthropic / simonw pushed llm-anthropic",
+          "url": "https://github.com/simonw/llm-anthropic/compare/667511ffbf...8272dfee5b",
+          "source": "GitHub Public Timeline Feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T18:52:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6462,
+      "importance": 0.6462,
+      "importance_score": 0.6462,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.9808,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T18:52:42Z",
+      "latest_at": "2026-07-24T23:06:28Z",
+      "primary_item": {
+        "id": "5f3d6aabd91f17b7789a14dcb89e180037129689",
+        "title": "simonw 推动 llm-anthropic / simonw pushed llm-anthropic",
+        "url": "https://github.com/simonw/llm-anthropic/compare/8272dfee5b...feaab840ea",
+        "source": "GitHub Public Timeline Feed",
         "source_name": "OPML RSS"
       }
     },
@@ -1354,20 +1577,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7201,
+        "recency": 0.5972,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:54:03.968002Z",
       "latest_at": "2026-07-24T13:54:03.968002Z",
@@ -1377,214 +1599,6 @@
         "url": "https://www.aibase.com/news/29881",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7fe38fcac0ab",
-      "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-      "url": "https://github.com/mudler/vllm.cpp/compare/ba4dd627ff...6a0bd3e77c",
-      "primary_url": "https://github.com/mudler/vllm.cpp/compare/ba4dd627ff...6a0bd3e77c",
-      "source": "mudler",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "884f402e6208c7a0ea33ffc197825f5a018b758f",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/ba4dd627ff...6a0bd3e77c",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T17:22:48Z"
-        },
-        {
-          "id": "d9998c57cd3581ebfdb791d73bf019aa6bba270a",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/61f3e85dcd...f887c34c1b",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T15:27:33Z"
-        },
-        {
-          "id": "022d0ebecb1124c89b97c0706f814eea91f864d1",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/f312fd565f...5c00fc400a",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T13:06:24Z"
-        },
-        {
-          "id": "872b09b350eca70c0047541d8866e528352e60fb",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/5fffe7e650...df8909b4b6",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T11:41:56Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "mudler"
-      ],
-      "items": [
-        {
-          "id": "884f402e6208c7a0ea33ffc197825f5a018b758f",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/ba4dd627ff...6a0bd3e77c",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T17:22:48Z"
-        },
-        {
-          "id": "d9998c57cd3581ebfdb791d73bf019aa6bba270a",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/61f3e85dcd...f887c34c1b",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T15:27:33Z"
-        },
-        {
-          "id": "022d0ebecb1124c89b97c0706f814eea91f864d1",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/f312fd565f...5c00fc400a",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T13:06:24Z"
-        },
-        {
-          "id": "872b09b350eca70c0047541d8866e528352e60fb",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/5fffe7e650...df8909b4b6",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T11:41:56Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.661,
-      "importance": 0.661,
-      "importance_score": 0.661,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.865,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T11:41:56Z",
-      "latest_at": "2026-07-24T17:22:48Z",
-      "primary_item": {
-        "id": "884f402e6208c7a0ea33ffc197825f5a018b758f",
-        "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-        "url": "https://github.com/mudler/vllm.cpp/compare/ba4dd627ff...6a0bd3e77c",
-        "source": "mudler",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_59b729f4a9be",
-      "title": "Hugging Face взломал автономный ИИ-агент — защищались тоже с помощью ИИ",
-      "url": "https://nnmclub.to/forum/viewtopic.php?t=1882947",
-      "primary_url": "https://nnmclub.to/forum/viewtopic.php?t=1882947",
-      "source": "NNM-Club 俄罗斯分享软件等",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "c2a9d539e670bf4117a9437ef4a1116acb5270bb",
-          "title": "Hugging Face взломал автономный ИИ-агент — защищались тоже с помощью ИИ",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1882947",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T19:00:07Z"
-        },
-        {
-          "id": "9a1e32998771cfc387870c9a81ba8e3bfad3d7bd",
-          "title": "Максим Лапа | Claude Code для чайников. Ваш ИИ-помощник Claude. От установки до первых проектов (2026) [PDF, EPUB, FB2]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1882599",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T17:14:12Z"
-        },
-        {
-          "id": "9376a1a6e147b8762258b178c68c34b2c6191a49",
-          "title": "Переписки пользователей с DeepSeek в открытом виде попали в поиск Google",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1882944",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T14:59:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "NNM-Club 俄罗斯分享软件等"
-      ],
-      "items": [
-        {
-          "id": "c2a9d539e670bf4117a9437ef4a1116acb5270bb",
-          "title": "Hugging Face взломал автономный ИИ-агент — защищались тоже с помощью ИИ",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1882947",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T19:00:07Z"
-        },
-        {
-          "id": "9a1e32998771cfc387870c9a81ba8e3bfad3d7bd",
-          "title": "Максим Лапа | Claude Code для чайников. Ваш ИИ-помощник Claude. От установки до первых проектов (2026) [PDF, EPUB, FB2]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1882599",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T17:14:12Z"
-        },
-        {
-          "id": "9376a1a6e147b8762258b178c68c34b2c6191a49",
-          "title": "Переписки пользователей с DeepSeek в открытом виде попали в поиск Google",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1882944",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T14:59:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6585,
-      "importance": 0.6585,
-      "importance_score": 0.6585,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.74,
-        "recency": 0.9326,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T14:59:16Z",
-      "latest_at": "2026-07-24T19:00:07Z",
-      "primary_item": {
-        "id": "c2a9d539e670bf4117a9437ef4a1116acb5270bb",
-        "title": "Hugging Face взломал автономный ИИ-агент — защищались тоже с помощью ИИ",
-        "url": "https://nnmclub.to/forum/viewtopic.php?t=1882947",
-        "source": "NNM-Club 俄罗斯分享软件等",
-        "source_name": "OPML RSS"
       }
     }
   ]
