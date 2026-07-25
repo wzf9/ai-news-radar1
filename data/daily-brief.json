@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-24T23:34:07.355127Z",
+  "generated_at": "2026-07-25T03:12:38.796808Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0934-2930-ac14-8deb8f4ad2b6&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0934-2930-ac14-8deb8f4ad2b6&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1312-59b7-9ad6-423beaeb3e10&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-1312-59b7-9ad6-423beaeb3e10&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "a51d858bbbc133eceaa590222025b7d0143b9aca",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1312-59b7-9ad6-423beaeb3e10&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "e783c51b8831525f69baa026b141fcec23593613",
           "title": "点击这里进入 / Click here to enter",
@@ -39,12 +48,21 @@
           "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "a51d858bbbc133eceaa590222025b7d0143b9aca",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1312-59b7-9ad6-423beaeb3e10&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "e783c51b8831525f69baa026b141fcec23593613",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0934-2930-ac14-8deb8f4ad2b6&fp=-3",
@@ -72,17 +90,17 @@
           "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.887,
+      "importance": 0.887,
+      "importance_score": 0.887,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.5
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -91,11 +109,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-24T13:54:03.968002Z",
-      "latest_at": "2026-07-24T23:34:07.355127Z",
+      "latest_at": "2026-07-25T03:12:38.796808Z",
       "primary_item": {
-        "id": "e783c51b8831525f69baa026b141fcec23593613",
+        "id": "a51d858bbbc133eceaa590222025b7d0143b9aca",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0934-2930-ac14-8deb8f4ad2b6&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1312-59b7-9ad6-423beaeb3e10&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -135,14 +153,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7125,
+        "recency": 0.5607,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,14 +214,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.7959,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -256,20 +274,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8151,
+        "recency": 0.6633,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T19:07:52Z",
       "latest_at": "2026-07-24T19:07:52Z",
@@ -316,20 +333,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7442,
+        "recency": 0.5925,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T17:25:50Z",
       "latest_at": "2026-07-24T17:25:50Z",
@@ -342,437 +358,266 @@
       }
     },
     {
-      "story_id": "story_c2294f4348a1",
-      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-      "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-      "primary_url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_a7c8f79afb47",
+      "title": "关于 Codeberg 禁止 Solenoid 加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Solenoid",
+      "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+      "primary_url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+      "source": "Hackaday » Comments",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "e2cbf2ad211736d2aaa6f4eb04287a88052d29fb",
-          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-          "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T15:25:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "e2cbf2ad211736d2aaa6f4eb04287a88052d29fb",
-          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-          "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T15:25:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6609,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T15:25:45Z",
-      "latest_at": "2026-07-24T15:25:45Z",
-      "primary_item": {
-        "id": "e2cbf2ad211736d2aaa6f4eb04287a88052d29fb",
-        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-        "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_86a897ea7bdc",
-      "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-      "url": "https://www.aibase.com/news/29868",
-      "primary_url": "https://www.aibase.com/news/29868",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "url": "https://www.aibase.com/news/29868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T13:54:03.968002Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "url": "https://www.aibase.com/news/29868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T13:54:03.968002Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5972,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:54:03.968002Z",
-      "latest_at": "2026-07-24T13:54:03.968002Z",
-      "primary_item": {
-        "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-        "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-        "url": "https://www.aibase.com/news/29868",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3b927b0e5ae8",
-      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-      "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-      "primary_url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dca66767fe3bef273853d68962e785803bc21d4b",
-          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "items": [
-        {
-          "id": "dca66767fe3bef273853d68962e785803bc21d4b",
-          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5878,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:40:30Z",
-      "latest_at": "2026-07-24T13:40:30Z",
-      "primary_item": {
-        "id": "dca66767fe3bef273853d68962e785803bc21d4b",
-        "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-        "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-        "source": "公众号：蚂蚁百灵（Ling）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_377317381525",
-      "title": "Runway Agent 推出自然语言工作流功能",
-      "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-      "primary_url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
-          "title": "Runway Agent 推出自然语言工作流功能",
-          "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
-          "title": "Runway Agent 推出自然语言工作流功能",
-          "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:40:08Z",
-      "latest_at": "2026-07-24T13:40:08Z",
-      "primary_item": {
-        "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
-        "title": "Runway Agent 推出自然语言工作流功能",
-        "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-        "source": "X：Runway (@runwayml)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4c4d1f023a31",
-      "title": "微软阐述开源模型助力美国竞争力路径",
-      "url": "https://aihot.virxact.com/items/cmrz061qu00itroey2lemh731",
-      "primary_url": "https://aihot.virxact.com/items/cmrz061qu00itroey2lemh731",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1b17e7425ec4c866b649f26417ad88897191ffa6",
-          "title": "微软阐述开源模型助力美国竞争力路径",
-          "url": "https://aihot.virxact.com/items/cmrz061qu00itroey2lemh731",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:27:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "1b17e7425ec4c866b649f26417ad88897191ffa6",
-          "title": "微软阐述开源模型助力美国竞争力路径",
-          "url": "https://aihot.virxact.com/items/cmrz061qu00itroey2lemh731",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:27:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.579,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:27:56Z",
-      "latest_at": "2026-07-24T13:27:56Z",
-      "primary_item": {
-        "id": "1b17e7425ec4c866b649f26417ad88897191ffa6",
-        "title": "微软阐述开源模型助力美国竞争力路径",
-        "url": "https://aihot.virxact.com/items/cmrz061qu00itroey2lemh731",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e75df1016aa1",
-      "title": "Introducing Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "Anthropic News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-          "title": "Introducing Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T00:00:00Z"
-        },
-        {
-          "id": "868c3dab7844ec38a92ca80a04b5ebfd0272c35b",
-          "title": "近距离工作5 / Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News Digest",
+          "id": "32679f744b1282fe68974b3f301a00109d745d94",
+          "title": "关于 Codeberg 禁止 Solenoid 加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Solenoid",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T17:23:08.152586Z"
+          "published_at": "2026-07-25T02:19:18Z"
+        },
+        {
+          "id": "dcb1a2d6a215be489abd96cff2e5201699133d74",
+          "title": "Tony M 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Tony M",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:51:46Z"
+        },
+        {
+          "id": "191924fa0a2ab2d8d054abbbe72d48e37a06e5b5",
+          "title": "ganzuul 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by ganzuul",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:24:52Z"
+        },
+        {
+          "id": "30d7c3a8ad4af3a27ccea8ce6c1114ea8d0484a6",
+          "title": "Codeberg 禁止加密货币和 LLM 生成的代码项目 / Codeberg Bans Cryptocurrency and LLM-Generated Code Projects",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
-        "Anthropic News",
-        "Hacker News Digest"
+        "Hackaday",
+        "Hackaday » Comments"
       ],
       "items": [
         {
-          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-          "title": "Introducing Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T00:00:00Z"
-        },
-        {
-          "id": "868c3dab7844ec38a92ca80a04b5ebfd0272c35b",
-          "title": "近距离工作5 / Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News Digest",
+          "id": "32679f744b1282fe68974b3f301a00109d745d94",
+          "title": "关于 Codeberg 禁止 Solenoid 加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Solenoid",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T17:23:08.152586Z"
+          "published_at": "2026-07-25T02:19:18Z"
+        },
+        {
+          "id": "dcb1a2d6a215be489abd96cff2e5201699133d74",
+          "title": "Tony M 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Tony M",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:51:46Z"
+        },
+        {
+          "id": "191924fa0a2ab2d8d054abbbe72d48e37a06e5b5",
+          "title": "ganzuul 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by ganzuul",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:24:52Z"
+        },
+        {
+          "id": "30d7c3a8ad4af3a27ccea8ce6c1114ea8d0484a6",
+          "title": "Codeberg 禁止加密货币和 LLM 生成的代码项目 / Codeberg Bans Cryptocurrency and LLM-Generated Code Projects",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7136,
-      "importance": 0.7136,
-      "importance_score": 0.7136,
-      "importance_label": "官方更新",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6806,
+      "importance": 0.6806,
+      "importance_score": 0.6806,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.018,
-        "story_heat": 0.25
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.963,
+        "story_heat": 0.75
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-24T00:00:00Z",
-      "latest_at": "2026-07-24T17:23:08.152586Z",
+      "earliest_at": "2026-07-24T20:00:00Z",
+      "latest_at": "2026-07-25T02:19:18Z",
       "primary_item": {
-        "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-        "title": "Introducing Claude Opus 5",
-        "url": "https://www.anthropic.com/news/claude-opus-5",
-        "source": "Anthropic News",
-        "source_name": "Official AI Updates"
+        "id": "32679f744b1282fe68974b3f301a00109d745d94",
+        "title": "关于 Codeberg 禁止 Solenoid 加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Solenoid",
+        "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+        "source": "Hackaday » Comments",
+        "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_898952157f6d",
-      "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-      "url": "https://www.aibase.com/news/29867",
-      "primary_url": "https://www.aibase.com/news/29867",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c56b58e9d916",
+      "title": "第1552期 - 2026-07-25 08:01",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0801",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0801",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
-          "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-          "url": "https://www.aibase.com/news/29867",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T13:54:03.968002Z"
+          "id": "83933bfeae507f446ceceadc2153bb744b0d3173",
+          "title": "第1552期 - 2026-07-25 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T00:01:18Z"
+        },
+        {
+          "id": "73f81736c161e2558be6b05ea7993361af5851cb",
+          "title": "第1551期 - 2026-07-25 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:01:43Z"
+        },
+        {
+          "id": "f94194c4854102dfe8616c8bec70e6c3eb43b45b",
+          "title": "第1550期 - 2026-07-25 00:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T16:01:11Z"
+        },
+        {
+          "id": "e04e299fe6819b4d04a8a2ce5a007f5da12b0dff",
+          "title": "第1549期 - 2026-07-24 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T12:01:18Z"
+        },
+        {
+          "id": "5d2abb9921f9d11408cc183615098c95e610bbc1",
+          "title": "第1548期 - 2026-07-24 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T08:01:07Z"
+        },
+        {
+          "id": "5488463c60eaa2ede5a663a064aca9e4256bc634",
+          "title": "第1547期 - 2026-07-24 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T04:01:30Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 6,
       "source_names": [
-        "AIbase"
+        "大黑AI速报"
       ],
       "items": [
         {
-          "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
-          "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-          "url": "https://www.aibase.com/news/29867",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T13:54:03.968002Z"
+          "id": "83933bfeae507f446ceceadc2153bb744b0d3173",
+          "title": "第1552期 - 2026-07-25 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T00:01:18Z"
+        },
+        {
+          "id": "73f81736c161e2558be6b05ea7993361af5851cb",
+          "title": "第1551期 - 2026-07-25 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:01:43Z"
+        },
+        {
+          "id": "f94194c4854102dfe8616c8bec70e6c3eb43b45b",
+          "title": "第1550期 - 2026-07-25 00:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T16:01:11Z"
+        },
+        {
+          "id": "e04e299fe6819b4d04a8a2ce5a007f5da12b0dff",
+          "title": "第1549期 - 2026-07-24 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T12:01:18Z"
+        },
+        {
+          "id": "5d2abb9921f9d11408cc183615098c95e610bbc1",
+          "title": "第1548期 - 2026-07-24 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T08:01:07Z"
+        },
+        {
+          "id": "5488463c60eaa2ede5a663a064aca9e4256bc634",
+          "title": "第1547期 - 2026-07-24 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T04:01:30Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
-      "importance_label": "行业动态",
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6744,
+      "importance": 0.6744,
+      "importance_score": 0.6744,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5972,
-        "story_heat": 0.0
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.8671,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-24T13:54:03.968002Z",
-      "latest_at": "2026-07-24T13:54:03.968002Z",
+      "earliest_at": "2026-07-24T04:01:30Z",
+      "latest_at": "2026-07-25T00:01:18Z",
       "primary_item": {
-        "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
-        "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-        "url": "https://www.aibase.com/news/29867",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "83933bfeae507f446ceceadc2153bb744b0d3173",
+        "title": "第1552期 - 2026-07-25 08:01",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0801",
+        "source": "大黑AI速报",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -924,14 +769,14 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.6922,
-      "importance": 0.6922,
-      "importance_score": 0.6922,
+      "score": 0.6619,
+      "importance": 0.6619,
+      "importance_score": 0.6619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8962,
+        "recency": 0.7444,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -949,441 +794,579 @@
       }
     },
     {
-      "story_id": "story_c56b58e9d916",
-      "title": "第1551期 - 2026-07-25 04:01",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0401",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0401",
-      "source": "大黑AI速报",
+      "story_id": "story_9fd15a20b484",
+      "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
+      "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/2f7b6ae114...425300a69d",
+      "primary_url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/2f7b6ae114...425300a69d",
+      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "73f81736c161e2558be6b05ea7993361af5851cb",
-          "title": "第1551期 - 2026-07-25 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0401",
-          "source": "大黑AI速报",
+          "id": "0b1e2482224bfc8f7ec78bb11bd1b83770ad8a72",
+          "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
+          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/2f7b6ae114...425300a69d",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T20:01:43Z"
+          "published_at": "2026-07-25T03:12:07Z"
         },
         {
-          "id": "f94194c4854102dfe8616c8bec70e6c3eb43b45b",
-          "title": "第1550期 - 2026-07-25 00:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0001",
-          "source": "大黑AI速报",
+          "id": "5d03832e7d830c4aae24745f7e022dc91aa79165",
+          "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
+          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/6308b631d2...fa4f9165eb",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T16:01:11Z"
+          "published_at": "2026-07-25T02:35:21Z"
         },
         {
-          "id": "e04e299fe6819b4d04a8a2ce5a007f5da12b0dff",
-          "title": "第1549期 - 2026-07-24 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_2001",
-          "source": "大黑AI速报",
+          "id": "4c4c5e51e69c04d3a78ff66ab871c2cf0e038db8",
+          "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
+          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/6b651c591b...47c1cf3456",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T12:01:18Z"
-        },
-        {
-          "id": "5d2abb9921f9d11408cc183615098c95e610bbc1",
-          "title": "第1548期 - 2026-07-24 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T08:01:07Z"
-        },
-        {
-          "id": "5488463c60eaa2ede5a663a064aca9e4256bc634",
-          "title": "第1547期 - 2026-07-24 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T04:01:30Z"
-        },
-        {
-          "id": "f497f943c49e651e47a0eb5af3d632cb4acd6123",
-          "title": "第1546期 - 2026-07-24 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T00:01:14Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "大黑AI速报"
-      ],
-      "items": [
-        {
-          "id": "73f81736c161e2558be6b05ea7993361af5851cb",
-          "title": "第1551期 - 2026-07-25 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T20:01:43Z"
-        },
-        {
-          "id": "f94194c4854102dfe8616c8bec70e6c3eb43b45b",
-          "title": "第1550期 - 2026-07-25 00:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T16:01:11Z"
-        },
-        {
-          "id": "e04e299fe6819b4d04a8a2ce5a007f5da12b0dff",
-          "title": "第1549期 - 2026-07-24 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T12:01:18Z"
-        },
-        {
-          "id": "5d2abb9921f9d11408cc183615098c95e610bbc1",
-          "title": "第1548期 - 2026-07-24 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T08:01:07Z"
-        },
-        {
-          "id": "5488463c60eaa2ede5a663a064aca9e4256bc634",
-          "title": "第1547期 - 2026-07-24 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T04:01:30Z"
-        },
-        {
-          "id": "f497f943c49e651e47a0eb5af3d632cb4acd6123",
-          "title": "第1546期 - 2026-07-24 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-24_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T00:01:14Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6715,
-      "importance": 0.6715,
-      "importance_score": 0.6715,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8525,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T00:01:14Z",
-      "latest_at": "2026-07-24T20:01:43Z",
-      "primary_item": {
-        "id": "73f81736c161e2558be6b05ea7993361af5851cb",
-        "title": "第1551期 - 2026-07-25 04:01",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0401",
-        "source": "大黑AI速报",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_4efe088ce067",
-      "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-      "url": "https://www.aibase.com/news/29870",
-      "primary_url": "https://www.aibase.com/news/29870",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "url": "https://www.aibase.com/news/29870",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T13:54:03.968002Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "url": "https://www.aibase.com/news/29870",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T13:54:03.968002Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5972,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:54:03.968002Z",
-      "latest_at": "2026-07-24T13:54:03.968002Z",
-      "primary_item": {
-        "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-        "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "url": "https://www.aibase.com/news/29870",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_890207b2b481",
-      "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
-      "url": "https://lobste.rs/c/aazxzo",
-      "primary_url": "https://lobste.rs/c/aazxzo",
-      "source": "Comments",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "517c697de394ea61d76c01acee299ac7e45b3215",
-          "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
-          "url": "https://lobste.rs/c/aazxzo",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T19:29:33Z"
-        },
-        {
-          "id": "5a2a860cc7ea012bf44c7b2b54b4786ac51c8381",
-          "title": "开放式权重与美国在人工智能领域的领导地位",
-          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T14:03:36.850000Z"
-        },
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "97b5e2ce3fa3c5b8c6867fdba8b6dd7065ecb262",
-          "title": "开放式权重与美国在人工智能领域的领导地位 / Open Weights and American AI Leadership",
-          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T14:01:24Z"
-        },
-        {
-          "id": "5d2a41d23d4400c0443b3dfb7e1a994ba8764d8b",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Comments",
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "images.nvidia.com"
-      ],
-      "items": [
-        {
-          "id": "517c697de394ea61d76c01acee299ac7e45b3215",
-          "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
-          "url": "https://lobste.rs/c/aazxzo",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T19:29:33Z"
-        },
-        {
-          "id": "5a2a860cc7ea012bf44c7b2b54b4786ac51c8381",
-          "title": "开放式权重与美国在人工智能领域的领导地位",
-          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T14:03:36.850000Z"
-        },
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "97b5e2ce3fa3c5b8c6867fdba8b6dd7065ecb262",
-          "title": "开放式权重与美国在人工智能领域的领导地位 / Open Weights and American AI Leadership",
-          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T14:01:24Z"
-        },
-        {
-          "id": "5d2a41d23d4400c0443b3dfb7e1a994ba8764d8b",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.667,
-      "importance": 0.667,
-      "importance_score": 0.667,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8302,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T13:58:12Z",
-      "latest_at": "2026-07-24T19:29:33Z",
-      "primary_item": {
-        "id": "517c697de394ea61d76c01acee299ac7e45b3215",
-        "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
-        "url": "https://lobste.rs/c/aazxzo",
-        "source": "Comments",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_a7c8f79afb47",
-      "title": "Tony M 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Tony M",
-      "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
-      "primary_url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
-      "source": "Hackaday » Comments",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "dcb1a2d6a215be489abd96cff2e5201699133d74",
-          "title": "Tony M 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Tony M",
-          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
-          "source": "Hackaday » Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T22:51:46Z"
-        },
-        {
-          "id": "191924fa0a2ab2d8d054abbbe72d48e37a06e5b5",
-          "title": "ganzuul 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by ganzuul",
-          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
-          "source": "Hackaday » Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T20:24:52Z"
-        },
-        {
-          "id": "30d7c3a8ad4af3a27ccea8ce6c1114ea8d0484a6",
-          "title": "Codeberg 禁止加密货币和 LLM 生成的代码项目 / Codeberg Bans Cryptocurrency and LLM-Generated Code Projects",
-          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
-          "source": "Hackaday",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T20:00:00Z"
+          "published_at": "2026-07-24T23:06:19Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hackaday",
-        "Hackaday » Comments"
+        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
       ],
       "items": [
         {
-          "id": "dcb1a2d6a215be489abd96cff2e5201699133d74",
-          "title": "Tony M 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Tony M",
-          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
-          "source": "Hackaday » Comments",
+          "id": "0b1e2482224bfc8f7ec78bb11bd1b83770ad8a72",
+          "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
+          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/2f7b6ae114...425300a69d",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T22:51:46Z"
+          "published_at": "2026-07-25T03:12:07Z"
         },
         {
-          "id": "191924fa0a2ab2d8d054abbbe72d48e37a06e5b5",
-          "title": "ganzuul 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by ganzuul",
-          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
-          "source": "Hackaday » Comments",
+          "id": "5d03832e7d830c4aae24745f7e022dc91aa79165",
+          "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
+          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/6308b631d2...fa4f9165eb",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T20:24:52Z"
+          "published_at": "2026-07-25T02:35:21Z"
         },
         {
-          "id": "30d7c3a8ad4af3a27ccea8ce6c1114ea8d0484a6",
-          "title": "Codeberg 禁止加密货币和 LLM 生成的代码项目 / Codeberg Bans Cryptocurrency and LLM-Generated Code Projects",
-          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
-          "source": "Hackaday",
+          "id": "4c4c5e51e69c04d3a78ff66ab871c2cf0e038db8",
+          "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
+          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/6b651c591b...47c1cf3456",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T20:00:00Z"
+          "published_at": "2026-07-24T23:06:19Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6571,
-      "importance": 0.6571,
-      "importance_score": 0.6571,
+      "score": 0.6599,
+      "importance": 0.6599,
+      "importance_score": 0.6599,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9706,
+        "ai_relevance": 0.7,
+        "recency": 0.9996,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T20:00:00Z",
-      "latest_at": "2026-07-24T22:51:46Z",
+      "earliest_at": "2026-07-24T23:06:19Z",
+      "latest_at": "2026-07-25T03:12:07Z",
       "primary_item": {
-        "id": "dcb1a2d6a215be489abd96cff2e5201699133d74",
-        "title": "Tony M 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Tony M",
-        "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
-        "source": "Hackaday » Comments",
+        "id": "0b1e2482224bfc8f7ec78bb11bd1b83770ad8a72",
+        "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
+        "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/2f7b6ae114...425300a69d",
+        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_7d0089648f87",
+      "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
+      "url": "https://lobste.rs/c/mys7lt",
+      "primary_url": "https://lobste.rs/c/mys7lt",
+      "source": "Comments",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "6aa59c3d83f03cf2e6f8be41c72894a502f38d46",
+          "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
+          "url": "https://lobste.rs/c/mys7lt",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T03:13:10Z"
+        },
+        {
+          "id": "50a396980419788e458f3c70c6810d31cf600822",
+          "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
+          "url": "https://lobste.rs/c/23lrq7",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T02:30:44Z"
+        },
+        {
+          "id": "e5fe590c501e829cc6f6a69cc013d0f8d09a315a",
+          "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
+          "url": "https://lobste.rs/c/t5fwpp",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:20:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Comments"
+      ],
+      "items": [
+        {
+          "id": "6aa59c3d83f03cf2e6f8be41c72894a502f38d46",
+          "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
+          "url": "https://lobste.rs/c/mys7lt",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T03:13:10Z"
+        },
+        {
+          "id": "50a396980419788e458f3c70c6810d31cf600822",
+          "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
+          "url": "https://lobste.rs/c/23lrq7",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T02:30:44Z"
+        },
+        {
+          "id": "e5fe590c501e829cc6f6a69cc013d0f8d09a315a",
+          "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
+          "url": "https://lobste.rs/c/t5fwpp",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:20:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.651,
+      "importance": 0.651,
+      "importance_score": 0.651,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T22:20:17Z",
+      "latest_at": "2026-07-25T03:13:10Z",
+      "primary_item": {
+        "id": "6aa59c3d83f03cf2e6f8be41c72894a502f38d46",
+        "title": "开放权重和美国人工智能领导地位 / Open Weights and American AI Leadership",
+        "url": "https://lobste.rs/c/mys7lt",
+        "source": "Comments",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_919f33d88a9b",
+      "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+      "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+      "primary_url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+      "source": "AI HOT — 精选",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "f077f9cf81190260d097e7274977f0d437525eab",
+          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+          "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+          "source": "AI HOT — 精选",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T01:08:45Z"
+        },
+        {
+          "id": "ff5c3fdc9f519b95299f6a7c9f635bafad19a485",
+          "title": "智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+          "url": "https://www.ithome.com/0/981/432.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T01:08:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AI HOT — 精选",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "f077f9cf81190260d097e7274977f0d437525eab",
+          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+          "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+          "source": "AI HOT — 精选",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T01:08:45Z"
+        },
+        {
+          "id": "ff5c3fdc9f519b95299f6a7c9f635bafad19a485",
+          "title": "智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+          "url": "https://www.ithome.com/0/981/432.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T01:08:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6448,
+      "importance": 0.6448,
+      "importance_score": 0.6448,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.79,
+        "recency": 0.914,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T01:08:45Z",
+      "latest_at": "2026-07-25T01:08:45Z",
+      "primary_item": {
+        "id": "f077f9cf81190260d097e7274977f0d437525eab",
+        "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+        "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+        "source": "AI HOT — 精选",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_be94e30d7ccc",
+      "title": "人工智能安全",
+      "url": "https://zh.wikipedia.org/w/index.php?title=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8&diff=93637398&oldid=93606418",
+      "primary_url": "https://zh.wikipedia.org/w/index.php?title=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8&diff=93637398&oldid=93606418",
+      "source": "Wikipedia的Atom feed",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "68ed34dacae98eecce09de3268c363b29fa628fa",
+          "title": "人工智能安全",
+          "url": "https://zh.wikipedia.org/w/index.php?title=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8&diff=93637398&oldid=93606418",
+          "source": "Wikipedia的Atom feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T03:11:14Z"
+        },
+        {
+          "id": "acc1d068bb335064c847f45e4c5341e916affe1a",
+          "title": "抱脸 / Hugging Face",
+          "url": "https://zh.wikipedia.org/w/index.php?title=Hugging_Face&diff=93634780&oldid=93509476",
+          "source": "Wikipedia的Atom feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T23:30:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Wikipedia的Atom feed"
+      ],
+      "items": [
+        {
+          "id": "68ed34dacae98eecce09de3268c363b29fa628fa",
+          "title": "人工智能安全",
+          "url": "https://zh.wikipedia.org/w/index.php?title=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8&diff=93637398&oldid=93606418",
+          "source": "Wikipedia的Atom feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T03:11:14Z"
+        },
+        {
+          "id": "acc1d068bb335064c847f45e4c5341e916affe1a",
+          "title": "抱脸 / Hugging Face",
+          "url": "https://zh.wikipedia.org/w/index.php?title=Hugging_Face&diff=93634780&oldid=93509476",
+          "source": "Wikipedia的Atom feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T23:30:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6378,
+      "importance": 0.6378,
+      "importance_score": 0.6378,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.999,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T23:30:43Z",
+      "latest_at": "2026-07-25T03:11:14Z",
+      "primary_item": {
+        "id": "68ed34dacae98eecce09de3268c363b29fa628fa",
+        "title": "人工智能安全",
+        "url": "https://zh.wikipedia.org/w/index.php?title=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8&diff=93637398&oldid=93606418",
+        "source": "Wikipedia的Atom feed",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_37817da98fa3",
+      "title": "今晚的X平台不眠。 继黄仁勋突然开了X，为开源模型撑腰之后，Elon Musk、微软CEO、OpenAI CEO、Meta CEO等硅谷大佬纷纷转发老黄的X为开源撑腰。 可以想象，老黄破天荒…",
+      "url": "https://t.me/jike_collection/11858",
+      "primary_url": "https://t.me/jike_collection/11858",
+      "source": "精选即刻App热门话题更新",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "bb6177f63031d0b664589d8f9dce299a3a58d3d0",
+          "title": "今晚的X平台不眠。 继黄仁勋突然开了X，为开源模型撑腰之后，Elon Musk、微软CEO、OpenAI CEO、Meta CEO等硅谷大佬纷纷转发老黄的X为开源撑腰。 可以想象，老黄破天荒…",
+          "url": "https://t.me/jike_collection/11858",
+          "source": "精选即刻App热门话题更新",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T01:21:26Z"
+        },
+        {
+          "id": "458c6fa5b10e9436edca6ebacfc972eba0df46d4",
+          "title": "今晚的X平台不眠。 继黄仁勋突然开了X，为开源模型撑腰之后，Elon Musk、微软CEO、OpenAI CEO、Meta CEO等硅谷大佬纷纷转发老黄的X为开源撑腰。 可以想象，老黄破天荒…",
+          "url": "https://m.okjike.com/originalPosts/6a63d4b554aae0885ee5afe0",
+          "source": "AI探索站 - 即刻圈子",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T21:10:13.942000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AI探索站 - 即刻圈子",
+        "精选即刻App热门话题更新"
+      ],
+      "items": [
+        {
+          "id": "bb6177f63031d0b664589d8f9dce299a3a58d3d0",
+          "title": "今晚的X平台不眠。 继黄仁勋突然开了X，为开源模型撑腰之后，Elon Musk、微软CEO、OpenAI CEO、Meta CEO等硅谷大佬纷纷转发老黄的X为开源撑腰。 可以想象，老黄破天荒…",
+          "url": "https://t.me/jike_collection/11858",
+          "source": "精选即刻App热门话题更新",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T01:21:26Z"
+        },
+        {
+          "id": "458c6fa5b10e9436edca6ebacfc972eba0df46d4",
+          "title": "今晚的X平台不眠。 继黄仁勋突然开了X，为开源模型撑腰之后，Elon Musk、微软CEO、OpenAI CEO、Meta CEO等硅谷大佬纷纷转发老黄的X为开源撑腰。 可以想象，老黄破天荒…",
+          "url": "https://m.okjike.com/originalPosts/6a63d4b554aae0885ee5afe0",
+          "source": "AI探索站 - 即刻圈子",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T21:10:13.942000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6316,
+      "importance": 0.6316,
+      "importance_score": 0.6316,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.74,
+        "recency": 0.9228,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T21:10:13.942000Z",
+      "latest_at": "2026-07-25T01:21:26Z",
+      "primary_item": {
+        "id": "bb6177f63031d0b664589d8f9dce299a3a58d3d0",
+        "title": "今晚的X平台不眠。 继黄仁勋突然开了X，为开源模型撑腰之后，Elon Musk、微软CEO、OpenAI CEO、Meta CEO等硅谷大佬纷纷转发老黄的X为开源撑腰。 可以想象，老黄破天荒…",
+        "url": "https://t.me/jike_collection/11858",
+        "source": "精选即刻App热门话题更新",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_893f10f6314a",
+      "title": "BlueSkyXN推出Coze-all-in-one-HFS / BlueSkyXN pushed Coze-all-in-one-HFS",
+      "url": "https://github.com/BlueSkyXN/Coze-all-in-one-HFS/compare/3132ed3b87...2bf3b14050",
+      "primary_url": "https://github.com/BlueSkyXN/Coze-all-in-one-HFS/compare/3132ed3b87...2bf3b14050",
+      "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "b24c2d1fcee00c2e930b32d616d308481fe56d8b",
+          "title": "BlueSkyXN推出Coze-all-in-one-HFS / BlueSkyXN pushed Coze-all-in-one-HFS",
+          "url": "https://github.com/BlueSkyXN/Coze-all-in-one-HFS/compare/3132ed3b87...2bf3b14050",
+          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T03:15:20Z"
+        },
+        {
+          "id": "c12c9ae353f50565f481784c2aa24d0b7efaf2a4",
+          "title": "BlueSkyXN 推出 Dify-all-in-one-HFS / BlueSkyXN pushed Dify-all-in-one-HFS",
+          "url": "https://github.com/BlueSkyXN/Dify-all-in-one-HFS/compare/0c015dbadb...1d5ce9343e",
+          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T02:44:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力"
+      ],
+      "items": [
+        {
+          "id": "b24c2d1fcee00c2e930b32d616d308481fe56d8b",
+          "title": "BlueSkyXN推出Coze-all-in-one-HFS / BlueSkyXN pushed Coze-all-in-one-HFS",
+          "url": "https://github.com/BlueSkyXN/Coze-all-in-one-HFS/compare/3132ed3b87...2bf3b14050",
+          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T03:15:20Z"
+        },
+        {
+          "id": "c12c9ae353f50565f481784c2aa24d0b7efaf2a4",
+          "title": "BlueSkyXN 推出 Dify-all-in-one-HFS / BlueSkyXN pushed Dify-all-in-one-HFS",
+          "url": "https://github.com/BlueSkyXN/Dify-all-in-one-HFS/compare/0c015dbadb...1d5ce9343e",
+          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T02:44:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.626,
+      "importance": 0.626,
+      "importance_score": 0.626,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T02:44:23Z",
+      "latest_at": "2026-07-25T03:15:20Z",
+      "primary_item": {
+        "id": "b24c2d1fcee00c2e930b32d616d308481fe56d8b",
+        "title": "BlueSkyXN推出Coze-all-in-one-HFS / BlueSkyXN pushed Coze-all-in-one-HFS",
+        "url": "https://github.com/BlueSkyXN/Coze-all-in-one-HFS/compare/3132ed3b87...2bf3b14050",
+        "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_26d3b59ffa89",
+      "title": "Madeye 推送了 Shadowsocks-ohos / madeye pushed shadowsocks-ohos",
+      "url": "https://github.com/shadowsocks/shadowsocks-ohos/compare/610da66873...1ae993b668",
+      "primary_url": "https://github.com/shadowsocks/shadowsocks-ohos/compare/610da66873...1ae993b668",
+      "source": "madeye|AI暴露度CN/clash",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "ed00d5bddc0ec54381e19f48b7ac9d7874e0ed41",
+          "title": "Madeye 推送了 Shadowsocks-ohos / madeye pushed shadowsocks-ohos",
+          "url": "https://github.com/shadowsocks/shadowsocks-ohos/compare/610da66873...1ae993b668",
+          "source": "madeye|AI暴露度CN/clash",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T02:13:50Z"
+        },
+        {
+          "id": "de48e4a057fa358ea7c7b06af42998eae0a9925a",
+          "title": "Madeye 推送了 Shadowsocks-ohos / madeye pushed shadowsocks-ohos",
+          "url": "https://github.com/shadowsocks/shadowsocks-ohos/compare/03ca618a92...5a18b2d619",
+          "source": "madeye|AI暴露度CN/clash",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T00:16:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "madeye|AI暴露度CN/clash"
+      ],
+      "items": [
+        {
+          "id": "ed00d5bddc0ec54381e19f48b7ac9d7874e0ed41",
+          "title": "Madeye 推送了 Shadowsocks-ohos / madeye pushed shadowsocks-ohos",
+          "url": "https://github.com/shadowsocks/shadowsocks-ohos/compare/610da66873...1ae993b668",
+          "source": "madeye|AI暴露度CN/clash",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T02:13:50Z"
+        },
+        {
+          "id": "de48e4a057fa358ea7c7b06af42998eae0a9925a",
+          "title": "Madeye 推送了 Shadowsocks-ohos / madeye pushed shadowsocks-ohos",
+          "url": "https://github.com/shadowsocks/shadowsocks-ohos/compare/03ca618a92...5a18b2d619",
+          "source": "madeye|AI暴露度CN/clash",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T00:16:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6178,
+      "importance": 0.6178,
+      "importance_score": 0.6178,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9592,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T00:16:05Z",
+      "latest_at": "2026-07-25T02:13:50Z",
+      "primary_item": {
+        "id": "ed00d5bddc0ec54381e19f48b7ac9d7874e0ed41",
+        "title": "Madeye 推送了 Shadowsocks-ohos / madeye pushed shadowsocks-ohos",
+        "url": "https://github.com/shadowsocks/shadowsocks-ohos/compare/610da66873...1ae993b668",
+        "source": "madeye|AI暴露度CN/clash",
         "source_name": "OPML RSS"
       }
     },
@@ -1441,14 +1424,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6464,
-      "importance": 0.6464,
-      "importance_score": 0.6464,
+      "score": 0.6161,
+      "importance": 0.6161,
+      "importance_score": 0.6161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9821,
+        "recency": 0.8303,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,14 +1501,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6462,
-      "importance": 0.6462,
-      "importance_score": 0.6462,
+      "score": 0.6158,
+      "importance": 0.6158,
+      "importance_score": 0.6158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9808,
+        "recency": 0.829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1543,62 +1526,235 @@
       }
     },
     {
-      "story_id": "story_0b0a0e69a075",
-      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-      "url": "https://www.aibase.com/news/29881",
-      "primary_url": "https://www.aibase.com/news/29881",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_623700673134",
+      "title": "其人工智能代理花了好几天时间对一家公司进行黑客攻击，但消息人士称，OpenAI整整一周都没有察觉",
+      "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
+      "primary_url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
+      "source": "Buzzing|国外社交媒体热榜",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T13:54:03.968002Z"
+          "id": "8cf58c889f195a9900767a80eb2e05e531c0b6f0",
+          "title": "独家报道：其AI代理花了好几天时间对一家公司进行黑客攻击，但消息人士称OpenAI整整一周都没有察觉",
+          "url": "https://reut.rs/4fDP5bd",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:35:28.729000Z"
+        },
+        {
+          "id": "e8436d92b6a1e10b71950eaf8fc0b8fbb8890719",
+          "title": "其人工智能代理花了好几天时间对一家公司进行黑客攻击，但消息人士称，OpenAI整整一周都没有察觉",
+          "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:19:48.914000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Buzzing|国外社交媒体热榜"
       ],
       "items": [
         {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T13:54:03.968002Z"
+          "id": "8cf58c889f195a9900767a80eb2e05e531c0b6f0",
+          "title": "独家报道：其AI代理花了好几天时间对一家公司进行黑客攻击，但消息人士称OpenAI整整一周都没有察觉",
+          "url": "https://reut.rs/4fDP5bd",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:35:28.729000Z"
+        },
+        {
+          "id": "e8436d92b6a1e10b71950eaf8fc0b8fbb8890719",
+          "title": "其人工智能代理花了好几天时间对一家公司进行黑客攻击，但消息人士称，OpenAI整整一周都没有察觉",
+          "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:19:48.914000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6093,
+      "importance": 0.6093,
+      "importance_score": 0.6093,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5972,
-        "story_heat": 0.0
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.7966,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-24T13:54:03.968002Z",
-      "latest_at": "2026-07-24T13:54:03.968002Z",
+      "earliest_at": "2026-07-24T22:19:48.914000Z",
+      "latest_at": "2026-07-24T22:35:28.729000Z",
       "primary_item": {
-        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "url": "https://www.aibase.com/news/29881",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "e8436d92b6a1e10b71950eaf8fc0b8fbb8890719",
+        "title": "其人工智能代理花了好几天时间对一家公司进行黑客攻击，但消息人士称，OpenAI整整一周都没有察觉",
+        "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
+        "source": "Buzzing|国外社交媒体热榜",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_463db0690bce",
+      "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+      "url": "https://github.com/mudler/vllm.cpp/compare/9721e8488e...01cfd9b361",
+      "primary_url": "https://github.com/mudler/vllm.cpp/compare/9721e8488e...01cfd9b361",
+      "source": "mudler",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "25a481e37663f9d1a973d2ce47728a33001e9d9b",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/9721e8488e...01cfd9b361",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T23:41:00Z"
+        },
+        {
+          "id": "ed6290bbff60db162645d28711567fa564a7fbe7",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/262fc14ebc...732ece1637",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:04:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "mudler"
+      ],
+      "items": [
+        {
+          "id": "25a481e37663f9d1a973d2ce47728a33001e9d9b",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/9721e8488e...01cfd9b361",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T23:41:00Z"
+        },
+        {
+          "id": "ed6290bbff60db162645d28711567fa564a7fbe7",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/262fc14ebc...732ece1637",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:04:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6086,
+      "importance": 0.6086,
+      "importance_score": 0.6086,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.853,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T20:04:52Z",
+      "latest_at": "2026-07-24T23:41:00Z",
+      "primary_item": {
+        "id": "25a481e37663f9d1a973d2ce47728a33001e9d9b",
+        "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+        "url": "https://github.com/mudler/vllm.cpp/compare/9721e8488e...01cfd9b361",
+        "source": "mudler",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_a2e5b4dbb432",
+      "title": "OpenAI 发布 GPT-Red AI 模型，可自动查找提示注入漏洞",
+      "url": "https://www.gm7.org/archives/133287",
+      "primary_url": "https://www.gm7.org/archives/133287",
+      "source": "信息安全知识库 » Feed",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "e8dd74f6dc0e1d005b513741b75b60530f9bfa9c",
+          "title": "OpenAI 发布 GPT-Red AI 模型，可自动查找提示注入漏洞",
+          "url": "https://www.gm7.org/archives/133287",
+          "source": "信息安全知识库 » Feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:05:30Z"
+        },
+        {
+          "id": "c8fd7ea129ef88e4aed431137c27b01848145e0f",
+          "title": "OpenAI 发布 GPT-Red AI 模型，可自动查找提示注入漏洞",
+          "url": "https://cn-sec.com/archives/5361854.html",
+          "source": "CN-SEC|网络安全,存储安全技术文章,融合安全最新讯息",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T19:17:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "CN-SEC|网络安全,存储安全技术文章,融合安全最新讯息",
+        "信息安全知识库 » Feed"
+      ],
+      "items": [
+        {
+          "id": "e8dd74f6dc0e1d005b513741b75b60530f9bfa9c",
+          "title": "OpenAI 发布 GPT-Red AI 模型，可自动查找提示注入漏洞",
+          "url": "https://www.gm7.org/archives/133287",
+          "source": "信息安全知识库 » Feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T22:05:30Z"
+        },
+        {
+          "id": "c8fd7ea129ef88e4aed431137c27b01848145e0f",
+          "title": "OpenAI 发布 GPT-Red AI 模型，可自动查找提示注入漏洞",
+          "url": "https://cn-sec.com/archives/5361854.html",
+          "source": "CN-SEC|网络安全,存储安全技术文章,融合安全最新讯息",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T19:17:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6073,
+      "importance": 0.6073,
+      "importance_score": 0.6073,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.7867,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T19:17:23Z",
+      "latest_at": "2026-07-24T22:05:30Z",
+      "primary_item": {
+        "id": "e8dd74f6dc0e1d005b513741b75b60530f9bfa9c",
+        "title": "OpenAI 发布 GPT-Red AI 模型，可自动查找提示注入漏洞",
+        "url": "https://www.gm7.org/archives/133287",
+        "source": "信息安全知识库 » Feed",
+        "source_name": "OPML RSS"
       }
     }
   ]
