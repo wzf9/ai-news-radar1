@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-25T15:41:55.875007Z",
+  "generated_at": "2026-07-25T17:04:02.145783Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0142-21d1-87d2-fcf01fee26d0&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-0142-21d1-87d2-fcf01fee26d0&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0304-24d4-ae44-429fde6deabf&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-0304-24d4-ae44-429fde6deabf&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "7110793aca1bfd9151281a16d2b8987966e48ae3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0304-24d4-ae44-429fde6deabf&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "828de96ca4f6a3d0a49f9cadc3787e52f72380b4",
           "title": "点击这里进入 / Click here to enter",
@@ -93,12 +102,21 @@
           "published_at": null
         }
       ],
-      "source_count": 9,
+      "source_count": 10,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "7110793aca1bfd9151281a16d2b8987966e48ae3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0304-24d4-ae44-429fde6deabf&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "828de96ca4f6a3d0a49f9cadc3787e52f72380b4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0142-21d1-87d2-fcf01fee26d0&fp=-3",
@@ -180,8 +198,8 @@
           "published_at": null
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
+      "item_count": 10,
+      "duplicate_count": 10,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -199,23 +217,32 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-24T20:37:11.559691Z",
-      "latest_at": "2026-07-25T15:41:55.875007Z",
+      "latest_at": "2026-07-25T17:04:02.145783Z",
       "primary_item": {
-        "id": "828de96ca4f6a3d0a49f9cadc3787e52f72380b4",
+        "id": "7110793aca1bfd9151281a16d2b8987966e48ae3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0142-21d1-87d2-fcf01fee26d0&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0304-24d4-ae44-429fde6deabf&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
       "story_id": "story_59b729f4a9be",
-      "title": "Red Heat (1988) BDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Красная жара / Red Heat (1988) BDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
-      "url": "https://nnmclub.to/forum/viewtopic.php?t=1883396",
-      "primary_url": "https://nnmclub.to/forum/viewtopic.php?t=1883396",
+      "title": "Максим Лапа | Claude Code для чайников. Ваш ИИ-помощник Claude. От установки до первых проектов (2026) [PDF, EPUB, FB2]",
+      "url": "https://nnmclub.to/forum/viewtopic.php?t=1882599",
+      "primary_url": "https://nnmclub.to/forum/viewtopic.php?t=1882599",
       "source": "NNM-Club 俄罗斯分享软件等",
       "source_name": "OPML RSS",
       "sources": [
+        {
+          "id": "9a1e32998771cfc387870c9a81ba8e3bfad3d7bd",
+          "title": "Максим Лапа | Claude Code для чайников. Ваш ИИ-помощник Claude. От установки до первых проектов (2026) [PDF, EPUB, FB2]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1882599",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T16:20:38Z"
+        },
         {
           "id": "320456953f5bb2b50acb90b24d07b955a2539010",
           "title": "Red Heat (1988) BDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Красная жара / Red Heat (1988) BDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
@@ -278,15 +305,6 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-07-24T19:00:07Z"
-        },
-        {
-          "id": "9a1e32998771cfc387870c9a81ba8e3bfad3d7bd",
-          "title": "Максим Лапа | Claude Code для чайников. Ваш ИИ-помощник Claude. От установки до первых проектов (2026) [PDF, EPUB, FB2]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1882599",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T17:14:12Z"
         }
       ],
       "source_count": 8,
@@ -295,6 +313,15 @@
       ],
       "items": [
         {
+          "id": "9a1e32998771cfc387870c9a81ba8e3bfad3d7bd",
+          "title": "Максим Лапа | Claude Code для чайников. Ваш ИИ-помощник Claude. От установки до первых проектов (2026) [PDF, EPUB, FB2]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1882599",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T16:20:38Z"
+        },
+        {
           "id": "320456953f5bb2b50acb90b24d07b955a2539010",
           "title": "Red Heat (1988) BDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Красная жара / Red Heat (1988) BDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
           "url": "https://nnmclub.to/forum/viewtopic.php?t=1883396",
@@ -356,52 +383,61 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-07-24T19:00:07Z"
-        },
-        {
-          "id": "9a1e32998771cfc387870c9a81ba8e3bfad3d7bd",
-          "title": "Максим Лапа | Claude Code для чайников. Ваш ИИ-помощник Claude. От установки до первых проектов (2026) [PDF, EPUB, FB2]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1882599",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T17:14:12Z"
         }
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.7066,
-      "importance": 0.7066,
-      "importance_score": 0.7066,
+      "score": 0.716,
+      "importance": 0.716,
+      "importance_score": 0.716,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.9832,
+        "ai_relevance": 0.74,
+        "recency": 0.9699,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T17:14:12Z",
-      "latest_at": "2026-07-25T15:17:43Z",
+      "earliest_at": "2026-07-24T19:00:07Z",
+      "latest_at": "2026-07-25T16:20:38Z",
       "primary_item": {
-        "id": "320456953f5bb2b50acb90b24d07b955a2539010",
-        "title": "Red Heat (1988) BDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Красная жара / Red Heat (1988) BDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
-        "url": "https://nnmclub.to/forum/viewtopic.php?t=1883396",
+        "id": "9a1e32998771cfc387870c9a81ba8e3bfad3d7bd",
+        "title": "Максим Лапа | Claude Code для чайников. Ваш ИИ-помощник Claude. От установки до первых проектов (2026) [PDF, EPUB, FB2]",
+        "url": "https://nnmclub.to/forum/viewtopic.php?t=1882599",
         "source": "NNM-Club 俄罗斯分享软件等",
         "source_name": "OPML RSS"
       }
     },
     {
       "story_id": "story_a7c8f79afb47",
-      "title": "Gus Mueller 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Gus Mueller",
+      "title": "Bitsquirrel 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by bitsquirrel",
       "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
       "primary_url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
       "source": "Hackaday » Comments",
       "source_name": "OPML RSS",
       "sources": [
         {
+          "id": "37dc2f7a7740e6efb703a378a5ff08c984f20b59",
+          "title": "Bitsquirrel 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by bitsquirrel",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T16:36:19Z"
+        },
+        {
+          "id": "7880ca4b8980bb8489debaa3b070dd070ff20be7",
+          "title": "Mark Topham 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Mark Topham",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T16:15:01Z"
+        },
+        {
           "id": "aa5e3c887e707f18f20cbb60dcad1dce59b8b12e",
           "title": "Gus Mueller 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Gus Mueller",
           "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
@@ -492,13 +528,31 @@
           "published_at": "2026-07-24T20:00:00Z"
         }
       ],
-      "source_count": 10,
+      "source_count": 12,
       "source_names": [
         "Hackaday",
         "Hackaday » Comments"
       ],
       "items": [
         {
+          "id": "37dc2f7a7740e6efb703a378a5ff08c984f20b59",
+          "title": "Bitsquirrel 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by bitsquirrel",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T16:36:19Z"
+        },
+        {
+          "id": "7880ca4b8980bb8489debaa3b070dd070ff20be7",
+          "title": "Mark Topham 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Mark Topham",
+          "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T16:15:01Z"
+        },
+        {
           "id": "aa5e3c887e707f18f20cbb60dcad1dce59b8b12e",
           "title": "Gus Mueller 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Gus Mueller",
           "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
@@ -589,16 +643,16 @@
           "published_at": "2026-07-24T20:00:00Z"
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.7003,
-      "importance": 0.7003,
-      "importance_score": 0.7003,
+      "item_count": 12,
+      "duplicate_count": 12,
+      "score": 0.7092,
+      "importance": 0.7092,
+      "importance_score": 0.7092,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9367,
+        "recency": 0.9808,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -606,12 +660,161 @@
         "multi_source"
       ],
       "earliest_at": "2026-07-24T20:00:00Z",
-      "latest_at": "2026-07-25T14:10:47Z",
+      "latest_at": "2026-07-25T16:36:19Z",
       "primary_item": {
-        "id": "aa5e3c887e707f18f20cbb60dcad1dce59b8b12e",
-        "title": "Gus Mueller 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by Gus Mueller",
+        "id": "37dc2f7a7740e6efb703a378a5ff08c984f20b59",
+        "title": "Bitsquirrel 对 Codeberg 禁止加密货币和 LLM 生成的代码项目的评论 / Comment on Codeberg Bans Cryptocurrency and LLM-Generated Code Projects by bitsquirrel",
         "url": "https://hackaday.com/2026/07/24/codeberg-bans-cryptocurrency-and-llm-generated-code-projects",
         "source": "Hackaday » Comments",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_c56b58e9d916",
+      "title": "第1556期 - 2026-07-26 00:02",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-26_0002",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-26_0002",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "f48b186631954acebdcf3da8c476a1dabdf40f02",
+          "title": "第1556期 - 2026-07-26 00:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-26_0002",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T16:02:09Z"
+        },
+        {
+          "id": "6bcbab0d0611ee5832fbbe45003dd1dc5a5f780e",
+          "title": "第1555期 - 2026-07-25 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T12:01:08Z"
+        },
+        {
+          "id": "770ea4391f15eb3784b899c97cca75786cf53960",
+          "title": "第1554期 - 2026-07-25 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T08:01:19Z"
+        },
+        {
+          "id": "acc0f6a4ce133a1eb5970ee7ff54fd939b3149a0",
+          "title": "第1553期 - 2026-07-25 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T04:01:07Z"
+        },
+        {
+          "id": "83933bfeae507f446ceceadc2153bb744b0d3173",
+          "title": "第1552期 - 2026-07-25 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T00:01:18Z"
+        },
+        {
+          "id": "73f81736c161e2558be6b05ea7993361af5851cb",
+          "title": "第1551期 - 2026-07-25 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:01:43Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "大黑AI速报"
+      ],
+      "items": [
+        {
+          "id": "f48b186631954acebdcf3da8c476a1dabdf40f02",
+          "title": "第1556期 - 2026-07-26 00:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-26_0002",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T16:02:09Z"
+        },
+        {
+          "id": "6bcbab0d0611ee5832fbbe45003dd1dc5a5f780e",
+          "title": "第1555期 - 2026-07-25 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T12:01:08Z"
+        },
+        {
+          "id": "770ea4391f15eb3784b899c97cca75786cf53960",
+          "title": "第1554期 - 2026-07-25 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T08:01:19Z"
+        },
+        {
+          "id": "acc0f6a4ce133a1eb5970ee7ff54fd939b3149a0",
+          "title": "第1553期 - 2026-07-25 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T04:01:07Z"
+        },
+        {
+          "id": "83933bfeae507f446ceceadc2153bb744b0d3173",
+          "title": "第1552期 - 2026-07-25 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T00:01:18Z"
+        },
+        {
+          "id": "73f81736c161e2558be6b05ea7993361af5851cb",
+          "title": "第1551期 - 2026-07-25 04:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0401",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T20:01:43Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6924,
+      "importance": 0.6924,
+      "importance_score": 0.6924,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.957,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T20:01:43Z",
+      "latest_at": "2026-07-25T16:02:09Z",
+      "primary_item": {
+        "id": "f48b186631954acebdcf3da8c476a1dabdf40f02",
+        "title": "第1556期 - 2026-07-26 00:02",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-26_0002",
+        "source": "大黑AI速报",
         "source_name": "OPML RSS"
       }
     },
@@ -801,14 +1004,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6717,
-      "importance": 0.6717,
-      "importance_score": 0.6717,
+      "score": 0.6603,
+      "importance": 0.6603,
+      "importance_score": 0.6603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.8085,
+        "recency": 0.7515,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -826,285 +1029,97 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "与 IT 总监 Thato Lehutso 一起带领人们了解 AI 现实 / Leading People Through AI Reality with IT Director, Thato Lehutso",
-      "url": "https://www.youtube.com/watch?v=i3RT8-2t07A",
-      "primary_url": "https://www.youtube.com/watch?v=i3RT8-2t07A",
-      "source": "数码 | 联想官方",
+      "story_id": "story_929a264dd155",
+      "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+      "url": "https://github.com/mudler/vllm.cpp/compare/463633dc09...0eed915b2b",
+      "primary_url": "https://github.com/mudler/vllm.cpp/compare/463633dc09...0eed915b2b",
+      "source": "mudler",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "3d1c1507f6f7b4e2cba1516411d937adc8686732",
-          "title": "与 IT 总监 Thato Lehutso 一起带领人们了解 AI 现实 / Leading People Through AI Reality with IT Director, Thato Lehutso",
-          "url": "https://www.youtube.com/watch?v=i3RT8-2t07A",
-          "source": "数码 | 联想官方",
+          "id": "02499c88a1b244aaaa5d402cae0d9aea8ccb697e",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/463633dc09...0eed915b2b",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T12:02:52Z"
+          "published_at": "2026-07-25T15:48:26Z"
         },
         {
-          "id": "bb9f1d5f65aaf5188a6335e6f4324446427a0d06",
-          "title": "关于开源人工智能的斗争、Anthropic 的 $1.5B 支出、纽约市社会主义者：驱逐 = 暴力？ / The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
-          "url": "https://www.youtube.com/watch?v=wcV0SRPFK9s",
-          "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+          "id": "878f459e6433977ef36d92d9ec5c6638e61fd23d",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/13375108d1...463633dc09",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T21:04:37Z"
+          "published_at": "2026-07-25T14:41:03Z"
         },
         {
-          "id": "f96e99df6762136488d1df0da2f90c7988551a44",
-          "title": "克劳德作品 5 摧毁了寓言 5 / Claude Opus 5 DESTROYS Fable 5",
-          "url": "https://www.youtube.com/watch?v=Vh1v2VSroes",
-          "source": "AlexFinn | AI测评",
+          "id": "72fe36c8c38fc4be029f502e52454e2b99e7a835",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/72f9fb1323...11575578c7",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T19:40:51Z"
-        },
-        {
-          "id": "f2855169e408afb0944fe2c9e30cda2a53c10154",
-          "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
-          "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T02:36:51Z"
-        },
-        {
-          "id": "277ba6e601b7b56ddfa99e9a7bab20a100809faf",
-          "title": "别吞下“黑色药丸” [视频] / Don't Take the Black Pill [video]",
-          "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T16:48:57Z"
+          "published_at": "2026-07-25T13:03:11Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
-        "AlexFinn | AI测评",
-        "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
-        "Hacker News · 24h最热",
-        "数码 | 联想官方"
+        "mudler"
       ],
       "items": [
         {
-          "id": "3d1c1507f6f7b4e2cba1516411d937adc8686732",
-          "title": "与 IT 总监 Thato Lehutso 一起带领人们了解 AI 现实 / Leading People Through AI Reality with IT Director, Thato Lehutso",
-          "url": "https://www.youtube.com/watch?v=i3RT8-2t07A",
-          "source": "数码 | 联想官方",
+          "id": "02499c88a1b244aaaa5d402cae0d9aea8ccb697e",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/463633dc09...0eed915b2b",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T12:02:52Z"
+          "published_at": "2026-07-25T15:48:26Z"
         },
         {
-          "id": "bb9f1d5f65aaf5188a6335e6f4324446427a0d06",
-          "title": "关于开源人工智能的斗争、Anthropic 的 $1.5B 支出、纽约市社会主义者：驱逐 = 暴力？ / The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
-          "url": "https://www.youtube.com/watch?v=wcV0SRPFK9s",
-          "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+          "id": "878f459e6433977ef36d92d9ec5c6638e61fd23d",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/13375108d1...463633dc09",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T21:04:37Z"
+          "published_at": "2026-07-25T14:41:03Z"
         },
         {
-          "id": "f96e99df6762136488d1df0da2f90c7988551a44",
-          "title": "克劳德作品 5 摧毁了寓言 5 / Claude Opus 5 DESTROYS Fable 5",
-          "url": "https://www.youtube.com/watch?v=Vh1v2VSroes",
-          "source": "AlexFinn | AI测评",
+          "id": "72fe36c8c38fc4be029f502e52454e2b99e7a835",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/72f9fb1323...11575578c7",
+          "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-24T19:40:51Z"
-        },
-        {
-          "id": "f2855169e408afb0944fe2c9e30cda2a53c10154",
-          "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
-          "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T02:36:51Z"
-        },
-        {
-          "id": "277ba6e601b7b56ddfa99e9a7bab20a100809faf",
-          "title": "别吞下“黑色药丸” [视频] / Don't Take the Black Pill [video]",
-          "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T16:48:57Z"
+          "published_at": "2026-07-25T13:03:11Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6706,
-      "importance": 0.6706,
-      "importance_score": 0.6706,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6525,
+      "importance": 0.6525,
+      "importance_score": 0.6525,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8479,
-        "story_heat": 1.0
+        "ai_relevance": 0.71,
+        "recency": 0.9475,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T16:48:57Z",
-      "latest_at": "2026-07-25T12:02:52Z",
+      "earliest_at": "2026-07-25T13:03:11Z",
+      "latest_at": "2026-07-25T15:48:26Z",
       "primary_item": {
-        "id": "3d1c1507f6f7b4e2cba1516411d937adc8686732",
-        "title": "与 IT 总监 Thato Lehutso 一起带领人们了解 AI 现实 / Leading People Through AI Reality with IT Director, Thato Lehutso",
-        "url": "https://www.youtube.com/watch?v=i3RT8-2t07A",
-        "source": "数码 | 联想官方",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_c56b58e9d916",
-      "title": "第1555期 - 2026-07-25 20:01",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_2001",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_2001",
-      "source": "大黑AI速报",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "6bcbab0d0611ee5832fbbe45003dd1dc5a5f780e",
-          "title": "第1555期 - 2026-07-25 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T12:01:08Z"
-        },
-        {
-          "id": "770ea4391f15eb3784b899c97cca75786cf53960",
-          "title": "第1554期 - 2026-07-25 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T08:01:19Z"
-        },
-        {
-          "id": "acc0f6a4ce133a1eb5970ee7ff54fd939b3149a0",
-          "title": "第1553期 - 2026-07-25 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T04:01:07Z"
-        },
-        {
-          "id": "83933bfeae507f446ceceadc2153bb744b0d3173",
-          "title": "第1552期 - 2026-07-25 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T00:01:18Z"
-        },
-        {
-          "id": "73f81736c161e2558be6b05ea7993361af5851cb",
-          "title": "第1551期 - 2026-07-25 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T20:01:43Z"
-        },
-        {
-          "id": "f94194c4854102dfe8616c8bec70e6c3eb43b45b",
-          "title": "第1550期 - 2026-07-25 00:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T16:01:11Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "大黑AI速报"
-      ],
-      "items": [
-        {
-          "id": "6bcbab0d0611ee5832fbbe45003dd1dc5a5f780e",
-          "title": "第1555期 - 2026-07-25 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T12:01:08Z"
-        },
-        {
-          "id": "770ea4391f15eb3784b899c97cca75786cf53960",
-          "title": "第1554期 - 2026-07-25 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T08:01:19Z"
-        },
-        {
-          "id": "acc0f6a4ce133a1eb5970ee7ff54fd939b3149a0",
-          "title": "第1553期 - 2026-07-25 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T04:01:07Z"
-        },
-        {
-          "id": "83933bfeae507f446ceceadc2153bb744b0d3173",
-          "title": "第1552期 - 2026-07-25 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0801",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T00:01:18Z"
-        },
-        {
-          "id": "73f81736c161e2558be6b05ea7993361af5851cb",
-          "title": "第1551期 - 2026-07-25 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T20:01:43Z"
-        },
-        {
-          "id": "f94194c4854102dfe8616c8bec70e6c3eb43b45b",
-          "title": "第1550期 - 2026-07-25 00:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_0001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T16:01:11Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6703,
-      "importance": 0.6703,
-      "importance_score": 0.6703,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8467,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T16:01:11Z",
-      "latest_at": "2026-07-25T12:01:08Z",
-      "primary_item": {
-        "id": "6bcbab0d0611ee5832fbbe45003dd1dc5a5f780e",
-        "title": "第1555期 - 2026-07-25 20:01",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-07-25_2001",
-        "source": "大黑AI速报",
+        "id": "02499c88a1b244aaaa5d402cae0d9aea8ccb697e",
+        "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+        "url": "https://github.com/mudler/vllm.cpp/compare/463633dc09...0eed915b2b",
+        "source": "mudler",
         "source_name": "OPML RSS"
       }
     },
@@ -1215,14 +1230,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6568,
-      "importance": 0.6568,
-      "importance_score": 0.6568,
+      "score": 0.6454,
+      "importance": 0.6454,
+      "importance_score": 0.6454,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7188,
+        "recency": 0.6618,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1237,6 +1252,85 @@
         "url": "https://fishc.com.cn/forum.php?mod=viewthread&tid=260296",
         "source": "鱼C论坛 - 导读 - 最新发表",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_f92768603c53",
+      "title": "Anthropic 发布 Claude Opus 5",
+      "url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
+      "primary_url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "40a9ca72d773e2f295edcdf7eb1f7f577c92cea8",
+          "title": "Anthropic 发布 Claude Opus 5",
+          "url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:24:25Z"
+        },
+        {
+          "id": "b807f845a33959d44b9f6b8d93cd606f94604b12",
+          "title": "Anthropic 正式发布 Claude Opus 5",
+          "url": "https://t.me/nodeseekc/811613",
+          "source": "NodeSeek | 主机服务器社区",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T23:08:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "NodeSeek | 主机服务器社区"
+      ],
+      "items": [
+        {
+          "id": "40a9ca72d773e2f295edcdf7eb1f7f577c92cea8",
+          "title": "Anthropic 发布 Claude Opus 5",
+          "url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:24:25Z"
+        },
+        {
+          "id": "b807f845a33959d44b9f6b8d93cd606f94604b12",
+          "title": "Anthropic 正式发布 Claude Opus 5",
+          "url": "https://t.me/nodeseekc/811613",
+          "source": "NodeSeek | 主机服务器社区",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T23:08:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6398,
+      "importance": 0.6398,
+      "importance_score": 0.6398,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.0142,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T17:24:25Z",
+      "latest_at": "2026-07-24T23:08:20Z",
+      "primary_item": {
+        "id": "40a9ca72d773e2f295edcdf7eb1f7f577c92cea8",
+        "title": "Anthropic 发布 Claude Opus 5",
+        "url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1310,14 +1404,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6474,
-      "importance": 0.6474,
-      "importance_score": 0.6474,
+      "score": 0.636,
+      "importance": 0.636,
+      "importance_score": 0.636,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9819,
+        "recency": 0.9248,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1335,234 +1429,274 @@
       }
     },
     {
-      "story_id": "story_7d6013c77cae",
-      "title": "CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
-      "url": "https://www.cocoloop.cn/t/topic/12694",
-      "primary_url": "https://www.cocoloop.cn/t/topic/12694",
-      "source": "CocoLoop AI社区 - 最新话题",
+      "story_id": "story_774f7412d1a3",
+      "title": "与 IT 总监 Thato Lehutso 一起带领人们了解 AI 现实 / Leading People Through AI Reality with IT Director, Thato Lehutso",
+      "url": "https://www.youtube.com/watch?v=i3RT8-2t07A",
+      "primary_url": "https://www.youtube.com/watch?v=i3RT8-2t07A",
+      "source": "数码 | 联想官方",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "2c0ce8642a1c8ec7744be37feba0732f6e869908",
-          "title": "CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
-          "url": "https://www.cocoloop.cn/t/topic/12694",
-          "source": "CocoLoop AI社区 - 最新话题",
+          "id": "3d1c1507f6f7b4e2cba1516411d937adc8686732",
+          "title": "与 IT 总监 Thato Lehutso 一起带领人们了解 AI 现实 / Leading People Through AI Reality with IT Director, Thato Lehutso",
+          "url": "https://www.youtube.com/watch?v=i3RT8-2t07A",
+          "source": "数码 | 联想官方",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T15:28:40Z"
+          "published_at": "2026-07-25T12:02:52Z"
         },
         {
-          "id": "d48cd6cb0884f42414cf5aca4d17a421328de2cd",
-          "title": "[程序员] CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
-          "url": "https://www.v2ex.com/t/1229795",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T14:42:36Z"
+          "id": "bb9f1d5f65aaf5188a6335e6f4324446427a0d06",
+          "title": "关于开源人工智能的斗争、Anthropic 的 $1.5B 支出、纽约市社会主义者：驱逐 = 暴力？ / The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "https://www.youtube.com/watch?v=wcV0SRPFK9s",
+          "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T21:04:37Z"
+        },
+        {
+          "id": "f96e99df6762136488d1df0da2f90c7988551a44",
+          "title": "克劳德作品 5 摧毁了寓言 5 / Claude Opus 5 DESTROYS Fable 5",
+          "url": "https://www.youtube.com/watch?v=Vh1v2VSroes",
+          "source": "AlexFinn | AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T19:40:51Z"
+        },
+        {
+          "id": "f2855169e408afb0944fe2c9e30cda2a53c10154",
+          "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
+          "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T02:36:51Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
-        "CocoLoop AI社区 - 最新话题",
-        "V2EX (创意工作者社区)"
+        "AlexFinn | AI测评",
+        "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+        "Hacker News · 24h最热",
+        "数码 | 联想官方"
       ],
       "items": [
         {
-          "id": "2c0ce8642a1c8ec7744be37feba0732f6e869908",
-          "title": "CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
-          "url": "https://www.cocoloop.cn/t/topic/12694",
-          "source": "CocoLoop AI社区 - 最新话题",
+          "id": "3d1c1507f6f7b4e2cba1516411d937adc8686732",
+          "title": "与 IT 总监 Thato Lehutso 一起带领人们了解 AI 现实 / Leading People Through AI Reality with IT Director, Thato Lehutso",
+          "url": "https://www.youtube.com/watch?v=i3RT8-2t07A",
+          "source": "数码 | 联想官方",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T15:28:40Z"
+          "published_at": "2026-07-25T12:02:52Z"
         },
         {
-          "id": "d48cd6cb0884f42414cf5aca4d17a421328de2cd",
-          "title": "[程序员] CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
-          "url": "https://www.v2ex.com/t/1229795",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T14:42:36Z"
+          "id": "bb9f1d5f65aaf5188a6335e6f4324446427a0d06",
+          "title": "关于开源人工智能的斗争、Anthropic 的 $1.5B 支出、纽约市社会主义者：驱逐 = 暴力？ / The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+          "url": "https://www.youtube.com/watch?v=wcV0SRPFK9s",
+          "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T21:04:37Z"
+        },
+        {
+          "id": "f96e99df6762136488d1df0da2f90c7988551a44",
+          "title": "克劳德作品 5 摧毁了寓言 5 / Claude Opus 5 DESTROYS Fable 5",
+          "url": "https://www.youtube.com/watch?v=Vh1v2VSroes",
+          "source": "AlexFinn | AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-24T19:40:51Z"
+        },
+        {
+          "id": "f2855169e408afb0944fe2c9e30cda2a53c10154",
+          "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
+          "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T02:36:51Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6362,
-      "importance": 0.6362,
-      "importance_score": 0.6362,
-      "importance_label": "值得关注",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6342,
+      "importance": 0.6342,
+      "importance_score": 0.6342,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9908,
-        "story_heat": 0.25
+        "ai_relevance": 0.67,
+        "recency": 0.7909,
+        "story_heat": 0.75
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T14:42:36Z",
-      "latest_at": "2026-07-25T15:28:40Z",
+      "earliest_at": "2026-07-24T19:40:51Z",
+      "latest_at": "2026-07-25T12:02:52Z",
       "primary_item": {
-        "id": "2c0ce8642a1c8ec7744be37feba0732f6e869908",
-        "title": "CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
-        "url": "https://www.cocoloop.cn/t/topic/12694",
-        "source": "CocoLoop AI社区 - 最新话题",
+        "id": "3d1c1507f6f7b4e2cba1516411d937adc8686732",
+        "title": "与 IT 总监 Thato Lehutso 一起带领人们了解 AI 现实 / Leading People Through AI Reality with IT Director, Thato Lehutso",
+        "url": "https://www.youtube.com/watch?v=i3RT8-2t07A",
+        "source": "数码 | 联想官方",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_929a264dd155",
-      "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-      "url": "https://github.com/mudler/vllm.cpp/compare/13375108d1...463633dc09",
-      "primary_url": "https://github.com/mudler/vllm.cpp/compare/13375108d1...463633dc09",
-      "source": "mudler",
+      "story_id": "story_10e81be27811",
+      "title": "一般性决议：Debian 中 LLM 的使用",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "Buzzing|国外社交媒体热榜",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "878f459e6433977ef36d92d9ec5c6638e61fd23d",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/13375108d1...463633dc09",
-          "source": "mudler",
+          "id": "e2fe1e18fdf64ce4cf815a82e2841a0a32566038",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Buzzing|国外社交媒体热榜",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T14:41:03Z"
+          "published_at": "2026-07-25T16:27:16.797000Z"
         },
         {
-          "id": "72fe36c8c38fc4be029f502e52454e2b99e7a835",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/72f9fb1323...11575578c7",
-          "source": "mudler",
+          "id": "e003e80d5c678e50779137557ecdc8dd30d1f3bc",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Lobsters 是一个专注于计算领域、以链接聚合和讨论为核心的社区，于2012年7月3日上线。该社区的管理员是彼得·巴特·哈金斯（网名“pushcx”），如有任何支持相关的问题，请联系他或其他版主。Lobsters 由约书亚·斯坦创建",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T13:03:11Z"
+          "published_at": "2026-07-25T16:10:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "mudler"
+        "Buzzing|国外社交媒体热榜",
+        "Lobsters 是一个专注于计算领域、以链接聚合和讨论为核心的社区，于2012年7月3日上线。该社区的管理员是彼得·巴特·哈金斯（网名“pushcx”），如有任何支持相关的问题，请联系他或其他版主。Lobsters 由约书亚·斯坦创建"
       ],
       "items": [
         {
-          "id": "878f459e6433977ef36d92d9ec5c6638e61fd23d",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/13375108d1...463633dc09",
-          "source": "mudler",
+          "id": "e2fe1e18fdf64ce4cf815a82e2841a0a32566038",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Buzzing|国外社交媒体热榜",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T14:41:03Z"
+          "published_at": "2026-07-25T16:27:16.797000Z"
         },
         {
-          "id": "72fe36c8c38fc4be029f502e52454e2b99e7a835",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/72f9fb1323...11575578c7",
-          "source": "mudler",
+          "id": "e003e80d5c678e50779137557ecdc8dd30d1f3bc",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Lobsters 是一个专注于计算领域、以链接聚合和讨论为核心的社区，于2012年7月3日上线。该社区的管理员是彼得·巴特·哈金斯（网名“pushcx”），如有任何支持相关的问题，请联系他或其他版主。Lobsters 由约书亚·斯坦创建",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T13:03:11Z"
+          "published_at": "2026-07-25T16:10:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6295,
-      "importance": 0.6295,
-      "importance_score": 0.6295,
+      "score": 0.6329,
+      "importance": 0.6329,
+      "importance_score": 0.6329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9577,
+        "recency": 0.9745,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T13:03:11Z",
-      "latest_at": "2026-07-25T14:41:03Z",
+      "earliest_at": "2026-07-25T16:10:47Z",
+      "latest_at": "2026-07-25T16:27:16.797000Z",
       "primary_item": {
-        "id": "878f459e6433977ef36d92d9ec5c6638e61fd23d",
-        "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-        "url": "https://github.com/mudler/vllm.cpp/compare/13375108d1...463633dc09",
-        "source": "mudler",
+        "id": "e2fe1e18fdf64ce4cf815a82e2841a0a32566038",
+        "title": "一般性决议：Debian 中 LLM 的使用",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "Buzzing|国外社交媒体热榜",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_af4d785efaed",
-      "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
-      "url": "https://github.com/xiaolai/claudepot-app/compare/c767f7c17d...e4b158863f",
-      "primary_url": "https://github.com/xiaolai/claudepot-app/compare/c767f7c17d...e4b158863f",
-      "source": "李笑来|投资人(区块链/定投)|终生成长者",
+      "story_id": "story_8312a3db817e",
+      "title": "【安全圈】新型 Dolphin X 恶意软件利用 AI 对高价值目标进行评分排名",
+      "url": "https://www.gm7.org/archives/133358",
+      "primary_url": "https://www.gm7.org/archives/133358",
+      "source": "信息安全知识库 » Feed",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "34be96044880596daf77ee88ded79151d472f847",
-          "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
-          "url": "https://github.com/xiaolai/claudepot-app/compare/c767f7c17d...e4b158863f",
-          "source": "李笑来|投资人(区块链/定投)|终生成长者",
+          "id": "9258eff30c144b2a1d99e3f5d99d59c3252a9e75",
+          "title": "【安全圈】新型 Dolphin X 恶意软件利用 AI 对高价值目标进行评分排名",
+          "url": "https://www.gm7.org/archives/133358",
+          "source": "信息安全知识库 » Feed",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T14:37:46Z"
+          "published_at": "2026-07-25T16:04:54Z"
         },
         {
-          "id": "f0656cefe68d0b15d21e88acedd9a7a8e47e543a",
-          "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
-          "url": "https://github.com/xiaolai/claudepot-app/compare/15c385054d...c767f7c17d",
-          "source": "李笑来|投资人(区块链/定投)|终生成长者",
+          "id": "70b276bf6c0660b78dc863bd935bf8ceb52f4597",
+          "title": "【安全圈】新型 Dolphin X 恶意软件利用 AI 对高价值目标进行评分排名",
+          "url": "https://f5.pm/go-430875.html",
+          "source": "unSafe.sh - 不安全",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T09:14:01Z"
+          "published_at": "2026-07-25T11:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "李笑来|投资人(区块链/定投)|终生成长者"
+        "unSafe.sh - 不安全",
+        "信息安全知识库 » Feed"
       ],
       "items": [
         {
-          "id": "34be96044880596daf77ee88ded79151d472f847",
-          "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
-          "url": "https://github.com/xiaolai/claudepot-app/compare/c767f7c17d...e4b158863f",
-          "source": "李笑来|投资人(区块链/定投)|终生成长者",
+          "id": "9258eff30c144b2a1d99e3f5d99d59c3252a9e75",
+          "title": "【安全圈】新型 Dolphin X 恶意软件利用 AI 对高价值目标进行评分排名",
+          "url": "https://www.gm7.org/archives/133358",
+          "source": "信息安全知识库 » Feed",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T14:37:46Z"
+          "published_at": "2026-07-25T16:04:54Z"
         },
         {
-          "id": "f0656cefe68d0b15d21e88acedd9a7a8e47e543a",
-          "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
-          "url": "https://github.com/xiaolai/claudepot-app/compare/15c385054d...c767f7c17d",
-          "source": "李笑来|投资人(区块链/定投)|终生成长者",
+          "id": "70b276bf6c0660b78dc863bd935bf8ceb52f4597",
+          "title": "【安全圈】新型 Dolphin X 恶意软件利用 AI 对高价值目标进行评分排名",
+          "url": "https://f5.pm/go-430875.html",
+          "source": "unSafe.sh - 不安全",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-25T09:14:01Z"
+          "published_at": "2026-07-25T11:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6291,
-      "importance": 0.6291,
-      "importance_score": 0.6291,
+      "score": 0.6268,
+      "importance": 0.6268,
+      "importance_score": 0.6268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9554,
+        "ai_relevance": 0.7,
+        "recency": 0.9589,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T09:14:01Z",
-      "latest_at": "2026-07-25T14:37:46Z",
+      "earliest_at": "2026-07-25T11:00:00Z",
+      "latest_at": "2026-07-25T16:04:54Z",
       "primary_item": {
-        "id": "34be96044880596daf77ee88ded79151d472f847",
-        "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
-        "url": "https://github.com/xiaolai/claudepot-app/compare/c767f7c17d...e4b158863f",
-        "source": "李笑来|投资人(区块链/定投)|终生成长者",
+        "id": "9258eff30c144b2a1d99e3f5d99d59c3252a9e75",
+        "title": "【安全圈】新型 Dolphin X 恶意软件利用 AI 对高价值目标进行评分排名",
+        "url": "https://www.gm7.org/archives/133358",
+        "source": "信息安全知识库 » Feed",
         "source_name": "OPML RSS"
       }
     },
@@ -1645,6 +1779,317 @@
       }
     },
     {
+      "story_id": "story_7d6013c77cae",
+      "title": "CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
+      "url": "https://www.cocoloop.cn/t/topic/12694",
+      "primary_url": "https://www.cocoloop.cn/t/topic/12694",
+      "source": "CocoLoop AI社区 - 最新话题",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "2c0ce8642a1c8ec7744be37feba0732f6e869908",
+          "title": "CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
+          "url": "https://www.cocoloop.cn/t/topic/12694",
+          "source": "CocoLoop AI社区 - 最新话题",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T15:28:40Z"
+        },
+        {
+          "id": "d48cd6cb0884f42414cf5aca4d17a421328de2cd",
+          "title": "[程序员] CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
+          "url": "https://www.v2ex.com/t/1229795",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T14:42:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "CocoLoop AI社区 - 最新话题",
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "2c0ce8642a1c8ec7744be37feba0732f6e869908",
+          "title": "CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
+          "url": "https://www.cocoloop.cn/t/topic/12694",
+          "source": "CocoLoop AI社区 - 最新话题",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T15:28:40Z"
+        },
+        {
+          "id": "d48cd6cb0884f42414cf5aca4d17a421328de2cd",
+          "title": "[程序员] CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
+          "url": "https://www.v2ex.com/t/1229795",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T14:42:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6248,
+      "importance": 0.6248,
+      "importance_score": 0.6248,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9338,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T14:42:36Z",
+      "latest_at": "2026-07-25T15:28:40Z",
+      "primary_item": {
+        "id": "2c0ce8642a1c8ec7744be37feba0732f6e869908",
+        "title": "CLI、MCP、Skills 同时在场 —— 从 8 个 Agent 源码看到的",
+        "url": "https://www.cocoloop.cn/t/topic/12694",
+        "source": "CocoLoop AI社区 - 最新话题",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_af4d785efaed",
+      "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
+      "url": "https://github.com/xiaolai/claudepot-app/compare/c767f7c17d...e4b158863f",
+      "primary_url": "https://github.com/xiaolai/claudepot-app/compare/c767f7c17d...e4b158863f",
+      "source": "李笑来|投资人(区块链/定投)|终生成长者",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "34be96044880596daf77ee88ded79151d472f847",
+          "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
+          "url": "https://github.com/xiaolai/claudepot-app/compare/c767f7c17d...e4b158863f",
+          "source": "李笑来|投资人(区块链/定投)|终生成长者",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T14:37:46Z"
+        },
+        {
+          "id": "f0656cefe68d0b15d21e88acedd9a7a8e47e543a",
+          "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
+          "url": "https://github.com/xiaolai/claudepot-app/compare/15c385054d...c767f7c17d",
+          "source": "李笑来|投资人(区块链/定投)|终生成长者",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T09:14:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "李笑来|投资人(区块链/定投)|终生成长者"
+      ],
+      "items": [
+        {
+          "id": "34be96044880596daf77ee88ded79151d472f847",
+          "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
+          "url": "https://github.com/xiaolai/claudepot-app/compare/c767f7c17d...e4b158863f",
+          "source": "李笑来|投资人(区块链/定投)|终生成长者",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T14:37:46Z"
+        },
+        {
+          "id": "f0656cefe68d0b15d21e88acedd9a7a8e47e543a",
+          "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
+          "url": "https://github.com/xiaolai/claudepot-app/compare/15c385054d...c767f7c17d",
+          "source": "李笑来|投资人(区块链/定投)|终生成长者",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T09:14:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6177,
+      "importance": 0.6177,
+      "importance_score": 0.6177,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.8984,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T09:14:01Z",
+      "latest_at": "2026-07-25T14:37:46Z",
+      "primary_item": {
+        "id": "34be96044880596daf77ee88ded79151d472f847",
+        "title": "小来推送claudepot-app / xiaolai pushed claudepot-app",
+        "url": "https://github.com/xiaolai/claudepot-app/compare/c767f7c17d...e4b158863f",
+        "source": "李笑来|投资人(区块链/定投)|终生成长者",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_8d770482be1f",
+      "title": "Nero AI Video Upscaler Pro 1.3.20",
+      "url": "https://www.cybermania.ws/appz/nero-ai-video-upscaler-pro",
+      "primary_url": "https://www.cybermania.ws/appz/nero-ai-video-upscaler-pro",
+      "source": "CyberMania",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "ea7cc71223bbe26593067298d89f5f23c52ffb1f",
+          "title": "Nero AI Video Upscaler Pro 1.3.20",
+          "url": "https://www.cybermania.ws/appz/nero-ai-video-upscaler-pro",
+          "source": "CyberMania",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T16:00:38Z"
+        },
+        {
+          "id": "bff600b600d66b494a44205152a1d7ba0e19169f",
+          "title": "Nero AI Video Upscaler Pro v1.3.20.0",
+          "url": "https://apphot.cc/123404.html",
+          "source": "烈火汉化",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T14:50:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "CyberMania",
+        "烈火汉化"
+      ],
+      "items": [
+        {
+          "id": "ea7cc71223bbe26593067298d89f5f23c52ffb1f",
+          "title": "Nero AI Video Upscaler Pro 1.3.20",
+          "url": "https://www.cybermania.ws/appz/nero-ai-video-upscaler-pro",
+          "source": "CyberMania",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T16:00:38Z"
+        },
+        {
+          "id": "bff600b600d66b494a44205152a1d7ba0e19169f",
+          "title": "Nero AI Video Upscaler Pro v1.3.20.0",
+          "url": "https://apphot.cc/123404.html",
+          "source": "烈火汉化",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T14:50:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6172,
+      "importance": 0.6172,
+      "importance_score": 0.6172,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T14:50:57Z",
+      "latest_at": "2026-07-25T16:00:38Z",
+      "primary_item": {
+        "id": "ea7cc71223bbe26593067298d89f5f23c52ffb1f",
+        "title": "Nero AI Video Upscaler Pro 1.3.20",
+        "url": "https://www.cybermania.ws/appz/nero-ai-video-upscaler-pro",
+        "source": "CyberMania",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_2635b89b4413",
+      "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+      "primary_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+      "source": "Hacker News Digest",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "014104460ee5cc9ce413adf6f81a0c4b90d2e3d3",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T15:02:50.747480Z"
+        },
+        {
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T16:52:06.885000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News Digest",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "014104460ee5cc9ce413adf6f81a0c4b90d2e3d3",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-25T15:02:50.747480Z"
+        },
+        {
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T16:52:06.885000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6092,
+      "importance": 0.6092,
+      "importance_score": 0.6092,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9158,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T15:02:50.747480Z",
+      "latest_at": "2026-07-25T16:52:06.885000Z",
+      "primary_item": {
+        "id": "014104460ee5cc9ce413adf6f81a0c4b90d2e3d3",
+        "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+        "source": "Hacker News Digest",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
       "story_id": "story_a2bb8d6e1d87",
       "title": "autogame-17 推送 scribe-studio / autogame-17 pushed scribe-studio",
       "url": "https://github.com/autogame-17/scribe-studio/compare/e50db875c1...e714a676e0",
@@ -1697,14 +2142,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6204,
-      "importance": 0.6204,
-      "importance_score": 0.6204,
+      "score": 0.609,
+      "importance": 0.609,
+      "importance_score": 0.609,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9721,
+        "recency": 0.915,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1792,14 +2237,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6186,
-      "importance": 0.6186,
-      "importance_score": 0.6186,
+      "score": 0.6072,
+      "importance": 0.6072,
+      "importance_score": 0.6072,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8379,
+        "recency": 0.7809,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1813,410 +2258,6 @@
         "title": "MervinPraison 在 PraisonAIDocs 中关闭了一个问题 / MervinPraison closed an issue in PraisonAIDocs",
         "url": "https://github.com/MervinPraison/PraisonAIDocs/issues/2370",
         "source": "MervinPraison| 国外AI测评",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_64934dbed4f8",
-      "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "primary_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "source": "Hacker News Digest",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "a943ef8190fbc150571b181784e66c8393c1c7c3",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T14:43:35.267249Z"
-        },
-        {
-          "id": "e3b8de5c489313bf5143cf83bcfef93114f7a38b",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T13:14:51.753000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Hacker News Digest"
-      ],
-      "items": [
-        {
-          "id": "a943ef8190fbc150571b181784e66c8393c1c7c3",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T14:43:35.267249Z"
-        },
-        {
-          "id": "e3b8de5c489313bf5143cf83bcfef93114f7a38b",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T13:14:51.753000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6179,
-      "importance": 0.6179,
-      "importance_score": 0.6179,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9595,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T13:14:51.753000Z",
-      "latest_at": "2026-07-25T14:43:35.267249Z",
-      "primary_item": {
-        "id": "a943ef8190fbc150571b181784e66c8393c1c7c3",
-        "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-        "source": "Hacker News Digest",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_109ed934f40f",
-      "title": "光标始终以代理模式而不是 IDE 模式启动 / Cursor Always Starts in Agent Mode Instead of IDE Mode",
-      "url": "https://forum.cursor.com/t/cursor-always-starts-in-agent-mode-instead-of-ide-mode/165073?page=4",
-      "primary_url": "https://forum.cursor.com/t/cursor-always-starts-in-agent-mode-instead-of-ide-mode/165073?page=4",
-      "source": "Cursor| Latest posts",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "799aedf7d5d850517e01a784b20d1141e657e944",
-          "title": "光标始终以代理模式而不是 IDE 模式启动 / Cursor Always Starts in Agent Mode Instead of IDE Mode",
-          "url": "https://forum.cursor.com/t/cursor-always-starts-in-agent-mode-instead-of-ide-mode/165073?page=4",
-          "source": "Cursor| Latest posts",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T13:05:59Z"
-        },
-        {
-          "id": "c979bad4792ef71596ebe7681e0803bef532f70e",
-          "title": "光标始终以代理模式而不是 IDE 模式启动 / Cursor Always Starts in Agent Mode Instead of IDE Mode",
-          "url": "https://forum.cursor.com/t/cursor-always-starts-in-agent-mode-instead-of-ide-mode/165073?page=3",
-          "source": "Cursor| Latest posts",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T16:58:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Cursor| Latest posts"
-      ],
-      "items": [
-        {
-          "id": "799aedf7d5d850517e01a784b20d1141e657e944",
-          "title": "光标始终以代理模式而不是 IDE 模式启动 / Cursor Always Starts in Agent Mode Instead of IDE Mode",
-          "url": "https://forum.cursor.com/t/cursor-always-starts-in-agent-mode-instead-of-ide-mode/165073?page=4",
-          "source": "Cursor| Latest posts",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T13:05:59Z"
-        },
-        {
-          "id": "c979bad4792ef71596ebe7681e0803bef532f70e",
-          "title": "光标始终以代理模式而不是 IDE 模式启动 / Cursor Always Starts in Agent Mode Instead of IDE Mode",
-          "url": "https://forum.cursor.com/t/cursor-always-starts-in-agent-mode-instead-of-ide-mode/165073?page=3",
-          "source": "Cursor| Latest posts",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-24T16:58:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6163,
-      "importance": 0.6163,
-      "importance_score": 0.6163,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8917,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T16:58:50Z",
-      "latest_at": "2026-07-25T13:05:59Z",
-      "primary_item": {
-        "id": "799aedf7d5d850517e01a784b20d1141e657e944",
-        "title": "光标始终以代理模式而不是 IDE 模式启动 / Cursor Always Starts in Agent Mode Instead of IDE Mode",
-        "url": "https://forum.cursor.com/t/cursor-always-starts-in-agent-mode-instead-of-ide-mode/165073?page=4",
-        "source": "Cursor| Latest posts",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_eb70a7a002d1",
-      "title": "Chrome 注册 Gemini 弹窗全局快捷方式 / Chrome registers a global shortcut for Gemini popup window",
-      "url": "https://lobste.rs/c/fozgdv",
-      "primary_url": "https://lobste.rs/c/fozgdv",
-      "source": "Comments",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "027e832c651a38c8be13290ea318d2943e7ca7d1",
-          "title": "Chrome 注册 Gemini 弹窗全局快捷方式 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://lobste.rs/c/fozgdv",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T12:52:36Z"
-        },
-        {
-          "id": "723c85f95d19b2598d3869876a7e1e60a1ac79ac",
-          "title": "Chrome 注册 Gemini 弹窗全局快捷方式 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://lobste.rs/c/jnvpd7",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T10:56:30Z"
-        },
-        {
-          "id": "74b4d02ac6bc5e45bfbb03770d89753367b8fb93",
-          "title": "Chrome 注册 Gemini 弹窗全局快捷方式 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://lobste.rs/c/wagtyk",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T08:58:53Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Comments"
-      ],
-      "items": [
-        {
-          "id": "027e832c651a38c8be13290ea318d2943e7ca7d1",
-          "title": "Chrome 注册 Gemini 弹窗全局快捷方式 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://lobste.rs/c/fozgdv",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T12:52:36Z"
-        },
-        {
-          "id": "723c85f95d19b2598d3869876a7e1e60a1ac79ac",
-          "title": "Chrome 注册 Gemini 弹窗全局快捷方式 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://lobste.rs/c/jnvpd7",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T10:56:30Z"
-        },
-        {
-          "id": "74b4d02ac6bc5e45bfbb03770d89753367b8fb93",
-          "title": "Chrome 注册 Gemini 弹窗全局快捷方式 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://lobste.rs/c/wagtyk",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T08:58:53Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6395,
-      "importance": 0.6395,
-      "importance_score": 0.6395,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8824,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T08:58:53Z",
-      "latest_at": "2026-07-25T12:52:36Z",
-      "primary_item": {
-        "id": "027e832c651a38c8be13290ea318d2943e7ca7d1",
-        "title": "Chrome 注册 Gemini 弹窗全局快捷方式 / Chrome registers a global shortcut for Gemini popup window",
-        "url": "https://lobste.rs/c/fozgdv",
-        "source": "Comments",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_8b6fda3c4ccd",
-      "title": "DearVa 关闭了 Everywhere 中的一个问题 / DearVa closed an issue in Everywhere",
-      "url": "https://github.com/Sylinko/Everywhere/issues/452",
-      "primary_url": "https://github.com/Sylinko/Everywhere/issues/452",
-      "source": "DearVa|Everywhere无需截图AI助手",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "9c633784ed64ee5693a29308cee16c91984c215f",
-          "title": "DearVa 关闭了 Everywhere 中的一个问题 / DearVa closed an issue in Everywhere",
-          "url": "https://github.com/Sylinko/Everywhere/issues/452",
-          "source": "DearVa|Everywhere无需截图AI助手",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T13:25:57Z"
-        },
-        {
-          "id": "5ac9160beff02e3a029c3ccd8ae00003959ad064",
-          "title": "DearVa 在 Everywhere 中评论了一个问题 / DearVa commented on an issue in Everywhere",
-          "url": "https://github.com/Sylinko/Everywhere/issues/452",
-          "source": "DearVa|Everywhere无需截图AI助手",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T13:25:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "DearVa|Everywhere无需截图AI助手"
-      ],
-      "items": [
-        {
-          "id": "9c633784ed64ee5693a29308cee16c91984c215f",
-          "title": "DearVa 关闭了 Everywhere 中的一个问题 / DearVa closed an issue in Everywhere",
-          "url": "https://github.com/Sylinko/Everywhere/issues/452",
-          "source": "DearVa|Everywhere无需截图AI助手",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T13:25:57Z"
-        },
-        {
-          "id": "5ac9160beff02e3a029c3ccd8ae00003959ad064",
-          "title": "DearVa 在 Everywhere 中评论了一个问题 / DearVa commented on an issue in Everywhere",
-          "url": "https://github.com/Sylinko/Everywhere/issues/452",
-          "source": "DearVa|Everywhere无需截图AI助手",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T13:25:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6071,
-      "importance": 0.6071,
-      "importance_score": 0.6071,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9056,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T13:25:57Z",
-      "latest_at": "2026-07-25T13:25:57Z",
-      "primary_item": {
-        "id": "9c633784ed64ee5693a29308cee16c91984c215f",
-        "title": "DearVa 关闭了 Everywhere 中的一个问题 / DearVa closed an issue in Everywhere",
-        "url": "https://github.com/Sylinko/Everywhere/issues/452",
-        "source": "DearVa|Everywhere无需截图AI助手",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_6259e1de729a",
-      "title": "三星电子赢得价值2000亿美元的博通AI芯片合作项目，进一步推动其代工业务发展",
-      "url": "https://reut.rs/45okppu",
-      "primary_url": "https://reut.rs/45okppu",
-      "source": "Buzzing|国外社交媒体热榜",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "8b9a94adad6c565a78ab18b6530684ff70ee6f69",
-          "title": "三星电子赢得价值2000亿美元的博通AI芯片合作项目，进一步推动其代工业务发展",
-          "url": "https://reut.rs/45okppu",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T11:54:57.716000Z"
-        },
-        {
-          "id": "a0c225211daa0e60f0b7b3ead548067ba1521e6b",
-          "title": "三星电子赢得价值2000亿美元的博通AI芯片合作项目，助力其代工业务发展",
-          "url": "https://www.reuters.com/business/autos-transportation/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-2026-07-25",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T09:30:50.060000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Buzzing|国外社交媒体热榜"
-      ],
-      "items": [
-        {
-          "id": "8b9a94adad6c565a78ab18b6530684ff70ee6f69",
-          "title": "三星电子赢得价值2000亿美元的博通AI芯片合作项目，进一步推动其代工业务发展",
-          "url": "https://reut.rs/45okppu",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T11:54:57.716000Z"
-        },
-        {
-          "id": "a0c225211daa0e60f0b7b3ead548067ba1521e6b",
-          "title": "三星电子赢得价值2000亿美元的博通AI芯片合作项目，助力其代工业务发展",
-          "url": "https://www.reuters.com/business/autos-transportation/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-2026-07-25",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-25T09:30:50.060000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6035,
-      "importance": 0.6035,
-      "importance_score": 0.6035,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.8424,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T09:30:50.060000Z",
-      "latest_at": "2026-07-25T11:54:57.716000Z",
-      "primary_item": {
-        "id": "8b9a94adad6c565a78ab18b6530684ff70ee6f69",
-        "title": "三星电子赢得价值2000亿美元的博通AI芯片合作项目，进一步推动其代工业务发展",
-        "url": "https://reut.rs/45okppu",
-        "source": "Buzzing|国外社交媒体热榜",
         "source_name": "OPML RSS"
       }
     }
