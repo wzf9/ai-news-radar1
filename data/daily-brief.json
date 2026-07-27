@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-27T08:03:08.564289Z",
+  "generated_at": "2026-07-27T11:52:36.747569Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1803-3350-9ed1-d1fd0281eb72&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-1803-3350-9ed1-d1fd0281eb72&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-2152-5976-9f59-362c0f2ec760&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-2152-5976-9f59-362c0f2ec760&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4d526832748c09642063e074e80a94ea4d379631",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-2152-5976-9f59-362c0f2ec760&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "ccb2735ed703ede21758acf688d207dfc2f2ba3d",
           "title": "点击这里进入 / Click here to enter",
@@ -30,12 +39,21 @@
           "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "4d526832748c09642063e074e80a94ea4d379631",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-2152-5976-9f59-362c0f2ec760&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "ccb2735ed703ede21758acf688d207dfc2f2ba3d",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1803-3350-9ed1-d1fd0281eb72&fp=-3",
@@ -54,50 +72,50 @@
           "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-07-27T04:23:10.986459Z",
-      "latest_at": "2026-07-27T08:03:08.564289Z",
+      "latest_at": "2026-07-27T11:52:36.747569Z",
       "primary_item": {
-        "id": "ccb2735ed703ede21758acf688d207dfc2f2ba3d",
+        "id": "4d526832748c09642063e074e80a94ea4d379631",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1803-3350-9ed1-d1fd0281eb72&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-2152-5976-9f59-362c0f2ec760&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_c10baae1c2d7",
-      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-      "url": "https://www.aibase.com/news/29910",
-      "primary_url": "https://www.aibase.com/news/29910",
+      "story_id": "story_423e12490e7e",
+      "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+      "url": "https://www.aibase.com/news/29917",
+      "primary_url": "https://www.aibase.com/news/29917",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "url": "https://www.aibase.com/news/29910",
+          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "url": "https://www.aibase.com/news/29917",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "source_count": 1,
@@ -106,13 +124,13 @@
       ],
       "items": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "url": "https://www.aibase.com/news/29910",
+          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "url": "https://www.aibase.com/news/29917",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "item_count": 1,
@@ -132,32 +150,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T08:03:08.564289Z",
-      "latest_at": "2026-07-27T08:03:08.564289Z",
+      "earliest_at": "2026-07-27T11:52:36.747569Z",
+      "latest_at": "2026-07-27T11:52:36.747569Z",
       "primary_item": {
-        "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-        "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-        "url": "https://www.aibase.com/news/29910",
+        "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+        "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "url": "https://www.aibase.com/news/29917",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3897ee6f8580",
-      "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-      "url": "https://www.aibase.com/news/29903",
-      "primary_url": "https://www.aibase.com/news/29903",
+      "story_id": "story_6f1c03ecf872",
+      "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+      "url": "https://www.aibase.com/news/29914",
+      "primary_url": "https://www.aibase.com/news/29914",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "url": "https://www.aibase.com/news/29903",
+          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "url": "https://www.aibase.com/news/29914",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "source_count": 1,
@@ -166,13 +184,13 @@
       ],
       "items": [
         {
-          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "url": "https://www.aibase.com/news/29903",
+          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "url": "https://www.aibase.com/news/29914",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "item_count": 1,
@@ -192,12 +210,72 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T08:03:08.564289Z",
-      "latest_at": "2026-07-27T08:03:08.564289Z",
+      "earliest_at": "2026-07-27T11:52:36.747569Z",
+      "latest_at": "2026-07-27T11:52:36.747569Z",
       "primary_item": {
-        "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-        "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-        "url": "https://www.aibase.com/news/29903",
+        "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+        "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+        "url": "https://www.aibase.com/news/29914",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_657f1b524499",
+      "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+      "url": "https://www.aibase.com/news/29916",
+      "primary_url": "https://www.aibase.com/news/29916",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "326261f775bd97b90c695a2a62309932378bfecc",
+          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "url": "https://www.aibase.com/news/29916",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T11:52:36.747569Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "326261f775bd97b90c695a2a62309932378bfecc",
+          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "url": "https://www.aibase.com/news/29916",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T11:52:36.747569Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T11:52:36.747569Z",
+      "latest_at": "2026-07-27T11:52:36.747569Z",
+      "primary_item": {
+        "id": "326261f775bd97b90c695a2a62309932378bfecc",
+        "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+        "url": "https://www.aibase.com/news/29916",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -237,20 +315,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7718,
+        "recency": 0.6125,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T02:34:34Z",
       "latest_at": "2026-07-27T02:34:34Z",
@@ -263,21 +340,21 @@
       }
     },
     {
-      "story_id": "story_1923e73b8c97",
-      "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-      "url": "https://www.aibase.com/news/29904",
-      "primary_url": "https://www.aibase.com/news/29904",
+      "story_id": "story_f837063a240b",
+      "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+      "url": "https://www.aibase.com/news/29918",
+      "primary_url": "https://www.aibase.com/news/29918",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "url": "https://www.aibase.com/news/29904",
+          "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+          "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+          "url": "https://www.aibase.com/news/29918",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "source_count": 1,
@@ -286,13 +363,13 @@
       ],
       "items": [
         {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "url": "https://www.aibase.com/news/29904",
+          "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+          "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+          "url": "https://www.aibase.com/news/29918",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "item_count": 1,
@@ -312,91 +389,163 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T08:03:08.564289Z",
-      "latest_at": "2026-07-27T08:03:08.564289Z",
+      "earliest_at": "2026-07-27T11:52:36.747569Z",
+      "latest_at": "2026-07-27T11:52:36.747569Z",
       "primary_item": {
-        "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-        "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "url": "https://www.aibase.com/news/29904",
+        "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+        "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+        "url": "https://www.aibase.com/news/29918",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_86a5b8d0aa6c",
-      "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-      "url": "https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc",
-      "primary_url": "https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
+      "story_id": "story_59b729f4a9be",
+      "title": "Олег Филиппов | Автономные ИИ-агенты: от AI-сотрудника до агентной компании (2026) PCRec [RU]",
+      "url": "https://nnmclub.to/forum/viewtopic.php?t=1883677",
+      "primary_url": "https://nnmclub.to/forum/viewtopic.php?t=1883677",
+      "source": "NNM-Club 俄罗斯分享软件等",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "a2970c131f95a8ac509304104d2031ae26a8d4b0",
-          "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "url": "https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T00:12:00Z"
+          "id": "aac2c03b92baf1767775e94fae4d8b1e208ac329",
+          "title": "Олег Филиппов | Автономные ИИ-агенты: от AI-сотрудника до агентной компании (2026) PCRec [RU]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1883677",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:08:23Z"
+        },
+        {
+          "id": "a70f70ce26c8885793d85d4fa809c19ff19e1848",
+          "title": "Даниил Пилипенко, Михаил Овчинников, Николай Барышников | Увеличь продуктивность разработки с AI-DRIVEN подходом (2026) PCRec [RU]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1883676",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:01:52Z"
+        },
+        {
+          "id": "00a9e746507ce461e8eff3869bae2724dfd0405d",
+          "title": "幕府女将的复仇 (13 尼姑) 3D / 石山奴妮 3D / 幕府女将的复仇 (13 尼姑) 3D (1977) BDRip [H.264/2160p] [垂直立体声对] [手工制作的高档 AI] [VO] [白金] / Месть женщин сёгун (13 монахинь) 3D / Shi shan nu ni 3D / Revenge of the Shogun Women (13 Nuns) 3D (1977) BDRip [H.264/2160p] [Вертикальная стереопара] [handmade Upscale AI] [VO] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1864876",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T10:48:56Z"
+        },
+        {
+          "id": "cf564554a33da669641385678920f23be2cb2bfc",
+          "title": "金羚羊 (1954) WEB-DLRip [H.264/1440p] [手工重制 AI] / Золотая антилопа (1954) WEB-DLRip [H.264/1440p] [handmade Remastered AI]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1883548",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T03:28:36Z"
+        },
+        {
+          "id": "b36d1f691f9cced82bdac009b9311390992f070b",
+          "title": "Vintik 和 Shpuntik - Merry Masters (1960) WEB-DLRip [H.264/1440p] [手工重制 AI] / Винтик и Шпунтик — веселые мастера (1960) WEB-DLRip [H.264/1440p] [handmade Remastered AI]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1883523",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T03:26:47Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 5,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "NNM-Club 俄罗斯分享软件等"
       ],
       "items": [
         {
-          "id": "a2970c131f95a8ac509304104d2031ae26a8d4b0",
-          "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "url": "https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T00:12:00Z"
+          "id": "aac2c03b92baf1767775e94fae4d8b1e208ac329",
+          "title": "Олег Филиппов | Автономные ИИ-агенты: от AI-сотрудника до агентной компании (2026) PCRec [RU]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1883677",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:08:23Z"
+        },
+        {
+          "id": "a70f70ce26c8885793d85d4fa809c19ff19e1848",
+          "title": "Даниил Пилипенко, Михаил Овчинников, Николай Барышников | Увеличь продуктивность разработки с AI-DRIVEN подходом (2026) PCRec [RU]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1883676",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:01:52Z"
+        },
+        {
+          "id": "00a9e746507ce461e8eff3869bae2724dfd0405d",
+          "title": "幕府女将的复仇 (13 尼姑) 3D / 石山奴妮 3D / 幕府女将的复仇 (13 尼姑) 3D (1977) BDRip [H.264/2160p] [垂直立体声对] [手工制作的高档 AI] [VO] [白金] / Месть женщин сёгун (13 монахинь) 3D / Shi shan nu ni 3D / Revenge of the Shogun Women (13 Nuns) 3D (1977) BDRip [H.264/2160p] [Вертикальная стереопара] [handmade Upscale AI] [VO] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1864876",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T10:48:56Z"
+        },
+        {
+          "id": "cf564554a33da669641385678920f23be2cb2bfc",
+          "title": "金羚羊 (1954) WEB-DLRip [H.264/1440p] [手工重制 AI] / Золотая антилопа (1954) WEB-DLRip [H.264/1440p] [handmade Remastered AI]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1883548",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T03:28:36Z"
+        },
+        {
+          "id": "b36d1f691f9cced82bdac009b9311390992f070b",
+          "title": "Vintik 和 Shpuntik - Merry Masters (1960) WEB-DLRip [H.264/1440p] [手工重制 AI] / Винтик и Шпунтик — веселые мастера (1960) WEB-DLRip [H.264/1440p] [handmade Remastered AI]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1883523",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T03:26:47Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
-      "importance_label": "行业动态",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.7039,
+      "importance": 0.7039,
+      "importance_score": 0.7039,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6728,
-        "story_heat": 0.0
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.9693,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-27T00:12:00Z",
-      "latest_at": "2026-07-27T00:12:00Z",
+      "earliest_at": "2026-07-27T03:26:47Z",
+      "latest_at": "2026-07-27T11:08:23Z",
       "primary_item": {
-        "id": "a2970c131f95a8ac509304104d2031ae26a8d4b0",
-        "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-        "url": "https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
+        "id": "aac2c03b92baf1767775e94fae4d8b1e208ac329",
+        "title": "Олег Филиппов | Автономные ИИ-агенты: от AI-сотрудника до агентной компании (2026) PCRec [RU]",
+        "url": "https://nnmclub.to/forum/viewtopic.php?t=1883677",
+        "source": "NNM-Club 俄罗斯分享软件等",
+        "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_5318ad83ce5d",
-      "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-      "url": "https://www.aibase.com/news/29908",
-      "primary_url": "https://www.aibase.com/news/29908",
+      "story_id": "story_7a1be50444fc",
+      "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+      "url": "https://www.aibase.com/news/29912",
+      "primary_url": "https://www.aibase.com/news/29912",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/news/29908",
+          "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
+          "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "url": "https://www.aibase.com/news/29912",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "source_count": 1,
@@ -405,13 +554,13 @@
       ],
       "items": [
         {
-          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/news/29908",
+          "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
+          "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "url": "https://www.aibase.com/news/29912",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "item_count": 1,
@@ -431,32 +580,146 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T08:03:08.564289Z",
-      "latest_at": "2026-07-27T08:03:08.564289Z",
+      "earliest_at": "2026-07-27T11:52:36.747569Z",
+      "latest_at": "2026-07-27T11:52:36.747569Z",
       "primary_item": {
-        "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-        "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-        "url": "https://www.aibase.com/news/29908",
+        "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
+        "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+        "url": "https://www.aibase.com/news/29912",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ff293a83082f",
-      "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-      "url": "https://www.aibase.com/news/29905",
-      "primary_url": "https://www.aibase.com/news/29905",
+      "story_id": "story_774f7412d1a3",
+      "title": "一万七千条痕迹背后的六个AI安全结论!",
+      "url": "https://www.youtube.com/watch?v=h2IuNtBsDhM",
+      "primary_url": "https://www.youtube.com/watch?v=h2IuNtBsDhM",
+      "source": "范路 | 老范讲故事",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "51464ff50431603fca8d25e1849de85f37155b7a",
+          "title": "一万七千条痕迹背后的六个AI安全结论!",
+          "url": "https://www.youtube.com/watch?v=h2IuNtBsDhM",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T10:30:03Z"
+        },
+        {
+          "id": "16649638c08b0b5518fd80b0d14bcb32b1c8d830",
+          "title": "赛博吃播为什么越聊越偏？从俄餐一路聊到国产算力？",
+          "url": "https://www.youtube.com/watch?v=bA4UvXNlLhk",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T01:57:59Z"
+        },
+        {
+          "id": "479e37c6f9f8c10aa6389f98c4e3cb6635d1dec8",
+          "title": "DeepSeek梁文锋4小时会议录音，都泄露了哪些敏感信息？",
+          "url": "https://www.youtube.com/watch?v=H7zEWI4997o",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T00:30:13Z"
+        },
+        {
+          "id": "fead6c44e96c8ba2f6c9fdbfb1b5f3356bf33c64",
+          "title": "AI49 | AI 虛擬人簡報教學、PDF 一鍵轉解說影片，字幕配音全搞定",
+          "url": "https://www.youtube.com/watch?v=VPBIk3hKghg",
+          "source": "excel学习 | Meiko微課頻道",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-26T12:00:17Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "excel学习 | Meiko微課頻道",
+        "范路 | 老范讲故事"
+      ],
+      "items": [
+        {
+          "id": "51464ff50431603fca8d25e1849de85f37155b7a",
+          "title": "一万七千条痕迹背后的六个AI安全结论!",
+          "url": "https://www.youtube.com/watch?v=h2IuNtBsDhM",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T10:30:03Z"
+        },
+        {
+          "id": "16649638c08b0b5518fd80b0d14bcb32b1c8d830",
+          "title": "赛博吃播为什么越聊越偏？从俄餐一路聊到国产算力？",
+          "url": "https://www.youtube.com/watch?v=bA4UvXNlLhk",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T01:57:59Z"
+        },
+        {
+          "id": "479e37c6f9f8c10aa6389f98c4e3cb6635d1dec8",
+          "title": "DeepSeek梁文锋4小时会议录音，都泄露了哪些敏感信息？",
+          "url": "https://www.youtube.com/watch?v=H7zEWI4997o",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T00:30:13Z"
+        },
+        {
+          "id": "fead6c44e96c8ba2f6c9fdbfb1b5f3356bf33c64",
+          "title": "AI49 | AI 虛擬人簡報教學、PDF 一鍵轉解說影片，字幕配音全搞定",
+          "url": "https://www.youtube.com/watch?v=VPBIk3hKghg",
+          "source": "excel学习 | Meiko微課頻道",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-26T12:00:17Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6645,
+      "importance": 0.6645,
+      "importance_score": 0.6645,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9427,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T12:00:17Z",
+      "latest_at": "2026-07-27T10:30:03Z",
+      "primary_item": {
+        "id": "51464ff50431603fca8d25e1849de85f37155b7a",
+        "title": "一万七千条痕迹背后的六个AI安全结论!",
+        "url": "https://www.youtube.com/watch?v=h2IuNtBsDhM",
+        "source": "范路 | 老范讲故事",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_e03bad16cfc3",
+      "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+      "url": "https://www.aibase.com/news/29913",
+      "primary_url": "https://www.aibase.com/news/29913",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "17d11038163f823192d508995e9fc61f94746787",
-          "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-          "url": "https://www.aibase.com/news/29905",
+          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "url": "https://www.aibase.com/news/29913",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "source_count": 1,
@@ -465,13 +728,13 @@
       ],
       "items": [
         {
-          "id": "17d11038163f823192d508995e9fc61f94746787",
-          "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-          "url": "https://www.aibase.com/news/29905",
+          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "url": "https://www.aibase.com/news/29913",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "item_count": 1,
@@ -491,14 +754,205 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T08:03:08.564289Z",
-      "latest_at": "2026-07-27T08:03:08.564289Z",
+      "earliest_at": "2026-07-27T11:52:36.747569Z",
+      "latest_at": "2026-07-27T11:52:36.747569Z",
       "primary_item": {
-        "id": "17d11038163f823192d508995e9fc61f94746787",
-        "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-        "url": "https://www.aibase.com/news/29905",
+        "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+        "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+        "url": "https://www.aibase.com/news/29913",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c88aa7c56993",
+      "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+      "url": "https://github.com/mudler/vllm.cpp/compare/c0abfa3fa2...2e4f43d9c9",
+      "primary_url": "https://github.com/mudler/vllm.cpp/compare/c0abfa3fa2...2e4f43d9c9",
+      "source": "mudler",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "3cf974b3066af999290ead9a2a47bc10d6b3772c",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/c0abfa3fa2...2e4f43d9c9",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:33:18Z"
+        },
+        {
+          "id": "50c98f9383b257a42467837a1a52ce7628de422f",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/9167b83415...ecda3ce1a4",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T10:48:58Z"
+        },
+        {
+          "id": "f8b93c09b7c49377aded030cb763802f76f41e2f",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/502d5dcb92...fc6fd7fd9c",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T09:41:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "mudler"
+      ],
+      "items": [
+        {
+          "id": "3cf974b3066af999290ead9a2a47bc10d6b3772c",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/c0abfa3fa2...2e4f43d9c9",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:33:18Z"
+        },
+        {
+          "id": "50c98f9383b257a42467837a1a52ce7628de422f",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/9167b83415...ecda3ce1a4",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T10:48:58Z"
+        },
+        {
+          "id": "f8b93c09b7c49377aded030cb763802f76f41e2f",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/502d5dcb92...fc6fd7fd9c",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T09:41:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6603,
+      "importance": 0.6603,
+      "importance_score": 0.6603,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9866,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T09:41:39Z",
+      "latest_at": "2026-07-27T11:33:18Z",
+      "primary_item": {
+        "id": "3cf974b3066af999290ead9a2a47bc10d6b3772c",
+        "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+        "url": "https://github.com/mudler/vllm.cpp/compare/c0abfa3fa2...2e4f43d9c9",
+        "source": "mudler",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_4a2965a5d172",
+      "title": "对见过 Claude 使用 Fusion 360 的评论吗？通过乔纳森 / Comment on Ever Seen Claude Use Fusion 360? by Jonathan",
+      "url": "https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360",
+      "primary_url": "https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360",
+      "source": "Hackaday » Comments",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "71af1d23b04e360311c25cdc7ebbceef577c3388",
+          "title": "对见过 Claude 使用 Fusion 360 的评论吗？通过乔纳森 / Comment on Ever Seen Claude Use Fusion 360? by Jonathan",
+          "url": "https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:02:40Z"
+        },
+        {
+          "id": "16f947f68a1706a7423c00cdc3e10d5f9ae40adb",
+          "title": "对见过 Claude 使用 Fusion 360 的评论吗？通过豆芽肉 / Comment on Ever Seen Claude Use Fusion 360? by douyarou",
+          "url": "https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T02:39:22Z"
+        },
+        {
+          "id": "e14ce33c6e604dd89dd83f24a1112304e873e118",
+          "title": "Ever Seen Claude Use Fusion 360?",
+          "url": "https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-26T17:00:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hackaday",
+        "Hackaday » Comments"
+      ],
+      "items": [
+        {
+          "id": "71af1d23b04e360311c25cdc7ebbceef577c3388",
+          "title": "对见过 Claude 使用 Fusion 360 的评论吗？通过乔纳森 / Comment on Ever Seen Claude Use Fusion 360? by Jonathan",
+          "url": "https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:02:40Z"
+        },
+        {
+          "id": "16f947f68a1706a7423c00cdc3e10d5f9ae40adb",
+          "title": "对见过 Claude 使用 Fusion 360 的评论吗？通过豆芽肉 / Comment on Ever Seen Claude Use Fusion 360? by douyarou",
+          "url": "https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360",
+          "source": "Hackaday » Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T02:39:22Z"
+        },
+        {
+          "id": "e14ce33c6e604dd89dd83f24a1112304e873e118",
+          "title": "Ever Seen Claude Use Fusion 360?",
+          "url": "https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360",
+          "source": "Hackaday",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-26T17:00:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6561,
+      "importance": 0.6561,
+      "importance_score": 0.6561,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9653,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T17:00:00Z",
+      "latest_at": "2026-07-27T11:02:40Z",
+      "primary_item": {
+        "id": "71af1d23b04e360311c25cdc7ebbceef577c3388",
+        "title": "对见过 Claude 使用 Fusion 360 的评论吗？通过乔纳森 / Comment on Ever Seen Claude Use Fusion 360? by Jonathan",
+        "url": "https://hackaday.com/2026/07/26/ever-seen-claude-use-fusion-360",
+        "source": "Hackaday » Comments",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -590,14 +1044,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6757,
-      "importance": 0.6757,
-      "importance_score": 0.6757,
+      "score": 0.6438,
+      "importance": 0.6438,
+      "importance_score": 0.6438,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9985,
+        "recency": 0.8391,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -615,21 +1069,254 @@
       }
     },
     {
-      "story_id": "story_4db19b2ca5c5",
-      "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-      "url": "https://www.aibase.com/news/29909",
-      "primary_url": "https://www.aibase.com/news/29909",
+      "story_id": "story_5eacd753e038",
+      "title": "deepseek 是不是在偷偷读取 gemini 的信息尼？",
+      "url": "https://www.cocoloop.cn/t/topic/12849",
+      "primary_url": "https://www.cocoloop.cn/t/topic/12849",
+      "source": "CocoLoop AI社区 - 最新话题",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "fa6af6e80b2555f5ac9b348e08c58746aa1aaad7",
+          "title": "deepseek 是不是在偷偷读取 gemini 的信息尼？",
+          "url": "https://www.cocoloop.cn/t/topic/12849",
+          "source": "CocoLoop AI社区 - 最新话题",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:02:21Z"
+        },
+        {
+          "id": "5f9c869784f27021c24df2788a74e7ec69d3cad7",
+          "title": "[程序员] deepseek 是不是在偷偷读取 gemini 的信息尼？",
+          "url": "https://www.v2ex.com/t/1230200",
+          "source": "V2EX",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T09:52:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "CocoLoop AI社区 - 最新话题",
+        "V2EX"
+      ],
+      "items": [
+        {
+          "id": "fa6af6e80b2555f5ac9b348e08c58746aa1aaad7",
+          "title": "deepseek 是不是在偷偷读取 gemini 的信息尼？",
+          "url": "https://www.cocoloop.cn/t/topic/12849",
+          "source": "CocoLoop AI社区 - 最新话题",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:02:21Z"
+        },
+        {
+          "id": "5f9c869784f27021c24df2788a74e7ec69d3cad7",
+          "title": "[程序员] deepseek 是不是在偷偷读取 gemini 的信息尼？",
+          "url": "https://www.v2ex.com/t/1230200",
+          "source": "V2EX",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T09:52:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.643,
+      "importance": 0.643,
+      "importance_score": 0.643,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.9651,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T09:52:27Z",
+      "latest_at": "2026-07-27T11:02:21Z",
+      "primary_item": {
+        "id": "fa6af6e80b2555f5ac9b348e08c58746aa1aaad7",
+        "title": "deepseek 是不是在偷偷读取 gemini 的信息尼？",
+        "url": "https://www.cocoloop.cn/t/topic/12849",
+        "source": "CocoLoop AI社区 - 最新话题",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_d3a873300871",
+      "title": "新活动：Cursor 印度路演：孟买 / New event: Cursor India Roadshow: Mumbai",
+      "url": "https://forum.cursor.com/t/new-event-cursor-india-roadshow-mumbai/165673?page=2",
+      "primary_url": "https://forum.cursor.com/t/new-event-cursor-india-roadshow-mumbai/165673?page=2",
+      "source": "Cursor| Latest posts",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "81ae41fef17683080d4cde2b34eefd71270f2110",
+          "title": "新活动：Cursor 印度路演：孟买 / New event: Cursor India Roadshow: Mumbai",
+          "url": "https://forum.cursor.com/t/new-event-cursor-india-roadshow-mumbai/165673?page=2",
+          "source": "Cursor| Latest posts",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:36:16Z"
+        },
+        {
+          "id": "3244503f7ae26204f09ff29213c402a44b827d82",
+          "title": "新活动：Cursor 印度路演：孟买 / New event: Cursor India Roadshow: Mumbai",
+          "url": "https://forum.cursor.com/t/new-event-cursor-india-roadshow-mumbai/165673",
+          "source": "Cursor| Latest posts",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T08:33:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Cursor| Latest posts"
+      ],
+      "items": [
+        {
+          "id": "81ae41fef17683080d4cde2b34eefd71270f2110",
+          "title": "新活动：Cursor 印度路演：孟买 / New event: Cursor India Roadshow: Mumbai",
+          "url": "https://forum.cursor.com/t/new-event-cursor-india-roadshow-mumbai/165673?page=2",
+          "source": "Cursor| Latest posts",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:36:16Z"
+        },
+        {
+          "id": "3244503f7ae26204f09ff29213c402a44b827d82",
+          "title": "新活动：Cursor 印度路演：孟买 / New event: Cursor India Roadshow: Mumbai",
+          "url": "https://forum.cursor.com/t/new-event-cursor-india-roadshow-mumbai/165673",
+          "source": "Cursor| Latest posts",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T08:33:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6357,
+      "importance": 0.6357,
+      "importance_score": 0.6357,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9886,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T08:33:42Z",
+      "latest_at": "2026-07-27T11:36:16Z",
+      "primary_item": {
+        "id": "81ae41fef17683080d4cde2b34eefd71270f2110",
+        "title": "新活动：Cursor 印度路演：孟买 / New event: Cursor India Roadshow: Mumbai",
+        "url": "https://forum.cursor.com/t/new-event-cursor-india-roadshow-mumbai/165673?page=2",
+        "source": "Cursor| Latest posts",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_a2393a327e96",
+      "title": "汇丰将招聘100名人工智能专家和100名财富管理顾问，以加强其新加坡业务中心",
+      "url": "https://www.reuters.com/legal/transactional/hsbc-hire-100-ai-specialists-100-wealth-managers-boost-singapore-hub-2026-07-27",
+      "primary_url": "https://www.reuters.com/legal/transactional/hsbc-hire-100-ai-specialists-100-wealth-managers-boost-singapore-hub-2026-07-27",
+      "source": "Buzzing|国外社交媒体热榜",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "46e6a82830100bad94586ee2635aa24bbae81608",
+          "title": "汇丰将招聘100名人工智能专家和100名财富管理顾问，以加强其新加坡业务中心",
+          "url": "https://www.reuters.com/legal/transactional/hsbc-hire-100-ai-specialists-100-wealth-managers-boost-singapore-hub-2026-07-27",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:21:32.862000Z"
+        },
+        {
+          "id": "ed531a88a3decca07fcfc6c8f1bc623b77a82985",
+          "title": "汇丰将招聘100名人工智能专家和100名财富管理顾问，以加强其新加坡业务中心",
+          "url": "https://reut.rs/4basIc6",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T11:21:31.636000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Buzzing|国外社交媒体热榜",
+        "reut.rs"
+      ],
+      "items": [
+        {
+          "id": "46e6a82830100bad94586ee2635aa24bbae81608",
+          "title": "汇丰将招聘100名人工智能专家和100名财富管理顾问，以加强其新加坡业务中心",
+          "url": "https://www.reuters.com/legal/transactional/hsbc-hire-100-ai-specialists-100-wealth-managers-boost-singapore-hub-2026-07-27",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T11:21:32.862000Z"
+        },
+        {
+          "id": "ed531a88a3decca07fcfc6c8f1bc623b77a82985",
+          "title": "汇丰将招聘100名人工智能专家和100名财富管理顾问，以加强其新加坡业务中心",
+          "url": "https://reut.rs/4basIc6",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T11:21:31.636000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6337,
+      "importance": 0.6337,
+      "importance_score": 0.6337,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9784,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T11:21:31.636000Z",
+      "latest_at": "2026-07-27T11:21:32.862000Z",
+      "primary_item": {
+        "id": "46e6a82830100bad94586ee2635aa24bbae81608",
+        "title": "汇丰将招聘100名人工智能专家和100名财富管理顾问，以加强其新加坡业务中心",
+        "url": "https://www.reuters.com/legal/transactional/hsbc-hire-100-ai-specialists-100-wealth-managers-boost-singapore-hub-2026-07-27",
+        "source": "Buzzing|国外社交媒体热榜",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_56c3d96b8a28",
+      "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+      "url": "https://www.aibase.com/news/29915",
+      "primary_url": "https://www.aibase.com/news/29915",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
-          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "url": "https://www.aibase.com/news/29909",
+          "id": "80742ceb6678a65c72483282319c42e62f47abbf",
+          "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+          "url": "https://www.aibase.com/news/29915",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "source_count": 1,
@@ -638,13 +1325,13 @@
       ],
       "items": [
         {
-          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
-          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "url": "https://www.aibase.com/news/29909",
+          "id": "80742ceb6678a65c72483282319c42e62f47abbf",
+          "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+          "url": "https://www.aibase.com/news/29915",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
+          "published_at": "2026-07-27T11:52:36.747569Z"
         }
       ],
       "item_count": 1,
@@ -664,469 +1351,65 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T08:03:08.564289Z",
-      "latest_at": "2026-07-27T08:03:08.564289Z",
+      "earliest_at": "2026-07-27T11:52:36.747569Z",
+      "latest_at": "2026-07-27T11:52:36.747569Z",
       "primary_item": {
-        "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
-        "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-        "url": "https://www.aibase.com/news/29909",
+        "id": "80742ceb6678a65c72483282319c42e62f47abbf",
+        "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+        "url": "https://www.aibase.com/news/29915",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_5affadcb2310",
+      "story_id": "story_4ffa008b746d",
       "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
-      "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/729ec7b302...3ca5edee66",
-      "primary_url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/729ec7b302...3ca5edee66",
+      "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/f6130ea364...35ddae6285",
+      "primary_url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/f6130ea364...35ddae6285",
       "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "72ad8038f49dbb59100f606b8bb660727da881e1",
+          "id": "c00873e8ffc21ba750afd577869670df88c4be0f",
           "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
-          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/729ec7b302...3ca5edee66",
+          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/f6130ea364...35ddae6285",
           "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-27T08:04:25Z"
+          "published_at": "2026-07-27T11:16:40Z"
         },
         {
-          "id": "955ffe637ac1dabfea8bda2f8f110d63c30be691",
+          "id": "a53d57924c915f2db3f8268942240f8856323ad4",
           "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
-          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/c3621d4e86...192c230b90",
+          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/f778fe21d3...e9b5cb2602",
           "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:18:57Z"
-        },
-        {
-          "id": "e82ebaea850f43d96170a99284b3bbffc19b1331",
-          "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
-          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/84b7b23c7e...2bf1dfa3c5",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T03:49:45Z"
+          "published_at": "2026-07-27T10:19:10Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
       ],
       "items": [
         {
-          "id": "72ad8038f49dbb59100f606b8bb660727da881e1",
+          "id": "c00873e8ffc21ba750afd577869670df88c4be0f",
           "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
-          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/729ec7b302...3ca5edee66",
+          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/f6130ea364...35ddae6285",
           "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-27T08:04:25Z"
+          "published_at": "2026-07-27T11:16:40Z"
         },
         {
-          "id": "955ffe637ac1dabfea8bda2f8f110d63c30be691",
+          "id": "a53d57924c915f2db3f8268942240f8856323ad4",
           "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
-          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/c3621d4e86...192c230b90",
+          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/f778fe21d3...e9b5cb2602",
           "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:18:57Z"
-        },
-        {
-          "id": "e82ebaea850f43d96170a99284b3bbffc19b1331",
-          "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
-          "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/84b7b23c7e...2bf1dfa3c5",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T03:49:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.66,
-      "importance": 0.66,
-      "importance_score": 0.66,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 1.0,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T03:49:45Z",
-      "latest_at": "2026-07-27T08:04:25Z",
-      "primary_item": {
-        "id": "72ad8038f49dbb59100f606b8bb660727da881e1",
-        "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
-        "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/729ec7b302...3ca5edee66",
-        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_e0ec45d11064",
-      "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-      "url": "https://github.com/mudler/vllm.cpp/compare/88cbc99e2d...489a7544b0",
-      "primary_url": "https://github.com/mudler/vllm.cpp/compare/88cbc99e2d...489a7544b0",
-      "source": "mudler",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "2797862730085fbb60d52c6663b5fbde2112215c",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/88cbc99e2d...489a7544b0",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:12:56Z"
-        },
-        {
-          "id": "d41ba04cca74bd6fb1ac6a059bd2129be68cbe01",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/c7ca1a4a79...4657f6f310",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T05:52:33Z"
-        },
-        {
-          "id": "c56f1e98808778f5db0de370dd714fd3080bfd4f",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/9cede98851...c7ca1a4a79",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T04:16:01Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "mudler"
-      ],
-      "items": [
-        {
-          "id": "2797862730085fbb60d52c6663b5fbde2112215c",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/88cbc99e2d...489a7544b0",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:12:56Z"
-        },
-        {
-          "id": "d41ba04cca74bd6fb1ac6a059bd2129be68cbe01",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/c7ca1a4a79...4657f6f310",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T05:52:33Z"
-        },
-        {
-          "id": "c56f1e98808778f5db0de370dd714fd3080bfd4f",
-          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/9cede98851...c7ca1a4a79",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T04:16:01Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.656,
-      "importance": 0.656,
-      "importance_score": 0.656,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9651,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T04:16:01Z",
-      "latest_at": "2026-07-27T07:12:56Z",
-      "primary_item": {
-        "id": "2797862730085fbb60d52c6663b5fbde2112215c",
-        "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-        "url": "https://github.com/mudler/vllm.cpp/compare/88cbc99e2d...489a7544b0",
-        "source": "mudler",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_cee89ea4217a",
-      "title": "cnlimiter 关闭了 Avaritia-Tweak 中的问题 / cnlimiter closed an issue in Avaritia-Tweak",
-      "url": "https://github.com/Nova-Committee/Avaritia-Tweak/issues/4",
-      "primary_url": "https://github.com/Nova-Committee/Avaritia-Tweak/issues/4",
-      "source": "cnlimiter|OpenAI注册/登录/拿 token/打包运行",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "85c3b4044730655cb3d5d101aac95ab449d2e449",
-          "title": "cnlimiter 关闭了 Avaritia-Tweak 中的问题 / cnlimiter closed an issue in Avaritia-Tweak",
-          "url": "https://github.com/Nova-Committee/Avaritia-Tweak/issues/4",
-          "source": "cnlimiter|OpenAI注册/登录/拿 token/打包运行",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:58:55Z"
-        },
-        {
-          "id": "c0ee8a09600f702b35a52048586609bcfe69fa3d",
-          "title": "cnlimiter 评论了 Avaritia-Tweak 中的一个问题 / cnlimiter commented on an issue in Avaritia-Tweak",
-          "url": "https://github.com/Nova-Committee/Avaritia-Tweak/issues/4",
-          "source": "cnlimiter|OpenAI注册/登录/拿 token/打包运行",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:58:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "cnlimiter|OpenAI注册/登录/拿 token/打包运行"
-      ],
-      "items": [
-        {
-          "id": "85c3b4044730655cb3d5d101aac95ab449d2e449",
-          "title": "cnlimiter 关闭了 Avaritia-Tweak 中的问题 / cnlimiter closed an issue in Avaritia-Tweak",
-          "url": "https://github.com/Nova-Committee/Avaritia-Tweak/issues/4",
-          "source": "cnlimiter|OpenAI注册/登录/拿 token/打包运行",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:58:55Z"
-        },
-        {
-          "id": "c0ee8a09600f702b35a52048586609bcfe69fa3d",
-          "title": "cnlimiter 评论了 Avaritia-Tweak 中的一个问题 / cnlimiter commented on an issue in Avaritia-Tweak",
-          "url": "https://github.com/Nova-Committee/Avaritia-Tweak/issues/4",
-          "source": "cnlimiter|OpenAI注册/登录/拿 token/打包运行",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:58:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6374,
-      "importance": 0.6374,
-      "importance_score": 0.6374,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9971,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T07:58:55Z",
-      "latest_at": "2026-07-27T07:58:55Z",
-      "primary_item": {
-        "id": "85c3b4044730655cb3d5d101aac95ab449d2e449",
-        "title": "cnlimiter 关闭了 Avaritia-Tweak 中的问题 / cnlimiter closed an issue in Avaritia-Tweak",
-        "url": "https://github.com/Nova-Committee/Avaritia-Tweak/issues/4",
-        "source": "cnlimiter|OpenAI注册/登录/拿 token/打包运行",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_2162f9aabfcc",
-      "title": "有帅哥透露薅gpt羊毛的方法嘛 https://linux.do/t/topic/2660560 LINUX DO 有帅哥透露薅gpt羊毛的方法嘛 有帅哥透露薅gpt羊毛的方法嘛，学生党越来…",
-      "url": "https://t.me/baipiaofl/54494",
-      "primary_url": "https://t.me/baipiaofl/54494",
-      "source": "白嫖福利 NodeLoc、LINUX DO、全球主机交流论坛、V2EX、NodeSeek",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "37792a124c552cad56ec148d6315101e5d059d3f",
-          "title": "有帅哥透露薅gpt羊毛的方法嘛 https://linux.do/t/topic/2660560 LINUX DO 有帅哥透露薅gpt羊毛的方法嘛 有帅哥透露薅gpt羊毛的方法嘛，学生党越来…",
-          "url": "https://t.me/baipiaofl/54494",
-          "source": "白嫖福利 NodeLoc、LINUX DO、全球主机交流论坛、V2EX、NodeSeek",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:36:07Z"
-        },
-        {
-          "id": "376bb26164404f6bd09c1fa553dccf9b68cc8d44",
-          "title": "有帅哥透露薅gpt羊毛的方法嘛 https://www.nodeseek.com/post-842354-1 NodeSeek 有帅哥透露薅gpt羊毛的方法嘛 🙏",
-          "url": "https://t.me/baipiaofl/54488",
-          "source": "白嫖福利 NodeLoc、LINUX DO、全球主机交流论坛、V2EX、NodeSeek",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T06:13:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "白嫖福利 NodeLoc、LINUX DO、全球主机交流论坛、V2EX、NodeSeek"
-      ],
-      "items": [
-        {
-          "id": "37792a124c552cad56ec148d6315101e5d059d3f",
-          "title": "有帅哥透露薅gpt羊毛的方法嘛 https://linux.do/t/topic/2660560 LINUX DO 有帅哥透露薅gpt羊毛的方法嘛 有帅哥透露薅gpt羊毛的方法嘛，学生党越来…",
-          "url": "https://t.me/baipiaofl/54494",
-          "source": "白嫖福利 NodeLoc、LINUX DO、全球主机交流论坛、V2EX、NodeSeek",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:36:07Z"
-        },
-        {
-          "id": "376bb26164404f6bd09c1fa553dccf9b68cc8d44",
-          "title": "有帅哥透露薅gpt羊毛的方法嘛 https://www.nodeseek.com/post-842354-1 NodeSeek 有帅哥透露薅gpt羊毛的方法嘛 🙏",
-          "url": "https://t.me/baipiaofl/54488",
-          "source": "白嫖福利 NodeLoc、LINUX DO、全球主机交流论坛、V2EX、NodeSeek",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T06:13:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6342,
-      "importance": 0.6342,
-      "importance_score": 0.6342,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9812,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T06:13:20Z",
-      "latest_at": "2026-07-27T07:36:07Z",
-      "primary_item": {
-        "id": "37792a124c552cad56ec148d6315101e5d059d3f",
-        "title": "有帅哥透露薅gpt羊毛的方法嘛 https://linux.do/t/topic/2660560 LINUX DO 有帅哥透露薅gpt羊毛的方法嘛 有帅哥透露薅gpt羊毛的方法嘛，学生党越来…",
-        "url": "https://t.me/baipiaofl/54494",
-        "source": "白嫖福利 NodeLoc、LINUX DO、全球主机交流论坛、V2EX、NodeSeek",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_1efdd46ef86a",
-      "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
-      "url": "https://www.aibase.com/news/29901",
-      "primary_url": "https://www.aibase.com/news/29901",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
-          "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
-          "url": "https://www.aibase.com/news/29901",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
-          "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
-          "url": "https://www.aibase.com/news/29901",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T08:03:08.564289Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T08:03:08.564289Z",
-      "latest_at": "2026-07-27T08:03:08.564289Z",
-      "primary_item": {
-        "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
-        "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
-        "url": "https://www.aibase.com/news/29901",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_77d7754d587a",
-      "title": "据《华尔街日报》报道，英伟达正与OpenAI进行谈判，以确保为数据中心提供2500亿美元的融资 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "Buzzing|国外社交媒体热榜",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "e4c4fd3fd8099cc4b51fa87a8e83b93a9e6656eb",
-          "title": "据《华尔街日报》报道，英伟达正与OpenAI进行谈判，以确保为数据中心提供2500亿美元的融资 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:05:17.342000Z"
-        },
-        {
-          "id": "e306ccb3e1f3639a1ebcc2b7ef89525bb945de44",
-          "title": "据《华尔街日报》报道，英伟达正与OpenAI进行谈判，以确保为数据中心提供2500亿美元的融资",
-          "url": "https://reut.rs/4pHlzpC",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T01:30:26.594000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Buzzing|国外社交媒体热榜"
-      ],
-      "items": [
-        {
-          "id": "e4c4fd3fd8099cc4b51fa87a8e83b93a9e6656eb",
-          "title": "据《华尔街日报》报道，英伟达正与OpenAI进行谈判，以确保为数据中心提供2500亿美元的融资 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T07:05:17.342000Z"
-        },
-        {
-          "id": "e306ccb3e1f3639a1ebcc2b7ef89525bb945de44",
-          "title": "据《华尔街日报》报道，英伟达正与OpenAI进行谈判，以确保为数据中心提供2500亿美元的融资",
-          "url": "https://reut.rs/4pHlzpC",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T01:30:26.594000Z"
+          "published_at": "2026-07-27T10:19:10Z"
         }
       ],
       "item_count": 2,
@@ -1137,350 +1420,176 @@
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9598,
+        "ai_relevance": 0.7,
+        "recency": 0.975,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-27T01:30:26.594000Z",
-      "latest_at": "2026-07-27T07:05:17.342000Z",
+      "earliest_at": "2026-07-27T10:19:10Z",
+      "latest_at": "2026-07-27T11:16:40Z",
       "primary_item": {
-        "id": "e4c4fd3fd8099cc4b51fa87a8e83b93a9e6656eb",
-        "title": "据《华尔街日报》报道，英伟达正与OpenAI进行谈判，以确保为数据中心提供2500亿美元的融资 - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "Buzzing|国外社交媒体热榜",
+        "id": "c00873e8ffc21ba750afd577869670df88c4be0f",
+        "title": "Dicklesworthstone 推动了 rust_scriptbots / Dicklesworthstone pushed rust_scriptbots",
+        "url": "https://github.com/Dicklesworthstone/rust_scriptbots/compare/f6130ea364...35ddae6285",
+        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_7372d8cb937a",
-      "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "primary_url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "source": "Hacker News Digest",
+      "story_id": "story_60e87136b4a4",
+      "title": "OpenAI整合Codex能力，ChatGPT网页版正在变成云端AI电脑",
+      "url": "https://www.woshipm.com/ai/6435958.html",
+      "primary_url": "https://www.woshipm.com/ai/6435958.html",
+      "source": "人人都是产品经理",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "db8b9776fe372a005b2cfcf99b4c5dface8e8379",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News Digest",
+          "id": "323ecfd92a30cc179888973b1bc461a3648a7573",
+          "title": "OpenAI整合Codex能力，ChatGPT网页版正在变成云端AI电脑",
+          "url": "https://www.woshipm.com/ai/6435958.html",
+          "source": "人人都是产品经理",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-27T06:52:52.623006Z"
+          "published_at": "2026-07-27T07:44:30Z"
         },
         {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T08:03:42.181000Z"
+          "id": "63f3339ef1bf3e6f2db57100eecaf905c6bf65ea",
+          "title": "我发现 ChatGPT 网页版支持Skills了，还悄悄送了一台“云电脑”",
+          "url": "https://www.woshipm.com/ai/6435958.html",
+          "source": "人人都是产品经理",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T07:44:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News Digest",
-        "hackernews"
+        "人人都是产品经理"
       ],
       "items": [
         {
-          "id": "db8b9776fe372a005b2cfcf99b4c5dface8e8379",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News Digest",
+          "id": "323ecfd92a30cc179888973b1bc461a3648a7573",
+          "title": "OpenAI整合Codex能力，ChatGPT网页版正在变成云端AI电脑",
+          "url": "https://www.woshipm.com/ai/6435958.html",
+          "source": "人人都是产品经理",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-27T06:52:52.623006Z"
+          "published_at": "2026-07-27T07:44:30Z"
         },
         {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T08:03:42.181000Z"
+          "id": "63f3339ef1bf3e6f2db57100eecaf905c6bf65ea",
+          "title": "我发现 ChatGPT 网页版支持Skills了，还悄悄送了一台“云电脑”",
+          "url": "https://www.woshipm.com/ai/6435958.html",
+          "source": "人人都是产品经理",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T07:44:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6282,
-      "importance": 0.6282,
-      "importance_score": 0.6282,
+      "score": 0.6275,
+      "importance": 0.6275,
+      "importance_score": 0.6275,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9512,
+        "ai_relevance": 0.79,
+        "recency": 0.8277,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-27T06:52:52.623006Z",
-      "latest_at": "2026-07-27T08:03:42.181000Z",
+      "earliest_at": "2026-07-27T07:44:30Z",
+      "latest_at": "2026-07-27T07:44:30Z",
       "primary_item": {
-        "id": "db8b9776fe372a005b2cfcf99b4c5dface8e8379",
-        "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-        "url": "https://huggingface.co/moonshotai/Kimi-K3",
-        "source": "Hacker News Digest",
+        "id": "323ecfd92a30cc179888973b1bc461a3648a7573",
+        "title": "OpenAI整合Codex能力，ChatGPT网页版正在变成云端AI电脑",
+        "url": "https://www.woshipm.com/ai/6435958.html",
+        "source": "人人都是产品经理",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_9bf8ae9c2b4b",
-      "title": "感觉 codex gpt-5.6 sol 现在也就之前 5.5 的水准",
-      "url": "https://www.cocoloop.cn/t/topic/12815",
-      "primary_url": "https://www.cocoloop.cn/t/topic/12815",
-      "source": "CocoLoop AI社区 - 最新话题",
+      "story_id": "story_afce24da953f",
+      "title": "[OpenAI] GPT Plus 过期后，剩余用量是否还是 Plus 标准？",
+      "url": "https://www.v2ex.com/t/1230175",
+      "primary_url": "https://www.v2ex.com/t/1230175",
+      "source": "V2EX",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "f583ecf7b9152348a6265a8ad579effab14e2bfc",
-          "title": "感觉 codex gpt-5.6 sol 现在也就之前 5.5 的水准",
-          "url": "https://www.cocoloop.cn/t/topic/12815",
+          "id": "a2966ffdacf6f64f71e0fdfa04056300a5c3cc30",
+          "title": "GPT Plus 过期后，剩余用量是否还是 Plus 标准？",
+          "url": "https://www.cocoloop.cn/t/topic/12840",
           "source": "CocoLoop AI社区 - 最新话题",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-27T05:12:08Z"
+          "published_at": "2026-07-27T09:30:10Z"
         },
         {
-          "id": "fe7fc55a6cc6c51834a574c150f932257e986646",
-          "title": "[OpenAI] 感觉 codex gpt-5.6 sol 现在也就之前 5.5 的水准",
-          "url": "https://www.v2ex.com/t/1230061",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T03:02:26Z"
+          "id": "f31ed9e35f9b0c7e3ecadf4a2dc98b457bc3addb",
+          "title": "[OpenAI] GPT Plus 过期后，剩余用量是否还是 Plus 标准？",
+          "url": "https://www.v2ex.com/t/1230175",
+          "source": "V2EX",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T09:07:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "CocoLoop AI社区 - 最新话题",
-        "V2EX (创意工作者社区)"
+        "V2EX"
       ],
       "items": [
         {
-          "id": "f583ecf7b9152348a6265a8ad579effab14e2bfc",
-          "title": "感觉 codex gpt-5.6 sol 现在也就之前 5.5 的水准",
-          "url": "https://www.cocoloop.cn/t/topic/12815",
+          "id": "a2966ffdacf6f64f71e0fdfa04056300a5c3cc30",
+          "title": "GPT Plus 过期后，剩余用量是否还是 Plus 标准？",
+          "url": "https://www.cocoloop.cn/t/topic/12840",
           "source": "CocoLoop AI社区 - 最新话题",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-07-27T05:12:08Z"
+          "published_at": "2026-07-27T09:30:10Z"
         },
         {
-          "id": "fe7fc55a6cc6c51834a574c150f932257e986646",
-          "title": "[OpenAI] 感觉 codex gpt-5.6 sol 现在也就之前 5.5 的水准",
-          "url": "https://www.v2ex.com/t/1230061",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T03:02:26Z"
+          "id": "f31ed9e35f9b0c7e3ecadf4a2dc98b457bc3addb",
+          "title": "[OpenAI] GPT Plus 过期后，剩余用量是否还是 Plus 标准？",
+          "url": "https://www.v2ex.com/t/1230175",
+          "source": "V2EX",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-27T09:07:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6262,
-      "importance": 0.6262,
-      "importance_score": 0.6262,
+      "score": 0.627,
+      "importance": 0.627,
+      "importance_score": 0.627,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8812,
+        "recency": 0.8851,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-27T03:02:26Z",
-      "latest_at": "2026-07-27T05:12:08Z",
+      "earliest_at": "2026-07-27T09:07:09Z",
+      "latest_at": "2026-07-27T09:30:10Z",
       "primary_item": {
-        "id": "f583ecf7b9152348a6265a8ad579effab14e2bfc",
-        "title": "感觉 codex gpt-5.6 sol 现在也就之前 5.5 的水准",
-        "url": "https://www.cocoloop.cn/t/topic/12815",
-        "source": "CocoLoop AI社区 - 最新话题",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_bb868742a237",
-      "title": "智攻智防：探索 AI 时代安全新范式",
-      "url": "https://mp.weixin.qq.com/s/cWb42D0NSbv3xLlDRLMOIw",
-      "primary_url": "https://mp.weixin.qq.com/s/cWb42D0NSbv3xLlDRLMOIw",
-      "source": "网络安全 | 洞见网安",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "c1c410163d966c0ec78e162fbd8b06a713c7d420",
-          "title": "智攻智防：探索 AI 时代安全新范式",
-          "url": "https://mp.weixin.qq.com/s/cWb42D0NSbv3xLlDRLMOIw",
-          "source": "网络安全 | 洞见网安",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T09:54:16Z"
-        },
-        {
-          "id": "404381cf4c50879d3a37e05e4e9d9f99426ae242",
-          "title": "智攻智防：探索 AI 时代安全新范式",
-          "url": "https://www.gm7.org/archives/133877",
-          "source": "信息安全知识库 » Feed",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T04:04:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "信息安全知识库 » Feed",
-        "网络安全 | 洞见网安"
-      ],
-      "items": [
-        {
-          "id": "c1c410163d966c0ec78e162fbd8b06a713c7d420",
-          "title": "智攻智防：探索 AI 时代安全新范式",
-          "url": "https://mp.weixin.qq.com/s/cWb42D0NSbv3xLlDRLMOIw",
-          "source": "网络安全 | 洞见网安",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T09:54:16Z"
-        },
-        {
-          "id": "404381cf4c50879d3a37e05e4e9d9f99426ae242",
-          "title": "智攻智防：探索 AI 时代安全新范式",
-          "url": "https://www.gm7.org/archives/133877",
-          "source": "信息安全知识库 » Feed",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T04:04:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.626,
-      "importance": 0.626,
-      "importance_score": 0.626,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T04:04:56Z",
-      "latest_at": "2026-07-27T09:54:16Z",
-      "primary_item": {
-        "id": "c1c410163d966c0ec78e162fbd8b06a713c7d420",
-        "title": "智攻智防：探索 AI 时代安全新范式",
-        "url": "https://mp.weixin.qq.com/s/cWb42D0NSbv3xLlDRLMOIw",
-        "source": "网络安全 | 洞见网安",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_453072f08646",
-      "title": "alchaincyf 关闭了 darwin-skill 中的一个问题 / alchaincyf closed an issue in darwin-skill",
-      "url": "https://github.com/alchaincyf/darwin-skill/issues/4",
-      "primary_url": "https://github.com/alchaincyf/darwin-skill/issues/4",
-      "source": "AI进化论-花生",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "962cfbdb9daf2d7fd421932bd427b0fe4fedbf08",
-          "title": "alchaincyf 关闭了 darwin-skill 中的一个问题 / alchaincyf closed an issue in darwin-skill",
-          "url": "https://github.com/alchaincyf/darwin-skill/issues/4",
-          "source": "AI进化论-花生",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T04:36:57Z"
-        },
-        {
-          "id": "4663d34ff48b7ed5c4049a360eda6ca17e5a9549",
-          "title": "alchaincyf 评论了 darwin-skill 中的一个问题 / alchaincyf commented on an issue in darwin-skill",
-          "url": "https://github.com/alchaincyf/darwin-skill/issues/4",
-          "source": "AI进化论-花生",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T04:36:57Z"
-        },
-        {
-          "id": "dd31f924cf1ee2413827bcf9587c94f70a9a8526",
-          "title": "alchaincyf 关闭了 darwin-skill 中的一个问题 / alchaincyf closed an issue in darwin-skill",
-          "url": "https://github.com/alchaincyf/darwin-skill/issues/22",
-          "source": "AI进化论-花生",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T02:56:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "AI进化论-花生"
-      ],
-      "items": [
-        {
-          "id": "962cfbdb9daf2d7fd421932bd427b0fe4fedbf08",
-          "title": "alchaincyf 关闭了 darwin-skill 中的一个问题 / alchaincyf closed an issue in darwin-skill",
-          "url": "https://github.com/alchaincyf/darwin-skill/issues/4",
-          "source": "AI进化论-花生",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T04:36:57Z"
-        },
-        {
-          "id": "4663d34ff48b7ed5c4049a360eda6ca17e5a9549",
-          "title": "alchaincyf 评论了 darwin-skill 中的一个问题 / alchaincyf commented on an issue in darwin-skill",
-          "url": "https://github.com/alchaincyf/darwin-skill/issues/4",
-          "source": "AI进化论-花生",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T04:36:57Z"
-        },
-        {
-          "id": "dd31f924cf1ee2413827bcf9587c94f70a9a8526",
-          "title": "alchaincyf 关闭了 darwin-skill 中的一个问题 / alchaincyf closed an issue in darwin-skill",
-          "url": "https://github.com/alchaincyf/darwin-skill/issues/22",
-          "source": "AI进化论-花生",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-27T02:56:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6224,
-      "importance": 0.6224,
-      "importance_score": 0.6224,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8568,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T02:56:07Z",
-      "latest_at": "2026-07-27T04:36:57Z",
-      "primary_item": {
-        "id": "962cfbdb9daf2d7fd421932bd427b0fe4fedbf08",
-        "title": "alchaincyf 关闭了 darwin-skill 中的一个问题 / alchaincyf closed an issue in darwin-skill",
-        "url": "https://github.com/alchaincyf/darwin-skill/issues/4",
-        "source": "AI进化论-花生",
+        "id": "f31ed9e35f9b0c7e3ecadf4a2dc98b457bc3addb",
+        "title": "[OpenAI] GPT Plus 过期后，剩余用量是否还是 Plus 标准？",
+        "url": "https://www.v2ex.com/t/1230175",
+        "source": "V2EX",
         "source_name": "OPML RSS"
       }
     }
