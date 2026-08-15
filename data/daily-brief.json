@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:26:42.483886Z",
+  "generated_at": "2026-08-15T21:25:24.511656Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.607,
+        "recency": 0.5663,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -372,14 +372,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6975,
-      "importance": 0.6975,
-      "importance_score": 0.6975,
+      "score": 0.6893,
+      "importance": 0.6893,
+      "importance_score": 0.6893,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9823,
+        "recency": 0.9416,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -485,14 +485,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6832,
-      "importance": 0.6832,
-      "importance_score": 0.6832,
+      "score": 0.675,
+      "importance": 0.675,
+      "importance_score": 0.675,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.991,
+        "recency": 0.9502,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -506,6 +506,103 @@
         "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
         "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/b064a8172b...c1a5da4975",
         "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_a1a4fdb6d6a5",
+      "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+      "url": "https://chenxiachan.github.io/thoughtdag",
+      "primary_url": "https://chenxiachan.github.io/thoughtdag",
+      "source": "Buzzing|国外社交媒体热榜",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "6ae40e7c40fc5d43f81db2e9ee4f7b6ab4dd5984",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T21:09:54.519000Z"
+        },
+        {
+          "id": "f00e21b01c65e1259bcb305295f85619506f7b3d",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T05:22:17.968914Z"
+        },
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:20:58.424000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Buzzing|国外社交媒体热榜",
+        "Hacker News Digest",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6ae40e7c40fc5d43f81db2e9ee4f7b6ab4dd5984",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T21:09:54.519000Z"
+        },
+        {
+          "id": "f00e21b01c65e1259bcb305295f85619506f7b3d",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T05:22:17.968914Z"
+        },
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:20:58.424000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6698,
+      "importance": 0.6698,
+      "importance_score": 0.6698,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.74,
+        "recency": 0.9892,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T05:22:17.968914Z",
+      "latest_at": "2026-08-15T21:09:54.519000Z",
+      "primary_item": {
+        "id": "6ae40e7c40fc5d43f81db2e9ee4f7b6ab4dd5984",
+        "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+        "url": "https://chenxiachan.github.io/thoughtdag",
+        "source": "Buzzing|国外社交媒体热榜",
         "source_name": "OPML RSS"
       }
     },
@@ -616,14 +713,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6602,
-      "importance": 0.6602,
-      "importance_score": 0.6602,
+      "score": 0.6521,
+      "importance": 0.6521,
+      "importance_score": 0.6521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7961,
+        "recency": 0.7554,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -641,99 +738,98 @@
       }
     },
     {
-      "story_id": "story_627a59aedf96",
-      "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "primary_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "source": "Buzzing|国外社交媒体热榜",
+      "story_id": "story_82c83a02c855",
+      "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
+      "url": "https://github.com/teng-lin/rookie-cookies/compare/4d45864098...c7d6ca7018",
+      "primary_url": "https://github.com/teng-lin/rookie-cookies/compare/4d45864098...c7d6ca7018",
+      "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "c7267d915af8e9e8db82ed63390b0e784c7611e9",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Buzzing|国外社交媒体热榜",
+          "id": "9f02fb902c6fb25ebf5a89be95400a651777b4ea",
+          "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/4d45864098...c7d6ca7018",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T19:18:02.348000Z"
+          "published_at": "2026-08-15T20:44:53Z"
         },
         {
-          "id": "b10224c48f743138f43a6dd2a6be047df82a919a",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News Digest",
+          "id": "1c1f37a4ece303606475a19be2ef600a9dfab38a",
+          "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/ac07a031f9...7b7cb201fa",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T18:22:10.815003Z"
+          "published_at": "2026-08-15T18:21:08Z"
         },
         {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:09:30.973000Z"
+          "id": "3c38a33a807eb6d19ba4e6bc5a48351813eae643",
+          "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/80679e712d...2db2d7a8be",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T16:34:24Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Hacker News Digest",
-        "hackernews"
+        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
       ],
       "items": [
         {
-          "id": "c7267d915af8e9e8db82ed63390b0e784c7611e9",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Buzzing|国外社交媒体热榜",
+          "id": "9f02fb902c6fb25ebf5a89be95400a651777b4ea",
+          "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/4d45864098...c7d6ca7018",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T19:18:02.348000Z"
+          "published_at": "2026-08-15T20:44:53Z"
         },
         {
-          "id": "b10224c48f743138f43a6dd2a6be047df82a919a",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News Digest",
+          "id": "1c1f37a4ece303606475a19be2ef600a9dfab38a",
+          "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/ac07a031f9...7b7cb201fa",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T18:22:10.815003Z"
+          "published_at": "2026-08-15T18:21:08Z"
         },
         {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:09:30.973000Z"
+          "id": "3c38a33a807eb6d19ba4e6bc5a48351813eae643",
+          "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/80679e712d...2db2d7a8be",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T16:34:24Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6535,
-      "importance": 0.6535,
-      "importance_score": 0.6535,
+      "score": 0.6454,
+      "importance": 0.6454,
+      "importance_score": 0.6454,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9523,
+        "ai_relevance": 0.67,
+        "recency": 0.9719,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T18:22:10.815003Z",
-      "latest_at": "2026-08-15T20:09:30.973000Z",
+      "earliest_at": "2026-08-15T16:34:24Z",
+      "latest_at": "2026-08-15T20:44:53Z",
       "primary_item": {
-        "id": "c7267d915af8e9e8db82ed63390b0e784c7611e9",
-        "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-        "source": "Buzzing|国外社交媒体热榜",
+        "id": "9f02fb902c6fb25ebf5a89be95400a651777b4ea",
+        "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
+        "url": "https://github.com/teng-lin/rookie-cookies/compare/4d45864098...c7d6ca7018",
+        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
         "source_name": "OPML RSS"
       }
     },
@@ -808,14 +904,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6487,
-      "importance": 0.6487,
-      "importance_score": 0.6487,
+      "score": 0.6405,
+      "importance": 0.6405,
+      "importance_score": 0.6405,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9283,
+        "recency": 0.8876,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -905,14 +1001,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.642,
-      "importance": 0.642,
-      "importance_score": 0.642,
+      "score": 0.6339,
+      "importance": 0.6339,
+      "importance_score": 0.6339,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9552,
+        "recency": 0.9144,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1018,14 +1114,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.637,
-      "importance": 0.637,
-      "importance_score": 0.637,
+      "score": 0.6288,
+      "importance": 0.6288,
+      "importance_score": 0.6288,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8049,
+        "recency": 0.7641,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1115,14 +1211,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6353,
-      "importance": 0.6353,
-      "importance_score": 0.6353,
+      "score": 0.6271,
+      "importance": 0.6271,
+      "importance_score": 0.6271,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8615,
+        "recency": 0.8207,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1212,14 +1308,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6289,
-      "importance": 0.6289,
-      "importance_score": 0.6289,
+      "score": 0.6207,
+      "importance": 0.6207,
+      "importance_score": 0.6207,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8293,
+        "recency": 0.7885,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1233,6 +1329,199 @@
         "title": "joeseesun 主演任何地方-labs/deepseek-harness-desktop / joeseesun starred anywhere-labs/deepseek-harness-desktop",
         "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
         "source": "向阳乔木joeseesun",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_627a59aedf96",
+      "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "primary_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source": "Buzzing|国外社交媒体热榜",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "c7267d915af8e9e8db82ed63390b0e784c7611e9",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T19:18:02.348000Z"
+        },
+        {
+          "id": "b10224c48f743138f43a6dd2a6be047df82a919a",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T19:14:29.871147Z"
+        },
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:09:30.973000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Buzzing|国外社交媒体热榜",
+        "Hacker News Digest",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c7267d915af8e9e8db82ed63390b0e784c7611e9",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T19:18:02.348000Z"
+        },
+        {
+          "id": "b10224c48f743138f43a6dd2a6be047df82a919a",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T19:14:29.871147Z"
+        },
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:09:30.973000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6453,
+      "importance": 0.6453,
+      "importance_score": 0.6453,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9115,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:14:29.871147Z",
+      "latest_at": "2026-08-15T20:09:30.973000Z",
+      "primary_item": {
+        "id": "c7267d915af8e9e8db82ed63390b0e784c7611e9",
+        "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "source": "Buzzing|国外社交媒体热榜",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_d7824c2c3a03",
+      "title": "腾林创建分公司 / teng-lin created a branch",
+      "url": "https://github.com/teng-lin/rookie-cookies/compare/0000000000...4d45864098",
+      "primary_url": "https://github.com/teng-lin/rookie-cookies/compare/0000000000...4d45864098",
+      "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "3f0b8d1652dffd393ee418742e13759b59ad52e6",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/0000000000...4d45864098",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T20:32:45Z"
+        },
+        {
+          "id": "855f50d152c2a64147909d997faf5f6cac71012c",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/0000000000...4427202bd1",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T18:08:26Z"
+        },
+        {
+          "id": "ae2f5a60c98bb34c1305d1281a86c819ac50f4ed",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/0000000000...69fca6d79b",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T16:18:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
+      ],
+      "items": [
+        {
+          "id": "3f0b8d1652dffd393ee418742e13759b59ad52e6",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/0000000000...4d45864098",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T20:32:45Z"
+        },
+        {
+          "id": "855f50d152c2a64147909d997faf5f6cac71012c",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/0000000000...4427202bd1",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T18:08:26Z"
+        },
+        {
+          "id": "ae2f5a60c98bb34c1305d1281a86c819ac50f4ed",
+          "title": "腾林创建分公司 / teng-lin created a branch",
+          "url": "https://github.com/teng-lin/rookie-cookies/compare/0000000000...69fca6d79b",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-15T16:18:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6437,
+      "importance": 0.6437,
+      "importance_score": 0.6437,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9634,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T16:18:12Z",
+      "latest_at": "2026-08-15T20:32:45Z",
+      "primary_item": {
+        "id": "3f0b8d1652dffd393ee418742e13759b59ad52e6",
+        "title": "腾林创建分公司 / teng-lin created a branch",
+        "url": "https://github.com/teng-lin/rookie-cookies/compare/0000000000...4d45864098",
+        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
         "source_name": "OPML RSS"
       }
     },
@@ -1307,14 +1596,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6489,
-      "importance": 0.6489,
-      "importance_score": 0.6489,
+      "score": 0.6407,
+      "importance": 0.6407,
+      "importance_score": 0.6407,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9894,
+        "recency": 0.9486,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1332,30 +1621,30 @@
       }
     },
     {
-      "story_id": "story_46e8673dc879",
-      "title": "MervinPraison 对 PraisonAI-Tools 中的一个问题发表了评论 / MervinPraison commented on an issue in PraisonAI-Tools",
-      "url": "https://github.com/MervinPraison/PraisonAI-Tools/issues/83",
-      "primary_url": "https://github.com/MervinPraison/PraisonAI-Tools/issues/83",
+      "story_id": "story_d584c38c21a8",
+      "title": "MervinPraison 为 MervinPraison/PraisonAI-Tools 做出了贡献 / MervinPraison contributed to MervinPraison/PraisonAI-Tools",
+      "url": "https://github.com/MervinPraison/PraisonAI-Tools/pull/84",
+      "primary_url": "https://github.com/MervinPraison/PraisonAI-Tools/pull/84",
       "source": "MervinPraison| 国外AI测评",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "24840edd6f2465650eccfcf347d834105890d9f4",
-          "title": "MervinPraison 对 PraisonAI-Tools 中的一个问题发表了评论 / MervinPraison commented on an issue in PraisonAI-Tools",
-          "url": "https://github.com/MervinPraison/PraisonAI-Tools/issues/83",
+          "id": "cac6f499eb78c2787290e85832d2e66f2defb23f",
+          "title": "MervinPraison 为 MervinPraison/PraisonAI-Tools 做出了贡献 / MervinPraison contributed to MervinPraison/PraisonAI-Tools",
+          "url": "https://github.com/MervinPraison/PraisonAI-Tools/pull/84",
           "source": "MervinPraison| 国外AI测评",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T19:20:55Z"
+          "published_at": "2026-08-15T19:27:19Z"
         },
         {
-          "id": "4262ed72498a51aa4c7d17fa348fd0ff71dbe4d8",
-          "title": "MervinPraison 在 PraisonAI-Tools 中标记了一个问题 / MervinPraison labeled an issue in PraisonAI-Tools",
-          "url": "https://github.com/MervinPraison/PraisonAI-Tools/issues/83",
+          "id": "b9a64e4c373e2c38c3ec441e7f6824fa9a1602cd",
+          "title": "MervinPraison 在 PraisonAI-Tools 中打开了拉取请求 / MervinPraison opened a pull request in PraisonAI-Tools",
+          "url": "https://github.com/MervinPraison/PraisonAI-Tools/pull/84",
           "source": "MervinPraison| 国外AI测评",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T19:20:46Z"
+          "published_at": "2026-08-15T19:27:19Z"
         }
       ],
       "source_count": 2,
@@ -1364,46 +1653,46 @@
       ],
       "items": [
         {
-          "id": "24840edd6f2465650eccfcf347d834105890d9f4",
-          "title": "MervinPraison 对 PraisonAI-Tools 中的一个问题发表了评论 / MervinPraison commented on an issue in PraisonAI-Tools",
-          "url": "https://github.com/MervinPraison/PraisonAI-Tools/issues/83",
+          "id": "cac6f499eb78c2787290e85832d2e66f2defb23f",
+          "title": "MervinPraison 为 MervinPraison/PraisonAI-Tools 做出了贡献 / MervinPraison contributed to MervinPraison/PraisonAI-Tools",
+          "url": "https://github.com/MervinPraison/PraisonAI-Tools/pull/84",
           "source": "MervinPraison| 国外AI测评",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T19:20:55Z"
+          "published_at": "2026-08-15T19:27:19Z"
         },
         {
-          "id": "4262ed72498a51aa4c7d17fa348fd0ff71dbe4d8",
-          "title": "MervinPraison 在 PraisonAI-Tools 中标记了一个问题 / MervinPraison labeled an issue in PraisonAI-Tools",
-          "url": "https://github.com/MervinPraison/PraisonAI-Tools/issues/83",
+          "id": "b9a64e4c373e2c38c3ec441e7f6824fa9a1602cd",
+          "title": "MervinPraison 在 PraisonAI-Tools 中打开了拉取请求 / MervinPraison opened a pull request in PraisonAI-Tools",
+          "url": "https://github.com/MervinPraison/PraisonAI-Tools/pull/84",
           "source": "MervinPraison| 国外AI测评",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T19:20:46Z"
+          "published_at": "2026-08-15T19:27:19Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6169,
-      "importance": 0.6169,
-      "importance_score": 0.6169,
+      "score": 0.6096,
+      "importance": 0.6096,
+      "importance_score": 0.6096,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9543,
+        "recency": 0.918,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T19:20:46Z",
-      "latest_at": "2026-08-15T19:20:55Z",
+      "earliest_at": "2026-08-15T19:27:19Z",
+      "latest_at": "2026-08-15T19:27:19Z",
       "primary_item": {
-        "id": "24840edd6f2465650eccfcf347d834105890d9f4",
-        "title": "MervinPraison 对 PraisonAI-Tools 中的一个问题发表了评论 / MervinPraison commented on an issue in PraisonAI-Tools",
-        "url": "https://github.com/MervinPraison/PraisonAI-Tools/issues/83",
+        "id": "cac6f499eb78c2787290e85832d2e66f2defb23f",
+        "title": "MervinPraison 为 MervinPraison/PraisonAI-Tools 做出了贡献 / MervinPraison contributed to MervinPraison/PraisonAI-Tools",
+        "url": "https://github.com/MervinPraison/PraisonAI-Tools/pull/84",
         "source": "MervinPraison| 国外AI测评",
         "source_name": "OPML RSS"
       }
@@ -1461,14 +1750,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.615,
-      "importance": 0.615,
-      "importance_score": 0.615,
+      "score": 0.6069,
+      "importance": 0.6069,
+      "importance_score": 0.6069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8851,
+        "recency": 0.8443,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1486,79 +1775,79 @@
       }
     },
     {
-      "story_id": "story_82c83a02c855",
-      "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
-      "url": "https://github.com/teng-lin/rookie-cookies/compare/ac07a031f9...7b7cb201fa",
-      "primary_url": "https://github.com/teng-lin/rookie-cookies/compare/ac07a031f9...7b7cb201fa",
-      "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+      "story_id": "story_485fd6df4a67",
+      "title": "迪克斯沃斯通推动了 Franken_overlap / Dicklesworthstone pushed franken_overlap",
+      "url": "https://github.com/Dicklesworthstone/franken_overlap/compare/ca73bed78f...d2905040de",
+      "primary_url": "https://github.com/Dicklesworthstone/franken_overlap/compare/ca73bed78f...d2905040de",
+      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "1c1f37a4ece303606475a19be2ef600a9dfab38a",
-          "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
-          "url": "https://github.com/teng-lin/rookie-cookies/compare/ac07a031f9...7b7cb201fa",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "id": "266b3d9610116ca57c2183ea75e1fdbf4315fd28",
+          "title": "迪克斯沃斯通推动了 Franken_overlap / Dicklesworthstone pushed franken_overlap",
+          "url": "https://github.com/Dicklesworthstone/franken_overlap/compare/ca73bed78f...d2905040de",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T18:21:08Z"
+          "published_at": "2026-08-15T21:06:26Z"
         },
         {
-          "id": "3c38a33a807eb6d19ba4e6bc5a48351813eae643",
-          "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
-          "url": "https://github.com/teng-lin/rookie-cookies/compare/80679e712d...2db2d7a8be",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "id": "3cfaf211b8618f29fc01c43e8bc2bd2310623726",
+          "title": "Dicklesworthstone 推动了 Frankenlibc / Dicklesworthstone pushed frankenlibc",
+          "url": "https://github.com/Dicklesworthstone/frankenlibc/compare/75563d218b...e2d1f63a71",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T16:34:24Z"
+          "published_at": "2026-08-15T15:27:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
+        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
       ],
       "items": [
         {
-          "id": "1c1f37a4ece303606475a19be2ef600a9dfab38a",
-          "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
-          "url": "https://github.com/teng-lin/rookie-cookies/compare/ac07a031f9...7b7cb201fa",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "id": "266b3d9610116ca57c2183ea75e1fdbf4315fd28",
+          "title": "迪克斯沃斯通推动了 Franken_overlap / Dicklesworthstone pushed franken_overlap",
+          "url": "https://github.com/Dicklesworthstone/franken_overlap/compare/ca73bed78f...d2905040de",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T18:21:08Z"
+          "published_at": "2026-08-15T21:06:26Z"
         },
         {
-          "id": "3c38a33a807eb6d19ba4e6bc5a48351813eae643",
-          "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
-          "url": "https://github.com/teng-lin/rookie-cookies/compare/80679e712d...2db2d7a8be",
-          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "id": "3cfaf211b8618f29fc01c43e8bc2bd2310623726",
+          "title": "Dicklesworthstone 推动了 Frankenlibc / Dicklesworthstone pushed frankenlibc",
+          "url": "https://github.com/Dicklesworthstone/frankenlibc/compare/75563d218b...e2d1f63a71",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-15T16:34:24Z"
+          "published_at": "2026-08-15T15:27:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6086,
-      "importance": 0.6086,
-      "importance_score": 0.6086,
+      "score": 0.6324,
+      "importance": 0.6324,
+      "importance_score": 0.6324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9128,
+        "ai_relevance": 0.7,
+        "recency": 0.9868,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T16:34:24Z",
-      "latest_at": "2026-08-15T18:21:08Z",
+      "earliest_at": "2026-08-15T15:27:14Z",
+      "latest_at": "2026-08-15T21:06:26Z",
       "primary_item": {
-        "id": "1c1f37a4ece303606475a19be2ef600a9dfab38a",
-        "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
-        "url": "https://github.com/teng-lin/rookie-cookies/compare/ac07a031f9...7b7cb201fa",
-        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "id": "266b3d9610116ca57c2183ea75e1fdbf4315fd28",
+        "title": "迪克斯沃斯通推动了 Franken_overlap / Dicklesworthstone pushed franken_overlap",
+        "url": "https://github.com/Dicklesworthstone/franken_overlap/compare/ca73bed78f...d2905040de",
+        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
         "source_name": "OPML RSS"
       }
     },
@@ -1616,14 +1905,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6078,
-      "importance": 0.6078,
-      "importance_score": 0.6078,
+      "score": 0.5996,
+      "importance": 0.5996,
+      "importance_score": 0.5996,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8489,
+        "recency": 0.8081,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1693,14 +1982,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6061,
-      "importance": 0.6061,
-      "importance_score": 0.6061,
+      "score": 0.5979,
+      "importance": 0.5979,
+      "importance_score": 0.5979,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.8555,
+        "recency": 0.8147,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1714,291 +2003,6 @@
         "title": "评论 ShieldFont：用 phuzz 攻击不尊重 Robots.txt 的 AI 抓取工具 / Comment on ShieldFont: Bludgeoning AI Scrapers that Disrespect Robots.txt by phuzz",
         "url": "https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt",
         "source": "Hackaday » Comments",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_55803448eee3",
-      "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
-      "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/117",
-      "primary_url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/117",
-      "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "297248723fe51bf9d845c12eaa915eba55655465",
-          "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
-          "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/117",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T09:42:15Z"
-        },
-        {
-          "id": "35d2976755071d2e1ff6593492e32fe34424c46d",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-cards 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-cards",
-          "url": "https://github.com/scitex-ai/scitex-cards/pull/847",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T08:37:05Z"
-        },
-        {
-          "id": "3cd9afb99ce09189321523ea2ee1ccd9c627990a",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-agent-container 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-agent-container",
-          "url": "https://github.com/scitex-ai/scitex-agent-container/pull/1060",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T07:32:48Z"
-        },
-        {
-          "id": "5c2ec0f21f7ac7632eb3d045fd003e0466a01ce0",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-cards 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-cards",
-          "url": "https://github.com/scitex-ai/scitex-cards/pull/829",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T06:06:12Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道"
-      ],
-      "items": [
-        {
-          "id": "297248723fe51bf9d845c12eaa915eba55655465",
-          "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
-          "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/117",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T09:42:15Z"
-        },
-        {
-          "id": "35d2976755071d2e1ff6593492e32fe34424c46d",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-cards 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-cards",
-          "url": "https://github.com/scitex-ai/scitex-cards/pull/847",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T08:37:05Z"
-        },
-        {
-          "id": "3cd9afb99ce09189321523ea2ee1ccd9c627990a",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-agent-container 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-agent-container",
-          "url": "https://github.com/scitex-ai/scitex-agent-container/pull/1060",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T07:32:48Z"
-        },
-        {
-          "id": "5c2ec0f21f7ac7632eb3d045fd003e0466a01ce0",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-cards 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-cards",
-          "url": "https://github.com/scitex-ai/scitex-cards/pull/829",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T06:06:12Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5985,
-      "importance": 0.5985,
-      "importance_score": 0.5985,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.5525,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T06:06:12Z",
-      "latest_at": "2026-08-15T09:42:15Z",
-      "primary_item": {
-        "id": "297248723fe51bf9d845c12eaa915eba55655465",
-        "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
-        "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/117",
-        "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_d6a1cd71c902",
-      "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
-      "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/a534c22ea5...75ef522e46",
-      "primary_url": "https://github.com/xr843/Buddhist-AI-Translator/compare/a534c22ea5...75ef522e46",
-      "source": "xr843|fojin",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "23838dad2aab7c35ae92b5ad178efeffe0588413",
-          "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
-          "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/a534c22ea5...75ef522e46",
-          "source": "xr843|fojin",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T14:01:21Z"
-        },
-        {
-          "id": "8d777645e0e436036eca2210cbfe21728605158f",
-          "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
-          "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/99a53257c2...a534c22ea5",
-          "source": "xr843|fojin",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T12:52:38Z"
-        },
-        {
-          "id": "2ea2a655cf4b3884191b2a982bdd9faae6878ec8",
-          "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
-          "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/9de1eb79ff...99a53257c2",
-          "source": "xr843|fojin",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T11:25:02Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "xr843|fojin"
-      ],
-      "items": [
-        {
-          "id": "23838dad2aab7c35ae92b5ad178efeffe0588413",
-          "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
-          "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/a534c22ea5...75ef522e46",
-          "source": "xr843|fojin",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T14:01:21Z"
-        },
-        {
-          "id": "8d777645e0e436036eca2210cbfe21728605158f",
-          "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
-          "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/99a53257c2...a534c22ea5",
-          "source": "xr843|fojin",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T12:52:38Z"
-        },
-        {
-          "id": "2ea2a655cf4b3884191b2a982bdd9faae6878ec8",
-          "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
-          "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/9de1eb79ff...99a53257c2",
-          "source": "xr843|fojin",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T11:25:02Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5975,
-      "importance": 0.5975,
-      "importance_score": 0.5975,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.7324,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T11:25:02Z",
-      "latest_at": "2026-08-15T14:01:21Z",
-      "primary_item": {
-        "id": "23838dad2aab7c35ae92b5ad178efeffe0588413",
-        "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
-        "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/a534c22ea5...75ef522e46",
-        "source": "xr843|fojin",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_ca2e01335761",
-      "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-      "url": "https://github.com/BytePioneer-AI/codex-host/compare/175ce73924...cfada2df45",
-      "primary_url": "https://github.com/BytePioneer-AI/codex-host/compare/175ce73924...cfada2df45",
-      "source": "BytePioneer-AI | chongwen",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "09078e2f5d39f5c945f014b3e0c240e412547336",
-          "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-          "url": "https://github.com/BytePioneer-AI/codex-host/compare/175ce73924...cfada2df45",
-          "source": "BytePioneer-AI | chongwen",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T15:33:13Z"
-        },
-        {
-          "id": "279fcd94abaeecb61ac36eb4acdf869df2dca1cc",
-          "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-          "url": "https://github.com/BytePioneer-AI/codex-host/compare/a6f4e36cc8...bc3c6c343d",
-          "source": "BytePioneer-AI | chongwen",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T14:33:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BytePioneer-AI | chongwen"
-      ],
-      "items": [
-        {
-          "id": "09078e2f5d39f5c945f014b3e0c240e412547336",
-          "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-          "url": "https://github.com/BytePioneer-AI/codex-host/compare/175ce73924...cfada2df45",
-          "source": "BytePioneer-AI | chongwen",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T15:33:13Z"
-        },
-        {
-          "id": "279fcd94abaeecb61ac36eb4acdf869df2dca1cc",
-          "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-          "url": "https://github.com/BytePioneer-AI/codex-host/compare/a6f4e36cc8...bc3c6c343d",
-          "source": "BytePioneer-AI | chongwen",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-15T14:33:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5972,
-      "importance": 0.5972,
-      "importance_score": 0.5972,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.7962,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T14:33:10Z",
-      "latest_at": "2026-08-15T15:33:13Z",
-      "primary_item": {
-        "id": "09078e2f5d39f5c945f014b3e0c240e412547336",
-        "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-        "url": "https://github.com/BytePioneer-AI/codex-host/compare/175ce73924...cfada2df45",
-        "source": "BytePioneer-AI | chongwen",
         "source_name": "OPML RSS"
       }
     }
