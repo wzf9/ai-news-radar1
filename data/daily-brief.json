@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:54:19.578723Z",
+  "generated_at": "2026-08-17T12:52:01.615408Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8373,
+        "recency": 0.7972,
         "story_heat": 0.0
       },
       "category": "official",
@@ -118,14 +118,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9599,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -142,6 +142,87 @@
         "url": "https://www.aibase.com/news/30392",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_96670aeff66e",
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "primary_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
+          "title": "New policy ideas for the Intelligence Age",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T03:15:00Z"
+        },
+        {
+          "id": "ff5779eb5275d18bb889cb1dc3d6781bf96a6313",
+          "title": "OpenAI 资助 14 个项目探索新的人工智能政策理念 / OpenAI funds 14 projects exploring new AI policy ideas",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
+          "title": "New policy ideas for the Intelligence Age",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T03:15:00Z"
+        },
+        {
+          "id": "ff5779eb5275d18bb889cb1dc3d6781bf96a6313",
+          "title": "OpenAI 资助 14 个项目探索新的人工智能政策理念 / OpenAI funds 14 projects exploring new AI policy ideas",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5993,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T03:15:00Z",
+      "latest_at": "2026-08-17T12:52:01.615408Z",
+      "primary_item": {
+        "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
+        "title": "New policy ideas for the Intelligence Age",
+        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -198,14 +279,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9599,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -222,67 +303,6 @@
         "url": "https://www.aibase.com/news/30396",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_96670aeff66e",
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "primary_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
-          "title": "New policy ideas for the Intelligence Age",
-          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T03:15:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
-          "title": "New policy ideas for the Intelligence Age",
-          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T03:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6394,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T03:15:00Z",
-      "latest_at": "2026-08-17T03:15:00Z",
-      "primary_item": {
-        "id": "98012ec2d34b31c122d53ffafb6e0cbb292bd317",
-        "title": "New policy ideas for the Intelligence Age",
-        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -339,14 +359,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9599,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -419,14 +439,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9599,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,6 +463,137 @@
         "url": "https://www.aibase.com/news/30401",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_14e824d47ba8",
+      "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+      "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/aa4c9c16c0...cbc78c828b",
+      "primary_url": "https://github.com/Dicklesworthstone/franken_numpy/compare/aa4c9c16c0...cbc78c828b",
+      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "74734b8702b0e0ccb903df2710e014b24f13b59b",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/aa4c9c16c0...cbc78c828b",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:51:22Z"
+        },
+        {
+          "id": "8ea8e49bc03f40ecbf1d231d59db1631088b6a2a",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/ea17c83a91...674233de79",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:04:58Z"
+        },
+        {
+          "id": "db7f35218f00bfb60ddf4661f794126a6652f09d",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/24a9fb7cf2...f4793c17e3",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T11:33:12Z"
+        },
+        {
+          "id": "8476e8ceecfc286c3ff8eb56037dfd893b90a776",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/b9c1c6085e...2e974d2880",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T10:45:41Z"
+        },
+        {
+          "id": "bdd33180077d8a6797ebb8b2cb9b3c25c85fda71",
+          "title": "迪克尔斯沃斯通推了弗兰肯熊猫 / Dicklesworthstone pushed frankenpandas",
+          "url": "https://github.com/Dicklesworthstone/frankenpandas/compare/4055ff44a7...37a6bb14e7",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T10:39:00Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
+      ],
+      "items": [
+        {
+          "id": "74734b8702b0e0ccb903df2710e014b24f13b59b",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/aa4c9c16c0...cbc78c828b",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:51:22Z"
+        },
+        {
+          "id": "8ea8e49bc03f40ecbf1d231d59db1631088b6a2a",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/ea17c83a91...674233de79",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:04:58Z"
+        },
+        {
+          "id": "db7f35218f00bfb60ddf4661f794126a6652f09d",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/24a9fb7cf2...f4793c17e3",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T11:33:12Z"
+        },
+        {
+          "id": "8476e8ceecfc286c3ff8eb56037dfd893b90a776",
+          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/b9c1c6085e...2e974d2880",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T10:45:41Z"
+        },
+        {
+          "id": "bdd33180077d8a6797ebb8b2cb9b3c25c85fda71",
+          "title": "迪克尔斯沃斯通推了弗兰肯熊猫 / Dicklesworthstone pushed frankenpandas",
+          "url": "https://github.com/Dicklesworthstone/frankenpandas/compare/4055ff44a7...37a6bb14e7",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T10:39:00Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.7099,
+      "importance": 0.7099,
+      "importance_score": 0.7099,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.9995,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T10:39:00Z",
+      "latest_at": "2026-08-17T12:51:22Z",
+      "primary_item": {
+        "id": "74734b8702b0e0ccb903df2710e014b24f13b59b",
+        "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
+        "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/aa4c9c16c0...cbc78c828b",
+        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -499,14 +650,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9599,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -523,6 +674,268 @@
         "url": "https://www.aibase.com/news/30399",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_59b729f4a9be",
+      "title": "龙印之谜 (2019) BDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Тайна печати дракона (2019) BDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
+      "url": "https://nnmclub.to/forum/viewtopic.php?t=1886479",
+      "primary_url": "https://nnmclub.to/forum/viewtopic.php?t=1886479",
+      "source": "NNM-Club 俄罗斯分享软件等",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "e4e14f1518c5c0bdca94a1d2172fa22ad7930d59",
+          "title": "龙印之谜 (2019) BDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Тайна печати дракона (2019) BDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886479",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:19:24Z"
+        },
+        {
+          "id": "a4980fb2fa1cefbd17281885f720b51516c7d492",
+          "title": "印第安纳琼斯与命运之盘 (2023) BDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Индиана Джонс и колесо судьбы / Indiana Jones and the Dial of Destiny (2023) BDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886478",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:16:42Z"
+        },
+        {
+          "id": "a3b479cbd02dda5fa5f72958c9516ed8586e2eed",
+          "title": "AI - 只要听...第 9 部分 (2026) [MP3|320 Kbps] <其他> / AI - Just listen ... Part 9 (2026) [MP3|320 Kbps] <Other>",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886081",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T11:48:17Z"
+        },
+        {
+          "id": "89e2cbf1c820d8b05ebc3a63b1d1c77d6330011c",
+          "title": "Volot - Greatness of Spirit (2026) AI [MP3|192 Kbps] <异教民间金属> / Волот - Велич Духу (2026) AI [MP3|192 Kbps] <Pagan Folk Metal>",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886093",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T11:47:28Z"
+        },
+        {
+          "id": "f9ba091327c782878fc501e06e4fe7c807fe9c11",
+          "title": "让-克洛德·布里索选集 (1983-2009) DVDRip [白金] / Антология Жан-Клода Бриссо / Anthology of Jean-Claude Brisseau (1983-2009) DVDRip [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=192157",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-16T15:07:37Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "NNM-Club 俄罗斯分享软件等"
+      ],
+      "items": [
+        {
+          "id": "e4e14f1518c5c0bdca94a1d2172fa22ad7930d59",
+          "title": "龙印之谜 (2019) BDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Тайна печати дракона (2019) BDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886479",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:19:24Z"
+        },
+        {
+          "id": "a4980fb2fa1cefbd17281885f720b51516c7d492",
+          "title": "印第安纳琼斯与命运之盘 (2023) BDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Индиана Джонс и колесо судьбы / Indiana Jones and the Dial of Destiny (2023) BDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886478",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:16:42Z"
+        },
+        {
+          "id": "a3b479cbd02dda5fa5f72958c9516ed8586e2eed",
+          "title": "AI - 只要听...第 9 部分 (2026) [MP3|320 Kbps] <其他> / AI - Just listen ... Part 9 (2026) [MP3|320 Kbps] <Other>",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886081",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T11:48:17Z"
+        },
+        {
+          "id": "89e2cbf1c820d8b05ebc3a63b1d1c77d6330011c",
+          "title": "Volot - Greatness of Spirit (2026) AI [MP3|192 Kbps] <异教民间金属> / Волот - Велич Духу (2026) AI [MP3|192 Kbps] <Pagan Folk Metal>",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886093",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T11:47:28Z"
+        },
+        {
+          "id": "f9ba091327c782878fc501e06e4fe7c807fe9c11",
+          "title": "让-克洛德·布里索选集 (1983-2009) DVDRip [白金] / Антология Жан-Клода Бриссо / Anthology of Jean-Claude Brisseau (1983-2009) DVDRip [Platinum]",
+          "url": "https://nnmclub.to/forum/viewtopic.php?t=192157",
+          "source": "NNM-Club 俄罗斯分享软件等",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-16T15:07:37Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.7055,
+      "importance": 0.7055,
+      "importance_score": 0.7055,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.9773,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T15:07:37Z",
+      "latest_at": "2026-08-17T12:19:24Z",
+      "primary_item": {
+        "id": "e4e14f1518c5c0bdca94a1d2172fa22ad7930d59",
+        "title": "龙印之谜 (2019) BDRip [H.265/1080p] [10 位] [手工 AI] [白金] / Тайна печати дракона (2019) BDRip [H.265/1080p] [10-bit] [handmade AI] [Platinum]",
+        "url": "https://nnmclub.to/forum/viewtopic.php?t=1886479",
+        "source": "NNM-Club 俄罗斯分享软件等",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_c56b58e9d916",
+      "title": "第1691期 - 2026-08-17 20:01",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_2001",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_2001",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "86bfee091764267cab82ec1330be2e6e2119c83f",
+          "title": "第1691期 - 2026-08-17 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:01:27Z"
+        },
+        {
+          "id": "969f4c31e4e8452aa5517df3e7db132626aecaeb",
+          "title": "第1690期 - 2026-08-17 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T08:01:09Z"
+        },
+        {
+          "id": "62d8dac5c3fad72a432c98dfa5e2492db7f6535e",
+          "title": "第1689期 - 2026-08-17 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T04:01:36Z"
+        },
+        {
+          "id": "b6ed7d9a6321ef4bf60bdfc5828320f9b5cf74fe",
+          "title": "第1688期 - 2026-08-17 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T00:01:17Z"
+        },
+        {
+          "id": "8da30983496813f38427171822804dc248955800",
+          "title": "第1686期 - 2026-08-17 00:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_0001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-16T16:01:15Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "大黑AI速报"
+      ],
+      "items": [
+        {
+          "id": "86bfee091764267cab82ec1330be2e6e2119c83f",
+          "title": "第1691期 - 2026-08-17 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:01:27Z"
+        },
+        {
+          "id": "969f4c31e4e8452aa5517df3e7db132626aecaeb",
+          "title": "第1690期 - 2026-08-17 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T08:01:09Z"
+        },
+        {
+          "id": "62d8dac5c3fad72a432c98dfa5e2492db7f6535e",
+          "title": "第1689期 - 2026-08-17 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T04:01:36Z"
+        },
+        {
+          "id": "b6ed7d9a6321ef4bf60bdfc5828320f9b5cf74fe",
+          "title": "第1688期 - 2026-08-17 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T00:01:17Z"
+        },
+        {
+          "id": "8da30983496813f38427171822804dc248955800",
+          "title": "第1686期 - 2026-08-17 00:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_0001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-16T16:01:15Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.694,
+      "importance": 0.694,
+      "importance_score": 0.694,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9649,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T16:01:15Z",
+      "latest_at": "2026-08-17T12:01:27Z",
+      "primary_item": {
+        "id": "86bfee091764267cab82ec1330be2e6e2119c83f",
+        "title": "第1691期 - 2026-08-17 20:01",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_2001",
+        "source": "大黑AI速报",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -596,14 +1009,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6766,
-      "importance": 0.6766,
-      "importance_score": 0.6766,
+      "score": 0.6686,
+      "importance": 0.6686,
+      "importance_score": 0.6686,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.79,
-        "recency": 0.9479,
+        "recency": 0.9079,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -621,133 +1034,97 @@
       }
     },
     {
-      "story_id": "story_c56b58e9d916",
-      "title": "第1690期 - 2026-08-17 16:01",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_1601",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_1601",
-      "source": "大黑AI速报",
+      "story_id": "story_a4b104432128",
+      "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
+      "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/119",
+      "primary_url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/119",
+      "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "969f4c31e4e8452aa5517df3e7db132626aecaeb",
-          "title": "第1690期 - 2026-08-17 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_1601",
-          "source": "大黑AI速报",
+          "id": "fa4ea51b5965134957ee8eb189c3a207118e626d",
+          "title": "ywatanabe1989 为 scitex-ai/scitex-cards 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-cards",
+          "url": "https://github.com/scitex-ai/scitex-cards/pull/894",
+          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T08:01:09Z"
+          "published_at": "2026-08-17T12:04:52Z"
         },
         {
-          "id": "62d8dac5c3fad72a432c98dfa5e2492db7f6535e",
-          "title": "第1689期 - 2026-08-17 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_1201",
-          "source": "大黑AI速报",
+          "id": "9104e49067e004d8bcd5865ea000445df0867abf",
+          "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
+          "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/119",
+          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T04:01:36Z"
+          "published_at": "2026-08-17T11:47:57Z"
         },
         {
-          "id": "b6ed7d9a6321ef4bf60bdfc5828320f9b5cf74fe",
-          "title": "第1688期 - 2026-08-17 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_0801",
-          "source": "大黑AI速报",
+          "id": "fd50f8eb9e15daff9eba853def86bcd82b2f8646",
+          "title": "ywatanabe1989 为 scitex-ai/scitex-cards 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-cards",
+          "url": "https://github.com/scitex-ai/scitex-cards/pull/891",
+          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T00:01:17Z"
-        },
-        {
-          "id": "8da30983496813f38427171822804dc248955800",
-          "title": "第1686期 - 2026-08-17 00:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_0001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T16:01:15Z"
-        },
-        {
-          "id": "89dbe3c51611ea0c71542cb557f2ec4f3aaead01",
-          "title": "第1685期 - 2026-08-16 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-16_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T12:01:28Z"
+          "published_at": "2026-08-17T09:14:22Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
-        "大黑AI速报"
+        "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道"
       ],
       "items": [
         {
-          "id": "969f4c31e4e8452aa5517df3e7db132626aecaeb",
-          "title": "第1690期 - 2026-08-17 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_1601",
-          "source": "大黑AI速报",
+          "id": "fa4ea51b5965134957ee8eb189c3a207118e626d",
+          "title": "ywatanabe1989 为 scitex-ai/scitex-cards 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-cards",
+          "url": "https://github.com/scitex-ai/scitex-cards/pull/894",
+          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T08:01:09Z"
+          "published_at": "2026-08-17T12:04:52Z"
         },
         {
-          "id": "62d8dac5c3fad72a432c98dfa5e2492db7f6535e",
-          "title": "第1689期 - 2026-08-17 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_1201",
-          "source": "大黑AI速报",
+          "id": "9104e49067e004d8bcd5865ea000445df0867abf",
+          "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
+          "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/119",
+          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T04:01:36Z"
+          "published_at": "2026-08-17T11:47:57Z"
         },
         {
-          "id": "b6ed7d9a6321ef4bf60bdfc5828320f9b5cf74fe",
-          "title": "第1688期 - 2026-08-17 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_0801",
-          "source": "大黑AI速报",
+          "id": "fd50f8eb9e15daff9eba853def86bcd82b2f8646",
+          "title": "ywatanabe1989 为 scitex-ai/scitex-cards 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-cards",
+          "url": "https://github.com/scitex-ai/scitex-cards/pull/891",
+          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T00:01:17Z"
-        },
-        {
-          "id": "8da30983496813f38427171822804dc248955800",
-          "title": "第1686期 - 2026-08-17 00:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_0001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T16:01:15Z"
-        },
-        {
-          "id": "89dbe3c51611ea0c71542cb557f2ec4f3aaead01",
-          "title": "第1685期 - 2026-08-16 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-16_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T12:01:28Z"
+          "published_at": "2026-08-17T09:14:22Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6686,
-      "importance": 0.6686,
-      "importance_score": 0.6686,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6541,
+      "importance": 0.6541,
+      "importance_score": 0.6541,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8381,
-        "story_heat": 1.0
+        "ai_relevance": 0.71,
+        "recency": 0.9555,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T12:01:28Z",
-      "latest_at": "2026-08-17T08:01:09Z",
+      "earliest_at": "2026-08-17T09:14:22Z",
+      "latest_at": "2026-08-17T12:04:52Z",
       "primary_item": {
-        "id": "969f4c31e4e8452aa5517df3e7db132626aecaeb",
-        "title": "第1690期 - 2026-08-17 16:01",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-17_1601",
-        "source": "大黑AI速报",
+        "id": "9104e49067e004d8bcd5865ea000445df0867abf",
+        "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
+        "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/119",
+        "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
         "source_name": "OPML RSS"
       }
     },
@@ -786,14 +1163,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9599,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -809,196 +1186,6 @@
         "url": "https://www.aibase.com/news/30393",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_59b729f4a9be",
-      "title": "AI - 只要听...第 9 部分 (2026) [MP3|320 Kbps] <其他> / AI - Just listen ... Part 9 (2026) [MP3|320 Kbps] <Other>",
-      "url": "https://nnmclub.to/forum/viewtopic.php?t=1886081",
-      "primary_url": "https://nnmclub.to/forum/viewtopic.php?t=1886081",
-      "source": "NNM-Club 俄罗斯分享软件等",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "a3b479cbd02dda5fa5f72958c9516ed8586e2eed",
-          "title": "AI - 只要听...第 9 部分 (2026) [MP3|320 Kbps] <其他> / AI - Just listen ... Part 9 (2026) [MP3|320 Kbps] <Other>",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886081",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T11:48:17Z"
-        },
-        {
-          "id": "89e2cbf1c820d8b05ebc3a63b1d1c77d6330011c",
-          "title": "Volot - Greatness of Spirit (2026) AI [MP3|192 Kbps] <异教民间金属> / Волот - Велич Духу (2026) AI [MP3|192 Kbps] <Pagan Folk Metal>",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886093",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T11:47:28Z"
-        },
-        {
-          "id": "f9ba091327c782878fc501e06e4fe7c807fe9c11",
-          "title": "让-克洛德·布里索选集 (1983-2009) DVDRip [白金] / Антология Жан-Клода Бриссо / Anthology of Jean-Claude Brisseau (1983-2009) DVDRip [Platinum]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=192157",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T15:07:37Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "NNM-Club 俄罗斯分享软件等"
-      ],
-      "items": [
-        {
-          "id": "a3b479cbd02dda5fa5f72958c9516ed8586e2eed",
-          "title": "AI - 只要听...第 9 部分 (2026) [MP3|320 Kbps] <其他> / AI - Just listen ... Part 9 (2026) [MP3|320 Kbps] <Other>",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886081",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T11:48:17Z"
-        },
-        {
-          "id": "89e2cbf1c820d8b05ebc3a63b1d1c77d6330011c",
-          "title": "Volot - Greatness of Spirit (2026) AI [MP3|192 Kbps] <异教民间金属> / Волот - Велич Духу (2026) AI [MP3|192 Kbps] <Pagan Folk Metal>",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=1886093",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T11:47:28Z"
-        },
-        {
-          "id": "f9ba091327c782878fc501e06e4fe7c807fe9c11",
-          "title": "让-克洛德·布里索选集 (1983-2009) DVDRip [白金] / Антология Жан-Клода Бриссо / Anthology of Jean-Claude Brisseau (1983-2009) DVDRip [Platinum]",
-          "url": "https://nnmclub.to/forum/viewtopic.php?t=192157",
-          "source": "NNM-Club 俄罗斯分享软件等",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-16T15:07:37Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6592,
-      "importance": 0.6592,
-      "importance_score": 0.6592,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.9958,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T15:07:37Z",
-      "latest_at": "2026-08-17T11:48:17Z",
-      "primary_item": {
-        "id": "a3b479cbd02dda5fa5f72958c9516ed8586e2eed",
-        "title": "AI - 只要听...第 9 部分 (2026) [MP3|320 Kbps] <其他> / AI - Just listen ... Part 9 (2026) [MP3|320 Kbps] <Other>",
-        "url": "https://nnmclub.to/forum/viewtopic.php?t=1886081",
-        "source": "NNM-Club 俄罗斯分享软件等",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_14e824d47ba8",
-      "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-      "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/24a9fb7cf2...f4793c17e3",
-      "primary_url": "https://github.com/Dicklesworthstone/franken_numpy/compare/24a9fb7cf2...f4793c17e3",
-      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "db7f35218f00bfb60ddf4661f794126a6652f09d",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/24a9fb7cf2...f4793c17e3",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T11:33:12Z"
-        },
-        {
-          "id": "8476e8ceecfc286c3ff8eb56037dfd893b90a776",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/b9c1c6085e...2e974d2880",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T10:45:41Z"
-        },
-        {
-          "id": "bdd33180077d8a6797ebb8b2cb9b3c25c85fda71",
-          "title": "迪克尔斯沃斯通推了弗兰肯熊猫 / Dicklesworthstone pushed frankenpandas",
-          "url": "https://github.com/Dicklesworthstone/frankenpandas/compare/4055ff44a7...37a6bb14e7",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T10:39:00Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
-      ],
-      "items": [
-        {
-          "id": "db7f35218f00bfb60ddf4661f794126a6652f09d",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/24a9fb7cf2...f4793c17e3",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T11:33:12Z"
-        },
-        {
-          "id": "8476e8ceecfc286c3ff8eb56037dfd893b90a776",
-          "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-          "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/b9c1c6085e...2e974d2880",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T10:45:41Z"
-        },
-        {
-          "id": "bdd33180077d8a6797ebb8b2cb9b3c25c85fda71",
-          "title": "迪克尔斯沃斯通推了弗兰肯熊猫 / Dicklesworthstone pushed frankenpandas",
-          "url": "https://github.com/Dicklesworthstone/frankenpandas/compare/4055ff44a7...37a6bb14e7",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T10:39:00Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6571,
-      "importance": 0.6571,
-      "importance_score": 0.6571,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.9853,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T10:39:00Z",
-      "latest_at": "2026-08-17T11:33:12Z",
-      "primary_item": {
-        "id": "db7f35218f00bfb60ddf4661f794126a6652f09d",
-        "title": "Dicklesworthstone 推动了 Franken_numpy / Dicklesworthstone pushed franken_numpy",
-        "url": "https://github.com/Dicklesworthstone/franken_numpy/compare/24a9fb7cf2...f4793c17e3",
-        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-        "source_name": "OPML RSS"
       }
     },
     {
@@ -1080,79 +1267,79 @@
       }
     },
     {
-      "story_id": "story_a4b104432128",
-      "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
-      "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/119",
-      "primary_url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/119",
-      "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
+      "story_id": "story_12012273ccf2",
+      "title": "claude的这个创始人确实优点絮絮叨叨",
+      "url": "https://www.nodeloc.com/t/topic/103983",
+      "primary_url": "https://www.nodeloc.com/t/topic/103983",
+      "source": "NodeLoc最新帖子",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "9104e49067e004d8bcd5865ea000445df0867abf",
-          "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
-          "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/119",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
+          "id": "40987ade3555e6fc6fe05f87443c2add7c7f6e0e",
+          "title": "claude的这个创始人确实优点絮絮叨叨",
+          "url": "https://www.nodeloc.com/t/topic/103983",
+          "source": "NodeLoc最新帖子",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T11:47:57Z"
+          "published_at": "2026-08-17T11:35:01Z"
         },
         {
-          "id": "fd50f8eb9e15daff9eba853def86bcd82b2f8646",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-cards 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-cards",
-          "url": "https://github.com/scitex-ai/scitex-cards/pull/891",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
+          "id": "0b1073c74e00d66e87627443e3cb8b5d799daed4",
+          "title": "claude的这个创始人确实有点絮絮叨叨",
+          "url": "https://www.nodeloc.com/t/topic/103983",
+          "source": "NodeLoc最新帖子",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T09:14:22Z"
+          "published_at": "2026-08-17T11:35:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道"
+        "NodeLoc最新帖子"
       ],
       "items": [
         {
-          "id": "9104e49067e004d8bcd5865ea000445df0867abf",
-          "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
-          "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/119",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
+          "id": "40987ade3555e6fc6fe05f87443c2add7c7f6e0e",
+          "title": "claude的这个创始人确实优点絮絮叨叨",
+          "url": "https://www.nodeloc.com/t/topic/103983",
+          "source": "NodeLoc最新帖子",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T11:47:57Z"
+          "published_at": "2026-08-17T11:35:01Z"
         },
         {
-          "id": "fd50f8eb9e15daff9eba853def86bcd82b2f8646",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-cards 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-cards",
-          "url": "https://github.com/scitex-ai/scitex-cards/pull/891",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
+          "id": "0b1073c74e00d66e87627443e3cb8b5d799daed4",
+          "title": "claude的这个创始人确实有点絮絮叨叨",
+          "url": "https://www.nodeloc.com/t/topic/103983",
+          "source": "NodeLoc最新帖子",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-17T09:14:22Z"
+          "published_at": "2026-08-17T11:35:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6371,
-      "importance": 0.6371,
-      "importance_score": 0.6371,
+      "score": 0.6273,
+      "importance": 0.6273,
+      "importance_score": 0.6273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9956,
+        "recency": 0.9465,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-17T09:14:22Z",
-      "latest_at": "2026-08-17T11:47:57Z",
+      "earliest_at": "2026-08-17T11:35:01Z",
+      "latest_at": "2026-08-17T11:35:01Z",
       "primary_item": {
-        "id": "9104e49067e004d8bcd5865ea000445df0867abf",
-        "title": "ywatanabe1989 为 scitex-ai/claude-code-telegrammer 做出了贡献 / ywatanabe1989 contributed to scitex-ai/claude-code-telegrammer",
-        "url": "https://github.com/scitex-ai/claude-code-telegrammer/pull/119",
-        "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
+        "id": "40987ade3555e6fc6fe05f87443c2add7c7f6e0e",
+        "title": "claude的这个创始人确实优点絮絮叨叨",
+        "url": "https://www.nodeloc.com/t/topic/103983",
+        "source": "NodeLoc最新帖子",
         "source_name": "OPML RSS"
       }
     },
@@ -1210,14 +1397,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6352,
-      "importance": 0.6352,
-      "importance_score": 0.6352,
+      "score": 0.6272,
+      "importance": 0.6272,
+      "importance_score": 0.6272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9859,
+        "recency": 0.9458,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1269,14 +1456,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9599,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1348,14 +1535,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6313,
-      "importance": 0.6313,
-      "importance_score": 0.6313,
+      "score": 0.6233,
+      "importance": 0.6233,
+      "importance_score": 0.6233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9665,
+        "recency": 0.9265,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1369,6 +1556,83 @@
         "title": "[免费羊毛]DeepSeek-V4-flash无限蹬,限时免费 https://www.nodeloc.com/t/topic/103973 NodeLoc [免费羊毛]DeepSeek-V…",
         "url": "https://t.me/baipiaofl/56492",
         "source": "白嫖福利 NodeLoc、LINUX DO、全球主机交流论坛、V2EX、NodeSeek",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_2a0bb2d2c6b6",
+      "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
+      "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/b62eca69a9...e4a08b2621",
+      "primary_url": "https://github.com/xr843/Buddhist-AI-Translator/compare/b62eca69a9...e4a08b2621",
+      "source": "xr843|fojin",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "bdead474ae0a080246c20abab05c150ddc6b8a22",
+          "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
+          "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/b62eca69a9...e4a08b2621",
+          "source": "xr843|fojin",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:27:00Z"
+        },
+        {
+          "id": "21d8f129c2936e0e65c60a5745d87e02b38d0a0b",
+          "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
+          "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/b1bd063e2e...dfb5f75350",
+          "source": "xr843|fojin",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T11:51:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "xr843|fojin"
+      ],
+      "items": [
+        {
+          "id": "bdead474ae0a080246c20abab05c150ddc6b8a22",
+          "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
+          "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/b62eca69a9...e4a08b2621",
+          "source": "xr843|fojin",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T12:27:00Z"
+        },
+        {
+          "id": "21d8f129c2936e0e65c60a5745d87e02b38d0a0b",
+          "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
+          "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/b1bd063e2e...dfb5f75350",
+          "source": "xr843|fojin",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-17T11:51:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6225,
+      "importance": 0.6225,
+      "importance_score": 0.6225,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9826,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T11:51:22Z",
+      "latest_at": "2026-08-17T12:27:00Z",
+      "primary_item": {
+        "id": "bdead474ae0a080246c20abab05c150ddc6b8a22",
+        "title": "xr843推出佛教人工智能翻译机 / xr843 pushed Buddhist-AI-Translator",
+        "url": "https://github.com/xr843/Buddhist-AI-Translator/compare/b62eca69a9...e4a08b2621",
+        "source": "xr843|fojin",
         "source_name": "OPML RSS"
       }
     },
@@ -1425,14 +1689,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6283,
-      "importance": 0.6283,
-      "importance_score": 0.6283,
+      "score": 0.6203,
+      "importance": 0.6203,
+      "importance_score": 0.6203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.78,
-        "recency": 0.8465,
+        "recency": 0.8064,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1447,201 +1711,6 @@
         "url": "https://github.com/google-gemini/gemini-android-computer-use-quickstart/pull/5",
         "source": "Philipp Schmid|Nuremberg, Germany|AI Developer Experience/LLMs/Google DeepMind",
         "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "算法战争时代！俄乌战场成全球 AI 无人装备试验场",
-      "url": "https://www.youtube.com/watch?v=M20J8ZBRO8o",
-      "primary_url": "https://www.youtube.com/watch?v=M20J8ZBRO8o",
-      "source": "听风的蚕",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "c2ef940bb92f997d5bb10494d831a07738cdc60d",
-          "title": "算法战争时代！俄乌战场成全球 AI 无人装备试验场",
-          "url": "https://www.youtube.com/watch?v=M20J8ZBRO8o",
-          "source": "听风的蚕",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T02:22:41Z"
-        },
-        {
-          "id": "e499821c2b52ba15cc9b859d9f65d917dea87e34",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T00:37:58.615000Z"
-        },
-        {
-          "id": "1d883a5dc2a0f147f47562ee6a3e289799a71681",
-          "title": "Anthropic两万亿估值从哪来的？十月份真的可以上市吗？",
-          "url": "https://www.youtube.com/watch?v=h6KCRdrclDQ",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T00:30:18Z"
-        },
-        {
-          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        },
-        {
-          "id": "4e8b267d415b98cc998b956cb95f3c888abedf24",
-          "title": "TSMC Uses Old Fabs to Make New Chips [video]",
-          "url": "https://www.youtube.com/watch?v=cDxVYQrxeiQ",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T00:07:42Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "听风的蚕",
-        "范路 | 老范讲故事"
-      ],
-      "items": [
-        {
-          "id": "c2ef940bb92f997d5bb10494d831a07738cdc60d",
-          "title": "算法战争时代！俄乌战场成全球 AI 无人装备试验场",
-          "url": "https://www.youtube.com/watch?v=M20J8ZBRO8o",
-          "source": "听风的蚕",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T02:22:41Z"
-        },
-        {
-          "id": "e499821c2b52ba15cc9b859d9f65d917dea87e34",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T00:37:58.615000Z"
-        },
-        {
-          "id": "1d883a5dc2a0f147f47562ee6a3e289799a71681",
-          "title": "Anthropic两万亿估值从哪来的？十月份真的可以上市吗？",
-          "url": "https://www.youtube.com/watch?v=h6KCRdrclDQ",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-17T00:30:18Z"
-        },
-        {
-          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        },
-        {
-          "id": "4e8b267d415b98cc998b956cb95f3c888abedf24",
-          "title": "TSMC Uses Old Fabs to Make New Chips [video]",
-          "url": "https://www.youtube.com/watch?v=cDxVYQrxeiQ",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T00:07:42Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6216,
-      "importance": 0.6216,
-      "importance_score": 0.6216,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.603,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T00:07:42Z",
-      "latest_at": "2026-08-17T02:22:41Z",
-      "primary_item": {
-        "id": "c2ef940bb92f997d5bb10494d831a07738cdc60d",
-        "title": "算法战争时代！俄乌战场成全球 AI 无人装备试验场",
-        "url": "https://www.youtube.com/watch?v=M20J8ZBRO8o",
-        "source": "听风的蚕",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_53ac455b6941",
-      "title": "《牛来》逆袭：票房从 3420 元飙到 419 万，股民、年轻人联手把烂片捧成现象级",
-      "url": "https://www.aibase.com/news/30394",
-      "primary_url": "https://www.aibase.com/news/30394",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c9e10205e8c300fe9d8b81bf8c7bd21497728c91",
-          "title": "《牛来》逆袭：票房从 3420 元飙到 419 万，股民、年轻人联手把烂片捧成现象级",
-          "url": "https://www.aibase.com/news/30394",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T11:54:19.578723Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c9e10205e8c300fe9d8b81bf8c7bd21497728c91",
-          "title": "《牛来》逆袭：票房从 3420 元飙到 419 万，股民、年轻人联手把烂片捧成现象级",
-          "url": "https://www.aibase.com/news/30394",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T11:54:19.578723Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T11:54:19.578723Z",
-      "latest_at": "2026-08-17T11:54:19.578723Z",
-      "primary_item": {
-        "id": "c9e10205e8c300fe9d8b81bf8c7bd21497728c91",
-        "title": "《牛来》逆袭：票房从 3420 元飙到 419 万，股民、年轻人联手把烂片捧成现象级",
-        "url": "https://www.aibase.com/news/30394",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
