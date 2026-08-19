@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:42:22.626562Z",
+  "generated_at": "2026-08-19T08:41:56.373334Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,14 +76,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "score": 0.8537,
+      "importance": 0.8537,
+      "importance_score": 0.8537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9586,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -100,6 +100,349 @@
         "url": "https://www.aibase.com/news/30467",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c1bf45fd7114",
+      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+      "url": "https://www.aibase.com/news/30473",
+      "primary_url": "https://www.aibase.com/news/30473",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "url": "https://www.aibase.com/news/30473",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T08:41:56.373334Z"
+        },
+        {
+          "id": "a47b99fb167199355497cb9befafe005c4e7590e",
+          "title": "神奇小子公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "url": "https://www.aibase.com/zh/news/30473",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "url": "https://www.aibase.com/news/30473",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T08:41:56.373334Z"
+        },
+        {
+          "id": "a47b99fb167199355497cb9befafe005c4e7590e",
+          "title": "神奇小子公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "url": "https://www.aibase.com/zh/news/30473",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T08:41:56.373334Z",
+      "latest_at": "2026-08-19T08:41:56.373334Z",
+      "primary_item": {
+        "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+        "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+        "url": "https://www.aibase.com/news/30473",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1572a951af05",
+      "title": "Enterprise managed settings in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T23:33:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+          "title": "Enterprise managed settings in GitHub Copilot for JetBrains",
+          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T23:33:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6189,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T23:33:07Z",
+      "latest_at": "2026-08-18T23:33:07Z",
+      "primary_item": {
+        "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
+        "title": "Enterprise managed settings in GitHub Copilot for JetBrains",
+        "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_329a0e5d3a77",
+      "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+      "url": "https://www.aibase.com/news/30471",
+      "primary_url": "https://www.aibase.com/news/30471",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+          "url": "https://www.aibase.com/news/30471",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:42:22.626562Z"
+        },
+        {
+          "id": "f404ab452ef51170beca842eb45c08693b66ac22",
+          "title": "Mozilla 升级 Firefox 智能窗口，新增 AI 标签管理与网页检索",
+          "url": "https://www.aibase.com/zh/news/30471",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+          "url": "https://www.aibase.com/news/30471",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:42:22.626562Z"
+        },
+        {
+          "id": "f404ab452ef51170beca842eb45c08693b66ac22",
+          "title": "Mozilla 升级 Firefox 智能窗口，新增 AI 标签管理与网页检索",
+          "url": "https://www.aibase.com/zh/news/30471",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9586,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T07:42:22.626562Z",
+      "latest_at": "2026-08-19T08:41:56.373334Z",
+      "primary_item": {
+        "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+        "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+        "url": "https://www.aibase.com/news/30471",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5ce8103476b1",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "How Much Memory Does Your Agent Actually Need?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "How Much Memory Does Your Agent Actually Need?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.3942,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T18:09:38Z",
+      "latest_at": "2026-08-18T18:09:38Z",
+      "primary_item": {
+        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+        "title": "How Much Memory Does Your Agent Actually Need?",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2fa84a60a1c6",
+      "title": "Credential revocation and deauthorization by token type",
+      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "Credential revocation and deauthorization by token type",
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T21:57:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "Credential revocation and deauthorization by token type",
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T21:57:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5525,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T21:57:30Z",
+      "latest_at": "2026-08-18T21:57:30Z",
+      "primary_item": {
+        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+        "title": "Credential revocation and deauthorization by token type",
+        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -156,14 +499,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9586,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -183,64 +526,62 @@
       }
     },
     {
-      "story_id": "story_1572a951af05",
-      "title": "Enterprise managed settings in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e0ca9f72fd96",
+      "title": "Claude 如何加速蛋白质设计与分析化学研究",
+      "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
+      "primary_url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-          "title": "Enterprise managed settings in GitHub Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T23:33:07Z"
+          "id": "7e12fa32cf1375e0e733447b966d94cb53dc59b6",
+          "title": "Claude 如何加速蛋白质设计与分析化学研究",
+          "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T22:27:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Anthropic：Research（发表成果 · 网页）"
       ],
       "items": [
         {
-          "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-          "title": "Enterprise managed settings in GitHub Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T23:33:07Z"
+          "id": "7e12fa32cf1375e0e733447b966d94cb53dc59b6",
+          "title": "Claude 如何加速蛋白质设计与分析化学研究",
+          "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T22:27:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
-      "importance_label": "官方更新",
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6602,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5731,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T23:33:07Z",
-      "latest_at": "2026-08-18T23:33:07Z",
+      "earliest_at": "2026-08-18T22:27:16Z",
+      "latest_at": "2026-08-18T22:27:16Z",
       "primary_item": {
-        "id": "e5e1085091baa53949af0e4d8e8df886fa77616d",
-        "title": "Enterprise managed settings in GitHub Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "7e12fa32cf1375e0e733447b966d94cb53dc59b6",
+        "title": "Claude 如何加速蛋白质设计与分析化学研究",
+        "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -297,14 +638,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9586,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -324,512 +665,134 @@
       }
     },
     {
-      "story_id": "story_5ce8103476b1",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "How Much Memory Does Your Agent Actually Need?",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "How Much Memory Does Your Agent Actually Need?",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.4356,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T18:09:38Z",
-      "latest_at": "2026-08-18T18:09:38Z",
-      "primary_item": {
-        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-        "title": "How Much Memory Does Your Agent Actually Need?",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2fa84a60a1c6",
-      "title": "Credential revocation and deauthorization by token type",
-      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "Credential revocation and deauthorization by token type",
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "Credential revocation and deauthorization by token type",
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5938,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T21:57:30Z",
-      "latest_at": "2026-08-18T21:57:30Z",
-      "primary_item": {
-        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-        "title": "Credential revocation and deauthorization by token type",
-        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e0ca9f72fd96",
-      "title": "Claude 如何加速蛋白质设计与分析化学研究",
-      "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-      "primary_url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7e12fa32cf1375e0e733447b966d94cb53dc59b6",
-          "title": "Claude 如何加速蛋白质设计与分析化学研究",
-          "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T22:27:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "7e12fa32cf1375e0e733447b966d94cb53dc59b6",
-          "title": "Claude 如何加速蛋白质设计与分析化学研究",
-          "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T22:27:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6145,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T22:27:16Z",
-      "latest_at": "2026-08-18T22:27:16Z",
-      "primary_item": {
-        "id": "7e12fa32cf1375e0e733447b966d94cb53dc59b6",
-        "title": "Claude 如何加速蛋白质设计与分析化学研究",
-        "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a37ffe7a8328",
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-      "primary_url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9224fe85a65f2bef92a38e7d6ef66b6f0871171e",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "9224fe85a65f2bef92a38e7d6ef66b6f0871171e",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.572,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T21:26:01Z",
-      "latest_at": "2026-08-18T21:26:01Z",
-      "primary_item": {
-        "id": "9224fe85a65f2bef92a38e7d6ef66b6f0871171e",
-        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_db13d9ba9b84",
-      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-      "url": "https://www.aibase.com/news/30469",
-      "primary_url": "https://www.aibase.com/news/30469",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "url": "https://www.aibase.com/news/30469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:42:22.626562Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "url": "https://www.aibase.com/news/30469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:42:22.626562Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T07:42:22.626562Z",
-      "latest_at": "2026-08-19T07:42:22.626562Z",
-      "primary_item": {
-        "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-        "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-        "url": "https://www.aibase.com/news/30469",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_66182ade32cb",
-      "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-      "url": "https://www.aibase.com/news/30453",
-      "primary_url": "https://www.aibase.com/news/30453",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1192dc813e4e3334e0107489b613314a590a215c",
-          "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-          "url": "https://www.aibase.com/news/30453",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:42:22.626562Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1192dc813e4e3334e0107489b613314a590a215c",
-          "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-          "url": "https://www.aibase.com/news/30453",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:42:22.626562Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T07:42:22.626562Z",
-      "latest_at": "2026-08-19T07:42:22.626562Z",
-      "primary_item": {
-        "id": "1192dc813e4e3334e0107489b613314a590a215c",
-        "title": "Cursor推出Origin代码托管平台，正式进军GitHub核心领域",
-        "url": "https://www.aibase.com/news/30453",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c56b58e9d916",
-      "title": "第1700期 - 2026-08-19 12:02",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_1202",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_1202",
-      "source": "大黑AI速报",
+      "story_id": "story_1bd834e65c86",
+      "title": "madeye 在 meow-rs 中标记了一个问题 / madeye labeled an issue in meow-rs",
+      "url": "https://github.com/madeye/meow-rs/issues/429",
+      "primary_url": "https://github.com/madeye/meow-rs/issues/429",
+      "source": "madeye|AI暴露度CN/clash",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "b207e9337d93503069add33e3eee7ded9532d315",
-          "title": "第1700期 - 2026-08-19 12:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_1202",
-          "source": "大黑AI速报",
+          "id": "483f65112a21467598e165da842d1a8126e877ea",
+          "title": "madeye 在 meow-rs 中标记了一个问题 / madeye labeled an issue in meow-rs",
+          "url": "https://github.com/madeye/meow-rs/issues/429",
+          "source": "madeye|AI暴露度CN/clash",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-19T04:02:07Z"
+          "published_at": "2026-08-19T07:51:35Z"
         },
         {
-          "id": "d3719a970658be8613872872f60460df8816f736",
-          "title": "第1699期 - 2026-08-19 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_0801",
-          "source": "大黑AI速报",
+          "id": "1dc4ec7fa3f0883b03982b1fba00cff453b4cb25",
+          "title": "madeye 在 meow-rs 中提出了一个问题 / madeye opened an issue in meow-rs",
+          "url": "https://github.com/madeye/meow-rs/issues/429",
+          "source": "madeye|AI暴露度CN/clash",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-19T00:01:52Z"
+          "published_at": "2026-08-19T07:51:35Z"
         },
         {
-          "id": "4478f7c49bad89f817ae572f5c98062d9b49c1c6",
-          "title": "第1698期 - 2026-08-19 04:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_0402",
-          "source": "大黑AI速报",
+          "id": "1eb5e8e060845850000b861d4ec06b8c0447c449",
+          "title": "madeye 在 meow-rs 中标记了一个问题 / madeye labeled an issue in meow-rs",
+          "url": "https://github.com/madeye/meow-rs/issues/422",
+          "source": "madeye|AI暴露度CN/clash",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-18T20:02:11Z"
+          "published_at": "2026-08-19T06:30:05Z"
         },
         {
-          "id": "4f4b12888e6d9a56e459d6dd382b6c620993a7d4",
-          "title": "第1697期 - 2026-08-18 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-18_2001",
-          "source": "大黑AI速报",
+          "id": "360690fab94aa88b26e37bcaaff646d06042d5bc",
+          "title": "madeye 在 meow-rs 中提出了一个问题 / madeye opened an issue in meow-rs",
+          "url": "https://github.com/madeye/meow-rs/issues/422",
+          "source": "madeye|AI暴露度CN/clash",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-18T12:01:56Z"
-        },
-        {
-          "id": "f19acf27ef652dd7028d2f670fe4e76c029ff463",
-          "title": "第1696期 - 2026-08-18 16:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-18_1602",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T08:02:52Z"
+          "published_at": "2026-08-19T06:30:05Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
-        "大黑AI速报"
+        "madeye|AI暴露度CN/clash"
       ],
       "items": [
         {
-          "id": "b207e9337d93503069add33e3eee7ded9532d315",
-          "title": "第1700期 - 2026-08-19 12:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_1202",
-          "source": "大黑AI速报",
+          "id": "483f65112a21467598e165da842d1a8126e877ea",
+          "title": "madeye 在 meow-rs 中标记了一个问题 / madeye labeled an issue in meow-rs",
+          "url": "https://github.com/madeye/meow-rs/issues/429",
+          "source": "madeye|AI暴露度CN/clash",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-19T04:02:07Z"
+          "published_at": "2026-08-19T07:51:35Z"
         },
         {
-          "id": "d3719a970658be8613872872f60460df8816f736",
-          "title": "第1699期 - 2026-08-19 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_0801",
-          "source": "大黑AI速报",
+          "id": "1dc4ec7fa3f0883b03982b1fba00cff453b4cb25",
+          "title": "madeye 在 meow-rs 中提出了一个问题 / madeye opened an issue in meow-rs",
+          "url": "https://github.com/madeye/meow-rs/issues/429",
+          "source": "madeye|AI暴露度CN/clash",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-19T00:01:52Z"
+          "published_at": "2026-08-19T07:51:35Z"
         },
         {
-          "id": "4478f7c49bad89f817ae572f5c98062d9b49c1c6",
-          "title": "第1698期 - 2026-08-19 04:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_0402",
-          "source": "大黑AI速报",
+          "id": "1eb5e8e060845850000b861d4ec06b8c0447c449",
+          "title": "madeye 在 meow-rs 中标记了一个问题 / madeye labeled an issue in meow-rs",
+          "url": "https://github.com/madeye/meow-rs/issues/422",
+          "source": "madeye|AI暴露度CN/clash",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-18T20:02:11Z"
+          "published_at": "2026-08-19T06:30:05Z"
         },
         {
-          "id": "4f4b12888e6d9a56e459d6dd382b6c620993a7d4",
-          "title": "第1697期 - 2026-08-18 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-18_2001",
-          "source": "大黑AI速报",
+          "id": "360690fab94aa88b26e37bcaaff646d06042d5bc",
+          "title": "madeye 在 meow-rs 中提出了一个问题 / madeye opened an issue in meow-rs",
+          "url": "https://github.com/madeye/meow-rs/issues/422",
+          "source": "madeye|AI暴露度CN/clash",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-18T12:01:56Z"
-        },
-        {
-          "id": "f19acf27ef652dd7028d2f670fe4e76c029ff463",
-          "title": "第1696期 - 2026-08-18 16:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-18_1602",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-18T08:02:52Z"
+          "published_at": "2026-08-19T06:30:05Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6704,
-      "importance": 0.6704,
-      "importance_score": 0.6704,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.669,
+      "importance": 0.669,
+      "importance_score": 0.669,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.847,
-        "story_heat": 1.0
+        "recency": 0.965,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-18T08:02:52Z",
-      "latest_at": "2026-08-19T04:02:07Z",
+      "earliest_at": "2026-08-19T06:30:05Z",
+      "latest_at": "2026-08-19T07:51:35Z",
       "primary_item": {
-        "id": "b207e9337d93503069add33e3eee7ded9532d315",
-        "title": "第1700期 - 2026-08-19 12:02",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_1202",
-        "source": "大黑AI速报",
+        "id": "483f65112a21467598e165da842d1a8126e877ea",
+        "title": "madeye 在 meow-rs 中标记了一个问题 / madeye labeled an issue in meow-rs",
+        "url": "https://github.com/madeye/meow-rs/issues/429",
+        "source": "madeye|AI暴露度CN/clash",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_2483fed84647",
-      "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-      "url": "https://www.aibase.com/news/30463",
-      "primary_url": "https://www.aibase.com/news/30463",
+      "story_id": "story_e4bcd5a2183e",
+      "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+      "url": "https://www.aibase.com/news/30474",
+      "primary_url": "https://www.aibase.com/news/30474",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4af451c2788df9f9c6b832f937700076093f10da",
-          "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-          "url": "https://www.aibase.com/news/30463",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T07:42:22.626562Z"
+          "published_at": "2026-08-19T08:41:56.373334Z"
         }
       ],
       "source_count": 1,
@@ -838,13 +801,13 @@
       ],
       "items": [
         {
-          "id": "4af451c2788df9f9c6b832f937700076093f10da",
-          "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-          "url": "https://www.aibase.com/news/30463",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T07:42:22.626562Z"
+          "published_at": "2026-08-19T08:41:56.373334Z"
         }
       ],
       "item_count": 1,
@@ -864,12 +827,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T07:42:22.626562Z",
-      "latest_at": "2026-08-19T07:42:22.626562Z",
+      "earliest_at": "2026-08-19T08:41:56.373334Z",
+      "latest_at": "2026-08-19T08:41:56.373334Z",
       "primary_item": {
-        "id": "4af451c2788df9f9c6b832f937700076093f10da",
-        "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-        "url": "https://www.aibase.com/news/30463",
+        "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+        "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+        "url": "https://www.aibase.com/news/30474",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -949,6 +912,273 @@
         "title": "没有GPU照样跑大模型！阿里5nm RISC-V芯片完成历史首秀：30 token/s",
         "url": "https://news.mydrivers.com/1/1144/1144724.htm",
         "source": "数码 | 快科技资讯_最新资讯",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_a6cf5888e2db",
+      "title": "Dicklesworthstone 推送了 Franken_node / Dicklesworthstone pushed franken_node",
+      "url": "https://github.com/Dicklesworthstone/franken_node/compare/5c74cb63df...64a8b8cb22",
+      "primary_url": "https://github.com/Dicklesworthstone/franken_node/compare/5c74cb63df...64a8b8cb22",
+      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "98f844c64b0086c8446e95aabf9c56ea06a7023e",
+          "title": "Dicklesworthstone 推送了 Franken_node / Dicklesworthstone pushed franken_node",
+          "url": "https://github.com/Dicklesworthstone/franken_node/compare/5c74cb63df...64a8b8cb22",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:09:50Z"
+        },
+        {
+          "id": "d4b17eff7e2c394c43c3bfbd134247cc01ced4e8",
+          "title": "Dicklesworthstone 推动了 Franken_manim / Dicklesworthstone pushed franken_manim",
+          "url": "https://github.com/Dicklesworthstone/franken_manim/compare/7627439734...826199986b",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T06:07:48Z"
+        },
+        {
+          "id": "d84f338d4e0f8f14c4e859380f5a9051ed807c81",
+          "title": "Dicklesworthstone 推动 Frankensqlite / Dicklesworthstone pushed frankensqlite",
+          "url": "https://github.com/Dicklesworthstone/frankensqlite/compare/6d3736e6f3...cb26b473eb",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T05:24:57Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
+      ],
+      "items": [
+        {
+          "id": "98f844c64b0086c8446e95aabf9c56ea06a7023e",
+          "title": "Dicklesworthstone 推送了 Franken_node / Dicklesworthstone pushed franken_node",
+          "url": "https://github.com/Dicklesworthstone/franken_node/compare/5c74cb63df...64a8b8cb22",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:09:50Z"
+        },
+        {
+          "id": "d4b17eff7e2c394c43c3bfbd134247cc01ced4e8",
+          "title": "Dicklesworthstone 推动了 Franken_manim / Dicklesworthstone pushed franken_manim",
+          "url": "https://github.com/Dicklesworthstone/franken_manim/compare/7627439734...826199986b",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T06:07:48Z"
+        },
+        {
+          "id": "d84f338d4e0f8f14c4e859380f5a9051ed807c81",
+          "title": "Dicklesworthstone 推动 Frankensqlite / Dicklesworthstone pushed frankensqlite",
+          "url": "https://github.com/Dicklesworthstone/frankensqlite/compare/6d3736e6f3...cb26b473eb",
+          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T05:24:57Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6472,
+      "importance": 0.6472,
+      "importance_score": 0.6472,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.936,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T05:24:57Z",
+      "latest_at": "2026-08-19T07:09:50Z",
+      "primary_item": {
+        "id": "98f844c64b0086c8446e95aabf9c56ea06a7023e",
+        "title": "Dicklesworthstone 推送了 Franken_node / Dicklesworthstone pushed franken_node",
+        "url": "https://github.com/Dicklesworthstone/franken_node/compare/5c74cb63df...64a8b8cb22",
+        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_674df3f4f9cf",
+      "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
+      "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/a256eadad9...b9dbcf17b9",
+      "primary_url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/a256eadad9...b9dbcf17b9",
+      "source": "krishnakanthb13|ai_cli_manager",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "867752ceadb0a268ef92c7decea7841d82550407",
+          "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
+          "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/a256eadad9...b9dbcf17b9",
+          "source": "krishnakanthb13|ai_cli_manager",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:52:56Z"
+        },
+        {
+          "id": "09b69a1ddee55b62d15fc16bbf78c9e218957054",
+          "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
+          "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/f357182bf1...cde81ea582",
+          "source": "krishnakanthb13|ai_cli_manager",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T06:34:40Z"
+        },
+        {
+          "id": "1bf83dab2225467bcb7a95981ff0643bbe1c1572",
+          "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
+          "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/652836590d...908580467e",
+          "source": "krishnakanthb13|ai_cli_manager",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T05:26:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "krishnakanthb13|ai_cli_manager"
+      ],
+      "items": [
+        {
+          "id": "867752ceadb0a268ef92c7decea7841d82550407",
+          "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
+          "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/a256eadad9...b9dbcf17b9",
+          "source": "krishnakanthb13|ai_cli_manager",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:52:56Z"
+        },
+        {
+          "id": "09b69a1ddee55b62d15fc16bbf78c9e218957054",
+          "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
+          "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/f357182bf1...cde81ea582",
+          "source": "krishnakanthb13|ai_cli_manager",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T06:34:40Z"
+        },
+        {
+          "id": "1bf83dab2225467bcb7a95981ff0643bbe1c1572",
+          "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
+          "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/652836590d...908580467e",
+          "source": "krishnakanthb13|ai_cli_manager",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T05:26:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.966,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T05:26:29Z",
+      "latest_at": "2026-08-19T07:52:56Z",
+      "primary_item": {
+        "id": "867752ceadb0a268ef92c7decea7841d82550407",
+        "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
+        "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/a256eadad9...b9dbcf17b9",
+        "source": "krishnakanthb13|ai_cli_manager",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_952b10548567",
+      "title": "llm2014推llm_benchmark / llm2014 pushed llm_benchmark",
+      "url": "https://github.com/llm2014/llm_benchmark/compare/c2c2a6af2e...f9bd2cf4c9",
+      "primary_url": "https://github.com/llm2014/llm_benchmark/compare/c2c2a6af2e...f9bd2cf4c9",
+      "source": "llm2014|大模型长期跟踪测评项目/基于个人私有题目",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "1f9e92c24470889f024fe27ff5814f6558d90094",
+          "title": "llm2014推llm_benchmark / llm2014 pushed llm_benchmark",
+          "url": "https://github.com/llm2014/llm_benchmark/compare/c2c2a6af2e...f9bd2cf4c9",
+          "source": "llm2014|大模型长期跟踪测评项目/基于个人私有题目",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:51:28Z"
+        },
+        {
+          "id": "6d1be408524370161a434d4af8745de3229924ae",
+          "title": "llm2014推llm_benchmark / llm2014 pushed llm_benchmark",
+          "url": "https://github.com/llm2014/llm_benchmark/compare/a5a46212c7...c2c2a6af2e",
+          "source": "llm2014|大模型长期跟踪测评项目/基于个人私有题目",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T03:45:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "llm2014|大模型长期跟踪测评项目/基于个人私有题目"
+      ],
+      "items": [
+        {
+          "id": "1f9e92c24470889f024fe27ff5814f6558d90094",
+          "title": "llm2014推llm_benchmark / llm2014 pushed llm_benchmark",
+          "url": "https://github.com/llm2014/llm_benchmark/compare/c2c2a6af2e...f9bd2cf4c9",
+          "source": "llm2014|大模型长期跟踪测评项目/基于个人私有题目",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:51:28Z"
+        },
+        {
+          "id": "6d1be408524370161a434d4af8745de3229924ae",
+          "title": "llm2014推llm_benchmark / llm2014 pushed llm_benchmark",
+          "url": "https://github.com/llm2014/llm_benchmark/compare/a5a46212c7...c2c2a6af2e",
+          "source": "llm2014|大模型长期跟踪测评项目/基于个人私有题目",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T03:45:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.643,
+      "importance": 0.643,
+      "importance_score": 0.643,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.9649,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T03:45:40Z",
+      "latest_at": "2026-08-19T07:51:28Z",
+      "primary_item": {
+        "id": "1f9e92c24470889f024fe27ff5814f6558d90094",
+        "title": "llm2014推llm_benchmark / llm2014 pushed llm_benchmark",
+        "url": "https://github.com/llm2014/llm_benchmark/compare/c2c2a6af2e...f9bd2cf4c9",
+        "source": "llm2014|大模型长期跟踪测评项目/基于个人私有题目",
         "source_name": "OPML RSS"
       }
     },
@@ -1041,14 +1271,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6468,
-      "importance": 0.6468,
-      "importance_score": 0.6468,
+      "score": 0.6385,
+      "importance": 0.6385,
+      "importance_score": 0.6385,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8539,
+        "recency": 0.8125,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1062,6 +1292,256 @@
         "title": "腾林推新秀饼干 / teng-lin pushed rookie-cookies",
         "url": "https://github.com/teng-lin/rookie-cookies/compare/0ec83e1221...314c5660dd",
         "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_c56b58e9d916",
+      "title": "第1700期 - 2026-08-19 12:02",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_1202",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_1202",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "b207e9337d93503069add33e3eee7ded9532d315",
+          "title": "第1700期 - 2026-08-19 12:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_1202",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T04:02:07Z"
+        },
+        {
+          "id": "d3719a970658be8613872872f60460df8816f736",
+          "title": "第1699期 - 2026-08-19 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T00:01:52Z"
+        },
+        {
+          "id": "4478f7c49bad89f817ae572f5c98062d9b49c1c6",
+          "title": "第1698期 - 2026-08-19 04:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_0402",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T20:02:11Z"
+        },
+        {
+          "id": "4f4b12888e6d9a56e459d6dd382b6c620993a7d4",
+          "title": "第1697期 - 2026-08-18 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-18_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T12:01:56Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "大黑AI速报"
+      ],
+      "items": [
+        {
+          "id": "b207e9337d93503069add33e3eee7ded9532d315",
+          "title": "第1700期 - 2026-08-19 12:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_1202",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T04:02:07Z"
+        },
+        {
+          "id": "d3719a970658be8613872872f60460df8816f736",
+          "title": "第1699期 - 2026-08-19 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_0801",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T00:01:52Z"
+        },
+        {
+          "id": "4478f7c49bad89f817ae572f5c98062d9b49c1c6",
+          "title": "第1698期 - 2026-08-19 04:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_0402",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T20:02:11Z"
+        },
+        {
+          "id": "4f4b12888e6d9a56e459d6dd382b6c620993a7d4",
+          "title": "第1697期 - 2026-08-18 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-18_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-18T12:01:56Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6371,
+      "importance": 0.6371,
+      "importance_score": 0.6371,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.8057,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-18T12:01:56Z",
+      "latest_at": "2026-08-19T04:02:07Z",
+      "primary_item": {
+        "id": "b207e9337d93503069add33e3eee7ded9532d315",
+        "title": "第1700期 - 2026-08-19 12:02",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-08-19_1202",
+        "source": "大黑AI速报",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_b0e4cf891287",
+      "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+      "url": "https://www.aibase.com/news/30472",
+      "primary_url": "https://www.aibase.com/news/30472",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
+          "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+          "url": "https://www.aibase.com/news/30472",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T08:41:56.373334Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
+          "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+          "url": "https://www.aibase.com/news/30472",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T08:41:56.373334Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T08:41:56.373334Z",
+      "latest_at": "2026-08-19T08:41:56.373334Z",
+      "primary_item": {
+        "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
+        "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+        "url": "https://www.aibase.com/news/30472",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3778e8f20e1f",
+      "title": "codexpro 官方邀请额度500个点数额度",
+      "url": "https://www.nodeloc.com/t/topic/104331",
+      "primary_url": "https://www.nodeloc.com/t/topic/104331",
+      "source": "NodeLoc最新帖子",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "d8567b213c163bfefb4ef3a4f5191264d94bb922",
+          "title": "codexpro 官方邀请额度500个点数额度",
+          "url": "https://www.nodeloc.com/t/topic/104331",
+          "source": "NodeLoc最新帖子",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:38:36Z"
+        },
+        {
+          "id": "3fe3df91bf4dd805df551007f77267356fb5a1a9",
+          "title": "codexpro 的 活动推荐500官方额度",
+          "url": "https://www.nodeloc.com/t/topic/104331",
+          "source": "NodeLoc最新帖子",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:38:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "NodeLoc最新帖子"
+      ],
+      "items": [
+        {
+          "id": "d8567b213c163bfefb4ef3a4f5191264d94bb922",
+          "title": "codexpro 官方邀请额度500个点数额度",
+          "url": "https://www.nodeloc.com/t/topic/104331",
+          "source": "NodeLoc最新帖子",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:38:36Z"
+        },
+        {
+          "id": "3fe3df91bf4dd805df551007f77267356fb5a1a9",
+          "title": "codexpro 的 活动推荐500官方额度",
+          "url": "https://www.nodeloc.com/t/topic/104331",
+          "source": "NodeLoc最新帖子",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-19T07:38:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6292,
+      "importance": 0.6292,
+      "importance_score": 0.6292,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T07:38:36Z",
+      "latest_at": "2026-08-19T07:38:36Z",
+      "primary_item": {
+        "id": "d8567b213c163bfefb4ef3a4f5191264d94bb922",
+        "title": "codexpro 官方邀请额度500个点数额度",
+        "url": "https://www.nodeloc.com/t/topic/104331",
+        "source": "NodeLoc最新帖子",
         "source_name": "OPML RSS"
       }
     },
@@ -1089,7 +1569,7 @@
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-18T23:08:07.826860Z"
+          "published_at": "2026-08-18T23:01:58.462391Z"
         }
       ],
       "source_count": 2,
@@ -1114,400 +1594,32 @@
           "source": "Hacker News Digest",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-18T23:08:07.826860Z"
+          "published_at": "2026-08-18T23:01:58.462391Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.637,
-      "importance": 0.637,
-      "importance_score": 0.637,
+      "score": 0.6287,
+      "importance": 0.6287,
+      "importance_score": 0.6287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.9499,
+        "recency": 0.9086,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-18T23:08:07.826860Z",
+      "earliest_at": "2026-08-18T23:01:58.462391Z",
       "latest_at": "2026-08-19T06:30:17.079000Z",
       "primary_item": {
         "id": "892a828ea852366c79f445d565a086b145bf55d6",
         "title": "软件团队中人工智能的使用模式",
         "url": "https://linear.app/data",
         "source": "Buzzing|国外社交媒体热榜",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_329a0e5d3a77",
-      "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-      "url": "https://www.aibase.com/news/30471",
-      "primary_url": "https://www.aibase.com/news/30471",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "url": "https://www.aibase.com/news/30471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:42:22.626562Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "url": "https://www.aibase.com/news/30471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:42:22.626562Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T07:42:22.626562Z",
-      "latest_at": "2026-08-19T07:42:22.626562Z",
-      "primary_item": {
-        "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-        "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-        "url": "https://www.aibase.com/news/30471",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a6cf5888e2db",
-      "title": "Dicklesworthstone 推动了 Franken_manim / Dicklesworthstone pushed franken_manim",
-      "url": "https://github.com/Dicklesworthstone/franken_manim/compare/7627439734...826199986b",
-      "primary_url": "https://github.com/Dicklesworthstone/franken_manim/compare/7627439734...826199986b",
-      "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "d4b17eff7e2c394c43c3bfbd134247cc01ced4e8",
-          "title": "Dicklesworthstone 推动了 Franken_manim / Dicklesworthstone pushed franken_manim",
-          "url": "https://github.com/Dicklesworthstone/franken_manim/compare/7627439734...826199986b",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T06:07:48Z"
-        },
-        {
-          "id": "d84f338d4e0f8f14c4e859380f5a9051ed807c81",
-          "title": "Dicklesworthstone 推动 Frankensqlite / Dicklesworthstone pushed frankensqlite",
-          "url": "https://github.com/Dicklesworthstone/frankensqlite/compare/6d3736e6f3...cb26b473eb",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T05:24:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein"
-      ],
-      "items": [
-        {
-          "id": "d4b17eff7e2c394c43c3bfbd134247cc01ced4e8",
-          "title": "Dicklesworthstone 推动了 Franken_manim / Dicklesworthstone pushed franken_manim",
-          "url": "https://github.com/Dicklesworthstone/franken_manim/compare/7627439734...826199986b",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T06:07:48Z"
-        },
-        {
-          "id": "d84f338d4e0f8f14c4e859380f5a9051ed807c81",
-          "title": "Dicklesworthstone 推动 Frankensqlite / Dicklesworthstone pushed frankensqlite",
-          "url": "https://github.com/Dicklesworthstone/frankensqlite/compare/6d3736e6f3...cb26b473eb",
-          "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T05:24:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6219,
-      "importance": 0.6219,
-      "importance_score": 0.6219,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.9343,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-19T05:24:57Z",
-      "latest_at": "2026-08-19T06:07:48Z",
-      "primary_item": {
-        "id": "d4b17eff7e2c394c43c3bfbd134247cc01ced4e8",
-        "title": "Dicklesworthstone 推动了 Franken_manim / Dicklesworthstone pushed franken_manim",
-        "url": "https://github.com/Dicklesworthstone/franken_manim/compare/7627439734...826199986b",
-        "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_74e761492c49",
-      "title": "autogame-17 推农场 / autogame-17 pushed Farm",
-      "url": "https://github.com/autogame-17/Farm/compare/95557d7616...506480e383",
-      "primary_url": "https://github.com/autogame-17/Farm/compare/95557d7616...506480e383",
-      "source": "17|EvoMap.ai/进化网络",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "959e1d38a8235556b85e3bfface1cbc878bbb460",
-          "title": "autogame-17 推农场 / autogame-17 pushed Farm",
-          "url": "https://github.com/autogame-17/Farm/compare/95557d7616...506480e383",
-          "source": "17|EvoMap.ai/进化网络",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T07:02:52Z"
-        },
-        {
-          "id": "380739a0182bc2233ce1609ea96d7050674b77fd",
-          "title": "autogame-17 推农场 / autogame-17 pushed Farm",
-          "url": "https://github.com/autogame-17/Farm/compare/19934a07a6...95557d7616",
-          "source": "17|EvoMap.ai/进化网络",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T01:56:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "17|EvoMap.ai/进化网络"
-      ],
-      "items": [
-        {
-          "id": "959e1d38a8235556b85e3bfface1cbc878bbb460",
-          "title": "autogame-17 推农场 / autogame-17 pushed Farm",
-          "url": "https://github.com/autogame-17/Farm/compare/95557d7616...506480e383",
-          "source": "17|EvoMap.ai/进化网络",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T07:02:52Z"
-        },
-        {
-          "id": "380739a0182bc2233ce1609ea96d7050674b77fd",
-          "title": "autogame-17 推农场 / autogame-17 pushed Farm",
-          "url": "https://github.com/autogame-17/Farm/compare/19934a07a6...95557d7616",
-          "source": "17|EvoMap.ai/进化网络",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T01:56:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6205,
-      "importance": 0.6205,
-      "importance_score": 0.6205,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9726,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-19T01:56:14Z",
-      "latest_at": "2026-08-19T07:02:52Z",
-      "primary_item": {
-        "id": "959e1d38a8235556b85e3bfface1cbc878bbb460",
-        "title": "autogame-17 推农场 / autogame-17 pushed Farm",
-        "url": "https://github.com/autogame-17/Farm/compare/95557d7616...506480e383",
-        "source": "17|EvoMap.ai/进化网络",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_674df3f4f9cf",
-      "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
-      "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/f357182bf1...cde81ea582",
-      "primary_url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/f357182bf1...cde81ea582",
-      "source": "krishnakanthb13|ai_cli_manager",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "09b69a1ddee55b62d15fc16bbf78c9e218957054",
-          "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
-          "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/f357182bf1...cde81ea582",
-          "source": "krishnakanthb13|ai_cli_manager",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T06:34:40Z"
-        },
-        {
-          "id": "1bf83dab2225467bcb7a95981ff0643bbe1c1572",
-          "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
-          "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/652836590d...908580467e",
-          "source": "krishnakanthb13|ai_cli_manager",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T05:26:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "krishnakanthb13|ai_cli_manager"
-      ],
-      "items": [
-        {
-          "id": "09b69a1ddee55b62d15fc16bbf78c9e218957054",
-          "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
-          "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/f357182bf1...cde81ea582",
-          "source": "krishnakanthb13|ai_cli_manager",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T06:34:40Z"
-        },
-        {
-          "id": "1bf83dab2225467bcb7a95981ff0643bbe1c1572",
-          "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
-          "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/652836590d...908580467e",
-          "source": "krishnakanthb13|ai_cli_manager",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T05:26:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6166,
-      "importance": 0.6166,
-      "importance_score": 0.6166,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.953,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-19T05:26:29Z",
-      "latest_at": "2026-08-19T06:34:40Z",
-      "primary_item": {
-        "id": "09b69a1ddee55b62d15fc16bbf78c9e218957054",
-        "title": "krishnakanthb13 推动了 anp-22-habit-streak / krishnakanthb13 pushed anp-22-habit-streak",
-        "url": "https://github.com/krishnakanthb13/anp-22-habit-streak/compare/f357182bf1...cde81ea582",
-        "source": "krishnakanthb13|ai_cli_manager",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_1bd834e65c86",
-      "title": "madeye 在 meow-rs 中标记了一个问题 / madeye labeled an issue in meow-rs",
-      "url": "https://github.com/madeye/meow-rs/issues/422",
-      "primary_url": "https://github.com/madeye/meow-rs/issues/422",
-      "source": "madeye|AI暴露度CN/clash",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "1eb5e8e060845850000b861d4ec06b8c0447c449",
-          "title": "madeye 在 meow-rs 中标记了一个问题 / madeye labeled an issue in meow-rs",
-          "url": "https://github.com/madeye/meow-rs/issues/422",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T06:30:05Z"
-        },
-        {
-          "id": "360690fab94aa88b26e37bcaaff646d06042d5bc",
-          "title": "madeye 在 meow-rs 中提出了一个问题 / madeye opened an issue in meow-rs",
-          "url": "https://github.com/madeye/meow-rs/issues/422",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T06:30:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "madeye|AI暴露度CN/clash"
-      ],
-      "items": [
-        {
-          "id": "1eb5e8e060845850000b861d4ec06b8c0447c449",
-          "title": "madeye 在 meow-rs 中标记了一个问题 / madeye labeled an issue in meow-rs",
-          "url": "https://github.com/madeye/meow-rs/issues/422",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T06:30:05Z"
-        },
-        {
-          "id": "360690fab94aa88b26e37bcaaff646d06042d5bc",
-          "title": "madeye 在 meow-rs 中提出了一个问题 / madeye opened an issue in meow-rs",
-          "url": "https://github.com/madeye/meow-rs/issues/422",
-          "source": "madeye|AI暴露度CN/clash",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-19T06:30:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.616,
-      "importance": 0.616,
-      "importance_score": 0.616,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9498,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-19T06:30:05Z",
-      "latest_at": "2026-08-19T06:30:05Z",
-      "primary_item": {
-        "id": "1eb5e8e060845850000b861d4ec06b8c0447c449",
-        "title": "madeye 在 meow-rs 中标记了一个问题 / madeye labeled an issue in meow-rs",
-        "url": "https://github.com/madeye/meow-rs/issues/422",
-        "source": "madeye|AI暴露度CN/clash",
         "source_name": "OPML RSS"
       }
     }
