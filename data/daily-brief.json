@@ -1,354 +1,51 @@
 {
-  "generated_at": "2026-09-03T01:20:44.873453Z",
+  "generated_at": "2026-09-05T17:29:59.450581Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_87d57cde9876",
-      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-      "primary_url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-          "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T21:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-          "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T21:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8189,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T21:00:00Z",
-      "latest_at": "2026-09-02T21:00:00Z",
-      "primary_item": {
-        "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_57ac748e3e56",
-      "title": "Content exclusions generally available in Copilot app and CLI",
-      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-      "primary_url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-          "title": "Content exclusions generally available in Copilot app and CLI",
-          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:14:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-          "title": "Content exclusions generally available in Copilot app and CLI",
-          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:14:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7039,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T18:14:23Z",
-      "latest_at": "2026-09-02T18:14:23Z",
-      "primary_item": {
-        "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-        "title": "Content exclusions generally available in Copilot app and CLI",
-        "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c90313a65d71",
-      "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-      "url": "https://www.aibase.com/news/30789",
-      "primary_url": "https://www.aibase.com/news/30789",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "85b30c24c9c2a45330978a67fac0ed2bcec837ab",
-          "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-          "url": "https://www.aibase.com/news/30789",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:20:44.873453Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "85b30c24c9c2a45330978a67fac0ed2bcec837ab",
-          "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-          "url": "https://www.aibase.com/news/30789",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:20:44.873453Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T01:20:44.873453Z",
-      "latest_at": "2026-09-03T01:20:44.873453Z",
-      "primary_item": {
-        "id": "85b30c24c9c2a45330978a67fac0ed2bcec837ab",
-        "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-        "url": "https://www.aibase.com/news/30789",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_22915ca8a273",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "primary_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T13:49:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T13:49:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.5198,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T13:49:14Z",
-      "latest_at": "2026-09-02T13:49:14Z",
-      "primary_item": {
-        "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-        "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fb00da4a6271",
-      "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-      "url": "https://www.aibase.com/news/30786",
-      "primary_url": "https://www.aibase.com/news/30786",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "85f8ea75f5f2b5ec58132cfff0b47ad1d72c98dd",
-          "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-          "url": "https://www.aibase.com/news/30786",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:20:44.873453Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "85f8ea75f5f2b5ec58132cfff0b47ad1d72c98dd",
-          "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-          "url": "https://www.aibase.com/news/30786",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:20:44.873453Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T01:20:44.873453Z",
-      "latest_at": "2026-09-03T01:20:44.873453Z",
-      "primary_item": {
-        "id": "85f8ea75f5f2b5ec58132cfff0b47ad1d72c98dd",
-        "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-        "url": "https://www.aibase.com/news/30786",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_af4661b4d34d",
-      "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-      "url": "https://aihot.virxact.com/items/cmtkme19o02plro5q94jsf94x",
-      "primary_url": "https://aihot.virxact.com/items/cmtkme19o02plro5q94jsf94x",
-      "source": "X：Kim (@kimmonismus)",
+      "story_id": "story_121d4d9e02dd",
+      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+      "url": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
+      "primary_url": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6bcba709db6569c38904908373d183ab7fdfd646",
-          "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-          "url": "https://aihot.virxact.com/items/cmtkme19o02plro5q94jsf94x",
-          "source": "X：Kim (@kimmonismus)",
+          "id": "dc93ecf7b66a54ac3337bdf95ad476a50835e4f5",
+          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "url": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T21:39:44Z"
+          "published_at": "2026-09-05T11:43:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Kim (@kimmonismus)"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "6bcba709db6569c38904908373d183ab7fdfd646",
-          "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-          "url": "https://aihot.virxact.com/items/cmtkme19o02plro5q94jsf94x",
-          "source": "X：Kim (@kimmonismus)",
+          "id": "dc93ecf7b66a54ac3337bdf95ad476a50835e4f5",
+          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "url": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T21:39:44Z"
+          "published_at": "2026-09-05T11:43:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8465,
+        "recency": 0.7592,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -356,181 +53,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T21:39:44Z",
-      "latest_at": "2026-09-02T21:39:44Z",
+      "earliest_at": "2026-09-05T11:43:16Z",
+      "latest_at": "2026-09-05T11:43:16Z",
       "primary_item": {
-        "id": "6bcba709db6569c38904908373d183ab7fdfd646",
-        "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-        "url": "https://aihot.virxact.com/items/cmtkme19o02plro5q94jsf94x",
-        "source": "X：Kim (@kimmonismus)",
+        "id": "dc93ecf7b66a54ac3337bdf95ad476a50835e4f5",
+        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+        "url": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_7f0cad5ff04b",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6a6e98d2615f2621f30dd301faf751798e988daa",
-          "title": "Proactive cyber defense for governments and enterprises",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T15:40:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "6a6e98d2615f2621f30dd301faf751798e988daa",
-          "title": "Proactive cyber defense for governments and enterprises",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T15:40:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5967,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T15:40:00Z",
-      "latest_at": "2026-09-02T15:40:00Z",
-      "primary_item": {
-        "id": "6a6e98d2615f2621f30dd301faf751798e988daa",
-        "title": "Proactive cyber defense for governments and enterprises",
-        "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3e5f44485fb9",
-      "title": "Enterprise-managed settings support any default model",
-      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-      "primary_url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-          "title": "Enterprise-managed settings support any default model",
-          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:51:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-          "title": "Enterprise-managed settings support any default model",
-          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:51:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7295,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T18:51:12Z",
-      "latest_at": "2026-09-02T18:51:12Z",
-      "primary_item": {
-        "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-        "title": "Enterprise-managed settings support any default model",
-        "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4cfb346a8bd9",
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-      "url": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
-      "primary_url": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
-      "source": "X：Claude (@claudeai)",
+      "story_id": "story_5ca34cad08cf",
+      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+      "url": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+      "primary_url": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c01826ebf1eaac02a90747a5376b161ba25fd34e",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "url": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
-          "source": "X：Claude (@claudeai)",
+          "id": "82e95085cca6e54e691ff9e8d5cf0f508660074f",
+          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "url": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
+          "published_at": "2026-09-05T11:39:52Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Claude (@claudeai)"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "c01826ebf1eaac02a90747a5376b161ba25fd34e",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "url": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
-          "source": "X：Claude (@claudeai)",
+          "id": "82e95085cca6e54e691ff9e8d5cf0f508660074f",
+          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "url": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
+          "published_at": "2026-09-05T11:39:52Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.74,
+        "recency": 0.7569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -538,376 +113,195 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T19:06:19Z",
-      "latest_at": "2026-09-02T19:06:19Z",
+      "earliest_at": "2026-09-05T11:39:52Z",
+      "latest_at": "2026-09-05T11:39:52Z",
       "primary_item": {
-        "id": "c01826ebf1eaac02a90747a5376b161ba25fd34e",
-        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-        "url": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
-        "source": "X：Claude (@claudeai)",
+        "id": "82e95085cca6e54e691ff9e8d5cf0f508660074f",
+        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+        "url": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_7d34791ff11f",
-      "title": "OpenAI即将推出Astra模型:首个达“关键网络安全阈值”的AI模型",
-      "url": "https://www.aibase.com/news/30787",
-      "primary_url": "https://www.aibase.com/news/30787",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9e072afeabe0a3784b878d076b0a183bfafa0af8",
-          "title": "OpenAI即将推出Astra模型:首个达“关键网络安全阈值”的AI模型",
-          "url": "https://www.aibase.com/news/30787",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:20:44.873453Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9e072afeabe0a3784b878d076b0a183bfafa0af8",
-          "title": "OpenAI即将推出Astra模型:首个达“关键网络安全阈值”的AI模型",
-          "url": "https://www.aibase.com/news/30787",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:20:44.873453Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T01:20:44.873453Z",
-      "latest_at": "2026-09-03T01:20:44.873453Z",
-      "primary_item": {
-        "id": "9e072afeabe0a3784b878d076b0a183bfafa0af8",
-        "title": "OpenAI即将推出Astra模型:首个达“关键网络安全阈值”的AI模型",
-        "url": "https://www.aibase.com/news/30787",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_caed7d4de8a5",
-      "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
-      "url": "https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth",
-      "primary_url": "https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth",
-      "source": "GitHub Blog",
+      "story_id": "story_96f7978c9a1c",
+      "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+      "url": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
+      "primary_url": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "48a8a567bbeac82748653c3d0831336ccbba137f",
-          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
-          "url": "https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth",
-          "source": "GitHub Blog",
+          "id": "b5655182f2b93db671233f2edc632b988026bc06",
+          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "url": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T18:00:00Z"
+          "published_at": "2026-09-05T07:56:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Blog"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "48a8a567bbeac82748653c3d0831336ccbba137f",
-          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
-          "url": "https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth",
-          "source": "GitHub Blog",
+          "id": "b5655182f2b93db671233f2edc632b988026bc06",
+          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "url": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-02T18:00:00Z"
+          "published_at": "2026-09-05T07:56:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6939,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T18:00:00Z",
-      "latest_at": "2026-09-02T18:00:00Z",
-      "primary_item": {
-        "id": "48a8a567bbeac82748653c3d0831336ccbba137f",
-        "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
-        "url": "https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bb6baa65a648",
-      "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-      "url": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec",
-      "primary_url": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8d6db8f170cd969043c74fa95be29a70c22b3401",
-          "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-          "url": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T16:29:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8d6db8f170cd969043c74fa95be29a70c22b3401",
-          "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-          "url": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T16:29:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6312,
+        "recency": 0.602,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-02T16:29:43Z",
-      "latest_at": "2026-09-02T16:29:43Z",
+      "earliest_at": "2026-09-05T07:56:50Z",
+      "latest_at": "2026-09-05T07:56:50Z",
       "primary_item": {
-        "id": "8d6db8f170cd969043c74fa95be29a70c22b3401",
-        "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-        "url": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec",
-        "source": "Google Developers Blog（RSS）",
+        "id": "b5655182f2b93db671233f2edc632b988026bc06",
+        "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+        "url": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_8e44b8ee7325",
-      "title": "戚薇回应 AI 漫剧“卖脸”争议：与其被别人拿走，不如主动出击",
-      "url": "https://www.aibase.com/news/30788",
-      "primary_url": "https://www.aibase.com/news/30788",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_9f08f0185a47",
+      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+      "url": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+      "primary_url": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f8a4cc4ae107228497b536891c3e295029e01614",
-          "title": "戚薇回应 AI 漫剧“卖脸”争议：与其被别人拿走，不如主动出击",
-          "url": "https://www.aibase.com/news/30788",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:20:44.873453Z"
+          "id": "fd7f98a37442edb6e5ff270a0da6d623ce15940a",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "url": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:41:03Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "f8a4cc4ae107228497b536891c3e295029e01614",
-          "title": "戚薇回应 AI 漫剧“卖脸”争议：与其被别人拿走，不如主动出击",
-          "url": "https://www.aibase.com/news/30788",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:20:44.873453Z"
+          "id": "fd7f98a37442edb6e5ff270a0da6d623ce15940a",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "url": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:41:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.591,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-03T01:20:44.873453Z",
-      "latest_at": "2026-09-03T01:20:44.873453Z",
+      "earliest_at": "2026-09-05T07:41:03Z",
+      "latest_at": "2026-09-05T07:41:03Z",
       "primary_item": {
-        "id": "f8a4cc4ae107228497b536891c3e295029e01614",
-        "title": "戚薇回应 AI 漫剧“卖脸”争议：与其被别人拿走，不如主动出击",
-        "url": "https://www.aibase.com/news/30788",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3b21f3e8ea2f",
-      "title": "美国政府力挺OpenAI：AI训练属于“合理使用”，若限制版权将重创科技创新",
-      "url": "https://www.aibase.com/news/30790",
-      "primary_url": "https://www.aibase.com/news/30790",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cf3a7a06f77c72ea6bd1e8e8b786c39bf0c87f85",
-          "title": "美国政府力挺OpenAI：AI训练属于“合理使用”，若限制版权将重创科技创新",
-          "url": "https://www.aibase.com/news/30790",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:20:44.873453Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cf3a7a06f77c72ea6bd1e8e8b786c39bf0c87f85",
-          "title": "美国政府力挺OpenAI：AI训练属于“合理使用”，若限制版权将重创科技创新",
-          "url": "https://www.aibase.com/news/30790",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:20:44.873453Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T01:20:44.873453Z",
-      "latest_at": "2026-09-03T01:20:44.873453Z",
-      "primary_item": {
-        "id": "cf3a7a06f77c72ea6bd1e8e8b786c39bf0c87f85",
-        "title": "美国政府力挺OpenAI：AI训练属于“合理使用”，若限制版权将重创科技创新",
-        "url": "https://www.aibase.com/news/30790",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "fd7f98a37442edb6e5ff270a0da6d623ce15940a",
+        "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+        "url": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
       "story_id": "story_c56b58e9d916",
-      "title": "第1774期 - 2026-09-03 08:01",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-03_0801",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-03_0801",
+      "title": "第1790期 - 2026-09-06 00:01",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-06_0001",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-06_0001",
       "source": "大黑AI速报",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "0f8199f29c570a0f3ad8ec1ecf666e67e7c05bd9",
-          "title": "第1774期 - 2026-09-03 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-03_0801",
+          "id": "6dc24f678d7b4e1be9f13155594f051391f0f3a9",
+          "title": "第1790期 - 2026-09-06 00:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-06_0001",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:01:24Z"
+          "published_at": "2026-09-05T16:01:49Z"
         },
         {
-          "id": "aea8413435205c1a5787b31ef52f4668274428ce",
-          "title": "第1773期 - 2026-09-03 04:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-03_0402",
+          "id": "3786652e1c049738bb56072323bd4338e0ceea50",
+          "title": "第1789期 - 2026-09-05 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-05_2001",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T20:02:32Z"
+          "published_at": "2026-09-05T12:01:41Z"
         },
         {
-          "id": "9cfdd870d3123db01ef38b342d754e2c95ffdee8",
-          "title": "第1772期 - 2026-09-03 00:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-03_0002",
+          "id": "f83138782de88e0c56967c875483900af8a9130b",
+          "title": "第1788期 - 2026-09-05 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-05_1601",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T16:02:55Z"
+          "published_at": "2026-09-05T08:01:16Z"
         },
         {
-          "id": "c1c6bba1558d4ec3c78af8e4fcfd7f81919f90a4",
-          "title": "第1771期 - 2026-09-02 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-02_2001",
+          "id": "c6706900dcc63552fd255744982d795db533b839",
+          "title": "第1787期 - 2026-09-05 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-05_1201",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T12:01:49Z"
+          "published_at": "2026-09-05T04:01:26Z"
         },
         {
-          "id": "546d1f88962ba685816ad87892827cd87c242812",
-          "title": "第1770期 - 2026-09-02 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-02_1601",
+          "id": "f42d39e67e129a887947a2a325c360d97c213c0c",
+          "title": "第1786期 - 2026-09-05 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-05_0801",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T08:01:06Z"
+          "published_at": "2026-09-05T00:01:40Z"
         },
         {
-          "id": "52ad4d2161efedf8208bd1c0c9627b48e44866ed",
-          "title": "第1769期 - 2026-09-02 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-02_1201",
+          "id": "9fa4ff697fa7b417a728c29213d5f5e188ca44f9",
+          "title": "第1785期 - 2026-09-05 04:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-05_0402",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T04:01:38Z"
+          "published_at": "2026-09-04T20:02:40Z"
         }
       ],
       "source_count": 6,
@@ -916,494 +310,344 @@
       ],
       "items": [
         {
-          "id": "0f8199f29c570a0f3ad8ec1ecf666e67e7c05bd9",
-          "title": "第1774期 - 2026-09-03 08:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-03_0801",
+          "id": "6dc24f678d7b4e1be9f13155594f051391f0f3a9",
+          "title": "第1790期 - 2026-09-06 00:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-06_0001",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:01:24Z"
+          "published_at": "2026-09-05T16:01:49Z"
         },
         {
-          "id": "aea8413435205c1a5787b31ef52f4668274428ce",
-          "title": "第1773期 - 2026-09-03 04:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-03_0402",
+          "id": "3786652e1c049738bb56072323bd4338e0ceea50",
+          "title": "第1789期 - 2026-09-05 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-05_2001",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T20:02:32Z"
+          "published_at": "2026-09-05T12:01:41Z"
         },
         {
-          "id": "9cfdd870d3123db01ef38b342d754e2c95ffdee8",
-          "title": "第1772期 - 2026-09-03 00:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-03_0002",
+          "id": "f83138782de88e0c56967c875483900af8a9130b",
+          "title": "第1788期 - 2026-09-05 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-05_1601",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T16:02:55Z"
+          "published_at": "2026-09-05T08:01:16Z"
         },
         {
-          "id": "c1c6bba1558d4ec3c78af8e4fcfd7f81919f90a4",
-          "title": "第1771期 - 2026-09-02 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-02_2001",
+          "id": "c6706900dcc63552fd255744982d795db533b839",
+          "title": "第1787期 - 2026-09-05 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-05_1201",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T12:01:49Z"
+          "published_at": "2026-09-05T04:01:26Z"
         },
         {
-          "id": "546d1f88962ba685816ad87892827cd87c242812",
-          "title": "第1770期 - 2026-09-02 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-02_1601",
+          "id": "f42d39e67e129a887947a2a325c360d97c213c0c",
+          "title": "第1786期 - 2026-09-05 08:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-05_0801",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T08:01:06Z"
+          "published_at": "2026-09-05T00:01:40Z"
         },
         {
-          "id": "52ad4d2161efedf8208bd1c0c9627b48e44866ed",
-          "title": "第1769期 - 2026-09-02 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-02_1201",
+          "id": "9fa4ff697fa7b417a728c29213d5f5e188ca44f9",
+          "title": "第1785期 - 2026-09-05 04:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-05_0402",
           "source": "大黑AI速报",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-02T04:01:38Z"
+          "published_at": "2026-09-04T20:02:40Z"
         }
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.69,
-      "importance": 0.69,
-      "importance_score": 0.69,
+      "score": 0.6888,
+      "importance": 0.6888,
+      "importance_score": 0.6888,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9449,
+        "recency": 0.9388,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-02T04:01:38Z",
-      "latest_at": "2026-09-03T00:01:24Z",
+      "earliest_at": "2026-09-04T20:02:40Z",
+      "latest_at": "2026-09-05T16:01:49Z",
       "primary_item": {
-        "id": "0f8199f29c570a0f3ad8ec1ecf666e67e7c05bd9",
-        "title": "第1774期 - 2026-09-03 08:01",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-03_0801",
+        "id": "6dc24f678d7b4e1be9f13155594f051391f0f3a9",
+        "title": "第1790期 - 2026-09-06 00:01",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-06_0001",
         "source": "大黑AI速报",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "AI Agent文明复盘：1200个智能体的73天兴衰!",
-      "url": "https://www.youtube.com/watch?v=uxZwYih_AFk",
-      "primary_url": "https://www.youtube.com/watch?v=uxZwYih_AFk",
-      "source": "范路 | 老范讲故事",
+      "story_id": "story_c28811eea145",
+      "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Buzzing|国外社交媒体热榜",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "3cf43b48b953b0feb358d3f2e522aaaa78847393",
-          "title": "AI Agent文明复盘：1200个智能体的73天兴衰!",
-          "url": "https://www.youtube.com/watch?v=uxZwYih_AFk",
-          "source": "范路 | 老范讲故事",
+          "id": "8b47b6a37334678d159955d0f66980354dbe4810",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "Buzzing|国外社交媒体热榜",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:30:15Z"
+          "published_at": "2026-09-05T17:21:09.203000Z"
         },
         {
-          "id": "fd33e72dcfc6fa92f4fbe593d48111005991548d",
-          "title": "AI Software Factories Are the Next Big Thing (And I'm Building You One)",
-          "url": "https://www.youtube.com/watch?v=DcLj_SO8JNk",
-          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:00:14Z"
-        },
-        {
-          "id": "d675eea995b0900d198b80f9109de54b68825518",
-          "title": "Building Confidence and Trust in AI with Omar Khokhar, Technical Team Lead at Systal",
-          "url": "https://www.youtube.com/watch?v=axKLGScdb-s",
-          "source": "数码 | 联想官方",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T07:00:36Z"
-        },
-        {
-          "id": "8bf9a0614b63f9976c2f35324d5a575717c0bba6",
-          "title": "老范读评9月2日 AI编程选择与星宇裁员争议",
-          "url": "https://www.youtube.com/watch?v=U0GNAJJU0mI",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T06:02:35Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-        "数码 | 联想官方",
-        "范路 | 老范讲故事"
-      ],
-      "items": [
-        {
-          "id": "3cf43b48b953b0feb358d3f2e522aaaa78847393",
-          "title": "AI Agent文明复盘：1200个智能体的73天兴衰!",
-          "url": "https://www.youtube.com/watch?v=uxZwYih_AFk",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:30:15Z"
-        },
-        {
-          "id": "fd33e72dcfc6fa92f4fbe593d48111005991548d",
-          "title": "AI Software Factories Are the Next Big Thing (And I'm Building You One)",
-          "url": "https://www.youtube.com/watch?v=DcLj_SO8JNk",
-          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:00:14Z"
-        },
-        {
-          "id": "d675eea995b0900d198b80f9109de54b68825518",
-          "title": "Building Confidence and Trust in AI with Omar Khokhar, Technical Team Lead at Systal",
-          "url": "https://www.youtube.com/watch?v=axKLGScdb-s",
-          "source": "数码 | 联想官方",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T07:00:36Z"
-        },
-        {
-          "id": "8bf9a0614b63f9976c2f35324d5a575717c0bba6",
-          "title": "老范读评9月2日 AI编程选择与星宇裁员争议",
-          "url": "https://www.youtube.com/watch?v=U0GNAJJU0mI",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T06:02:35Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.681,
-      "importance": 0.681,
-      "importance_score": 0.681,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9649,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-02T06:02:35Z",
-      "latest_at": "2026-09-03T00:30:15Z",
-      "primary_item": {
-        "id": "3cf43b48b953b0feb358d3f2e522aaaa78847393",
-        "title": "AI Agent文明复盘：1200个智能体的73天兴衰!",
-        "url": "https://www.youtube.com/watch?v=uxZwYih_AFk",
-        "source": "范路 | 老范讲故事",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_3399cde0075b",
-      "title": "mudler 关闭了 vllm.cpp 中的问题 / mudler closed an issue in vllm.cpp",
-      "url": "https://github.com/mudler/vllm.cpp/issues/2583",
-      "primary_url": "https://github.com/mudler/vllm.cpp/issues/2583",
-      "source": "mudler",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "7fa4517e3e44fb9b9990be0cddcdb7151f1e46a3",
-          "title": "mudler 关闭了 vllm.cpp 中的问题 / mudler closed an issue in vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/issues/2583",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T01:16:31Z"
-        },
-        {
-          "id": "314988529ea63ee31dbdd4642ff1ef4a68713065",
-          "title": "mudler 关闭了 vllm.cpp 中的问题 / mudler closed an issue in vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/issues/2544",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:03:31Z"
-        },
-        {
-          "id": "e58272c523e989fadb70e9c28abd4fc9d3d9d0b9",
-          "title": "mudler 关闭了 vllm.cpp 中的问题 / mudler closed an issue in vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/issues/2593",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T21:12:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "mudler"
-      ],
-      "items": [
-        {
-          "id": "7fa4517e3e44fb9b9990be0cddcdb7151f1e46a3",
-          "title": "mudler 关闭了 vllm.cpp 中的问题 / mudler closed an issue in vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/issues/2583",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T01:16:31Z"
-        },
-        {
-          "id": "314988529ea63ee31dbdd4642ff1ef4a68713065",
-          "title": "mudler 关闭了 vllm.cpp 中的问题 / mudler closed an issue in vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/issues/2544",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:03:31Z"
-        },
-        {
-          "id": "e58272c523e989fadb70e9c28abd4fc9d3d9d0b9",
-          "title": "mudler 关闭了 vllm.cpp 中的问题 / mudler closed an issue in vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/issues/2593",
-          "source": "mudler",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T21:12:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6624,
-      "importance": 0.6624,
-      "importance_score": 0.6624,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9971,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-02T21:12:30Z",
-      "latest_at": "2026-09-03T01:16:31Z",
-      "primary_item": {
-        "id": "7fa4517e3e44fb9b9990be0cddcdb7151f1e46a3",
-        "title": "mudler 关闭了 vllm.cpp 中的问题 / mudler closed an issue in vllm.cpp",
-        "url": "https://github.com/mudler/vllm.cpp/issues/2583",
-        "source": "mudler",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_45bfc6c2c370",
-      "title": "jupyter-server-mcp 0.3.0 [noarch]",
-      "url": "https://jupyter-ai.readthedocs.io",
-      "primary_url": "https://jupyter-ai.readthedocs.io",
-      "source": "anaconda.org/conda-forge",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "fc4edb80707ca9e1cc03bf4dc4dfd3a813552443",
-          "title": "jupyter-ai-tools 0.7.0 [noarch]",
-          "url": "https://jupyter-ai.readthedocs.io",
-          "source": "anaconda.org/conda-forge",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:07:09Z"
-        },
-        {
-          "id": "74b69316e1b557549413f68d3edde5696a3578b2",
-          "title": "jupyterlab-commands-toolkit 0.2.0 [noarch]",
-          "url": "https://jupyter-ai.readthedocs.io",
-          "source": "anaconda.org/conda-forge",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:01:33Z"
-        },
-        {
-          "id": "e2ea685781eb03125b575977238b8ef84c7b1921",
-          "title": "jupyter-server-mcp 0.3.0 [noarch]",
-          "url": "https://jupyter-ai.readthedocs.io",
-          "source": "anaconda.org/conda-forge",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T23:22:49Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "anaconda.org/conda-forge"
-      ],
-      "items": [
-        {
-          "id": "fc4edb80707ca9e1cc03bf4dc4dfd3a813552443",
-          "title": "jupyter-ai-tools 0.7.0 [noarch]",
-          "url": "https://jupyter-ai.readthedocs.io",
-          "source": "anaconda.org/conda-forge",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:07:09Z"
-        },
-        {
-          "id": "74b69316e1b557549413f68d3edde5696a3578b2",
-          "title": "jupyterlab-commands-toolkit 0.2.0 [noarch]",
-          "url": "https://jupyter-ai.readthedocs.io",
-          "source": "anaconda.org/conda-forge",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:01:33Z"
-        },
-        {
-          "id": "e2ea685781eb03125b575977238b8ef84c7b1921",
-          "title": "jupyter-server-mcp 0.3.0 [noarch]",
-          "url": "https://jupyter-ai.readthedocs.io",
-          "source": "anaconda.org/conda-forge",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-02T23:22:49Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6466,
-      "importance": 0.6466,
-      "importance_score": 0.6466,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9181,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-02T23:22:49Z",
-      "latest_at": "2026-09-03T00:07:09Z",
-      "primary_item": {
-        "id": "e2ea685781eb03125b575977238b8ef84c7b1921",
-        "title": "jupyter-server-mcp 0.3.0 [noarch]",
-        "url": "https://jupyter-ai.readthedocs.io",
-        "source": "anaconda.org/conda-forge",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_97e7ad2c386d",
-      "title": "US government backs OpenAI in New York Times copyright case",
-      "url": "https://lobste.rs/c/yf6qhu",
-      "primary_url": "https://lobste.rs/c/yf6qhu",
-      "source": "Comments",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "482b1e3fd4456fecac1a8d388375b17271ea02e9",
-          "title": "US government backs OpenAI in New York Times copyright case",
-          "url": "https://lobste.rs/c/yf6qhu",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-03T01:18:31Z"
-        },
-        {
-          "id": "531e678018d64467b99b0ff1d429ccc24368092f",
-          "title": "US government backs OpenAI in New York Times copyright case",
-          "url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-03T01:13:14Z"
+          "id": "3cb54ac4ac52544f650ec7092267950dc02b99cc",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度",
+          "url": "https://reut.rs/3ThCCCK",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:21:09.221000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Comments",
-        "Lobsters (技术社区)"
+        "Buzzing|国外社交媒体热榜",
+        "reut.rs"
       ],
       "items": [
         {
-          "id": "482b1e3fd4456fecac1a8d388375b17271ea02e9",
-          "title": "US government backs OpenAI in New York Times copyright case",
-          "url": "https://lobste.rs/c/yf6qhu",
-          "source": "Comments",
+          "id": "8b47b6a37334678d159955d0f66980354dbe4810",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "Buzzing|国外社交媒体热榜",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T01:18:31Z"
+          "published_at": "2026-09-05T17:21:09.203000Z"
         },
         {
-          "id": "531e678018d64467b99b0ff1d429ccc24368092f",
-          "title": "US government backs OpenAI in New York Times copyright case",
-          "url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-03T01:13:14Z"
+          "id": "3cb54ac4ac52544f650ec7092267950dc02b99cc",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度",
+          "url": "https://reut.rs/3ThCCCK",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:21:09.221000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6377,
-      "importance": 0.6377,
-      "importance_score": 0.6377,
+      "score": 0.6488,
+      "importance": 0.6488,
+      "importance_score": 0.6488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9985,
+        "ai_relevance": 0.75,
+        "recency": 0.9939,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-03T01:13:14Z",
-      "latest_at": "2026-09-03T01:18:31Z",
+      "earliest_at": "2026-09-05T17:21:09.203000Z",
+      "latest_at": "2026-09-05T17:21:09.221000Z",
       "primary_item": {
-        "id": "482b1e3fd4456fecac1a8d388375b17271ea02e9",
-        "title": "US government backs OpenAI in New York Times copyright case",
-        "url": "https://lobste.rs/c/yf6qhu",
+        "id": "8b47b6a37334678d159955d0f66980354dbe4810",
+        "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "Buzzing|国外社交媒体热榜",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_9f366878d76b",
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://lobste.rs/c/nj2iob",
+      "primary_url": "https://lobste.rs/c/nj2iob",
+      "source": "Comments",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "61f4b396433c880fb2115aef89fde2c2f63769a8",
+          "title": "Discovery of a new OpenAI agent message board",
+          "url": "https://lobste.rs/c/nj2iob",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T17:24:23Z"
+        },
+        {
+          "id": "afafe8cd47623c0c83d98bb3ee2bd6e3b162ad4c",
+          "title": "Discovery of a new OpenAI agent message board",
+          "url": "https://news.ycombinator.com/item?id=49563355",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T17:30:32.941000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Comments",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "61f4b396433c880fb2115aef89fde2c2f63769a8",
+          "title": "Discovery of a new OpenAI agent message board",
+          "url": "https://lobste.rs/c/nj2iob",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T17:24:23Z"
+        },
+        {
+          "id": "afafe8cd47623c0c83d98bb3ee2bd6e3b162ad4c",
+          "title": "Discovery of a new OpenAI agent message board",
+          "url": "https://news.ycombinator.com/item?id=49563355",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T17:30:32.941000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6372,
+      "importance": 0.6372,
+      "importance_score": 0.6372,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9961,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T17:24:23Z",
+      "latest_at": "2026-09-05T17:30:32.941000Z",
+      "primary_item": {
+        "id": "61f4b396433c880fb2115aef89fde2c2f63769a8",
+        "title": "Discovery of a new OpenAI agent message board",
+        "url": "https://lobste.rs/c/nj2iob",
         "source": "Comments",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_27f4b6f4bf4a",
-      "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
-      "url": "https://github.com/teng-lin/notebooklm-py/pull/2333",
-      "primary_url": "https://github.com/teng-lin/notebooklm-py/pull/2333",
+      "story_id": "story_f9f2a830fdf3",
+      "title": "fastmcp 4.0.3 [noarch]",
+      "url": "https://gofastmcp.com",
+      "primary_url": "https://gofastmcp.com",
+      "source": "anaconda.org/conda-forge",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "00b6154da7e74bf35c8690b55fb1bff8e7892e5d",
+          "title": "fastmcp 4.0.3 [noarch]",
+          "url": "https://gofastmcp.com",
+          "source": "anaconda.org/conda-forge",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T16:50:12Z"
+        },
+        {
+          "id": "6b4bb276954c9b0fbe1e979093cf33bfec999d3c",
+          "title": "fastmcp-slim 4.0.3 [noarch]",
+          "url": "https://gofastmcp.com",
+          "source": "anaconda.org/conda-forge",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T16:50:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "anaconda.org/conda-forge"
+      ],
+      "items": [
+        {
+          "id": "00b6154da7e74bf35c8690b55fb1bff8e7892e5d",
+          "title": "fastmcp 4.0.3 [noarch]",
+          "url": "https://gofastmcp.com",
+          "source": "anaconda.org/conda-forge",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T16:50:12Z"
+        },
+        {
+          "id": "6b4bb276954c9b0fbe1e979093cf33bfec999d3c",
+          "title": "fastmcp-slim 4.0.3 [noarch]",
+          "url": "https://gofastmcp.com",
+          "source": "anaconda.org/conda-forge",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T16:50:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6325,
+      "importance": 0.6325,
+      "importance_score": 0.6325,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9724,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T16:50:12Z",
+      "latest_at": "2026-09-05T16:50:12Z",
+      "primary_item": {
+        "id": "00b6154da7e74bf35c8690b55fb1bff8e7892e5d",
+        "title": "fastmcp 4.0.3 [noarch]",
+        "url": "https://gofastmcp.com",
+        "source": "anaconda.org/conda-forge",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_017e3da4e7cc",
+      "title": "teng-lin commented on pull request teng-lin/notebooklm-py#2359",
+      "url": "https://github.com/teng-lin/notebooklm-py/pull/2359",
+      "primary_url": "https://github.com/teng-lin/notebooklm-py/pull/2359",
       "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "0b993005d2120d8454ae37068ecc2ee7fa63f0e9",
-          "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/2333",
+          "id": "947b981b36bbaca9f6ea7248fbd0a24f28292c68",
+          "title": "teng-lin commented on pull request teng-lin/notebooklm-py#2359",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/2359",
           "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T01:21:05Z"
+          "published_at": "2026-09-05T16:06:14Z"
         },
         {
-          "id": "66d8ab7237a43d9f0c50ed3e3737886940375b3a",
-          "title": "teng-lin commented on pull request teng-lin/notebooklm-py#2333",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/2333",
+          "id": "4acdb121d083e01ee50776302e6c876486e4a4dd",
+          "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/2359",
           "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:38:02Z"
+          "published_at": "2026-09-05T15:22:04Z"
         }
       ],
       "source_count": 2,
@@ -1412,33 +656,672 @@
       ],
       "items": [
         {
-          "id": "0b993005d2120d8454ae37068ecc2ee7fa63f0e9",
-          "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/2333",
+          "id": "947b981b36bbaca9f6ea7248fbd0a24f28292c68",
+          "title": "teng-lin commented on pull request teng-lin/notebooklm-py#2359",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/2359",
           "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T01:21:05Z"
+          "published_at": "2026-09-05T16:06:14Z"
         },
         {
-          "id": "66d8ab7237a43d9f0c50ed3e3737886940375b3a",
-          "title": "teng-lin commented on pull request teng-lin/notebooklm-py#2333",
-          "url": "https://github.com/teng-lin/notebooklm-py/pull/2333",
+          "id": "4acdb121d083e01ee50776302e6c876486e4a4dd",
+          "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/2359",
           "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-03T00:38:02Z"
+          "published_at": "2026-09-05T15:22:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.626,
-      "importance": 0.626,
-      "importance_score": 0.626,
+      "score": 0.6144,
+      "importance": 0.6144,
+      "importance_score": 0.6144,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
+        "recency": 0.9418,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T15:22:04Z",
+      "latest_at": "2026-09-05T16:06:14Z",
+      "primary_item": {
+        "id": "947b981b36bbaca9f6ea7248fbd0a24f28292c68",
+        "title": "teng-lin commented on pull request teng-lin/notebooklm-py#2359",
+        "url": "https://github.com/teng-lin/notebooklm-py/pull/2359",
+        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_28b9450ad341",
+      "title": "OpenAI史上最强！GPT-6一天攻破5道至今未解数学难题",
+      "url": "https://bbs.kafan.cn/thread-2295138-1-1.html",
+      "primary_url": "https://bbs.kafan.cn/thread-2295138-1-1.html",
+      "source": "卡饭 - IT资讯区 - 卡饭论坛",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "e3f80db7842da3b066f7ea1f0e1ef1feefb8ffed",
+          "title": "OpenAI史上最强！GPT-6一天攻破5道至今未解数学难题",
+          "url": "https://bbs.kafan.cn/thread-2295138-1-1.html",
+          "source": "卡饭 - IT资讯区 - 卡饭论坛",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T11:36:10Z"
+        },
+        {
+          "id": "05d634c9418ce4e189546a4aeae8f5805b779633",
+          "title": "OpenAI史上最强！GPT-6一天攻破5道至今未解数学难题",
+          "url": "https://news.mydrivers.com/1/1148/1148874.htm",
+          "source": "数码 | 快科技资讯_最新资讯",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T07:57:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "卡饭 - IT资讯区 - 卡饭论坛",
+        "数码 | 快科技资讯_最新资讯"
+      ],
+      "items": [
+        {
+          "id": "e3f80db7842da3b066f7ea1f0e1ef1feefb8ffed",
+          "title": "OpenAI史上最强！GPT-6一天攻破5道至今未解数学难题",
+          "url": "https://bbs.kafan.cn/thread-2295138-1-1.html",
+          "source": "卡饭 - IT资讯区 - 卡饭论坛",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T11:36:10Z"
+        },
+        {
+          "id": "05d634c9418ce4e189546a4aeae8f5805b779633",
+          "title": "OpenAI史上最强！GPT-6一天攻破5道至今未解数学难题",
+          "url": "https://news.mydrivers.com/1/1148/1148874.htm",
+          "source": "数码 | 快科技资讯_最新资讯",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T07:57:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6009,
+      "importance": 0.6009,
+      "importance_score": 0.6009,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.7543,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T07:57:31Z",
+      "latest_at": "2026-09-05T11:36:10Z",
+      "primary_item": {
+        "id": "e3f80db7842da3b066f7ea1f0e1ef1feefb8ffed",
+        "title": "OpenAI史上最强！GPT-6一天攻破5道至今未解数学难题",
+        "url": "https://bbs.kafan.cn/thread-2295138-1-1.html",
+        "source": "卡饭 - IT资讯区 - 卡饭论坛",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_44c50944f9bd",
+      "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "Lobsters 是一个专注于计算领域、以链接聚合和讨论为核心的社区，于2012年7月3日上线。该社区的管理员是彼得·巴特·哈金斯（网名“pushcx”），如有任何支持相关的问题，请联系他或其他版主。Lobsters 由约书亚·斯坦创建",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "f62a68c9bbdcadfa371f7d1e76095e11e4cff233",
+          "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "Lobsters 是一个专注于计算领域、以链接聚合和讨论为核心的社区，于2012年7月3日上线。该社区的管理员是彼得·巴特·哈金斯（网名“pushcx”），如有任何支持相关的问题，请联系他或其他版主。Lobsters 由约书亚·斯坦创建",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T12:54:53Z"
+        },
+        {
+          "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
+          "title": "费马最后定理的形式化表述",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T16:18:46.923000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters 是一个专注于计算领域、以链接聚合和讨论为核心的社区，于2012年7月3日上线。该社区的管理员是彼得·巴特·哈金斯（网名“pushcx”），如有任何支持相关的问题，请联系他或其他版主。Lobsters 由约书亚·斯坦创建",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "f62a68c9bbdcadfa371f7d1e76095e11e4cff233",
+          "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "Lobsters 是一个专注于计算领域、以链接聚合和讨论为核心的社区，于2012年7月3日上线。该社区的管理员是彼得·巴特·哈金斯（网名“pushcx”），如有任何支持相关的问题，请联系他或其他版主。Lobsters 由约书亚·斯坦创建",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T12:54:53Z"
+        },
+        {
+          "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
+          "title": "费马最后定理的形式化表述",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T16:18:46.923000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5998,
+      "importance": 0.5998,
+      "importance_score": 0.5998,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.809,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T12:54:53Z",
+      "latest_at": "2026-09-05T16:18:46.923000Z",
+      "primary_item": {
+        "id": "f62a68c9bbdcadfa371f7d1e76095e11e4cff233",
+        "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
+        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "source": "Lobsters 是一个专注于计算领域、以链接聚合和讨论为核心的社区，于2012年7月3日上线。该社区的管理员是彼得·巴特·哈金斯（网名“pushcx”），如有任何支持相关的问题，请联系他或其他版主。Lobsters 由约书亚·斯坦创建",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_8b0a9dc772d1",
+      "title": "asgeirtj 推送了 system_prompts_leaks / asgeirtj pushed system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks/compare/5203102297...bff269da97",
+      "primary_url": "https://github.com/asgeirtj/system_prompts_leaks/compare/5203102297...bff269da97",
+      "source": "系统提示词泄露:Claude/chatgpt|by asgeirtj",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "732d3e7e72176d64a010b952a9e7c570bc104bf9",
+          "title": "asgeirtj 推送了 system_prompts_leaks / asgeirtj pushed system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks/compare/5203102297...bff269da97",
+          "source": "系统提示词泄露:Claude/chatgpt|by asgeirtj",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T08:06:22Z"
+        },
+        {
+          "id": "5c9334d143a3342a0bd63bdd11c00e9b9692815a",
+          "title": "asgeirtj 推送了 system_prompts_leaks / asgeirtj pushed system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks/compare/9cd6f0d241...451c817f4f",
+          "source": "系统提示词泄露:Claude/chatgpt|by asgeirtj",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T03:18:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "系统提示词泄露:Claude/chatgpt|by asgeirtj"
+      ],
+      "items": [
+        {
+          "id": "732d3e7e72176d64a010b952a9e7c570bc104bf9",
+          "title": "asgeirtj 推送了 system_prompts_leaks / asgeirtj pushed system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks/compare/5203102297...bff269da97",
+          "source": "系统提示词泄露:Claude/chatgpt|by asgeirtj",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T08:06:22Z"
+        },
+        {
+          "id": "5c9334d143a3342a0bd63bdd11c00e9b9692815a",
+          "title": "asgeirtj 推送了 system_prompts_leaks / asgeirtj pushed system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks/compare/9cd6f0d241...451c817f4f",
+          "source": "系统提示词泄露:Claude/chatgpt|by asgeirtj",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T03:18:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5837,
+      "importance": 0.5837,
+      "importance_score": 0.5837,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.79,
+        "recency": 0.6086,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T03:18:01Z",
+      "latest_at": "2026-09-05T08:06:22Z",
+      "primary_item": {
+        "id": "732d3e7e72176d64a010b952a9e7c570bc104bf9",
+        "title": "asgeirtj 推送了 system_prompts_leaks / asgeirtj pushed system_prompts_leaks",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks/compare/5203102297...bff269da97",
+        "source": "系统提示词泄露:Claude/chatgpt|by asgeirtj",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_eda2ffedffd4",
+      "title": "chenyme 为 DEEIX-AI/DEEIX-Chat 做出了贡献 / chenyme contributed to DEEIX-AI/DEEIX-Chat",
+      "url": "https://github.com/DEEIX-AI/DEEIX-Chat/pull/730",
+      "primary_url": "https://github.com/DEEIX-AI/DEEIX-Chat/pull/730",
+      "source": "chenyme|基于 FastAPI 重构的 Grok2API",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "07fa3e1a1bfda016f90b1121ed678190b1bb15c8",
+          "title": "chenyme 为 DEEIX-AI/DEEIX-Chat 做出了贡献 / chenyme contributed to DEEIX-AI/DEEIX-Chat",
+          "url": "https://github.com/DEEIX-AI/DEEIX-Chat/pull/730",
+          "source": "chenyme|基于 FastAPI 重构的 Grok2API",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T12:12:19Z"
+        },
+        {
+          "id": "b513b871bf0586719f7cdd2dd388b32ff6426a42",
+          "title": "chenyme 为 DEEIX-AI/DEEIX-Chat 做出了贡献 / chenyme contributed to DEEIX-AI/DEEIX-Chat",
+          "url": "https://github.com/DEEIX-AI/DEEIX-Chat/pull/729",
+          "source": "chenyme|基于 FastAPI 重构的 Grok2API",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T07:35:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "chenyme|基于 FastAPI 重构的 Grok2API"
+      ],
+      "items": [
+        {
+          "id": "07fa3e1a1bfda016f90b1121ed678190b1bb15c8",
+          "title": "chenyme 为 DEEIX-AI/DEEIX-Chat 做出了贡献 / chenyme contributed to DEEIX-AI/DEEIX-Chat",
+          "url": "https://github.com/DEEIX-AI/DEEIX-Chat/pull/730",
+          "source": "chenyme|基于 FastAPI 重构的 Grok2API",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T12:12:19Z"
+        },
+        {
+          "id": "b513b871bf0586719f7cdd2dd388b32ff6426a42",
+          "title": "chenyme 为 DEEIX-AI/DEEIX-Chat 做出了贡献 / chenyme contributed to DEEIX-AI/DEEIX-Chat",
+          "url": "https://github.com/DEEIX-AI/DEEIX-Chat/pull/729",
+          "source": "chenyme|基于 FastAPI 重构的 Grok2API",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T07:35:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5819,
+      "importance": 0.5819,
+      "importance_score": 0.5819,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.7794,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T07:35:55Z",
+      "latest_at": "2026-09-05T12:12:19Z",
+      "primary_item": {
+        "id": "07fa3e1a1bfda016f90b1121ed678190b1bb15c8",
+        "title": "chenyme 为 DEEIX-AI/DEEIX-Chat 做出了贡献 / chenyme contributed to DEEIX-AI/DEEIX-Chat",
+        "url": "https://github.com/DEEIX-AI/DEEIX-Chat/pull/730",
+        "source": "chenyme|基于 FastAPI 重构的 Grok2API",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_40d7d24c82bd",
+      "title": "AI 处理事件，工程师与系统脱节",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "primary_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "source": "Buzzing|国外社交媒体热榜",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "955eb5bed55bb72af01f62b090dd5783473845ca",
+          "title": "AI 处理事件，工程师与系统脱节",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T11:05:53.747000Z"
+        },
+        {
+          "id": "ecb614af2ee6fedef7c4e5ee427008b4e0a180d5",
+          "title": "AI 处理事件，工程师与系统失去联系 / AI handles incidents, engineers lose touch with their systems",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "source": "Lobsters 是一个专注于计算领域、以链接聚合和讨论为核心的社区，于2012年7月3日上线。该社区的管理员是彼得·巴特·哈金斯（网名“pushcx”），如有任何支持相关的问题，请联系他或其他版主。Lobsters 由约书亚·斯坦创建",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T10:57:04Z"
+        },
+        {
+          "id": "e9703333cc84993d3cffc88674c6ccbdad66bdc1",
+          "title": "AI 处理事件，工程师与系统失去联系",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T10:17:42.890000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Buzzing|国外社交媒体热榜",
+        "Lobsters 是一个专注于计算领域、以链接聚合和讨论为核心的社区，于2012年7月3日上线。该社区的管理员是彼得·巴特·哈金斯（网名“pushcx”），如有任何支持相关的问题，请联系他或其他版主。Lobsters 由约书亚·斯坦创建"
+      ],
+      "items": [
+        {
+          "id": "955eb5bed55bb72af01f62b090dd5783473845ca",
+          "title": "AI 处理事件，工程师与系统脱节",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T11:05:53.747000Z"
+        },
+        {
+          "id": "ecb614af2ee6fedef7c4e5ee427008b4e0a180d5",
+          "title": "AI 处理事件，工程师与系统失去联系 / AI handles incidents, engineers lose touch with their systems",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "source": "Lobsters 是一个专注于计算领域、以链接聚合和讨论为核心的社区，于2012年7月3日上线。该社区的管理员是彼得·巴特·哈金斯（网名“pushcx”），如有任何支持相关的问题，请联系他或其他版主。Lobsters 由约书亚·斯坦创建",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T10:57:04Z"
+        },
+        {
+          "id": "e9703333cc84993d3cffc88674c6ccbdad66bdc1",
+          "title": "AI 处理事件，工程师与系统失去联系",
+          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T10:17:42.890000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5977,
+      "importance": 0.5977,
+      "importance_score": 0.5977,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.7333,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T10:17:42.890000Z",
+      "latest_at": "2026-09-05T11:05:53.747000Z",
+      "primary_item": {
+        "id": "955eb5bed55bb72af01f62b090dd5783473845ca",
+        "title": "AI 处理事件，工程师与系统脱节",
+        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+        "source": "Buzzing|国外社交媒体热榜",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_8992912cb95d",
+      "title": "《西雅图时报》和《新闻日报》起诉OpenAI和微软，指控其侵犯版权",
+      "url": "https://36kr.com/newsflashes/3970187296141832?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3970187296141832?f=rss",
+      "source": "36氪 快讯|融资|互联网|科技",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "305dd919a802b11f1653c4f47a26b1a4070bc982",
+          "title": "《西雅图时报》和《新闻日报》起诉OpenAI和微软，指控其侵犯版权",
+          "url": "https://36kr.com/newsflashes/3970187296141832?f=rss",
+          "source": "36氪 快讯|融资|互联网|科技",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T07:23:21Z"
+        },
+        {
+          "id": "846c0259dc1e285fce3031bdd4dd4787d12605aa",
+          "title": "《西雅图时报》和《新闻日报》起诉OpenAI和微软，指控其侵犯版权",
+          "url": "https://reut.rs/4csPY5A",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T03:27:05.641000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 快讯|融资|互联网|科技",
+        "Buzzing|国外社交媒体热榜"
+      ],
+      "items": [
+        {
+          "id": "305dd919a802b11f1653c4f47a26b1a4070bc982",
+          "title": "《西雅图时报》和《新闻日报》起诉OpenAI和微软，指控其侵犯版权",
+          "url": "https://36kr.com/newsflashes/3970187296141832?f=rss",
+          "source": "36氪 快讯|融资|互联网|科技",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T07:23:21Z"
+        },
+        {
+          "id": "846c0259dc1e285fce3031bdd4dd4787d12605aa",
+          "title": "《西雅图时报》和《新闻日报》起诉OpenAI和微软，指控其侵犯版权",
+          "url": "https://reut.rs/4csPY5A",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T03:27:05.641000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.5787,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T03:27:05.641000Z",
+      "latest_at": "2026-09-05T07:23:21Z",
+      "primary_item": {
+        "id": "305dd919a802b11f1653c4f47a26b1a4070bc982",
+        "title": "《西雅图时报》和《新闻日报》起诉OpenAI和微软，指控其侵犯版权",
+        "url": "https://36kr.com/newsflashes/3970187296141832?f=rss",
+        "source": "36氪 快讯|融资|互联网|科技",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_6d277e9e54df",
+      "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py/pull/2357",
+      "primary_url": "https://github.com/teng-lin/notebooklm-py/pull/2357",
+      "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "279cda6e873aa65d74428bdbff35f33bd3b2d65e",
+          "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/2357",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T11:53:36Z"
+        },
+        {
+          "id": "181633c2048ce0281b5214e0a19849d2fefa51ca",
+          "title": "teng-lin commented on pull request teng-lin/notebooklm-py#2357",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/2357",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T11:37:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]"
+      ],
+      "items": [
+        {
+          "id": "279cda6e873aa65d74428bdbff35f33bd3b2d65e",
+          "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/2357",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T11:53:36Z"
+        },
+        {
+          "id": "181633c2048ce0281b5214e0a19849d2fefa51ca",
+          "title": "teng-lin commented on pull request teng-lin/notebooklm-py#2357",
+          "url": "https://github.com/teng-lin/notebooklm-py/pull/2357",
+          "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T11:37:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5793,
+      "importance": 0.5793,
+      "importance_score": 0.5793,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.7664,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T11:37:42Z",
+      "latest_at": "2026-09-05T11:53:36Z",
+      "primary_item": {
+        "id": "279cda6e873aa65d74428bdbff35f33bd3b2d65e",
+        "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
+        "url": "https://github.com/teng-lin/notebooklm-py/pull/2357",
+        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_fc526c0c8fab",
+      "title": "WorldFlowAI /      everything-claude-code",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "primary_url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "db8325c704100ae0306275acc13c4421b60d2eff",
+          "title": "WorldFlowAI /      everything-claude-code",
+          "url": "https://github.com/WorldFlowAI/everything-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T17:30:32.941000Z"
+        },
+        {
+          "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
+          "title": "WorldFlowAI / everything-claude-code",
+          "url": "https://github.com/WorldFlowAI/everything-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "db8325c704100ae0306275acc13c4421b60d2eff",
+          "title": "WorldFlowAI /      everything-claude-code",
+          "url": "https://github.com/WorldFlowAI/everything-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T17:30:32.941000Z"
+        },
+        {
+          "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
+          "title": "WorldFlowAI / everything-claude-code",
+          "url": "https://github.com/WorldFlowAI/everything-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
         "recency": 1.0,
         "story_heat": 0.25
       },
@@ -1446,13 +1329,246 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-03T00:38:02Z",
-      "latest_at": "2026-09-03T01:21:05Z",
+      "earliest_at": "2026-09-05T17:29:59.450581Z",
+      "latest_at": "2026-09-05T17:30:32.941000Z",
       "primary_item": {
-        "id": "0b993005d2120d8454ae37068ecc2ee7fa63f0e9",
-        "title": "腾林对腾林/notebooklm-py 做出了贡献 / teng-lin contributed to teng-lin/notebooklm-py",
-        "url": "https://github.com/teng-lin/notebooklm-py/pull/2333",
-        "source": "Teng Lin|[redacted-email]|[晶泰科技XtalPi Inc|AI+药物化学]",
+        "id": "db8325c704100ae0306275acc13c4421b60d2eff",
+        "title": "WorldFlowAI /      everything-claude-code",
+        "url": "https://github.com/WorldFlowAI/everything-claude-code",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_97d58f7b5a16",
+      "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
+      "url": "https://www.ithome.com/0/998/837.htm",
+      "primary_url": "https://www.ithome.com/0/998/837.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
+          "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
+          "url": "https://www.ithome.com/0/998/837.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c5fc434aeb9626f8f1cf785c09f2b0815ed1ad02",
+          "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
+          "url": "https://www.ithome.com/0/998/837.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T15:19:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
+          "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
+          "url": "https://www.ithome.com/0/998/837.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c5fc434aeb9626f8f1cf785c09f2b0815ed1ad02",
+          "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
+          "url": "https://www.ithome.com/0/998/837.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T15:19:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T15:19:57Z",
+      "latest_at": "2026-09-05T17:29:59.450581Z",
+      "primary_item": {
+        "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
+        "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
+        "url": "https://www.ithome.com/0/998/837.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6993de6f2e8a",
+      "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+      "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T16:18:47.467000Z"
+        },
+        {
+          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式 / OpenAI says it will change how it informs the public when its AI agents go off the rails",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T16:09:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T16:18:47.467000Z"
+        },
+        {
+          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式 / OpenAI says it will change how it informs the public when its AI agents go off the rails",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T16:09:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9506,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T16:09:59Z",
+      "latest_at": "2026-09-05T16:18:47.467000Z",
+      "primary_item": {
+        "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+        "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+        "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_acbd9b5d10e5",
+      "title": "hobbytp closed an issue in weijiaoge",
+      "url": "https://github.com/hobbytp/weijiaoge/issues/11",
+      "primary_url": "https://github.com/hobbytp/weijiaoge/issues/11",
+      "source": "HobbyTan凡人修仙|ai_news_collector_lib",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "cebdff223889104db01f4b4dff9860b77ca1167b",
+          "title": "hobbytp closed an issue in weijiaoge",
+          "url": "https://github.com/hobbytp/weijiaoge/issues/11",
+          "source": "HobbyTan凡人修仙|ai_news_collector_lib",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T06:56:24Z"
+        },
+        {
+          "id": "99ca9e2afea9375f50a8112da7d9d1b3f724e01d",
+          "title": "hobbytp commented on an issue in weijiaoge",
+          "url": "https://github.com/hobbytp/weijiaoge/issues/11",
+          "source": "HobbyTan凡人修仙|ai_news_collector_lib",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T06:56:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HobbyTan凡人修仙|ai_news_collector_lib"
+      ],
+      "items": [
+        {
+          "id": "cebdff223889104db01f4b4dff9860b77ca1167b",
+          "title": "hobbytp closed an issue in weijiaoge",
+          "url": "https://github.com/hobbytp/weijiaoge/issues/11",
+          "source": "HobbyTan凡人修仙|ai_news_collector_lib",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T06:56:24Z"
+        },
+        {
+          "id": "99ca9e2afea9375f50a8112da7d9d1b3f724e01d",
+          "title": "hobbytp commented on an issue in weijiaoge",
+          "url": "https://github.com/hobbytp/weijiaoge/issues/11",
+          "source": "HobbyTan凡人修仙|ai_news_collector_lib",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-05T06:56:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.56,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T06:56:24Z",
+      "latest_at": "2026-09-05T06:56:24Z",
+      "primary_item": {
+        "id": "cebdff223889104db01f4b4dff9860b77ca1167b",
+        "title": "hobbytp closed an issue in weijiaoge",
+        "url": "https://github.com/hobbytp/weijiaoge/issues/11",
+        "source": "HobbyTan凡人修仙|ai_news_collector_lib",
         "source_name": "OPML RSS"
       }
     }
