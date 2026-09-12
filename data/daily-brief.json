@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:33:08.764058Z",
+  "generated_at": "2026-09-12T13:27:47.719737Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -99,21 +99,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4982,
+        "recency": 0.3352,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-11T21:30:30Z",
       "latest_at": "2026-09-11T21:30:30Z",
@@ -160,20 +159,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7128,
+        "recency": 0.5499,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T02:39:39Z",
       "latest_at": "2026-09-12T02:39:39Z",
@@ -183,125 +181,6 @@
         "url": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c0c1ad11f9f0",
-      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-      "url": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
-      "primary_url": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e506e5dd7ce4443338193922010852e3e68234c0",
-          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "url": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T00:24:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "e506e5dd7ce4443338193922010852e3e68234c0",
-          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-          "url": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T00:24:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6189,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T00:24:20Z",
-      "latest_at": "2026-09-12T00:24:20Z",
-      "primary_item": {
-        "id": "e506e5dd7ce4443338193922010852e3e68234c0",
-        "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-        "url": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8587315c03c9",
-      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T18:26:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T18:26:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3702,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T18:26:10Z",
-      "latest_at": "2026-09-11T18:26:10Z",
-      "primary_item": {
-        "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-        "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -339,21 +218,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4354,
+        "recency": 0.2724,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-11T20:00:07Z",
       "latest_at": "2026-09-11T20:00:07Z",
@@ -366,131 +244,22 @@
       }
     },
     {
-      "story_id": "story_30a50a2636d6",
-      "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-      "url": "https://www.aibase.com/news/31003",
-      "primary_url": "https://www.aibase.com/news/31003",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "url": "https://www.aibase.com/news/31003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T23:33:01.953572Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "url": "https://www.aibase.com/news/31003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T23:33:01.953572Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5833,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T23:33:01.953572Z",
-      "latest_at": "2026-09-11T23:33:01.953572Z",
-      "primary_item": {
-        "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-        "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-        "url": "https://www.aibase.com/news/31003",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_00e01bcf1dac",
-      "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-      "url": "https://www.aibase.com/news/31002",
-      "primary_url": "https://www.aibase.com/news/31002",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "url": "https://www.aibase.com/news/31002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T22:33:01.953572Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "url": "https://www.aibase.com/news/31002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T22:33:01.953572Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5416,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T22:33:01.953572Z",
-      "latest_at": "2026-09-11T22:33:01.953572Z",
-      "primary_item": {
-        "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-        "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-        "url": "https://www.aibase.com/news/31002",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
       "story_id": "story_c56b58e9d916",
-      "title": "第1830期 - 2026-09-12 16:05",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-12_1605",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-12_1605",
+      "title": "第1831期 - 2026-09-12 20:01",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-12_2001",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-12_2001",
       "source": "大黑AI速报",
       "source_name": "OPML RSS",
       "sources": [
+        {
+          "id": "4184dd3ba2366b87d2eb483ebcae48cd7d890a11",
+          "title": "第1831期 - 2026-09-12 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-12_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:01:26Z"
+        },
         {
           "id": "2ad0993936cf6a1ec49681ce21774a0df5d9fdfa",
           "title": "第1830期 - 2026-09-12 16:05",
@@ -526,15 +295,6 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-09-11T16:09:15Z"
-        },
-        {
-          "id": "7e61b9684d7248ceef31270fa648792fc263de4d",
-          "title": "第1826期 - 2026-09-11 20:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-11_2002",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T12:02:07Z"
         }
       ],
       "source_count": 5,
@@ -543,6 +303,15 @@
       ],
       "items": [
         {
+          "id": "4184dd3ba2366b87d2eb483ebcae48cd7d890a11",
+          "title": "第1831期 - 2026-09-12 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-12_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:01:26Z"
+        },
+        {
           "id": "2ad0993936cf6a1ec49681ce21774a0df5d9fdfa",
           "title": "第1830期 - 2026-09-12 16:05",
           "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-12_1605",
@@ -577,39 +346,30 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-09-11T16:09:15Z"
-        },
-        {
-          "id": "7e61b9684d7248ceef31270fa648792fc263de4d",
-          "title": "第1826期 - 2026-09-11 20:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-11_2002",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T12:02:07Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6889,
-      "importance": 0.6889,
-      "importance_score": 0.6889,
+      "score": 0.689,
+      "importance": 0.689,
+      "importance_score": 0.689,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9393,
+        "recency": 0.94,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-11T12:02:07Z",
-      "latest_at": "2026-09-12T08:05:41Z",
+      "earliest_at": "2026-09-11T16:09:15Z",
+      "latest_at": "2026-09-12T12:01:26Z",
       "primary_item": {
-        "id": "2ad0993936cf6a1ec49681ce21774a0df5d9fdfa",
-        "title": "第1830期 - 2026-09-12 16:05",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-12_1605",
+        "id": "4184dd3ba2366b87d2eb483ebcae48cd7d890a11",
+        "title": "第1831期 - 2026-09-12 20:01",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-12_2001",
         "source": "大黑AI速报",
         "source_name": "OPML RSS"
       }
@@ -617,19 +377,28 @@
     {
       "story_id": "story_ef8aabde76d2",
       "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-      "url": "https://github.com/mudler/vllm.cpp/compare/51c2481903...b5fa041233",
-      "primary_url": "https://github.com/mudler/vllm.cpp/compare/51c2481903...b5fa041233",
+      "url": "https://github.com/mudler/vllm.cpp/compare/52cecd733b...cec30d83b6",
+      "primary_url": "https://github.com/mudler/vllm.cpp/compare/52cecd733b...cec30d83b6",
       "source": "mudler",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "ccb34572966f74edb2c4ed5dd8a904492440c703",
+          "id": "b914b00fe3a22cc6f318d0cc8bee2a3fcb494cd1",
           "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/51c2481903...b5fa041233",
+          "url": "https://github.com/mudler/vllm.cpp/compare/52cecd733b...cec30d83b6",
           "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-12T08:44:48Z"
+          "published_at": "2026-09-12T10:35:16Z"
+        },
+        {
+          "id": "70cb721ac31e05f72f0efbee734544632fb1e8e9",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/bb413cfffc...adaa830efb",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T08:19:22Z"
         },
         {
           "id": "9749e178db018ab59ff994d098d9c718816b0c96",
@@ -650,19 +419,28 @@
           "published_at": "2026-09-12T06:08:23Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "mudler"
       ],
       "items": [
         {
-          "id": "ccb34572966f74edb2c4ed5dd8a904492440c703",
+          "id": "b914b00fe3a22cc6f318d0cc8bee2a3fcb494cd1",
           "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp/compare/51c2481903...b5fa041233",
+          "url": "https://github.com/mudler/vllm.cpp/compare/52cecd733b...cec30d83b6",
           "source": "mudler",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-12T08:44:48Z"
+          "published_at": "2026-09-12T10:35:16Z"
+        },
+        {
+          "id": "70cb721ac31e05f72f0efbee734544632fb1e8e9",
+          "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
+          "url": "https://github.com/mudler/vllm.cpp/compare/bb413cfffc...adaa830efb",
+          "source": "mudler",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T08:19:22Z"
         },
         {
           "id": "9749e178db018ab59ff994d098d9c718816b0c96",
@@ -683,41 +461,50 @@
           "published_at": "2026-09-12T06:08:23Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6563,
-      "importance": 0.6563,
-      "importance_score": 0.6563,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.664,
+      "importance": 0.664,
+      "importance_score": 0.664,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9664,
-        "story_heat": 0.5
+        "recency": 0.8802,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-09-12T06:08:23Z",
-      "latest_at": "2026-09-12T08:44:48Z",
+      "latest_at": "2026-09-12T10:35:16Z",
       "primary_item": {
-        "id": "ccb34572966f74edb2c4ed5dd8a904492440c703",
+        "id": "b914b00fe3a22cc6f318d0cc8bee2a3fcb494cd1",
         "title": "mudler推送了vllm.cpp / mudler pushed vllm.cpp",
-        "url": "https://github.com/mudler/vllm.cpp/compare/51c2481903...b5fa041233",
+        "url": "https://github.com/mudler/vllm.cpp/compare/52cecd733b...cec30d83b6",
         "source": "mudler",
         "source_name": "OPML RSS"
       }
     },
     {
       "story_id": "story_774f7412d1a3",
-      "title": "人工智能杀死所有人还是末日心理医生？ OpenAI 的数学突破，Nike 200B 美元的崩溃 / AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse",
-      "url": "https://www.youtube.com/watch?v=cvxjqbfLVk0",
-      "primary_url": "https://www.youtube.com/watch?v=cvxjqbfLVk0",
-      "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+      "title": "ChatGPT Work with GPT 6 Astra just blew my mind",
+      "url": "https://www.youtube.com/watch?v=jsqbgLZ-Chg",
+      "primary_url": "https://www.youtube.com/watch?v=jsqbgLZ-Chg",
+      "source": "AlexFinn | AI测评",
       "source_name": "OPML RSS",
       "sources": [
         {
+          "id": "c78269b53d78cd0140a24a5fcd66a84e21e77541",
+          "title": "ChatGPT Work with GPT 6 Astra just blew my mind",
+          "url": "https://www.youtube.com/watch?v=jsqbgLZ-Chg",
+          "source": "AlexFinn | AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T13:00:18Z"
+        },
+        {
           "id": "7bd2f1a61bc46ed4f12358cfea8cb7a2b641bae5",
           "title": "人工智能杀死所有人还是末日心理医生？ OpenAI 的数学突破，Nike 200B 美元的崩溃 / AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse",
           "url": "https://www.youtube.com/watch?v=cvxjqbfLVk0",
@@ -725,33 +512,6 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-09-12T00:26:25Z"
-        },
-        {
-          "id": "2577c9a57265b16303dcbf9b867b967361afb2a1",
-          "title": "OpenAI官宣破解数学千禧难题，却被指责抄袭？",
-          "url": "https://www.youtube.com/watch?v=lacXZuFhfQw",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T13:24:10Z"
-        },
-        {
-          "id": "8427491437ecd6c728f355453f2473dbaaca6ae2",
-          "title": "本地 AI 拉完了，除非...",
-          "url": "https://www.youtube.com/watch?v=JayupEukj8I",
-          "source": "林亦LYi",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T11:00:31Z"
-        },
-        {
-          "id": "696118ad6349790fee47c6df771d5996af1c0a0c",
-          "title": "AI hatalomátvétel: már csak hónapokra vagyunk?",
-          "url": "https://www.youtube.com/watch?v=wO14KNVKD5s",
-          "source": "Partizán匈牙利游击报|左翼",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T10:38:13Z"
         },
         {
           "id": "c4ee3e4520b44ef8d32d5d77ad0eda160e3a54f7",
@@ -763,16 +523,23 @@
           "published_at": "2026-09-11T13:47:14Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
+        "AlexFinn | AI测评",
         "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
-        "Hacker News · 24h最热",
-        "Partizán匈牙利游击报|左翼",
-        "林亦LYi",
-        "范路 | 老范讲故事"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
+          "id": "c78269b53d78cd0140a24a5fcd66a84e21e77541",
+          "title": "ChatGPT Work with GPT 6 Astra just blew my mind",
+          "url": "https://www.youtube.com/watch?v=jsqbgLZ-Chg",
+          "source": "AlexFinn | AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T13:00:18Z"
+        },
+        {
           "id": "7bd2f1a61bc46ed4f12358cfea8cb7a2b641bae5",
           "title": "人工智能杀死所有人还是末日心理医生？ OpenAI 的数学突破，Nike 200B 美元的崩溃 / AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse",
           "url": "https://www.youtube.com/watch?v=cvxjqbfLVk0",
@@ -780,33 +547,6 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-09-12T00:26:25Z"
-        },
-        {
-          "id": "2577c9a57265b16303dcbf9b867b967361afb2a1",
-          "title": "OpenAI官宣破解数学千禧难题，却被指责抄袭？",
-          "url": "https://www.youtube.com/watch?v=lacXZuFhfQw",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T13:24:10Z"
-        },
-        {
-          "id": "8427491437ecd6c728f355453f2473dbaaca6ae2",
-          "title": "本地 AI 拉完了，除非...",
-          "url": "https://www.youtube.com/watch?v=JayupEukj8I",
-          "source": "林亦LYi",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T11:00:31Z"
-        },
-        {
-          "id": "696118ad6349790fee47c6df771d5996af1c0a0c",
-          "title": "AI hatalomátvétel: már csak hónapokra vagyunk?",
-          "url": "https://www.youtube.com/watch?v=wO14KNVKD5s",
-          "source": "Partizán匈牙利游击报|左翼",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T10:38:13Z"
         },
         {
           "id": "c4ee3e4520b44ef8d32d5d77ad0eda160e3a54f7",
@@ -818,29 +558,876 @@
           "published_at": "2026-09-11T13:47:14Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6371,
-      "importance": 0.6371,
-      "importance_score": 0.6371,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6592,
+      "importance": 0.6592,
+      "importance_score": 0.6592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.6203,
-        "story_heat": 1.0
+        "recency": 0.9809,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-11T10:38:13Z",
-      "latest_at": "2026-09-12T00:26:25Z",
+      "earliest_at": "2026-09-11T13:47:14Z",
+      "latest_at": "2026-09-12T13:00:18Z",
       "primary_item": {
-        "id": "7bd2f1a61bc46ed4f12358cfea8cb7a2b641bae5",
-        "title": "人工智能杀死所有人还是末日心理医生？ OpenAI 的数学突破，Nike 200B 美元的崩溃 / AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse",
-        "url": "https://www.youtube.com/watch?v=cvxjqbfLVk0",
-        "source": "All-In Podcast|经济、科技、政治、社会和扑克|by Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg",
+        "id": "c78269b53d78cd0140a24a5fcd66a84e21e77541",
+        "title": "ChatGPT Work with GPT 6 Astra just blew my mind",
+        "url": "https://www.youtube.com/watch?v=jsqbgLZ-Chg",
+        "source": "AlexFinn | AI测评",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_be94e30d7ccc",
+      "title": "Wikipedia talk:2026年AI调查",
+      "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94317816&oldid=94317646",
+      "primary_url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94317816&oldid=94317646",
+      "source": "Wikipedia的Atom feed",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "c528a09b6a72bb844ad3c0d3ebc10a7bf89f2765",
+          "title": "Wikipedia talk:2026年AI调查",
+          "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94317816&oldid=94317646",
+          "source": "Wikipedia的Atom feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T13:31:15Z"
+        },
+        {
+          "id": "313e04fcbcf9873a8328e29fba67a607339f4224",
+          "title": "Wikipedia talk:2026年AI调查",
+          "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94313818&oldid=94313464",
+          "source": "Wikipedia的Atom feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T09:32:24Z"
+        },
+        {
+          "id": "e0626ad6f57b14144088bae744214eb21d6d0443",
+          "title": "Wikipedia talk:2026年AI调查",
+          "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94310521&oldid=94310440",
+          "source": "Wikipedia的Atom feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T05:28:04Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Wikipedia的Atom feed"
+      ],
+      "items": [
+        {
+          "id": "c528a09b6a72bb844ad3c0d3ebc10a7bf89f2765",
+          "title": "Wikipedia talk:2026年AI调查",
+          "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94317816&oldid=94317646",
+          "source": "Wikipedia的Atom feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T13:31:15Z"
+        },
+        {
+          "id": "313e04fcbcf9873a8328e29fba67a607339f4224",
+          "title": "Wikipedia talk:2026年AI调查",
+          "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94313818&oldid=94313464",
+          "source": "Wikipedia的Atom feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T09:32:24Z"
+        },
+        {
+          "id": "e0626ad6f57b14144088bae744214eb21d6d0443",
+          "title": "Wikipedia talk:2026年AI调查",
+          "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94310521&oldid=94310440",
+          "source": "Wikipedia的Atom feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T05:28:04Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.651,
+      "importance": 0.651,
+      "importance_score": 0.651,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T05:28:04Z",
+      "latest_at": "2026-09-12T13:31:15Z",
+      "primary_item": {
+        "id": "c528a09b6a72bb844ad3c0d3ebc10a7bf89f2765",
+        "title": "Wikipedia talk:2026年AI调查",
+        "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94317816&oldid=94317646",
+        "source": "Wikipedia的Atom feed",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_cbaabe5f9823",
+      "title": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式",
+      "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+      "primary_url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+      "source": "Buzzing|国外社交媒体热榜",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "f11a4f1a6268094ecd3f425759f20ecc8b03ab55",
+          "title": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式",
+          "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:39:39.530000Z"
+        },
+        {
+          "id": "c1af858290589a4bdd41f310777ca3e640a3f12c",
+          "title": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式 / Anthropic report: 5 ways Claude was exploited for war, spying and repression",
+          "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+          "source": "Axios|简洁新闻|美国",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:36:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Axios|简洁新闻|美国",
+        "Buzzing|国外社交媒体热榜"
+      ],
+      "items": [
+        {
+          "id": "f11a4f1a6268094ecd3f425759f20ecc8b03ab55",
+          "title": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式",
+          "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:39:39.530000Z"
+        },
+        {
+          "id": "c1af858290589a4bdd41f310777ca3e640a3f12c",
+          "title": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式 / Anthropic report: 5 ways Claude was exploited for war, spying and repression",
+          "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+          "source": "Axios|简洁新闻|美国",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:36:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6433,
+      "importance": 0.6433,
+      "importance_score": 0.6433,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.9666,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T12:36:02Z",
+      "latest_at": "2026-09-12T12:39:39.530000Z",
+      "primary_item": {
+        "id": "f11a4f1a6268094ecd3f425759f20ecc8b03ab55",
+        "title": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式",
+        "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+        "source": "Buzzing|国外社交媒体热榜",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_d0530ab7f260",
+      "title": "对人工智能感到悲伤 / Feeling sad about AI",
+      "url": "https://lobste.rs/c/dwy3ho",
+      "primary_url": "https://lobste.rs/c/dwy3ho",
+      "source": "Comments",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "3a6c473e4bf22f92157877de9058aab2c0d81f59",
+          "title": "对人工智能感到悲伤 / Feeling sad about AI",
+          "url": "https://lobste.rs/c/dwy3ho",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:30:54Z"
+        },
+        {
+          "id": "53611cb4d16043f5c9246a24992f377e85acf805",
+          "title": "对人工智能感到悲伤 / Feeling sad about AI",
+          "url": "https://lobste.rs/c/ki30bn",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T09:14:15Z"
+        },
+        {
+          "id": "607ba30522bc146ac3d4df25d9fdd7658d51bb26",
+          "title": "对人工智能感到悲伤 / Feeling sad about AI",
+          "url": "https://lobste.rs/c/c3fcsb",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T08:13:08Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Comments"
+      ],
+      "items": [
+        {
+          "id": "3a6c473e4bf22f92157877de9058aab2c0d81f59",
+          "title": "对人工智能感到悲伤 / Feeling sad about AI",
+          "url": "https://lobste.rs/c/dwy3ho",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:30:54Z"
+        },
+        {
+          "id": "53611cb4d16043f5c9246a24992f377e85acf805",
+          "title": "对人工智能感到悲伤 / Feeling sad about AI",
+          "url": "https://lobste.rs/c/ki30bn",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T09:14:15Z"
+        },
+        {
+          "id": "607ba30522bc146ac3d4df25d9fdd7658d51bb26",
+          "title": "对人工智能感到悲伤 / Feeling sad about AI",
+          "url": "https://lobste.rs/c/c3fcsb",
+          "source": "Comments",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T08:13:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6431,
+      "importance": 0.6431,
+      "importance_score": 0.6431,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9605,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T08:13:08Z",
+      "latest_at": "2026-09-12T12:30:54Z",
+      "primary_item": {
+        "id": "3a6c473e4bf22f92157877de9058aab2c0d81f59",
+        "title": "对人工智能感到悲伤 / Feeling sad about AI",
+        "url": "https://lobste.rs/c/dwy3ho",
+        "source": "Comments",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_5c45f168cc29",
+      "title": "[更新]红队DLL劫持工具v1.3.1：MCP支持，AI对话即可生成",
+      "url": "https://mp.weixin.qq.com/s/zijrAB_gKIG74znpDU5c8A",
+      "primary_url": "https://mp.weixin.qq.com/s/zijrAB_gKIG74znpDU5c8A",
+      "source": "洞见网安 | Doonsec",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "d0311073ee711cb058d8b40f575591980a65c3e4",
+          "title": "[更新]红队DLL劫持工具v1.3.1：MCP支持，AI对话即可生成",
+          "url": "https://mp.weixin.qq.com/s/zijrAB_gKIG74znpDU5c8A",
+          "source": "洞见网安 | Doonsec",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T15:44:36Z"
+        },
+        {
+          "id": "9ae4dbaf4316cc0b9a660bcfb252a328a26c56ea",
+          "title": "[更新]红队DLL劫持工具v1.3.1：MCP支持，AI对话即可生成",
+          "url": "https://www.gm7.org/archives/155083",
+          "source": "信息安全知识库 » Feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T11:06:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "信息安全知识库 » Feed",
+        "洞见网安 | Doonsec"
+      ],
+      "items": [
+        {
+          "id": "d0311073ee711cb058d8b40f575591980a65c3e4",
+          "title": "[更新]红队DLL劫持工具v1.3.1：MCP支持，AI对话即可生成",
+          "url": "https://mp.weixin.qq.com/s/zijrAB_gKIG74znpDU5c8A",
+          "source": "洞见网安 | Doonsec",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T15:44:36Z"
+        },
+        {
+          "id": "9ae4dbaf4316cc0b9a660bcfb252a328a26c56ea",
+          "title": "[更新]红队DLL劫持工具v1.3.1：MCP支持，AI对话即可生成",
+          "url": "https://www.gm7.org/archives/155083",
+          "source": "信息安全知识库 » Feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T11:06:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.638,
+      "importance": 0.638,
+      "importance_score": 0.638,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T11:06:17Z",
+      "latest_at": "2026-09-12T15:44:36Z",
+      "primary_item": {
+        "id": "d0311073ee711cb058d8b40f575591980a65c3e4",
+        "title": "[更新]红队DLL劫持工具v1.3.1：MCP支持，AI对话即可生成",
+        "url": "https://mp.weixin.qq.com/s/zijrAB_gKIG74znpDU5c8A",
+        "source": "洞见网安 | Doonsec",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_b3bc9058fff0",
+      "title": "“Claude Code 之父”切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+      "url": "https://www.ithome.com/1/001/633.htm",
+      "primary_url": "https://www.ithome.com/1/001/633.htm",
+      "source": "IT之家",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "80842941d150a9093334daf102b52c33f9c79d56",
+          "title": "“Claude Code 之父”切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+          "url": "https://www.ithome.com/1/001/633.htm",
+          "source": "IT之家",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:12:14Z"
+        },
+        {
+          "id": "7719965c9a03c642cdfdaa1d2da29ad01a880c77",
+          "title": "Claude Code 之父切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+          "url": "https://www.ithome.com/1/001/633.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "80842941d150a9093334daf102b52c33f9c79d56",
+          "title": "“Claude Code 之父”切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+          "url": "https://www.ithome.com/1/001/633.htm",
+          "source": "IT之家",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:12:14Z"
+        },
+        {
+          "id": "7719965c9a03c642cdfdaa1d2da29ad01a880c77",
+          "title": "Claude Code 之父切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+          "url": "https://www.ithome.com/1/001/633.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6365,
+      "importance": 0.6365,
+      "importance_score": 0.6365,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.74,
+        "recency": 0.9475,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T12:12:14Z",
+      "latest_at": "2026-09-12T13:27:47.719737Z",
+      "primary_item": {
+        "id": "80842941d150a9093334daf102b52c33f9c79d56",
+        "title": "“Claude Code 之父”切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+        "url": "https://www.ithome.com/1/001/633.htm",
+        "source": "IT之家",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_08c9120700e2",
+      "title": "我的土区 chat gpt 又变成低价了，只要 499 里拉",
+      "url": "https://www.cocoloop.cn/t/topic/18018",
+      "primary_url": "https://www.cocoloop.cn/t/topic/18018",
+      "source": "CocoLoop AI社区 - 最新话题",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "c739b1fe89c13d1eccca0166d7d9c3636dd532e9",
+          "title": "我的土区 chat gpt 又变成低价了，只要 499 里拉",
+          "url": "https://www.cocoloop.cn/t/topic/18018",
+          "source": "CocoLoop AI社区 - 最新话题",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T13:07:46Z"
+        },
+        {
+          "id": "f556a4dc428afdd7c0f5412bbb1a2104750dccbf",
+          "title": "[OpenAI] 我的土区 chat gpt 又变成低价了，只要 499 里拉",
+          "url": "https://www.v2ex.com/t/1241580",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T12:07:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "CocoLoop AI社区 - 最新话题",
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "c739b1fe89c13d1eccca0166d7d9c3636dd532e9",
+          "title": "我的土区 chat gpt 又变成低价了，只要 499 里拉",
+          "url": "https://www.cocoloop.cn/t/topic/18018",
+          "source": "CocoLoop AI社区 - 最新话题",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T13:07:46Z"
+        },
+        {
+          "id": "f556a4dc428afdd7c0f5412bbb1a2104750dccbf",
+          "title": "[OpenAI] 我的土区 chat gpt 又变成低价了，只要 499 里拉",
+          "url": "https://www.v2ex.com/t/1241580",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T12:07:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6352,
+      "importance": 0.6352,
+      "importance_score": 0.6352,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9861,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T12:07:28Z",
+      "latest_at": "2026-09-12T13:07:46Z",
+      "primary_item": {
+        "id": "c739b1fe89c13d1eccca0166d7d9c3636dd532e9",
+        "title": "我的土区 chat gpt 又变成低价了，只要 499 里拉",
+        "url": "https://www.cocoloop.cn/t/topic/18018",
+        "source": "CocoLoop AI社区 - 最新话题",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_b6c054cf02af",
+      "title": "103种蜜罐 + AI威胁分析：这个开源Honeynet到底有多能打？",
+      "url": "https://mp.weixin.qq.com/s/I7C6vNhTOpR0tMH65J0DYA",
+      "primary_url": "https://mp.weixin.qq.com/s/I7C6vNhTOpR0tMH65J0DYA",
+      "source": "网络安全 | 洞见网安",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "e1db4e28bdfdedba9634e89e111ebc3469d089b6",
+          "title": "103种蜜罐 + AI威胁分析：这个开源Honeynet到底有多能打？",
+          "url": "https://mp.weixin.qq.com/s/I7C6vNhTOpR0tMH65J0DYA",
+          "source": "网络安全 | 洞见网安",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T16:00:00Z"
+        },
+        {
+          "id": "450ef522cfaa96e3af4cb6dd8aa350ddd60029c7",
+          "title": "103种蜜罐 + AI威胁分析：这个开源Honeynet到底有多能打？",
+          "url": "https://www.gm7.org/archives/155081",
+          "source": "信息安全知识库 » Feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T11:06:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "信息安全知识库 » Feed",
+        "网络安全 | 洞见网安"
+      ],
+      "items": [
+        {
+          "id": "e1db4e28bdfdedba9634e89e111ebc3469d089b6",
+          "title": "103种蜜罐 + AI威胁分析：这个开源Honeynet到底有多能打？",
+          "url": "https://mp.weixin.qq.com/s/I7C6vNhTOpR0tMH65J0DYA",
+          "source": "网络安全 | 洞见网安",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T16:00:00Z"
+        },
+        {
+          "id": "450ef522cfaa96e3af4cb6dd8aa350ddd60029c7",
+          "title": "103种蜜罐 + AI威胁分析：这个开源Honeynet到底有多能打？",
+          "url": "https://www.gm7.org/archives/155081",
+          "source": "信息安全知识库 » Feed",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T11:06:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.635,
+      "importance": 0.635,
+      "importance_score": 0.635,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T11:06:07Z",
+      "latest_at": "2026-09-12T16:00:00Z",
+      "primary_item": {
+        "id": "e1db4e28bdfdedba9634e89e111ebc3469d089b6",
+        "title": "103种蜜罐 + AI威胁分析：这个开源Honeynet到底有多能打？",
+        "url": "https://mp.weixin.qq.com/s/I7C6vNhTOpR0tMH65J0DYA",
+        "source": "网络安全 | 洞见网安",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_baf26c03d9c7",
+      "title": "BlueSkyXN 推送 CPA-Panel-LTS / BlueSkyXN pushed CPA-Panel-LTS",
+      "url": "https://github.com/BlueSkyXN/CPA-Panel-LTS/compare/53ea42497e...f5a5b8debc",
+      "primary_url": "https://github.com/BlueSkyXN/CPA-Panel-LTS/compare/53ea42497e...f5a5b8debc",
+      "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "d9c29500f8db6c87cc350b1c6454f9e9d64446e9",
+          "title": "BlueSkyXN 推送 CPA-Panel-LTS / BlueSkyXN pushed CPA-Panel-LTS",
+          "url": "https://github.com/BlueSkyXN/CPA-Panel-LTS/compare/53ea42497e...f5a5b8debc",
+          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T11:32:54Z"
+        },
+        {
+          "id": "a900a4c8fca42280ae1b54880b5bee0019f8dd7b",
+          "title": "BlueSkyXN 推送 CPA-Core-LTS / BlueSkyXN pushed CPA-Core-LTS",
+          "url": "https://github.com/BlueSkyXN/CPA-Core-LTS/compare/fe1c960a43...e82a80a4c4",
+          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T06:49:43Z"
+        },
+        {
+          "id": "b13a352679714a8e532f3057079f8000ea0a600e",
+          "title": "BlueSkyXN 推送 CPA-Panel-LTS / BlueSkyXN pushed CPA-Panel-LTS",
+          "url": "https://github.com/BlueSkyXN/CPA-Panel-LTS/compare/937aa4acaf...53ea42497e",
+          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T06:05:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力"
+      ],
+      "items": [
+        {
+          "id": "d9c29500f8db6c87cc350b1c6454f9e9d64446e9",
+          "title": "BlueSkyXN 推送 CPA-Panel-LTS / BlueSkyXN pushed CPA-Panel-LTS",
+          "url": "https://github.com/BlueSkyXN/CPA-Panel-LTS/compare/53ea42497e...f5a5b8debc",
+          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T11:32:54Z"
+        },
+        {
+          "id": "a900a4c8fca42280ae1b54880b5bee0019f8dd7b",
+          "title": "BlueSkyXN 推送 CPA-Core-LTS / BlueSkyXN pushed CPA-Core-LTS",
+          "url": "https://github.com/BlueSkyXN/CPA-Core-LTS/compare/fe1c960a43...e82a80a4c4",
+          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T06:49:43Z"
+        },
+        {
+          "id": "b13a352679714a8e532f3057079f8000ea0a600e",
+          "title": "BlueSkyXN 推送 CPA-Panel-LTS / BlueSkyXN pushed CPA-Panel-LTS",
+          "url": "https://github.com/BlueSkyXN/CPA-Panel-LTS/compare/937aa4acaf...53ea42497e",
+          "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T06:05:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.635,
+      "importance": 0.635,
+      "importance_score": 0.635,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9202,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T06:05:50Z",
+      "latest_at": "2026-09-12T11:32:54Z",
+      "primary_item": {
+        "id": "d9c29500f8db6c87cc350b1c6454f9e9d64446e9",
+        "title": "BlueSkyXN 推送 CPA-Panel-LTS / BlueSkyXN pushed CPA-Panel-LTS",
+        "url": "https://github.com/BlueSkyXN/CPA-Panel-LTS/compare/53ea42497e...f5a5b8debc",
+        "source": "BlueSkyXN/苍穹の下|DeepAI为所有AI增加思考链能力",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_897a1a596e6d",
+      "title": "MervinPraison 在 PraisonAI 中提出了一个问题 / MervinPraison opened an issue in PraisonAI",
+      "url": "https://github.com/MervinPraison/PraisonAI/issues/5062",
+      "primary_url": "https://github.com/MervinPraison/PraisonAI/issues/5062",
+      "source": "MervinPraison| 国外AI测评",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "96a40c42e1f923c0894f7d46aed917efb4cd01ce",
+          "title": "MervinPraison 在 PraisonAI 中提出了一个问题 / MervinPraison opened an issue in PraisonAI",
+          "url": "https://github.com/MervinPraison/PraisonAI/issues/5062",
+          "source": "MervinPraison| 国外AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T09:45:26Z"
+        },
+        {
+          "id": "85be496111652ac41f08bc4d976265d76bab3846",
+          "title": "MervinPraison 在 PraisonAI 中提出了一个问题 / MervinPraison opened an issue in PraisonAI",
+          "url": "https://github.com/MervinPraison/PraisonAI/issues/5060",
+          "source": "MervinPraison| 国外AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T08:17:24Z"
+        },
+        {
+          "id": "7fd733aadc7def7e6d1cbf0d89d4f8570c31e1c2",
+          "title": "MervinPraison 在 PraisonAI 中标记了一个问题 / MervinPraison labeled an issue in PraisonAI",
+          "url": "https://github.com/MervinPraison/PraisonAI/issues/5059",
+          "source": "MervinPraison| 国外AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T07:14:32Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "MervinPraison| 国外AI测评"
+      ],
+      "items": [
+        {
+          "id": "96a40c42e1f923c0894f7d46aed917efb4cd01ce",
+          "title": "MervinPraison 在 PraisonAI 中提出了一个问题 / MervinPraison opened an issue in PraisonAI",
+          "url": "https://github.com/MervinPraison/PraisonAI/issues/5062",
+          "source": "MervinPraison| 国外AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T09:45:26Z"
+        },
+        {
+          "id": "85be496111652ac41f08bc4d976265d76bab3846",
+          "title": "MervinPraison 在 PraisonAI 中提出了一个问题 / MervinPraison opened an issue in PraisonAI",
+          "url": "https://github.com/MervinPraison/PraisonAI/issues/5060",
+          "source": "MervinPraison| 国外AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T08:17:24Z"
+        },
+        {
+          "id": "7fd733aadc7def7e6d1cbf0d89d4f8570c31e1c2",
+          "title": "MervinPraison 在 PraisonAI 中标记了一个问题 / MervinPraison labeled an issue in PraisonAI",
+          "url": "https://github.com/MervinPraison/PraisonAI/issues/5059",
+          "source": "MervinPraison| 国外AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T07:14:32Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6201,
+      "importance": 0.6201,
+      "importance_score": 0.6201,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.8456,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T07:14:32Z",
+      "latest_at": "2026-09-12T09:45:26Z",
+      "primary_item": {
+        "id": "96a40c42e1f923c0894f7d46aed917efb4cd01ce",
+        "title": "MervinPraison 在 PraisonAI 中提出了一个问题 / MervinPraison opened an issue in PraisonAI",
+        "url": "https://github.com/MervinPraison/PraisonAI/issues/5062",
+        "source": "MervinPraison| 国外AI测评",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_6c029e9da6dd",
+      "title": "ywatanabe1989 为 scitex-ai/scitex-dev 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-dev",
+      "url": "https://github.com/scitex-ai/scitex-dev/pull/796",
+      "primary_url": "https://github.com/scitex-ai/scitex-dev/pull/796",
+      "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "05617fe495c8397b25c3de5f38c6fcedf849d93f",
+          "title": "ywatanabe1989 为 scitex-ai/scitex-dev 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-dev",
+          "url": "https://github.com/scitex-ai/scitex-dev/pull/796",
+          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:26:00Z"
+        },
+        {
+          "id": "566e564c311ace4d1822fb361b77e17cb6f5d64e",
+          "title": "ywatanabe1989 为 scitex-ai/scitex-genai 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-genai",
+          "url": "https://github.com/scitex-ai/scitex-genai/pull/80",
+          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T08:08:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道"
+      ],
+      "items": [
+        {
+          "id": "05617fe495c8397b25c3de5f38c6fcedf849d93f",
+          "title": "ywatanabe1989 为 scitex-ai/scitex-dev 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-dev",
+          "url": "https://github.com/scitex-ai/scitex-dev/pull/796",
+          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T12:26:00Z"
+        },
+        {
+          "id": "566e564c311ace4d1822fb361b77e17cb6f5d64e",
+          "title": "ywatanabe1989 为 scitex-ai/scitex-genai 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-genai",
+          "url": "https://github.com/scitex-ai/scitex-genai/pull/80",
+          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T08:08:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6174,
+      "importance": 0.6174,
+      "importance_score": 0.6174,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9571,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T08:08:20Z",
+      "latest_at": "2026-09-12T12:26:00Z",
+      "primary_item": {
+        "id": "05617fe495c8397b25c3de5f38c6fcedf849d93f",
+        "title": "ywatanabe1989 为 scitex-ai/scitex-dev 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-dev",
+        "url": "https://github.com/scitex-ai/scitex-dev/pull/796",
+        "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
         "source_name": "OPML RSS"
       }
     },
@@ -933,14 +1520,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6359,
-      "importance": 0.6359,
-      "importance_score": 0.6359,
+      "score": 0.6033,
+      "importance": 0.6033,
+      "importance_score": 0.6033,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.7544,
+        "recency": 0.5914,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1010,14 +1597,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6302,
-      "importance": 0.6302,
-      "importance_score": 0.6302,
+      "score": 0.5976,
+      "importance": 0.5976,
+      "importance_score": 0.5976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9611,
+        "recency": 0.7982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1035,545 +1622,79 @@
       }
     },
     {
-      "story_id": "story_8f24b4306d6a",
-      "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "source": "Buzzing|国外社交媒体热榜",
+      "story_id": "story_ef508a8eda25",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://lobste.rs/c/ehdrc8",
+      "primary_url": "https://lobste.rs/c/ehdrc8",
+      "source": "Comments",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "e89911f61774656018eeae118a7ee2ef7530e925",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Buzzing|国外社交媒体热榜",
+          "id": "6cf59a7669a44becc0ffebb4b8f51bd7002408fe",
+          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://lobste.rs/c/ehdrc8",
+          "source": "Comments",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-12T08:31:36.686000Z"
+          "published_at": "2026-09-12T12:06:27Z"
         },
         {
-          "id": "66375b8cdfdd7198322e5200c295e30b62458432",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News Digest",
+          "id": "d4a75d6c868a0c5832d274194a172f81b344649e",
+          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://lobste.rs/c/dsceij",
+          "source": "Comments",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-11T22:23:54.123980Z"
+          "published_at": "2026-09-12T08:22:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Hacker News Digest"
+        "Comments"
       ],
       "items": [
         {
-          "id": "e89911f61774656018eeae118a7ee2ef7530e925",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Buzzing|国外社交媒体热榜",
+          "id": "6cf59a7669a44becc0ffebb4b8f51bd7002408fe",
+          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://lobste.rs/c/ehdrc8",
+          "source": "Comments",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-12T08:31:36.686000Z"
+          "published_at": "2026-09-12T12:06:27Z"
         },
         {
-          "id": "66375b8cdfdd7198322e5200c295e30b62458432",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News Digest",
+          "id": "d4a75d6c868a0c5832d274194a172f81b344649e",
+          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://lobste.rs/c/dsceij",
+          "source": "Comments",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-11T22:23:54.123980Z"
+          "published_at": "2026-09-12T08:22:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6295,
-      "importance": 0.6295,
-      "importance_score": 0.6295,
+      "score": 0.6267,
+      "importance": 0.6267,
+      "importance_score": 0.6267,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9573,
+        "recency": 0.9435,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-11T22:23:54.123980Z",
-      "latest_at": "2026-09-12T08:31:36.686000Z",
+      "earliest_at": "2026-09-12T08:22:14Z",
+      "latest_at": "2026-09-12T12:06:27Z",
       "primary_item": {
-        "id": "e89911f61774656018eeae118a7ee2ef7530e925",
-        "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "source": "Buzzing|国外社交媒体热榜",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_29daec4fc6eb",
-      "title": "求教安卓平板可以通过 google play 订阅 ChatGPT 吗？",
-      "url": "https://www.cocoloop.cn/t/topic/17982",
-      "primary_url": "https://www.cocoloop.cn/t/topic/17982",
-      "source": "CocoLoop AI社区 - 最新话题",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "1efdaacdb4c55e6bf070b865ee90dd805c54ab2d",
-          "title": "求教安卓平板可以通过 google play 订阅 ChatGPT 吗？",
-          "url": "https://www.cocoloop.cn/t/topic/17982",
-          "source": "CocoLoop AI社区 - 最新话题",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T08:08:06Z"
-        },
-        {
-          "id": "8ccdc3ad03ebd7e0c33767793a112afc75cd93d7",
-          "title": "[OpenAI] 求教安卓平板可以通过 google play 订阅 ChatGPT 吗？",
-          "url": "https://www.v2ex.com/t/1241509",
-          "source": "V2EX",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T03:53:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "CocoLoop AI社区 - 最新话题",
-        "V2EX"
-      ],
-      "items": [
-        {
-          "id": "1efdaacdb4c55e6bf070b865ee90dd805c54ab2d",
-          "title": "求教安卓平板可以通过 google play 订阅 ChatGPT 吗？",
-          "url": "https://www.cocoloop.cn/t/topic/17982",
-          "source": "CocoLoop AI社区 - 最新话题",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T08:08:06Z"
-        },
-        {
-          "id": "8ccdc3ad03ebd7e0c33767793a112afc75cd93d7",
-          "title": "[OpenAI] 求教安卓平板可以通过 google play 订阅 ChatGPT 吗？",
-          "url": "https://www.v2ex.com/t/1241509",
-          "source": "V2EX",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T03:53:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6262,
-      "importance": 0.6262,
-      "importance_score": 0.6262,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9409,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T03:53:05Z",
-      "latest_at": "2026-09-12T08:08:06Z",
-      "primary_item": {
-        "id": "1efdaacdb4c55e6bf070b865ee90dd805c54ab2d",
-        "title": "求教安卓平板可以通过 google play 订阅 ChatGPT 吗？",
-        "url": "https://www.cocoloop.cn/t/topic/17982",
-        "source": "CocoLoop AI社区 - 最新话题",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_ca490f24f2d9",
-      "title": "某一线互联网大厂AI安全工程师，秋招面经",
-      "url": "https://mp.weixin.qq.com/s/70KM1NqPoGMdfQEzl-jGwg",
-      "primary_url": "https://mp.weixin.qq.com/s/70KM1NqPoGMdfQEzl-jGwg",
-      "source": "网络安全 | 洞见网安",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "ff35651f8f8a6362027f5ba3f373ef3c91204ff9",
-          "title": "某一线互联网大厂AI安全工程师，秋招面经",
-          "url": "https://mp.weixin.qq.com/s/70KM1NqPoGMdfQEzl-jGwg",
-          "source": "网络安全 | 洞见网安",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T09:52:32Z"
-        },
-        {
-          "id": "4cbaa5fbcd376095ded0373bb2a18143367c6fca",
-          "title": "某一线互联网大厂AI安全工程师，秋招面经",
-          "url": "https://www.gm7.org/archives/155042",
-          "source": "信息安全知识库 » Feed",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T04:14:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "信息安全知识库 » Feed",
-        "网络安全 | 洞见网安"
-      ],
-      "items": [
-        {
-          "id": "ff35651f8f8a6362027f5ba3f373ef3c91204ff9",
-          "title": "某一线互联网大厂AI安全工程师，秋招面经",
-          "url": "https://mp.weixin.qq.com/s/70KM1NqPoGMdfQEzl-jGwg",
-          "source": "网络安全 | 洞见网安",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T09:52:32Z"
-        },
-        {
-          "id": "4cbaa5fbcd376095ded0373bb2a18143367c6fca",
-          "title": "某一线互联网大厂AI安全工程师，秋招面经",
-          "url": "https://www.gm7.org/archives/155042",
-          "source": "信息安全知识库 » Feed",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T04:14:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.626,
-      "importance": 0.626,
-      "importance_score": 0.626,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T04:14:41Z",
-      "latest_at": "2026-09-12T09:52:32Z",
-      "primary_item": {
-        "id": "ff35651f8f8a6362027f5ba3f373ef3c91204ff9",
-        "title": "某一线互联网大厂AI安全工程师，秋招面经",
-        "url": "https://mp.weixin.qq.com/s/70KM1NqPoGMdfQEzl-jGwg",
-        "source": "网络安全 | 洞见网安",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_0f0b53f498ad",
-      "title": "黄仁勋点名“网络安全”：AI 的下一个千亿级爆发点，凭什么？",
-      "url": "https://mp.weixin.qq.com/s/hwwHJv5OaeZl9YeNKB6XdA",
-      "primary_url": "https://mp.weixin.qq.com/s/hwwHJv5OaeZl9YeNKB6XdA",
-      "source": "洞见网安 | Doonsec",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "a8347911f1ad50ef9e30063bb495b938cdb24e89",
-          "title": "黄仁勋点名“网络安全”：AI 的下一个千亿级爆发点，凭什么？",
-          "url": "https://mp.weixin.qq.com/s/hwwHJv5OaeZl9YeNKB6XdA",
-          "source": "洞见网安 | Doonsec",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T09:59:08Z"
-        },
-        {
-          "id": "bdf6204666d58695d59403994e4b960662cda532",
-          "title": "黄仁勋点名“网络安全”：AI 的下一个千亿级爆发点，凭什么？",
-          "url": "https://www.gm7.org/archives/155043",
-          "source": "信息安全知识库 » Feed",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T04:14:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "信息安全知识库 » Feed",
-        "洞见网安 | Doonsec"
-      ],
-      "items": [
-        {
-          "id": "a8347911f1ad50ef9e30063bb495b938cdb24e89",
-          "title": "黄仁勋点名“网络安全”：AI 的下一个千亿级爆发点，凭什么？",
-          "url": "https://mp.weixin.qq.com/s/hwwHJv5OaeZl9YeNKB6XdA",
-          "source": "洞见网安 | Doonsec",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T09:59:08Z"
-        },
-        {
-          "id": "bdf6204666d58695d59403994e4b960662cda532",
-          "title": "黄仁勋点名“网络安全”：AI 的下一个千亿级爆发点，凭什么？",
-          "url": "https://www.gm7.org/archives/155043",
-          "source": "信息安全知识库 » Feed",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T04:14:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.626,
-      "importance": 0.626,
-      "importance_score": 0.626,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T04:14:44Z",
-      "latest_at": "2026-09-12T09:59:08Z",
-      "primary_item": {
-        "id": "a8347911f1ad50ef9e30063bb495b938cdb24e89",
-        "title": "黄仁勋点名“网络安全”：AI 的下一个千亿级爆发点，凭什么？",
-        "url": "https://mp.weixin.qq.com/s/hwwHJv5OaeZl9YeNKB6XdA",
-        "source": "洞见网安 | Doonsec",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_be94e30d7ccc",
-      "title": "Wikipedia talk:2026年AI调查",
-      "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94313818&oldid=94313464",
-      "primary_url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94313818&oldid=94313464",
-      "source": "Wikipedia的Atom feed",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "313e04fcbcf9873a8328e29fba67a607339f4224",
-          "title": "Wikipedia talk:2026年AI调查",
-          "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94313818&oldid=94313464",
-          "source": "Wikipedia的Atom feed",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T09:32:24Z"
-        },
-        {
-          "id": "e0626ad6f57b14144088bae744214eb21d6d0443",
-          "title": "Wikipedia talk:2026年AI调查",
-          "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94310521&oldid=94310440",
-          "source": "Wikipedia的Atom feed",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T05:28:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Wikipedia的Atom feed"
-      ],
-      "items": [
-        {
-          "id": "313e04fcbcf9873a8328e29fba67a607339f4224",
-          "title": "Wikipedia talk:2026年AI调查",
-          "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94313818&oldid=94313464",
-          "source": "Wikipedia的Atom feed",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T09:32:24Z"
-        },
-        {
-          "id": "e0626ad6f57b14144088bae744214eb21d6d0443",
-          "title": "Wikipedia talk:2026年AI调查",
-          "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94310521&oldid=94310440",
-          "source": "Wikipedia的Atom feed",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T05:28:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6259,
-      "importance": 0.6259,
-      "importance_score": 0.6259,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9995,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T05:28:04Z",
-      "latest_at": "2026-09-12T09:32:24Z",
-      "primary_item": {
-        "id": "313e04fcbcf9873a8328e29fba67a607339f4224",
-        "title": "Wikipedia talk:2026年AI调查",
-        "url": "https://zh.wikipedia.org/w/index.php?title=Wikipedia_talk%3A2026%E5%B9%B4AI%E8%B0%83%E6%9F%A5&diff=94313818&oldid=94313464",
-        "source": "Wikipedia的Atom feed",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_a944a7c5ac26",
-      "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-      "url": "https://github.com/BytePioneer-AI/codex-host/compare/398eb20398...c55fd9dcac",
-      "primary_url": "https://github.com/BytePioneer-AI/codex-host/compare/398eb20398...c55fd9dcac",
-      "source": "BytePioneer-AI | chongwen",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "2e887513b973c95418bd42d6e8f6246ff5232d51",
-          "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-          "url": "https://github.com/BytePioneer-AI/codex-host/compare/398eb20398...c55fd9dcac",
-          "source": "BytePioneer-AI | chongwen",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T07:56:05Z"
-        },
-        {
-          "id": "34dc0b3071f5c230f21da539ee9796d3aa05e82b",
-          "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-          "url": "https://github.com/BytePioneer-AI/codex-host/compare/0370dfb64b...5ccc2d2ad8",
-          "source": "BytePioneer-AI | chongwen",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T05:55:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BytePioneer-AI | chongwen"
-      ],
-      "items": [
-        {
-          "id": "2e887513b973c95418bd42d6e8f6246ff5232d51",
-          "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-          "url": "https://github.com/BytePioneer-AI/codex-host/compare/398eb20398...c55fd9dcac",
-          "source": "BytePioneer-AI | chongwen",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T07:56:05Z"
-        },
-        {
-          "id": "34dc0b3071f5c230f21da539ee9796d3aa05e82b",
-          "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-          "url": "https://github.com/BytePioneer-AI/codex-host/compare/0370dfb64b...5ccc2d2ad8",
-          "source": "BytePioneer-AI | chongwen",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T05:55:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6245,
-      "importance": 0.6245,
-      "importance_score": 0.6245,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9326,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T05:55:40Z",
-      "latest_at": "2026-09-12T07:56:05Z",
-      "primary_item": {
-        "id": "2e887513b973c95418bd42d6e8f6246ff5232d51",
-        "title": "BytePioneer-AI 推送 codex-host / BytePioneer-AI pushed codex-host",
-        "url": "https://github.com/BytePioneer-AI/codex-host/compare/398eb20398...c55fd9dcac",
-        "source": "BytePioneer-AI | chongwen",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_7bfc7cd32a56",
-      "title": "hobbytp commented on an issue in blender_demos",
-      "url": "https://github.com/hobbytp/blender_demos/issues/1",
-      "primary_url": "https://github.com/hobbytp/blender_demos/issues/1",
-      "source": "HobbyTan凡人修仙|ai_news_collector_lib",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "c67a1feecbe6e0f28a6c298a718110896c557f40",
-          "title": "hobbytp commented on an issue in blender_demos",
-          "url": "https://github.com/hobbytp/blender_demos/issues/1",
-          "source": "HobbyTan凡人修仙|ai_news_collector_lib",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T09:15:02Z"
-        },
-        {
-          "id": "163ffd4fc5345b59c974da4c2cc8bfbf73f33490",
-          "title": "hobbytp opened an issue in blender_demos",
-          "url": "https://github.com/hobbytp/blender_demos/issues/1",
-          "source": "HobbyTan凡人修仙|ai_news_collector_lib",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T04:14:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HobbyTan凡人修仙|ai_news_collector_lib"
-      ],
-      "items": [
-        {
-          "id": "c67a1feecbe6e0f28a6c298a718110896c557f40",
-          "title": "hobbytp commented on an issue in blender_demos",
-          "url": "https://github.com/hobbytp/blender_demos/issues/1",
-          "source": "HobbyTan凡人修仙|ai_news_collector_lib",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T09:15:02Z"
-        },
-        {
-          "id": "163ffd4fc5345b59c974da4c2cc8bfbf73f33490",
-          "title": "hobbytp opened an issue in blender_demos",
-          "url": "https://github.com/hobbytp/blender_demos/issues/1",
-          "source": "HobbyTan凡人修仙|ai_news_collector_lib",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T04:14:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6235,
-      "importance": 0.6235,
-      "importance_score": 0.6235,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9874,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T04:14:11Z",
-      "latest_at": "2026-09-12T09:15:02Z",
-      "primary_item": {
-        "id": "c67a1feecbe6e0f28a6c298a718110896c557f40",
-        "title": "hobbytp commented on an issue in blender_demos",
-        "url": "https://github.com/hobbytp/blender_demos/issues/1",
-        "source": "HobbyTan凡人修仙|ai_news_collector_lib",
+        "id": "6cf59a7669a44becc0ffebb4b8f51bd7002408fe",
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "url": "https://lobste.rs/c/ehdrc8",
+        "source": "Comments",
         "source_name": "OPML RSS"
       }
     }
