@@ -1,8 +1,149 @@
 {
-  "generated_at": "2026-09-24T11:34:59.005188Z",
+  "generated_at": "2026-09-24T16:50:43.879468Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_d7fb8638e77d",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T16:20:39Z"
+        },
+        {
+          "id": "b144797687c08c4c37487d3c567d413b59975b03",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar",
+          "source": "GoogleBlog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T15:30:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "GoogleBlog"
+      ],
+      "items": [
+        {
+          "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T16:20:39Z"
+        },
+        {
+          "id": "b144797687c08c4c37487d3c567d413b59975b03",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar",
+          "source": "GoogleBlog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T15:30:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8938,
+      "importance": 0.8938,
+      "importance_score": 0.8938,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9791,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T15:30:00Z",
+      "latest_at": "2026-09-24T16:20:39Z",
+      "primary_item": {
+        "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
+        "title": "Introducing Gemini 3.8 Live with Live Avatar",
+        "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_27b0dca9f9d6",
+      "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+      "url": "https://aihot.news/items/cmufrangt05nfroxzoslf2b9s",
+      "primary_url": "https://aihot.news/items/cmufrangt05nfroxzoslf2b9s",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c64e7113b6759b02ed6f10f10c7c9cd7d16923f0",
+          "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+          "url": "https://aihot.news/items/cmufrangt05nfroxzoslf2b9s",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T16:38:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "c64e7113b6759b02ed6f10f10c7c9cd7d16923f0",
+          "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+          "url": "https://aihot.news/items/cmufrangt05nfroxzoslf2b9s",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T16:38:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9916,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T16:38:37Z",
+      "latest_at": "2026-09-24T16:38:37Z",
+      "primary_item": {
+        "id": "c64e7113b6759b02ed6f10f10c7c9cd7d16923f0",
+        "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+        "url": "https://aihot.news/items/cmufrangt05nfroxzoslf2b9s",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_98d130058494",
       "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
@@ -57,14 +198,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -137,14 +278,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -217,14 +358,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -241,128 +382,6 @@
         "url": "https://www.aibase.com/news/31356",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a70f8ac64edf",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:41:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:41:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.2963,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T18:41:40Z",
-      "latest_at": "2026-09-23T18:41:40Z",
-      "primary_item": {
-        "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-        "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_095547e38966",
-      "title": "More ways to request and configure Copilot code reviews",
-      "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-      "primary_url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-          "title": "More ways to request and configure Copilot code reviews",
-          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T21:25:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-          "title": "More ways to request and configure Copilot code reviews",
-          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T21:25:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4104,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T21:25:58Z",
-      "latest_at": "2026-09-23T21:25:58Z",
-      "primary_item": {
-        "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-        "title": "More ways to request and configure Copilot code reviews",
-        "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -419,14 +438,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -446,121 +465,152 @@
       }
     },
     {
-      "story_id": "story_b4ce98cf2813",
-      "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-      "url": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9",
-      "primary_url": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
+      "story_id": "story_c56b58e9d916",
+      "title": "第1901期 - 2026-09-25 00:02",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-25_0002",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-25_0002",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "8afb68a8cb269fac024b67277bedeca4eb0dafe9",
-          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-          "url": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T01:57:36Z"
+          "id": "ebc98b8b561fe3c141bab74d9c1a28da0eeb8ac4",
+          "title": "第1901期 - 2026-09-25 00:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-25_0002",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T16:02:34Z"
+        },
+        {
+          "id": "c685934544614bb31cdfb5cceab7237154b3094a",
+          "title": "第1900期 - 2026-09-24 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T12:01:22Z"
+        },
+        {
+          "id": "2e5c46d8318cd5d8b24ded74bfc15465e25925a9",
+          "title": "第1899期 - 2026-09-24 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T08:01:27Z"
+        },
+        {
+          "id": "901c9c6a42fa2d4e397b5d35ef6b6f3eb6c41208",
+          "title": "第1898期 - 2026-09-24 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T04:01:14Z"
+        },
+        {
+          "id": "64a7f0eb29dfdff5ef5517abb4925d50c4a73b6e",
+          "title": "第1897期 - 2026-09-24 08:03",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_0803",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T00:03:43Z"
+        },
+        {
+          "id": "48558181e4f122e2dcab73351cc6e3dc4281d7fa",
+          "title": "第1896期 - 2026-09-24 04:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_0402",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T20:02:44Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 6,
       "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
+        "大黑AI速报"
       ],
       "items": [
         {
-          "id": "8afb68a8cb269fac024b67277bedeca4eb0dafe9",
-          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-          "url": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T01:57:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.599,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T01:57:36Z",
-      "latest_at": "2026-09-24T01:57:36Z",
-      "primary_item": {
-        "id": "8afb68a8cb269fac024b67277bedeca4eb0dafe9",
-        "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-        "url": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_96f9005340af",
-      "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-      "url": "https://aihot.news/items/cmueurmte03qqroyqe4rqtu2d",
-      "primary_url": "https://aihot.news/items/cmueurmte03qqroyqe4rqtu2d",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
+          "id": "ebc98b8b561fe3c141bab74d9c1a28da0eeb8ac4",
+          "title": "第1901期 - 2026-09-25 00:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-25_0002",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T16:02:34Z"
+        },
         {
-          "id": "a76e0b391d506cb32ae84907fd2c9eeb6188b01b",
-          "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-          "url": "https://aihot.news/items/cmueurmte03qqroyqe4rqtu2d",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T01:12:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
+          "id": "c685934544614bb31cdfb5cceab7237154b3094a",
+          "title": "第1900期 - 2026-09-24 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T12:01:22Z"
+        },
         {
-          "id": "a76e0b391d506cb32ae84907fd2c9eeb6188b01b",
-          "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-          "url": "https://aihot.news/items/cmueurmte03qqroyqe4rqtu2d",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T01:12:13Z"
+          "id": "2e5c46d8318cd5d8b24ded74bfc15465e25925a9",
+          "title": "第1899期 - 2026-09-24 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T08:01:27Z"
+        },
+        {
+          "id": "901c9c6a42fa2d4e397b5d35ef6b6f3eb6c41208",
+          "title": "第1898期 - 2026-09-24 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T04:01:14Z"
+        },
+        {
+          "id": "64a7f0eb29dfdff5ef5517abb4925d50c4a73b6e",
+          "title": "第1897期 - 2026-09-24 08:03",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_0803",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T00:03:43Z"
+        },
+        {
+          "id": "48558181e4f122e2dcab73351cc6e3dc4281d7fa",
+          "title": "第1896期 - 2026-09-24 04:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_0402",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T20:02:44Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6943,
+      "importance": 0.6943,
+      "importance_score": 0.6943,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5675,
-        "story_heat": 0.0
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9666,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-24T01:12:13Z",
-      "latest_at": "2026-09-24T01:12:13Z",
+      "earliest_at": "2026-09-23T20:02:44Z",
+      "latest_at": "2026-09-24T16:02:34Z",
       "primary_item": {
-        "id": "a76e0b391d506cb32ae84907fd2c9eeb6188b01b",
-        "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
-        "url": "https://aihot.news/items/cmueurmte03qqroyqe4rqtu2d",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "ebc98b8b561fe3c141bab74d9c1a28da0eeb8ac4",
+        "title": "第1901期 - 2026-09-25 00:02",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-25_0002",
+        "source": "大黑AI速报",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -617,14 +667,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -644,63 +694,271 @@
       }
     },
     {
-      "story_id": "story_47d211000a4d",
-      "title": "Node 20 is no longer available in GitHub Actions",
-      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-      "primary_url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_774f7412d1a3",
+      "title": "Security for AI Matters as Much as AI for Security | Mudit Sinha, Lineaje",
+      "url": "https://www.youtube.com/watch?v=9LunnxVaekE",
+      "primary_url": "https://www.youtube.com/watch?v=9LunnxVaekE",
+      "source": "数码 | 联想官方",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-          "title": "Node 20 is no longer available in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T20:46:07Z"
+          "id": "1b84dfb482113b608f7eaba2a7293e18c3eef2ee",
+          "title": "Security for AI Matters as Much as AI for Security | Mudit Sinha, Lineaje",
+          "url": "https://www.youtube.com/watch?v=9LunnxVaekE",
+          "source": "数码 | 联想官方",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T12:38:59Z"
+        },
+        {
+          "id": "124ad90edfcc186d0e7557a2c0d9609a681f3672",
+          "title": "如何用卡片笔记 AI Skill 辅助写作选题？",
+          "url": "https://www.youtube.com/watch?v=o4V7MkDgvY8",
+          "source": "RSS",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T02:20:00Z"
+        },
+        {
+          "id": "b79d235d5f05064c9349446b0b7ed11eca9568c8",
+          "title": "直播：澳大利亚部长就OpenAI事件发表讲话",
+          "url": "https://www.youtube.com/watch?v=FOxs2Rva3Kc",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T01:48:45.194000Z"
+        },
+        {
+          "id": "f2fcd6bd4ce1769bb1478e26cd84499027225782",
+          "title": "Meta Muse对上亚马逊，AI代理为何被封堵？",
+          "url": "https://www.youtube.com/watch?v=FtBCMCuOnOY",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T00:30:17Z"
+        },
+        {
+          "id": "917096b5ae5bfe879fe584c626823e1b89e5ce7b",
+          "title": "AI Coding Rate Limits are RIDICULOUS Now - Here's How You Keep Scaling Anyway",
+          "url": "https://www.youtube.com/watch?v=NZq88JAJSag",
+          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T00:00:38Z"
+        },
+        {
+          "id": "45ed904db636173a27894289253d7448c47d04e9",
+          "title": "Claude Opus 5.5 is the greatest AI model ever released",
+          "url": "https://www.youtube.com/watch?v=mesHJAGiaUg",
+          "source": "AlexFinn | AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T22:15:44Z"
+        },
+        {
+          "id": "6a6363bd789a09196a435c6aa9ec8ded2424795c",
+          "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
+          "url": "https://www.youtube.com/watch?v=UCMRgvyTm08",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-24T05:07:58Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 7,
       "source_names": [
-        "GitHub Changelog"
+        "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+        "AlexFinn | AI测评",
+        "Buzzing|国外社交媒体热榜",
+        "Hacker News · 24h最热",
+        "RSS",
+        "数码 | 联想官方",
+        "范路 | 老范讲故事"
       ],
       "items": [
         {
-          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-          "title": "Node 20 is no longer available in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T20:46:07Z"
+          "id": "1b84dfb482113b608f7eaba2a7293e18c3eef2ee",
+          "title": "Security for AI Matters as Much as AI for Security | Mudit Sinha, Lineaje",
+          "url": "https://www.youtube.com/watch?v=9LunnxVaekE",
+          "source": "数码 | 联想官方",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T12:38:59Z"
+        },
+        {
+          "id": "124ad90edfcc186d0e7557a2c0d9609a681f3672",
+          "title": "如何用卡片笔记 AI Skill 辅助写作选题？",
+          "url": "https://www.youtube.com/watch?v=o4V7MkDgvY8",
+          "source": "RSS",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T02:20:00Z"
+        },
+        {
+          "id": "b79d235d5f05064c9349446b0b7ed11eca9568c8",
+          "title": "直播：澳大利亚部长就OpenAI事件发表讲话",
+          "url": "https://www.youtube.com/watch?v=FOxs2Rva3Kc",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T01:48:45.194000Z"
+        },
+        {
+          "id": "f2fcd6bd4ce1769bb1478e26cd84499027225782",
+          "title": "Meta Muse对上亚马逊，AI代理为何被封堵？",
+          "url": "https://www.youtube.com/watch?v=FtBCMCuOnOY",
+          "source": "范路 | 老范讲故事",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T00:30:17Z"
+        },
+        {
+          "id": "917096b5ae5bfe879fe584c626823e1b89e5ce7b",
+          "title": "AI Coding Rate Limits are RIDICULOUS Now - Here's How You Keep Scaling Anyway",
+          "url": "https://www.youtube.com/watch?v=NZq88JAJSag",
+          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T00:00:38Z"
+        },
+        {
+          "id": "45ed904db636173a27894289253d7448c47d04e9",
+          "title": "Claude Opus 5.5 is the greatest AI model ever released",
+          "url": "https://www.youtube.com/watch?v=mesHJAGiaUg",
+          "source": "AlexFinn | AI测评",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-23T22:15:44Z"
+        },
+        {
+          "id": "6a6363bd789a09196a435c6aa9ec8ded2424795c",
+          "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
+          "url": "https://www.youtube.com/watch?v=UCMRgvyTm08",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-24T05:07:58Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
-      "importance_label": "官方更新",
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.666,
+      "importance": 0.666,
+      "importance_score": 0.666,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3827,
-        "story_heat": 0.0
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.8252,
+        "story_heat": 1.0
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-23T20:46:07Z",
-      "latest_at": "2026-09-23T20:46:07Z",
+      "earliest_at": "2026-09-23T22:15:44Z",
+      "latest_at": "2026-09-24T12:38:59Z",
       "primary_item": {
-        "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-        "title": "Node 20 is no longer available in GitHub Actions",
-        "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "1b84dfb482113b608f7eaba2a7293e18c3eef2ee",
+        "title": "Security for AI Matters as Much as AI for Security | Mudit Sinha, Lineaje",
+        "url": "https://www.youtube.com/watch?v=9LunnxVaekE",
+        "source": "数码 | 联想官方",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_b5886aafcc45",
+      "title": "DeepSeek封号",
+      "url": "https://bbs.binmt.cc/forum.php?mod=viewthread&tid=173390",
+      "primary_url": "https://bbs.binmt.cc/forum.php?mod=viewthread&tid=173390",
+      "source": "MT论坛 - 最新发表",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "28e3f5afb2e3a495a25b710fd1b44587567fe7be",
+          "title": "DeepSeek封号",
+          "url": "https://bbs.binmt.cc/forum.php?mod=viewthread&tid=173390",
+          "source": "MT论坛 - 最新发表",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T15:19:55Z"
+        },
+        {
+          "id": "743f9823abc9f217e5be8171eb12eaf377c4ff2d",
+          "title": "难道AI加固不香吗",
+          "url": "https://bbs.binmt.cc/forum.php?mod=viewthread&tid=173383",
+          "source": "MT论坛 - 最新发表",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T13:06:12Z"
+        },
+        {
+          "id": "62edffa382143f7edcd663b8595c8ad3e0dae342",
+          "title": "codex半成品",
+          "url": "https://bbs.binmt.cc/forum.php?mod=viewthread&tid=173350",
+          "source": "MT论坛 - 最新发表",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T01:01:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "MT论坛 - 最新发表"
+      ],
+      "items": [
+        {
+          "id": "28e3f5afb2e3a495a25b710fd1b44587567fe7be",
+          "title": "DeepSeek封号",
+          "url": "https://bbs.binmt.cc/forum.php?mod=viewthread&tid=173390",
+          "source": "MT论坛 - 最新发表",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T15:19:55Z"
+        },
+        {
+          "id": "743f9823abc9f217e5be8171eb12eaf377c4ff2d",
+          "title": "难道AI加固不香吗",
+          "url": "https://bbs.binmt.cc/forum.php?mod=viewthread&tid=173383",
+          "source": "MT论坛 - 最新发表",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T13:06:12Z"
+        },
+        {
+          "id": "62edffa382143f7edcd663b8595c8ad3e0dae342",
+          "title": "codex半成品",
+          "url": "https://bbs.binmt.cc/forum.php?mod=viewthread&tid=173350",
+          "source": "MT论坛 - 最新发表",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T01:01:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6504,
+      "importance": 0.6504,
+      "importance_score": 0.6504,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9369,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-24T01:01:47Z",
+      "latest_at": "2026-09-24T15:19:55Z",
+      "primary_item": {
+        "id": "28e3f5afb2e3a495a25b710fd1b44587567fe7be",
+        "title": "DeepSeek封号",
+        "url": "https://bbs.binmt.cc/forum.php?mod=viewthread&tid=173390",
+        "source": "MT论坛 - 最新发表",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -792,14 +1050,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6935,
-      "importance": 0.6935,
-      "importance_score": 0.6935,
+      "score": 0.6497,
+      "importance": 0.6497,
+      "importance_score": 0.6497,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.9827,
+        "recency": 0.7635,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -813,6 +1071,103 @@
         "title": "Dicklesworthstone 推动了 fastmcp_rust / Dicklesworthstone pushed fastmcp_rust",
         "url": "https://github.com/Dicklesworthstone/fastmcp_rust/compare/8d233e9de1...ffcd983cf0",
         "source": "Jeffrey Emanuel AI 技术的发展以及这与股票市场估值|doodlestein",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_0cf57fd40fb4",
+      "title": "适合各种预算的最佳LLM，每日更新 / Best LLM for every budget, updated daily",
+      "url": "https://bestmodelforyourbudget.terrydjony.com",
+      "primary_url": "https://bestmodelforyourbudget.terrydjony.com",
+      "source": "Hacker News Digest",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "1c97d5c85de065e068a52c74fc013d6dc19a45dd",
+          "title": "适合各种预算的最佳LLM，每日更新 / Best LLM for every budget, updated daily",
+          "url": "https://bestmodelforyourbudget.terrydjony.com",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T14:42:06.112704Z"
+        },
+        {
+          "id": "81cdbdd3542e8f4d994c4caa29aa69eab8b7b89f",
+          "title": "适合各种预算的最佳LLM，每日更新",
+          "url": "https://bestmodelforyourbudget.terrydjony.com",
+          "source": "bestmodelforyourbudget.terrydjony.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-24T15:59:39.321000Z"
+        },
+        {
+          "id": "e1305f7a5723ef1fed23ba9ffc30b2c50ac30cbb",
+          "title": "Best LLM for every budget, updated daily",
+          "url": "https://news.ycombinator.com/item?id=49830866",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-24T14:09:57Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News Digest",
+        "bestmodelforyourbudget.terrydjony.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1c97d5c85de065e068a52c74fc013d6dc19a45dd",
+          "title": "适合各种预算的最佳LLM，每日更新 / Best LLM for every budget, updated daily",
+          "url": "https://bestmodelforyourbudget.terrydjony.com",
+          "source": "Hacker News Digest",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T14:42:06.112704Z"
+        },
+        {
+          "id": "81cdbdd3542e8f4d994c4caa29aa69eab8b7b89f",
+          "title": "适合各种预算的最佳LLM，每日更新",
+          "url": "https://bestmodelforyourbudget.terrydjony.com",
+          "source": "bestmodelforyourbudget.terrydjony.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-24T15:59:39.321000Z"
+        },
+        {
+          "id": "e1305f7a5723ef1fed23ba9ffc30b2c50ac30cbb",
+          "title": "Best LLM for every budget, updated daily",
+          "url": "https://news.ycombinator.com/item?id=49830866",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-24T14:09:57Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6451,
+      "importance": 0.6451,
+      "importance_score": 0.6451,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9107,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-24T14:09:57Z",
+      "latest_at": "2026-09-24T15:59:39.321000Z",
+      "primary_item": {
+        "id": "1c97d5c85de065e068a52c74fc013d6dc19a45dd",
+        "title": "适合各种预算的最佳LLM，每日更新 / Best LLM for every budget, updated daily",
+        "url": "https://bestmodelforyourbudget.terrydjony.com",
+        "source": "Hacker News Digest",
         "source_name": "OPML RSS"
       }
     },
@@ -870,14 +1225,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -897,133 +1252,312 @@
       }
     },
     {
-      "story_id": "story_c56b58e9d916",
-      "title": "第1899期 - 2026-09-24 16:01",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_1601",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_1601",
-      "source": "大黑AI速报",
+      "story_id": "story_c8f289d8ff15",
+      "title": "Token彻底自由了 DeepSeek正开发轻量级模型：普通显卡就能跑",
+      "url": "https://news.mydrivers.com/1/1153/1153820.htm",
+      "primary_url": "https://news.mydrivers.com/1/1153/1153820.htm",
+      "source": "数码 | 快科技资讯_最新资讯",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "2e5c46d8318cd5d8b24ded74bfc15465e25925a9",
-          "title": "第1899期 - 2026-09-24 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_1601",
-          "source": "大黑AI速报",
+          "id": "be32a6160fdda37a227ed914d286e535f3263176",
+          "title": "Token彻底自由了 DeepSeek正开发轻量级模型：普通显卡就能跑",
+          "url": "https://news.mydrivers.com/1/1153/1153820.htm",
+          "source": "数码 | 快科技资讯_最新资讯",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-24T08:01:27Z"
+          "published_at": "2026-09-24T17:36:03Z"
         },
         {
-          "id": "901c9c6a42fa2d4e397b5d35ef6b6f3eb6c41208",
-          "title": "第1898期 - 2026-09-24 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_1201",
-          "source": "大黑AI速报",
+          "id": "262aded0967098e7cd693af33c7fa8b888dc169d",
+          "title": "Token彻底自由了 DeepSeek正开发轻量级模型：普通显卡就能跑",
+          "url": "https://bbs.kafan.cn/thread-2295671-1-1.html",
+          "source": "卡饭 - IT资讯区 - 卡饭论坛",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-24T04:01:14Z"
-        },
-        {
-          "id": "64a7f0eb29dfdff5ef5517abb4925d50c4a73b6e",
-          "title": "第1897期 - 2026-09-24 08:03",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_0803",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T00:03:43Z"
-        },
-        {
-          "id": "48558181e4f122e2dcab73351cc6e3dc4281d7fa",
-          "title": "第1896期 - 2026-09-24 04:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_0402",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T20:02:44Z"
-        },
-        {
-          "id": "f6bed274821c10aa483e88c6f7b803d8f12d95f5",
-          "title": "第1895期 - 2026-09-23 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-23_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T12:01:46Z"
+          "published_at": "2026-09-24T13:27:32Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 2,
       "source_names": [
-        "大黑AI速报"
+        "卡饭 - IT资讯区 - 卡饭论坛",
+        "数码 | 快科技资讯_最新资讯"
       ],
       "items": [
         {
-          "id": "2e5c46d8318cd5d8b24ded74bfc15465e25925a9",
-          "title": "第1899期 - 2026-09-24 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_1601",
-          "source": "大黑AI速报",
+          "id": "be32a6160fdda37a227ed914d286e535f3263176",
+          "title": "Token彻底自由了 DeepSeek正开发轻量级模型：普通显卡就能跑",
+          "url": "https://news.mydrivers.com/1/1153/1153820.htm",
+          "source": "数码 | 快科技资讯_最新资讯",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-24T08:01:27Z"
+          "published_at": "2026-09-24T17:36:03Z"
         },
         {
-          "id": "901c9c6a42fa2d4e397b5d35ef6b6f3eb6c41208",
-          "title": "第1898期 - 2026-09-24 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_1201",
-          "source": "大黑AI速报",
+          "id": "262aded0967098e7cd693af33c7fa8b888dc169d",
+          "title": "Token彻底自由了 DeepSeek正开发轻量级模型：普通显卡就能跑",
+          "url": "https://bbs.kafan.cn/thread-2295671-1-1.html",
+          "source": "卡饭 - IT资讯区 - 卡饭论坛",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-24T04:01:14Z"
-        },
-        {
-          "id": "64a7f0eb29dfdff5ef5517abb4925d50c4a73b6e",
-          "title": "第1897期 - 2026-09-24 08:03",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_0803",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T00:03:43Z"
-        },
-        {
-          "id": "48558181e4f122e2dcab73351cc6e3dc4281d7fa",
-          "title": "第1896期 - 2026-09-24 04:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_0402",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T20:02:44Z"
-        },
-        {
-          "id": "f6bed274821c10aa483e88c6f7b803d8f12d95f5",
-          "title": "第1895期 - 2026-09-23 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-23_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T12:01:46Z"
+          "published_at": "2026-09-24T13:27:32Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6713,
-      "importance": 0.6713,
-      "importance_score": 0.6713,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.638,
+      "importance": 0.638,
+      "importance_score": 0.638,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8517,
-        "story_heat": 1.0
+        "ai_relevance": 0.71,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-23T12:01:46Z",
-      "latest_at": "2026-09-24T08:01:27Z",
+      "earliest_at": "2026-09-24T13:27:32Z",
+      "latest_at": "2026-09-24T17:36:03Z",
       "primary_item": {
-        "id": "2e5c46d8318cd5d8b24ded74bfc15465e25925a9",
-        "title": "第1899期 - 2026-09-24 16:01",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-09-24_1601",
-        "source": "大黑AI速报",
+        "id": "be32a6160fdda37a227ed914d286e535f3263176",
+        "title": "Token彻底自由了 DeepSeek正开发轻量级模型：普通显卡就能跑",
+        "url": "https://news.mydrivers.com/1/1153/1153820.htm",
+        "source": "数码 | 快科技资讯_最新资讯",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_468ee2650742",
+      "title": "一名利用人工智能诱使儿童脱衣的恋童癖者获准保释，其住所可俯瞰游乐场",
+      "url": "https://news.sky.com/story/paedophile-who-used-ai-to-undress-children-was-bailed-to-flat-overlooking-playground-13591365",
+      "primary_url": "https://news.sky.com/story/paedophile-who-used-ai-to-undress-children-was-bailed-to-flat-overlooking-playground-13591365",
+      "source": "Buzzing|国外社交媒体热榜",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "b5f823fb70a62c00a47788020f096b51a05cc6f0",
+          "title": "一名利用人工智能诱使儿童脱衣的恋童癖者获准保释，其住所可俯瞰游乐场",
+          "url": "https://news.sky.com/story/paedophile-who-used-ai-to-undress-children-was-bailed-to-flat-overlooking-playground-13591365",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T16:31:50.315000Z"
+        },
+        {
+          "id": "53ab129c9bbf139430b98fdac19c16e57830a046",
+          "title": "一名利用人工智能诱使儿童脱衣的恋童癖者获准保释，其住所可俯瞰游乐场 / Paedophile who used AI to undress children was bailed to flat overlooking playground",
+          "url": "https://news.sky.com/story/paedophile-who-used-ai-to-undress-children-was-bailed-to-flat-overlooking-playground-13591365",
+          "source": "英国天空新闻网Sky News|UK and Around the World",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T10:14:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Buzzing|国外社交媒体热榜",
+        "英国天空新闻网Sky News|UK and Around the World"
+      ],
+      "items": [
+        {
+          "id": "b5f823fb70a62c00a47788020f096b51a05cc6f0",
+          "title": "一名利用人工智能诱使儿童脱衣的恋童癖者获准保释，其住所可俯瞰游乐场",
+          "url": "https://news.sky.com/story/paedophile-who-used-ai-to-undress-children-was-bailed-to-flat-overlooking-playground-13591365",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T16:31:50.315000Z"
+        },
+        {
+          "id": "53ab129c9bbf139430b98fdac19c16e57830a046",
+          "title": "一名利用人工智能诱使儿童脱衣的恋童癖者获准保释，其住所可俯瞰游乐场 / Paedophile who used AI to undress children was bailed to flat overlooking playground",
+          "url": "https://news.sky.com/story/paedophile-who-used-ai-to-undress-children-was-bailed-to-flat-overlooking-playground-13591365",
+          "source": "英国天空新闻网Sky News|UK and Around the World",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T10:14:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6354,
+      "importance": 0.6354,
+      "importance_score": 0.6354,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9869,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-24T10:14:00Z",
+      "latest_at": "2026-09-24T16:31:50.315000Z",
+      "primary_item": {
+        "id": "b5f823fb70a62c00a47788020f096b51a05cc6f0",
+        "title": "一名利用人工智能诱使儿童脱衣的恋童癖者获准保释，其住所可俯瞰游乐场",
+        "url": "https://news.sky.com/story/paedophile-who-used-ai-to-undress-children-was-bailed-to-flat-overlooking-playground-13591365",
+        "source": "Buzzing|国外社交媒体热榜",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_89b9289758e8",
+      "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+      "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+      "primary_url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+      "source": "CNBC|商业金融新闻",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "ac8875c0795ff0ed4351cf2d40eb737f3570caf7",
+          "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+          "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+          "source": "CNBC|商业金融新闻",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T16:26:47Z"
+        },
+        {
+          "id": "dd2a539d36b00b3d03380051957c25dcda8b4d02",
+          "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+          "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+          "source": "CNBC|商业金融新闻",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T11:20:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "CNBC|商业金融新闻"
+      ],
+      "items": [
+        {
+          "id": "ac8875c0795ff0ed4351cf2d40eb737f3570caf7",
+          "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+          "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+          "source": "CNBC|商业金融新闻",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T16:26:47Z"
+        },
+        {
+          "id": "dd2a539d36b00b3d03380051957c25dcda8b4d02",
+          "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+          "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+          "source": "CNBC|商业金融新闻",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T11:20:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6227,
+      "importance": 0.6227,
+      "importance_score": 0.6227,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9834,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-24T11:20:52Z",
+      "latest_at": "2026-09-24T16:26:47Z",
+      "primary_item": {
+        "id": "ac8875c0795ff0ed4351cf2d40eb737f3570caf7",
+        "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+        "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+        "source": "CNBC|商业金融新闻",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_f7d2d3ca72d3",
+      "title": "个人一直在薅的羊毛（Claude、GPT、DeepSeek都有），分享给兄弟们",
+      "url": "https://vibex.iflow.cn/t/topic/6656/8",
+      "primary_url": "https://vibex.iflow.cn/t/topic/6656/8",
+      "source": "[煜林](https://vibex.iflow.cn/u/10012174052)心流AI交流社区",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "b25b1179b248d21a8ea18ed98f4d402208cb4313",
+          "title": "个人一直在薅的羊毛（Claude、GPT、DeepSeek都有），分享给兄弟们",
+          "url": "https://vibex.iflow.cn/t/topic/6656/8",
+          "source": "[煜林](https://vibex.iflow.cn/u/10012174052)心流AI交流社区",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T11:51:40Z"
+        },
+        {
+          "id": "4d32b1f30fa46b51f7bfe2fc6ada5bdd84eadd11",
+          "title": "个人一直在薅的羊毛（Claude、GPT、DeepSeek都有），分享给兄弟们",
+          "url": "https://vibex.iflow.cn/t/topic/6656/6",
+          "source": "[煜林](https://vibex.iflow.cn/u/10012174052)心流AI交流社区",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T09:32:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "[煜林](https://vibex.iflow.cn/u/10012174052)心流AI交流社区"
+      ],
+      "items": [
+        {
+          "id": "b25b1179b248d21a8ea18ed98f4d402208cb4313",
+          "title": "个人一直在薅的羊毛（Claude、GPT、DeepSeek都有），分享给兄弟们",
+          "url": "https://vibex.iflow.cn/t/topic/6656/8",
+          "source": "[煜林](https://vibex.iflow.cn/u/10012174052)心流AI交流社区",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T11:51:40Z"
+        },
+        {
+          "id": "4d32b1f30fa46b51f7bfe2fc6ada5bdd84eadd11",
+          "title": "个人一直在薅的羊毛（Claude、GPT、DeepSeek都有），分享给兄弟们",
+          "url": "https://vibex.iflow.cn/t/topic/6656/6",
+          "source": "[煜林](https://vibex.iflow.cn/u/10012174052)心流AI交流社区",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T09:32:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6205,
+      "importance": 0.6205,
+      "importance_score": 0.6205,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.79,
+        "recency": 0.7923,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-24T09:32:10Z",
+      "latest_at": "2026-09-24T11:51:40Z",
+      "primary_item": {
+        "id": "b25b1179b248d21a8ea18ed98f4d402208cb4313",
+        "title": "个人一直在薅的羊毛（Claude、GPT、DeepSeek都有），分享给兄弟们",
+        "url": "https://vibex.iflow.cn/t/topic/6656/8",
+        "source": "[煜林](https://vibex.iflow.cn/u/10012174052)心流AI交流社区",
         "source_name": "OPML RSS"
       }
     },
@@ -1116,14 +1650,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6619,
-      "importance": 0.6619,
-      "importance_score": 0.6619,
+      "score": 0.618,
+      "importance": 0.618,
+      "importance_score": 0.618,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8695,
+        "recency": 0.6502,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1229,14 +1763,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6613,
-      "importance": 0.6613,
-      "importance_score": 0.6613,
+      "score": 0.6175,
+      "importance": 0.6175,
+      "importance_score": 0.6175,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8667,
+        "recency": 0.6474,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1307,14 +1841,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7807,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1331,390 +1865,6 @@
         "url": "https://www.aibase.com/news/31349",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e49c5cfd7098",
-      "title": "阿里达摩院发布食管癌AI模型：不插管即可发现早期和癌前病变",
-      "url": "https://news.mydrivers.com/1/1153/1153655.htm",
-      "primary_url": "https://news.mydrivers.com/1/1153/1153655.htm",
-      "source": "数码 | 快科技资讯_最新资讯",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "36c018af81ed7a81cf0f7dec8a4693547bee5ae4",
-          "title": "阿里达摩院发布食管癌AI模型：不插管即可发现早期和癌前病变",
-          "url": "https://news.mydrivers.com/1/1153/1153655.htm",
-          "source": "数码 | 快科技资讯_最新资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T11:15:28Z"
-        },
-        {
-          "id": "91f16a5b478e4717f04965c26f116cda51ca7739",
-          "title": "阿里达摩院发布食管癌 AI 模型，「不插管」发现早期和癌前病变",
-          "url": "https://www.ithome.com/1/006/720.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "881c54950a5541cf4fd24d332b2644441470e53d",
-          "title": "阿里达摩院发布食管癌 AI 模型，“不插管”发现早期和癌前病变",
-          "url": "https://www.ithome.com/1/006/720.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-24T05:22:08Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI",
-        "数码 | 快科技资讯_最新资讯"
-      ],
-      "items": [
-        {
-          "id": "36c018af81ed7a81cf0f7dec8a4693547bee5ae4",
-          "title": "阿里达摩院发布食管癌AI模型：不插管即可发现早期和癌前病变",
-          "url": "https://news.mydrivers.com/1/1153/1153655.htm",
-          "source": "数码 | 快科技资讯_最新资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T11:15:28Z"
-        },
-        {
-          "id": "91f16a5b478e4717f04965c26f116cda51ca7739",
-          "title": "阿里达摩院发布食管癌 AI 模型，「不插管」发现早期和癌前病变",
-          "url": "https://www.ithome.com/1/006/720.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "881c54950a5541cf4fd24d332b2644441470e53d",
-          "title": "阿里达摩院发布食管癌 AI 模型，“不插管”发现早期和癌前病变",
-          "url": "https://www.ithome.com/1/006/720.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-24T05:22:08Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6483,
-      "importance": 0.6483,
-      "importance_score": 0.6483,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9864,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T05:22:08Z",
-      "latest_at": "2026-09-24T11:15:28Z",
-      "primary_item": {
-        "id": "36c018af81ed7a81cf0f7dec8a4693547bee5ae4",
-        "title": "阿里达摩院发布食管癌AI模型：不插管即可发现早期和癌前病变",
-        "url": "https://news.mydrivers.com/1/1153/1153655.htm",
-        "source": "数码 | 快科技资讯_最新资讯",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_be70c0e77ff4",
-      "title": "penso pushed herdr-gpui",
-      "url": "https://github.com/penso/herdr-gpui/compare/a0a641cd34...2d27b81c6e",
-      "primary_url": "https://github.com/penso/herdr-gpui/compare/a0a641cd34...2d27b81c6e",
-      "source": "Fabien Penso|moltis个人AI助手/个人AI网关|openclaw类似",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "32a58a75b29c17411ab65c0430d8af142c1d78aa",
-          "title": "penso pushed herdr-gpui",
-          "url": "https://github.com/penso/herdr-gpui/compare/a0a641cd34...2d27b81c6e",
-          "source": "Fabien Penso|moltis个人AI助手/个人AI网关|openclaw类似",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T06:24:30Z"
-        },
-        {
-          "id": "23015eb9fee5749d22c7c9bee76058f357e064db",
-          "title": "penso pushed herdr-gpui",
-          "url": "https://github.com/penso/herdr-gpui/compare/0c9eb4eb55...dda45943c7",
-          "source": "Fabien Penso|moltis个人AI助手/个人AI网关|openclaw类似",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T05:26:18Z"
-        },
-        {
-          "id": "f14549884fbdbead4c50bc4a1c1e26a2b54c0f50",
-          "title": "penso pushed herdr-gpui",
-          "url": "https://github.com/penso/herdr-gpui/compare/9a1bb196c1...b399611d6e",
-          "source": "Fabien Penso|moltis个人AI助手/个人AI网关|openclaw类似",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T04:25:32Z"
-        },
-        {
-          "id": "50f191de559427704afd510c4eb6552ec8cc2beb",
-          "title": "penso pushed herdr-gpui",
-          "url": "https://github.com/penso/herdr-gpui/compare/94f75345f2...d280190d02",
-          "source": "Fabien Penso|moltis个人AI助手/个人AI网关|openclaw类似",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T02:28:23Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Fabien Penso|moltis个人AI助手/个人AI网关|openclaw类似"
-      ],
-      "items": [
-        {
-          "id": "32a58a75b29c17411ab65c0430d8af142c1d78aa",
-          "title": "penso pushed herdr-gpui",
-          "url": "https://github.com/penso/herdr-gpui/compare/a0a641cd34...2d27b81c6e",
-          "source": "Fabien Penso|moltis个人AI助手/个人AI网关|openclaw类似",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T06:24:30Z"
-        },
-        {
-          "id": "23015eb9fee5749d22c7c9bee76058f357e064db",
-          "title": "penso pushed herdr-gpui",
-          "url": "https://github.com/penso/herdr-gpui/compare/0c9eb4eb55...dda45943c7",
-          "source": "Fabien Penso|moltis个人AI助手/个人AI网关|openclaw类似",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T05:26:18Z"
-        },
-        {
-          "id": "f14549884fbdbead4c50bc4a1c1e26a2b54c0f50",
-          "title": "penso pushed herdr-gpui",
-          "url": "https://github.com/penso/herdr-gpui/compare/9a1bb196c1...b399611d6e",
-          "source": "Fabien Penso|moltis个人AI助手/个人AI网关|openclaw类似",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T04:25:32Z"
-        },
-        {
-          "id": "50f191de559427704afd510c4eb6552ec8cc2beb",
-          "title": "penso pushed herdr-gpui",
-          "url": "https://github.com/penso/herdr-gpui/compare/94f75345f2...d280190d02",
-          "source": "Fabien Penso|moltis个人AI助手/个人AI网关|openclaw类似",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T02:28:23Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6419,
-      "importance": 0.6419,
-      "importance_score": 0.6419,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.7844,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T02:28:23Z",
-      "latest_at": "2026-09-24T06:24:30Z",
-      "primary_item": {
-        "id": "32a58a75b29c17411ab65c0430d8af142c1d78aa",
-        "title": "penso pushed herdr-gpui",
-        "url": "https://github.com/penso/herdr-gpui/compare/a0a641cd34...2d27b81c6e",
-        "source": "Fabien Penso|moltis个人AI助手/个人AI网关|openclaw类似",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_6493f8da2476",
-      "title": "Mercury 2.5 LLM 达到每秒 770 个令牌",
-      "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "primary_url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "source": "Buzzing|国外社交媒体热榜",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "ec27e0eeda8cba33afd00e48648cfcece4ccad81",
-          "title": "Mercury 2.5 LLM 达到每秒 770 个令牌",
-          "url": "https://artificialanalysis.ai/models/mercury-2-5",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T08:40:20.326000Z"
-        },
-        {
-          "id": "6ac0ebe22261834e9766ce78ccf2431830420f30",
-          "title": "Mercury 2.5 LLM 达到每秒 770 个令牌 / Mercury 2.5 LLM hits 770 tokens per second",
-          "url": "https://artificialanalysis.ai/models/mercury-2-5",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T22:24:17.159145Z"
-        },
-        {
-          "id": "a64cf6643bc0e1970e1792742e2669f89e3b8553",
-          "title": "Mercury 2.5 LLM hits 770 tokens per second",
-          "url": "https://news.ycombinator.com/item?id=49823348",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T22:16:19Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Hacker News Digest",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ec27e0eeda8cba33afd00e48648cfcece4ccad81",
-          "title": "Mercury 2.5 LLM 达到每秒 770 个令牌",
-          "url": "https://artificialanalysis.ai/models/mercury-2-5",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T08:40:20.326000Z"
-        },
-        {
-          "id": "6ac0ebe22261834e9766ce78ccf2431830420f30",
-          "title": "Mercury 2.5 LLM 达到每秒 770 个令牌 / Mercury 2.5 LLM hits 770 tokens per second",
-          "url": "https://artificialanalysis.ai/models/mercury-2-5",
-          "source": "Hacker News Digest",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-23T22:24:17.159145Z"
-        },
-        {
-          "id": "a64cf6643bc0e1970e1792742e2669f89e3b8553",
-          "title": "Mercury 2.5 LLM hits 770 tokens per second",
-          "url": "https://news.ycombinator.com/item?id=49823348",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T22:16:19Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6387,
-      "importance": 0.6387,
-      "importance_score": 0.6387,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8787,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-23T22:16:19Z",
-      "latest_at": "2026-09-24T08:40:20.326000Z",
-      "primary_item": {
-        "id": "ec27e0eeda8cba33afd00e48648cfcece4ccad81",
-        "title": "Mercury 2.5 LLM 达到每秒 770 个令牌",
-        "url": "https://artificialanalysis.ai/models/mercury-2-5",
-        "source": "Buzzing|国外社交媒体热榜",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_48dbf3b74606",
-      "title": "The GNOME LLM Policy That I Want",
-      "url": "https://lobste.rs/c/ih7o05",
-      "primary_url": "https://lobste.rs/c/ih7o05",
-      "source": "Comments",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "fa68ee4d058236869937fc5259be76fd6117223d",
-          "title": "The GNOME LLM Policy That I Want",
-          "url": "https://lobste.rs/c/ih7o05",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T10:50:39Z"
-        },
-        {
-          "id": "04e6bf5ef79a752f860ec593566fb1c84d7d572e",
-          "title": "The GNOME LLM Policy That I Want",
-          "url": "https://lobste.rs/c/aq5z4o",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T05:30:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Comments"
-      ],
-      "items": [
-        {
-          "id": "fa68ee4d058236869937fc5259be76fd6117223d",
-          "title": "The GNOME LLM Policy That I Want",
-          "url": "https://lobste.rs/c/ih7o05",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T10:50:39Z"
-        },
-        {
-          "id": "04e6bf5ef79a752f860ec593566fb1c84d7d572e",
-          "title": "The GNOME LLM Policy That I Want",
-          "url": "https://lobste.rs/c/aq5z4o",
-          "source": "Comments",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-24T05:30:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6318,
-      "importance": 0.6318,
-      "importance_score": 0.6318,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9692,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T05:30:56Z",
-      "latest_at": "2026-09-24T10:50:39Z",
-      "primary_item": {
-        "id": "fa68ee4d058236869937fc5259be76fd6117223d",
-        "title": "The GNOME LLM Policy That I Want",
-        "url": "https://lobste.rs/c/ih7o05",
-        "source": "Comments",
-        "source_name": "OPML RSS"
       }
     }
   ]
