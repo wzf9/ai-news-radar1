@@ -1,8 +1,489 @@
 {
-  "generated_at": "2026-11-09T18:32:38.182614Z",
+  "generated_at": "2026-11-10T01:55:56.882629Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0552e0c5c4ff",
+      "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+      "url": "https://www.aibase.com/news/32190",
+      "primary_url": "https://www.aibase.com/news/32190",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "url": "https://www.aibase.com/news/32190",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:55:56.882629Z"
+        },
+        {
+          "id": "4fd6614f9626cc020240a42dd794f6e7cb519d7f",
+          "title": "Anthropic 发布 Claude Fable5.2 与 Mythos5.2：1000 个子智能体 8 天写出可启动操作系统",
+          "url": "https://www.aibase.com/zh/news/32190",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "url": "https://www.aibase.com/news/32190",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:55:56.882629Z"
+        },
+        {
+          "id": "4fd6614f9626cc020240a42dd794f6e7cb519d7f",
+          "title": "Anthropic 发布 Claude Fable5.2 与 Mythos5.2：1000 个子智能体 8 天写出可启动操作系统",
+          "url": "https://www.aibase.com/zh/news/32190",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T01:55:56.882629Z",
+      "latest_at": "2026-11-10T01:55:56.882629Z",
+      "primary_item": {
+        "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+        "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+        "url": "https://www.aibase.com/news/32190",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_773234e7b2ac",
+      "title": "Claude Fable 5.2 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "Claude Fable 5.2 in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "Claude Fable 5.2 in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6186,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T16:46:43Z",
+      "latest_at": "2026-11-09T16:46:43Z",
+      "primary_item": {
+        "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+        "title": "Claude Fable 5.2 in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_15cf28526460",
+      "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+      "url": "https://www.aibase.com/news/32188",
+      "primary_url": "https://www.aibase.com/news/32188",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "url": "https://www.aibase.com/news/32188",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:55:56.882629Z"
+        },
+        {
+          "id": "8e4d9fa0c2d267aff4bf337ac3081bfa451f9df6",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "url": "https://www.aibase.com/zh/news/32188",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "url": "https://www.aibase.com/news/32188",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:55:56.882629Z"
+        },
+        {
+          "id": "8e4d9fa0c2d267aff4bf337ac3081bfa451f9df6",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "url": "https://www.aibase.com/zh/news/32188",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T01:55:56.882629Z",
+      "latest_at": "2026-11-10T01:55:56.882629Z",
+      "primary_item": {
+        "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+        "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+        "url": "https://www.aibase.com/news/32188",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3755d3622949",
+      "title": "The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响",
+      "url": "https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri",
+      "primary_url": "https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri",
+      "source": "The Verge：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "83b8185ba25dc725eb5decc739643ca256036e11",
+          "title": "The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响",
+          "url": "https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-09T23:51:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI"
+      ],
+      "items": [
+        {
+          "id": "83b8185ba25dc725eb5decc739643ca256036e11",
+          "title": "The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响",
+          "url": "https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri",
+          "source": "The Verge：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-09T23:51:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9139,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T23:51:58Z",
+      "latest_at": "2026-11-09T23:51:58Z",
+      "primary_item": {
+        "id": "83b8185ba25dc725eb5decc739643ca256036e11",
+        "title": "The Verge 梳理黄仁勋与 Megaspeed 高管丑闻对 Nvidia 出口管制游说的影响",
+        "url": "https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri",
+        "source": "The Verge：AI",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c553df6c4930",
+      "title": "实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出",
+      "url": "https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0",
+      "primary_url": "https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d9371611f98d0e541a091cb2de53a2018c588b6a",
+          "title": "实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出",
+          "url": "https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-09T23:21:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "d9371611f98d0e541a091cb2de53a2018c588b6a",
+          "title": "实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出",
+          "url": "https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-09T23:21:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8924,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T23:21:03Z",
+      "latest_at": "2026-11-09T23:21:03Z",
+      "primary_item": {
+        "id": "d9371611f98d0e541a091cb2de53a2018c588b6a",
+        "title": "实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出",
+        "url": "https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7fb4435c605d",
+      "title": "Figma 官方讲解画布智能体的 6 种实用方法",
+      "url": "https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8",
+      "primary_url": "https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8",
+      "source": "Figma AI / Agent / Make",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "33ee67a17a933392c6e9ebf793772bd50bd52963",
+          "title": "Figma 官方讲解画布智能体的 6 种实用方法",
+          "url": "https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8",
+          "source": "Figma AI / Agent / Make",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-09T21:46:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Figma AI / Agent / Make"
+      ],
+      "items": [
+        {
+          "id": "33ee67a17a933392c6e9ebf793772bd50bd52963",
+          "title": "Figma 官方讲解画布智能体的 6 种实用方法",
+          "url": "https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8",
+          "source": "Figma AI / Agent / Make",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-09T21:46:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8264,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T21:46:00Z",
+      "latest_at": "2026-11-09T21:46:00Z",
+      "primary_item": {
+        "id": "33ee67a17a933392c6e9ebf793772bd50bd52963",
+        "title": "Figma 官方讲解画布智能体的 6 种实用方法",
+        "url": "https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8",
+        "source": "Figma AI / Agent / Make",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f64631b4c0a9",
+      "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+      "url": "https://www.aibase.com/news/32194",
+      "primary_url": "https://www.aibase.com/news/32194",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
+          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "url": "https://www.aibase.com/news/32194",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:55:56.882629Z"
+        },
+        {
+          "id": "7f1c825b6d9176686e106eb0c39dd219af69da03",
+          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "url": "https://www.aibase.com/zh/news/32194",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
+          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "url": "https://www.aibase.com/news/32194",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:55:56.882629Z"
+        },
+        {
+          "id": "7f1c825b6d9176686e106eb0c39dd219af69da03",
+          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "url": "https://www.aibase.com/zh/news/32194",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T01:55:56.882629Z",
+      "latest_at": "2026-11-10T01:55:56.882629Z",
+      "primary_item": {
+        "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
+        "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+        "url": "https://www.aibase.com/news/32194",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_7b1451fc786c",
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
@@ -38,14 +519,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7513,
+        "recency": 0.4434,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,48 +546,48 @@
       }
     },
     {
-      "story_id": "story_e5b53323b3ee",
-      "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-      "url": "https://www.aibase.com/news/32187",
-      "primary_url": "https://www.aibase.com/news/32187",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_374d008e373a",
+      "title": "Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5",
+      "url": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s",
+      "primary_url": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s",
+      "source": "Artificial Analysis",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
-          "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-          "url": "https://www.aibase.com/news/32187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T18:00:38.182614Z"
+          "id": "9842703e49088f00bdda97ad5a94ae10951b5b00",
+          "title": "Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5",
+          "url": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s",
+          "source": "Artificial Analysis",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-09T19:45:12Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Artificial Analysis"
       ],
       "items": [
         {
-          "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
-          "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-          "url": "https://www.aibase.com/news/32187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T18:00:38.182614Z"
+          "id": "9842703e49088f00bdda97ad5a94ae10951b5b00",
+          "title": "Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5",
+          "url": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s",
+          "source": "Artificial Analysis",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-09T19:45:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9778,
+        "recency": 0.7425,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -114,12 +595,92 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T18:00:38.182614Z",
-      "latest_at": "2026-11-09T18:00:38.182614Z",
+      "earliest_at": "2026-11-09T19:45:12Z",
+      "latest_at": "2026-11-09T19:45:12Z",
       "primary_item": {
-        "id": "a9aef4bfdd7669502341ee720a9c948c2c48b223",
-        "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
-        "url": "https://www.aibase.com/news/32187",
+        "id": "9842703e49088f00bdda97ad5a94ae10951b5b00",
+        "title": "Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5",
+        "url": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s",
+        "source": "Artificial Analysis",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d0114ee6b280",
+      "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺\"史上最大 IPO\"遇降温",
+      "url": "https://www.aibase.com/news/32196",
+      "primary_url": "https://www.aibase.com/news/32196",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "58e8444149b1aee00a76a2a0c0ca6f6236e1bfe5",
+          "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺\"史上最大 IPO\"遇降温",
+          "url": "https://www.aibase.com/news/32196",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:55:56.882629Z"
+        },
+        {
+          "id": "4739babe76ca93bd4b1b577f084eb4c882939d88",
+          "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺「史上最大 IPO」遇降温",
+          "url": "https://www.aibase.com/zh/news/32196",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "58e8444149b1aee00a76a2a0c0ca6f6236e1bfe5",
+          "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺\"史上最大 IPO\"遇降温",
+          "url": "https://www.aibase.com/news/32196",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:55:56.882629Z"
+        },
+        {
+          "id": "4739babe76ca93bd4b1b577f084eb4c882939d88",
+          "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺「史上最大 IPO」遇降温",
+          "url": "https://www.aibase.com/zh/news/32196",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T01:55:56.882629Z",
+      "latest_at": "2026-11-10T01:55:56.882629Z",
+      "primary_item": {
+        "id": "58e8444149b1aee00a76a2a0c0ca6f6236e1bfe5",
+        "title": "华尔街给 AI 热泼冷水：Anthropic 冲刺\"史上最大 IPO\"遇降温",
+        "url": "https://www.aibase.com/news/32196",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -159,20 +720,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9586,
+        "recency": 0.6508,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-09T17:33:02Z",
       "latest_at": "2026-11-09T17:33:02Z",
@@ -185,187 +745,127 @@
       }
     },
     {
-      "story_id": "story_23fea7a67705",
-      "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
-      "url": "https://www.aibase.com/news/32186",
-      "primary_url": "https://www.aibase.com/news/32186",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_932fe34bad72",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "primary_url": "https://openai.com/index/kuken",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
-          "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
-          "url": "https://www.aibase.com/news/32186",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T17:59:38.182614Z"
+          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
-          "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
-          "url": "https://www.aibase.com/news/32186",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T17:59:38.182614Z"
+          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
-      "importance_label": "行业动态",
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9771,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.2528,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "official_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T17:59:38.182614Z",
-      "latest_at": "2026-11-09T17:59:38.182614Z",
+      "earliest_at": "2026-11-09T08:00:00Z",
+      "latest_at": "2026-11-09T08:00:00Z",
       "primary_item": {
-        "id": "44a171dc5eb08a855f2ad3fde4fc744f223b356a",
-        "title": "字节 Seedream 5.5 发布：支持 100 轮连续编辑与原生透明输出，全面刷新 AI 图像创作天花板",
-        "url": "https://www.aibase.com/news/32186",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+        "title": "Kuken Industries searches 70 years of drawings in minutes",
+        "url": "https://openai.com/index/kuken",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f32460245be7",
-      "title": "Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说",
-      "url": "https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd",
-      "primary_url": "https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd",
-      "source": "The Decoder：AI News",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "faba42c62a0fe3deb42bff47bebdbcca79815f35",
-          "title": "Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说",
-          "url": "https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-09T11:38:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News"
-      ],
-      "items": [
-        {
-          "id": "faba42c62a0fe3deb42bff47bebdbcca79815f35",
-          "title": "Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说",
-          "url": "https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-09T11:38:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7126,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T11:38:43Z",
-      "latest_at": "2026-11-09T11:38:43Z",
-      "primary_item": {
-        "id": "faba42c62a0fe3deb42bff47bebdbcca79815f35",
-        "title": "Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说",
-        "url": "https://aihot.news/items/e17dl64mjiov57c0jtwn41bxd",
-        "source": "The Decoder：AI News",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_99d6b0ebd7e1",
-      "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-      "url": "https://www.aibase.com/news/32178",
-      "primary_url": "https://www.aibase.com/news/32178",
+      "story_id": "story_74fe178541a7",
+      "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+      "url": "https://www.aibase.com/news/32195",
+      "primary_url": "https://www.aibase.com/news/32195",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-          "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "url": "https://www.aibase.com/news/32178",
+          "id": "60e04fe5321dc7307886c6ec4ab28b751784cda0",
+          "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+          "url": "https://www.aibase.com/news/32195",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T14:32:38.182614Z"
+          "published_at": "2026-11-10T01:55:56.882629Z"
         },
         {
-          "id": "f5ebbb5042de53fd00a694ab8221966b090e35ce",
-          "title": "行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐",
-          "url": "https://www.leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html",
-          "source": "雷峰网",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T09:16:00Z"
+          "id": "484f434e2eade0ee9f7e665b02bd67f0874ef423",
+          "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+          "url": "https://www.aibase.com/zh/news/32195",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
         "AIbase",
-        "雷峰网"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-          "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-          "url": "https://www.aibase.com/news/32178",
+          "id": "60e04fe5321dc7307886c6ec4ab28b751784cda0",
+          "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+          "url": "https://www.aibase.com/news/32195",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T14:32:38.182614Z"
+          "published_at": "2026-11-10T01:55:56.882629Z"
         },
         {
-          "id": "f5ebbb5042de53fd00a694ab8221966b090e35ce",
-          "title": "行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐",
-          "url": "https://www.leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html",
-          "source": "雷峰网",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T09:16:00Z"
+          "id": "484f434e2eade0ee9f7e665b02bd67f0874ef423",
+          "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+          "url": "https://www.aibase.com/zh/news/32195",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8333,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -374,383 +874,97 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T09:16:00Z",
-      "latest_at": "2026-11-09T14:32:38.182614Z",
+      "earliest_at": "2026-11-10T01:55:56.882629Z",
+      "latest_at": "2026-11-10T01:55:56.882629Z",
       "primary_item": {
-        "id": "d753d42b6a65cb304e3101e48c75d503d7aab471",
-        "title": "​行业最大规模具身模型挑战赛迎来决赛:15支战队将展开48小时真机角逐",
-        "url": "https://www.aibase.com/news/32178",
+        "id": "60e04fe5321dc7307886c6ec4ab28b751784cda0",
+        "title": "法学教授让 Claude 更新页码：吃个午饭回来，全年课堂笔记被全盘删光",
+        "url": "https://www.aibase.com/news/32195",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_7a875051dfb6",
-      "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-      "url": "https://www.aibase.com/news/32184",
-      "primary_url": "https://www.aibase.com/news/32184",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_06e2b9999d4d",
+      "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+      "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "primary_url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-          "url": "https://www.aibase.com/news/32184",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T17:32:38.182614Z"
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-          "url": "https://www.aibase.com/news/32184",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T17:32:38.182614Z"
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "行业动态",
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.2956,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "official_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T17:32:38.182614Z",
-      "latest_at": "2026-11-09T17:32:38.182614Z",
+      "earliest_at": "2026-11-09T09:01:37Z",
+      "latest_at": "2026-11-09T09:01:37Z",
       "primary_item": {
-        "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-        "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-        "url": "https://www.aibase.com/news/32184",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+        "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_aee603e13760",
-      "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
-      "url": "https://www.aibase.com/news/32185",
-      "primary_url": "https://www.aibase.com/news/32185",
+      "story_id": "story_60f07da5a9de",
+      "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+      "url": "https://www.aibase.com/news/32191",
+      "primary_url": "https://www.aibase.com/news/32191",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f1b510a471379de6750ff189741d6d501e9955b8",
-          "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
-          "url": "https://www.aibase.com/news/32185",
+          "id": "fb3aba070e13422968ae71f94639e265f8f85720",
+          "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+          "url": "https://www.aibase.com/news/32191",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T17:32:38.182614Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f1b510a471379de6750ff189741d6d501e9955b8",
-          "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
-          "url": "https://www.aibase.com/news/32185",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T17:32:38.182614Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T17:32:38.182614Z",
-      "latest_at": "2026-11-09T17:32:38.182614Z",
-      "primary_item": {
-        "id": "f1b510a471379de6750ff189741d6d501e9955b8",
-        "title": "火山引擎发布Seedream5.5:像素级可控编辑，百轮修改不崩坏",
-        "url": "https://www.aibase.com/news/32185",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c56b58e9d916",
-      "title": "第2172期 - 2026-11-10 00:02",
-      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0002",
-      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0002",
-      "source": "大黑AI速报",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "75ef47bcd7777e1c2f054121d523ad25d01f87b4",
-          "title": "第2172期 - 2026-11-10 00:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0002",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T16:02:38Z"
+          "published_at": "2026-11-10T01:55:56.882629Z"
         },
         {
-          "id": "c92803293a8e397890a0694636b0e9ab43f21ffd",
-          "title": "第2171期 - 2026-11-09 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T12:01:31Z"
-        },
-        {
-          "id": "24dfcf831d03e40bd3b95d6607c1371461110664",
-          "title": "第2170期 - 2026-11-09 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T08:01:58Z"
-        },
-        {
-          "id": "9110e0049df7a9be45d96700179e6d9708d3f653",
-          "title": "第2169期 - 2026-11-09 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T04:01:36Z"
-        },
-        {
-          "id": "ff07b9549de2d8786889aadcf9ddb94af83061ad",
-          "title": "第2167期 - 2026-11-09 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-08T20:01:39Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "大黑AI速报"
-      ],
-      "items": [
-        {
-          "id": "75ef47bcd7777e1c2f054121d523ad25d01f87b4",
-          "title": "第2172期 - 2026-11-10 00:02",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0002",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T16:02:38Z"
-        },
-        {
-          "id": "c92803293a8e397890a0694636b0e9ab43f21ffd",
-          "title": "第2171期 - 2026-11-09 20:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_2001",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T12:01:31Z"
-        },
-        {
-          "id": "24dfcf831d03e40bd3b95d6607c1371461110664",
-          "title": "第2170期 - 2026-11-09 16:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_1601",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T08:01:58Z"
-        },
-        {
-          "id": "9110e0049df7a9be45d96700179e6d9708d3f653",
-          "title": "第2169期 - 2026-11-09 12:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_1201",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T04:01:36Z"
-        },
-        {
-          "id": "ff07b9549de2d8786889aadcf9ddb94af83061ad",
-          "title": "第2167期 - 2026-11-09 04:01",
-          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_0401",
-          "source": "大黑AI速报",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-08T20:01:39Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6802,
-      "importance": 0.6802,
-      "importance_score": 0.6802,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8958,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T20:01:39Z",
-      "latest_at": "2026-11-09T16:02:38Z",
-      "primary_item": {
-        "id": "75ef47bcd7777e1c2f054121d523ad25d01f87b4",
-        "title": "第2172期 - 2026-11-10 00:02",
-        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0002",
-        "source": "大黑AI速报",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_90ce6323187a",
-      "title": "ywatanabe1989 为 scitex-ai/scitex-logging 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-logging",
-      "url": "https://github.com/scitex-ai/scitex-logging/pull/48",
-      "primary_url": "https://github.com/scitex-ai/scitex-logging/pull/48",
-      "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "9322af8c031e7fb41d1dabe1f61ebffedee0abae",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-logging 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-logging",
-          "url": "https://github.com/scitex-ai/scitex-logging/pull/48",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T18:04:48Z"
-        },
-        {
-          "id": "503d7f07a03d2939bba59d6650d2c76c102d34dc",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-logging 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-logging",
-          "url": "https://github.com/scitex-ai/scitex-logging/pull/47",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T16:48:44Z"
-        },
-        {
-          "id": "fb53f46b300b589edab83490822ecf3c5189776e",
-          "title": "ywatanabe1989 为 scitex-ai/figrecipe 做出了贡献 / ywatanabe1989 contributed to scitex-ai/figrecipe",
-          "url": "https://github.com/scitex-ai/figrecipe/pull/505",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T15:12:54Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道"
-      ],
-      "items": [
-        {
-          "id": "9322af8c031e7fb41d1dabe1f61ebffedee0abae",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-logging 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-logging",
-          "url": "https://github.com/scitex-ai/scitex-logging/pull/48",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T18:04:48Z"
-        },
-        {
-          "id": "503d7f07a03d2939bba59d6650d2c76c102d34dc",
-          "title": "ywatanabe1989 为 scitex-ai/scitex-logging 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-logging",
-          "url": "https://github.com/scitex-ai/scitex-logging/pull/47",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T16:48:44Z"
-        },
-        {
-          "id": "fb53f46b300b589edab83490822ecf3c5189776e",
-          "title": "ywatanabe1989 为 scitex-ai/figrecipe 做出了贡献 / ywatanabe1989 contributed to scitex-ai/figrecipe",
-          "url": "https://github.com/scitex-ai/figrecipe/pull/505",
-          "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T15:12:54Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6471,
-      "importance": 0.6471,
-      "importance_score": 0.6471,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9807,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T15:12:54Z",
-      "latest_at": "2026-11-09T18:04:48Z",
-      "primary_item": {
-        "id": "9322af8c031e7fb41d1dabe1f61ebffedee0abae",
-        "title": "ywatanabe1989 为 scitex-ai/scitex-logging 做出了贡献 / ywatanabe1989 contributed to scitex-ai/scitex-logging",
-        "url": "https://github.com/scitex-ai/scitex-logging/pull/48",
-        "source": "Yusuke Watanabe ywatanabe1989|scitex|文献、分析、可视化、写作自动化科研管道",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_f2a8303b15c8",
-      "title": "美团LongCat-2.5模型正式开源：1.6万亿参数 支持国产算力部署",
-      "url": "https://news.mydrivers.com/1/1164/1164418.htm",
-      "primary_url": "https://news.mydrivers.com/1/1164/1164418.htm",
-      "source": "数码 | 快科技资讯_最新资讯",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "faf074d841310655db9dfe2a1cb608fb27c1694c",
-          "title": "美团LongCat-2.5模型正式开源：1.6万亿参数 支持国产算力部署",
-          "url": "https://news.mydrivers.com/1/1164/1164418.htm",
-          "source": "数码 | 快科技资讯_最新资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T22:27:20Z"
-        },
-        {
-          "id": "1a3566fd19256113cae1a31563f54bc526754b82",
-          "title": "美团 LongCat-2.5 模型正式开源：1.6 万亿参数 支持国产算力部署",
-          "url": "https://news.mydrivers.com/1/1164/1164418.htm",
+          "id": "b008f16ed197fedcdbd042b0ddb28d1a97dcedf6",
+          "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+          "url": "https://www.aibase.com/zh/news/32191",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -759,23 +973,23 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "数码 | 快科技资讯_最新资讯"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "faf074d841310655db9dfe2a1cb608fb27c1694c",
-          "title": "美团LongCat-2.5模型正式开源：1.6万亿参数 支持国产算力部署",
-          "url": "https://news.mydrivers.com/1/1164/1164418.htm",
-          "source": "数码 | 快科技资讯_最新资讯",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T22:27:20Z"
+          "id": "fb3aba070e13422968ae71f94639e265f8f85720",
+          "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+          "url": "https://www.aibase.com/news/32191",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:55:56.882629Z"
         },
         {
-          "id": "1a3566fd19256113cae1a31563f54bc526754b82",
-          "title": "美团 LongCat-2.5 模型正式开源：1.6 万亿参数 支持国产算力部署",
-          "url": "https://news.mydrivers.com/1/1164/1164418.htm",
+          "id": "b008f16ed197fedcdbd042b0ddb28d1a97dcedf6",
+          "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+          "url": "https://www.aibase.com/zh/news/32191",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -784,13 +998,399 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.647,
-      "importance": 0.647,
-      "importance_score": 0.647,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T01:55:56.882629Z",
+      "latest_at": "2026-11-10T01:55:56.882629Z",
+      "primary_item": {
+        "id": "fb3aba070e13422968ae71f94639e265f8f85720",
+        "title": "苹果给 AI 收费划了新道：不包月，按用量买断",
+        "url": "https://www.aibase.com/news/32191",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c56b58e9d916",
+      "title": "第2174期 - 2026-11-10 08:02",
+      "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0802",
+      "primary_url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0802",
+      "source": "大黑AI速报",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "c5cfffd23da67fe62d25ed7a1c1eeb915b3f321b",
+          "title": "第2174期 - 2026-11-10 08:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0802",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-10T00:02:19Z"
+        },
+        {
+          "id": "0322f590e520dc754493f2c7af810b5024e418ef",
+          "title": "第2173期 - 2026-11-10 04:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0402",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T20:02:45Z"
+        },
+        {
+          "id": "75ef47bcd7777e1c2f054121d523ad25d01f87b4",
+          "title": "第2172期 - 2026-11-10 00:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0002",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T16:02:38Z"
+        },
+        {
+          "id": "c92803293a8e397890a0694636b0e9ab43f21ffd",
+          "title": "第2171期 - 2026-11-09 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T12:01:31Z"
+        },
+        {
+          "id": "24dfcf831d03e40bd3b95d6607c1371461110664",
+          "title": "第2170期 - 2026-11-09 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T08:01:58Z"
+        },
+        {
+          "id": "9110e0049df7a9be45d96700179e6d9708d3f653",
+          "title": "第2169期 - 2026-11-09 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T04:01:36Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "大黑AI速报"
+      ],
+      "items": [
+        {
+          "id": "c5cfffd23da67fe62d25ed7a1c1eeb915b3f321b",
+          "title": "第2174期 - 2026-11-10 08:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0802",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-10T00:02:19Z"
+        },
+        {
+          "id": "0322f590e520dc754493f2c7af810b5024e418ef",
+          "title": "第2173期 - 2026-11-10 04:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0402",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T20:02:45Z"
+        },
+        {
+          "id": "75ef47bcd7777e1c2f054121d523ad25d01f87b4",
+          "title": "第2172期 - 2026-11-10 00:02",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0002",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T16:02:38Z"
+        },
+        {
+          "id": "c92803293a8e397890a0694636b0e9ab43f21ffd",
+          "title": "第2171期 - 2026-11-09 20:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_2001",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T12:01:31Z"
+        },
+        {
+          "id": "24dfcf831d03e40bd3b95d6607c1371461110664",
+          "title": "第2170期 - 2026-11-09 16:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_1601",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T08:01:58Z"
+        },
+        {
+          "id": "9110e0049df7a9be45d96700179e6d9708d3f653",
+          "title": "第2169期 - 2026-11-09 12:01",
+          "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-09_1201",
+          "source": "大黑AI速报",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-09T04:01:36Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6852,
+      "importance": 0.6852,
+      "importance_score": 0.6852,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9211,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T04:01:36Z",
+      "latest_at": "2026-11-10T00:02:19Z",
+      "primary_item": {
+        "id": "c5cfffd23da67fe62d25ed7a1c1eeb915b3f321b",
+        "title": "第2174期 - 2026-11-10 08:02",
+        "url": "https://news.daheiai.com/realtime.php?file=quick_2026-11-10_0802",
+        "source": "大黑AI速报",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_1bf373ab4c9c",
+      "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+      "url": "https://www.aibase.com/news/32198",
+      "primary_url": "https://www.aibase.com/news/32198",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
+          "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/news/32198",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:55:56.882629Z"
+        },
+        {
+          "id": "d70b2bc0aa65a562a6d2c05f4a90268d13016fc7",
+          "title": "迪士尼携手 Adobe 开发专属 AI 模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/zh/news/32198",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
+          "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/news/32198",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T01:55:56.882629Z"
+        },
+        {
+          "id": "d70b2bc0aa65a562a6d2c05f4a90268d13016fc7",
+          "title": "迪士尼携手 Adobe 开发专属 AI 模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/zh/news/32198",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T01:55:56.882629Z",
+      "latest_at": "2026-11-10T01:55:56.882629Z",
+      "primary_item": {
+        "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
+        "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+        "url": "https://www.aibase.com/news/32198",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1fc4cbf50995",
+      "title": "Meta 推出轻量级 AI模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3",
+      "url": "https://www.1ai.net/59923.html",
+      "primary_url": "https://www.1ai.net/59923.html",
+      "source": "ai,人工智能,1ai.net",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "5cafc19bceee9f639930cc9f21b771ff449ed256",
+          "title": "Meta 推出轻量级 AI模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3",
+          "url": "https://www.1ai.net/59923.html",
+          "source": "ai,人工智能,1ai.net",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-10T01:33:20Z"
+        },
+        {
+          "id": "a818079ff8fec37be8008ec89c333f15dfcef915",
+          "title": "Meta 推出轻量级 AI 模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3",
+          "url": "https://www.ithome.com/1/024/604.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-10T00:59:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "ai,人工智能,1ai.net"
+      ],
+      "items": [
+        {
+          "id": "5cafc19bceee9f639930cc9f21b771ff449ed256",
+          "title": "Meta 推出轻量级 AI模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3",
+          "url": "https://www.1ai.net/59923.html",
+          "source": "ai,人工智能,1ai.net",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-10T01:33:20Z"
+        },
+        {
+          "id": "a818079ff8fec37be8008ec89c333f15dfcef915",
+          "title": "Meta 推出轻量级 AI 模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3",
+          "url": "https://www.ithome.com/1/024/604.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-10T00:59:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6469,
+      "importance": 0.6469,
+      "importance_score": 0.6469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.74,
+        "ai_relevance": 0.75,
+        "recency": 0.9843,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-10T00:59:26Z",
+      "latest_at": "2026-11-10T01:33:20Z",
+      "primary_item": {
+        "id": "5cafc19bceee9f639930cc9f21b771ff449ed256",
+        "title": "Meta 推出轻量级 AI模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3",
+        "url": "https://www.1ai.net/59923.html",
+        "source": "ai,人工智能,1ai.net",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_61c9c933f784",
+      "title": "独家报道：Anthropic计划通过史诗级IPO筹集高达693亿美元 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "Buzzing|国外社交媒体热榜",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "c635508dabf7d4c86ce5ca8104b0c0a74370b73e",
+          "title": "独家报道：Anthropic计划通过史诗级IPO筹集高达693亿美元 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-10T02:27:46.601000Z"
+        },
+        {
+          "id": "f5e464ed2903eb3c28000c32d20ed40acfeaddd6",
+          "title": "独家报道：Anthropic计划通过史诗级IPO筹集高达693亿美元",
+          "url": "https://reut.rs/4epxPGR",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-10T02:11:40.835000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Buzzing|国外社交媒体热榜"
+      ],
+      "items": [
+        {
+          "id": "c635508dabf7d4c86ce5ca8104b0c0a74370b73e",
+          "title": "独家报道：Anthropic计划通过史诗级IPO筹集高达693亿美元 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-10T02:27:46.601000Z"
+        },
+        {
+          "id": "f5e464ed2903eb3c28000c32d20ed40acfeaddd6",
+          "title": "独家报道：Anthropic计划通过史诗级IPO筹集高达693亿美元",
+          "url": "https://reut.rs/4epxPGR",
+          "source": "Buzzing|国外社交媒体热榜",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-10T02:11:40.835000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.638,
+      "importance": 0.638,
+      "importance_score": 0.638,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
         "recency": 1.0,
         "story_heat": 0.25
       },
@@ -798,786 +1398,91 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-09T18:32:38.182614Z",
-      "latest_at": "2026-11-09T22:27:20Z",
+      "earliest_at": "2026-11-10T02:11:40.835000Z",
+      "latest_at": "2026-11-10T02:27:46.601000Z",
       "primary_item": {
-        "id": "faf074d841310655db9dfe2a1cb608fb27c1694c",
-        "title": "美团LongCat-2.5模型正式开源：1.6万亿参数 支持国产算力部署",
-        "url": "https://news.mydrivers.com/1/1164/1164418.htm",
-        "source": "数码 | 快科技资讯_最新资讯",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_6a49d4c31b51",
-      "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
-      "url": "https://www.aibase.com/news/32182",
-      "primary_url": "https://www.aibase.com/news/32182",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f411abc95014d360d15a501ab0fe29cba4e733c6",
-          "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
-          "url": "https://www.aibase.com/news/32182",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T16:32:38.182614Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f411abc95014d360d15a501ab0fe29cba4e733c6",
-          "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
-          "url": "https://www.aibase.com/news/32182",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T16:32:38.182614Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9167,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T16:32:38.182614Z",
-      "latest_at": "2026-11-09T16:32:38.182614Z",
-      "primary_item": {
-        "id": "f411abc95014d360d15a501ab0fe29cba4e733c6",
-        "title": "当 20 万员工遇上 2000 万智能体：纳德拉描绘微软新编制",
-        "url": "https://www.aibase.com/news/32182",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f5a6a83892da",
-      "title": "Hatoba：内置 AI 助手与 Cloudflare 加密同步的开源桌面 SSH 客户端",
-      "url": "https://ababtools.com/?post=7579",
-      "primary_url": "https://ababtools.com/?post=7579",
-      "source": "独立开发者 | 城市租房生存指南作者 | ababtools",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "cbbacc5c41571bb3277fcdbbaeb4ab257c9ec8fa",
-          "title": "Hatoba：内置 AI 助手与 Cloudflare 加密同步的开源桌面 SSH 客户端",
-          "url": "https://ababtools.com/?post=7579",
-          "source": "独立开发者 | 城市租房生存指南作者 | ababtools",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T17:30:00Z"
-        },
-        {
-          "id": "e9d088a928cf3074dbbb18b78551c1ff29697b45",
-          "title": "BaoCut：以可编辑视频为中心的 AI 视频智能体，智能处理转录、字幕、翻译与剪辑",
-          "url": "https://ababtools.com/?post=7540",
-          "source": "独立开发者 | 城市租房生存指南作者 | ababtools",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-08T19:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "独立开发者 | 城市租房生存指南作者 | ababtools"
-      ],
-      "items": [
-        {
-          "id": "cbbacc5c41571bb3277fcdbbaeb4ab257c9ec8fa",
-          "title": "Hatoba：内置 AI 助手与 Cloudflare 加密同步的开源桌面 SSH 客户端",
-          "url": "https://ababtools.com/?post=7579",
-          "source": "独立开发者 | 城市租房生存指南作者 | ababtools",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T17:30:00Z"
-        },
-        {
-          "id": "e9d088a928cf3074dbbb18b78551c1ff29697b45",
-          "title": "BaoCut：以可编辑视频为中心的 AI 视频智能体，智能处理转录、字幕、翻译与剪辑",
-          "url": "https://ababtools.com/?post=7540",
-          "source": "独立开发者 | 城市租房生存指南作者 | ababtools",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-08T19:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6353,
-      "importance": 0.6353,
-      "importance_score": 0.6353,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.73,
-        "recency": 0.9565,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T19:00:00Z",
-      "latest_at": "2026-11-09T17:30:00Z",
-      "primary_item": {
-        "id": "cbbacc5c41571bb3277fcdbbaeb4ab257c9ec8fa",
-        "title": "Hatoba：内置 AI 助手与 Cloudflare 加密同步的开源桌面 SSH 客户端",
-        "url": "https://ababtools.com/?post=7579",
-        "source": "独立开发者 | 城市租房生存指南作者 | ababtools",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_a58c69ad2ba0",
-      "title": "coleam00 在工厂任务控制中未标记问题 / coleam00 unlabeled an issue in factory-mission-control",
-      "url": "https://github.com/coleam00/factory-mission-control/issues/586",
-      "primary_url": "https://github.com/coleam00/factory-mission-control/issues/586",
-      "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "172a059384b3bbd314408fd49f33038fe7e42078",
-          "title": "coleam00 在工厂任务控制中未标记问题 / coleam00 unlabeled an issue in factory-mission-control",
-          "url": "https://github.com/coleam00/factory-mission-control/issues/586",
-          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T17:38:47Z"
-        },
-        {
-          "id": "b6aed35833807975bfe09b5fe3be279bd7dda1ad",
-          "title": "coleam00 评论了工厂任务控制中的一个问题 / coleam00 commented on an issue in factory-mission-control",
-          "url": "https://github.com/coleam00/factory-mission-control/issues/586",
-          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T17:31:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库"
-      ],
-      "items": [
-        {
-          "id": "172a059384b3bbd314408fd49f33038fe7e42078",
-          "title": "coleam00 在工厂任务控制中未标记问题 / coleam00 unlabeled an issue in factory-mission-control",
-          "url": "https://github.com/coleam00/factory-mission-control/issues/586",
-          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T17:38:47Z"
-        },
-        {
-          "id": "b6aed35833807975bfe09b5fe3be279bd7dda1ad",
-          "title": "coleam00 评论了工厂任务控制中的一个问题 / coleam00 commented on an issue in factory-mission-control",
-          "url": "https://github.com/coleam00/factory-mission-control/issues/586",
-          "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T17:31:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6185,
-      "importance": 0.6185,
-      "importance_score": 0.6185,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9626,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T17:31:51Z",
-      "latest_at": "2026-11-09T17:38:47Z",
-      "primary_item": {
-        "id": "172a059384b3bbd314408fd49f33038fe7e42078",
-        "title": "coleam00 在工厂任务控制中未标记问题 / coleam00 unlabeled an issue in factory-mission-control",
-        "url": "https://github.com/coleam00/factory-mission-control/issues/586",
-        "source": "AI专家|开发AI Agents-ottomator-agents/RAG solutions/本地部署/通用AI包库",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_16595a8831c5",
-      "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-      "url": "https://www.aibase.com/news/32181",
-      "primary_url": "https://www.aibase.com/news/32181",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "url": "https://www.aibase.com/news/32181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T16:32:38.182614Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "url": "https://www.aibase.com/news/32181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T16:32:38.182614Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9167,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T16:32:38.182614Z",
-      "latest_at": "2026-11-09T16:32:38.182614Z",
-      "primary_item": {
-        "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-        "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-        "url": "https://www.aibase.com/news/32181",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_da2e6822ca93",
-      "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
-      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-      "primary_url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-      "source": "Buzzing|国外社交媒体热榜",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "d1c354260cc384f3706ac511d46fbc273c830665",
-          "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
-          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T15:18:41.370000Z"
-        },
-        {
-          "id": "7179578806334294bd3cadc16bb72c0a77e316a0",
-          "title": "苹果将工程师的每日人工智能预算上限设定为200美元 / Apple capped engineers at a $200 daily AI budget",
-          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-09T05:30:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Buzzing|国外社交媒体热榜",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "d1c354260cc384f3706ac511d46fbc273c830665",
-          "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
-          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-          "source": "Buzzing|国外社交媒体热榜",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T15:18:41.370000Z"
-        },
-        {
-          "id": "7179578806334294bd3cadc16bb72c0a77e316a0",
-          "title": "苹果将工程师的每日人工智能预算上限设定为200美元 / Apple capped engineers at a $200 daily AI budget",
-          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-09T05:30:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6111,
-      "importance": 0.6111,
-      "importance_score": 0.6111,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8653,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T05:30:11Z",
-      "latest_at": "2026-11-09T15:18:41.370000Z",
-      "primary_item": {
-        "id": "d1c354260cc384f3706ac511d46fbc273c830665",
-        "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
-        "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+        "id": "c635508dabf7d4c86ce5ca8104b0c0a74370b73e",
+        "title": "独家报道：Anthropic计划通过史诗级IPO筹集高达693亿美元 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "Buzzing|国外社交媒体热榜",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_a3ef9cbee7d5",
-      "title": "一名据称与中国间谍有关联且与英伟达首席执行官有联系的人士，曾向投资者推介人工智能芯片交易 / Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
-      "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
-      "primary_url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
-      "source": "FT 英文",
+      "story_id": "story_f43ff4a72f87",
+      "title": "Claude 送了一周的 fable5.2 独立额度",
+      "url": "https://www.cocoloop.cn/t/topic/25119",
+      "primary_url": "https://www.cocoloop.cn/t/topic/25119",
+      "source": "CocoLoop AI社区 - 最新话题",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "5a941f577fa38b7fb3cc767bc493a14ca22e51f4",
-          "title": "一名据称与中国间谍有关联且与英伟达首席执行官有联系的人士，曾向投资者推介人工智能芯片交易 / Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
-          "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
-          "source": "FT 英文",
+          "id": "bbb5d853d065f8844c3983458614f2acdd2873f5",
+          "title": "Claude 送了一周的 fable5.2 独立额度",
+          "url": "https://www.cocoloop.cn/t/topic/25119",
+          "source": "CocoLoop AI社区 - 最新话题",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-11-09T15:35:45Z"
+          "published_at": "2026-11-10T01:45:57Z"
         },
         {
-          "id": "9fb5eac8a4c86a17ed6eb1035661c4b986c35c2b",
-          "title": "一名据称与中国间谍有关联且与英伟达首席执行官有联系的人士，曾向投资者推介人工智能芯片交易",
-          "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T13:58:48.572000Z"
+          "id": "e6abb144f62244062be9d92a17aff434bdfe0162",
+          "title": "[程序员] Claude 送了一周的 fable5.2 独立额度",
+          "url": "https://www.v2ex.com/t/1255722",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-10T00:43:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "FT 英文",
-        "www.ft.com"
+        "CocoLoop AI社区 - 最新话题",
+        "V2EX (创意工作者社区)"
       ],
       "items": [
         {
-          "id": "5a941f577fa38b7fb3cc767bc493a14ca22e51f4",
-          "title": "一名据称与中国间谍有关联且与英伟达首席执行官有联系的人士，曾向投资者推介人工智能芯片交易 / Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
-          "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
-          "source": "FT 英文",
+          "id": "bbb5d853d065f8844c3983458614f2acdd2873f5",
+          "title": "Claude 送了一周的 fable5.2 独立额度",
+          "url": "https://www.cocoloop.cn/t/topic/25119",
+          "source": "CocoLoop AI社区 - 最新话题",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-11-09T15:35:45Z"
+          "published_at": "2026-11-10T01:45:57Z"
         },
         {
-          "id": "9fb5eac8a4c86a17ed6eb1035661c4b986c35c2b",
-          "title": "一名据称与中国间谍有关联且与英伟达首席执行官有联系的人士，曾向投资者推介人工智能芯片交易",
-          "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T13:58:48.572000Z"
+          "id": "e6abb144f62244062be9d92a17aff434bdfe0162",
+          "title": "[程序员] Claude 送了一周的 fable5.2 独立额度",
+          "url": "https://www.v2ex.com/t/1255722",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-10T00:43:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6104,
-      "importance": 0.6104,
-      "importance_score": 0.6104,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.8772,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T13:58:48.572000Z",
-      "latest_at": "2026-11-09T15:35:45Z",
-      "primary_item": {
-        "id": "5a941f577fa38b7fb3cc767bc493a14ca22e51f4",
-        "title": "一名据称与中国间谍有关联且与英伟达首席执行官有联系的人士，曾向投资者推介人工智能芯片交易 / Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
-        "url": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
-        "source": "FT 英文",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-      "primary_url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-      "source": "Follow Builders · Podcast · Latent Space",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
-          "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-          "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-          "source": "Follow Builders · Podcast · Latent Space",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-11-08T21:23:29Z"
-        },
-        {
-          "id": "6087c709db7c17cbd5c8ddbd1ba0e2ea0733d157",
-          "title": "中期选举后AI股被血洗：蓝色浪潮砸穿了谁的融资链？ #AI数据中心",
-          "url": "https://www.youtube.com/watch?v=X6DPEKuC6HA",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T10:30:10Z"
-        },
-        {
-          "id": "e0e45f08f09b08747cde7764ecfffe59e4527d55",
-          "title": "A Smart Perspective with Lucas Perraudin, AI To Market - S2 E2",
-          "url": "https://www.youtube.com/watch?v=gFm22x4anxg",
-          "source": "数码 | 联想官方",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T07:01:49Z"
-        },
-        {
-          "id": "6eb84d5b5573cb89082fd4d313cce76593d096ed",
-          "title": "ChatGPT这波封的是谁？OpenAI开始堵低价区和拼车漏洞 #ChatGPT封号",
-          "url": "https://www.youtube.com/watch?v=oEayGcv7EU4",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T00:30:29Z"
-        },
-        {
-          "id": "ca9722c79a91d92fc47077852d25374d65210801",
-          "title": "Run DeepSeek Super Agent Locally for FREE (Harness + Ollama)",
-          "url": "https://www.youtube.com/watch?v=Wb9C79BC1EQ",
-          "source": "Mervin Praison | 国外AI测评",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-08T22:22:44Z"
-        },
-        {
-          "id": "b6fdfca1e83c90ddc6e8517bb17b404bd71804b2",
-          "title": "DIY Injection Molding: Making Plastic Recycling Accessible to All",
-          "url": "https://www.youtube.com/watch?v=XxiLs3mAZJ8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-09T09:46:44Z"
-        },
-        {
-          "id": "273fd0254d684b08c284e786fc0c5b64fd2cc69f",
-          "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T19:14:41Z"
-        }
-      ],
-      "source_count": 7,
-      "source_names": [
-        "Follow Builders · Podcast · Latent Space",
-        "Hacker News · 24h最热",
-        "Mervin Praison | 国外AI测评",
-        "数码 | 联想官方",
-        "范路 | 老范讲故事"
-      ],
-      "items": [
-        {
-          "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
-          "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-          "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-          "source": "Follow Builders · Podcast · Latent Space",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-11-08T21:23:29Z"
-        },
-        {
-          "id": "6087c709db7c17cbd5c8ddbd1ba0e2ea0733d157",
-          "title": "中期选举后AI股被血洗：蓝色浪潮砸穿了谁的融资链？ #AI数据中心",
-          "url": "https://www.youtube.com/watch?v=X6DPEKuC6HA",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T10:30:10Z"
-        },
-        {
-          "id": "e0e45f08f09b08747cde7764ecfffe59e4527d55",
-          "title": "A Smart Perspective with Lucas Perraudin, AI To Market - S2 E2",
-          "url": "https://www.youtube.com/watch?v=gFm22x4anxg",
-          "source": "数码 | 联想官方",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T07:01:49Z"
-        },
-        {
-          "id": "6eb84d5b5573cb89082fd4d313cce76593d096ed",
-          "title": "ChatGPT这波封的是谁？OpenAI开始堵低价区和拼车漏洞 #ChatGPT封号",
-          "url": "https://www.youtube.com/watch?v=oEayGcv7EU4",
-          "source": "范路 | 老范讲故事",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T00:30:29Z"
-        },
-        {
-          "id": "ca9722c79a91d92fc47077852d25374d65210801",
-          "title": "Run DeepSeek Super Agent Locally for FREE (Harness + Ollama)",
-          "url": "https://www.youtube.com/watch?v=Wb9C79BC1EQ",
-          "source": "Mervin Praison | 国外AI测评",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-08T22:22:44Z"
-        },
-        {
-          "id": "b6fdfca1e83c90ddc6e8517bb17b404bd71804b2",
-          "title": "DIY Injection Molding: Making Plastic Recycling Accessible to All",
-          "url": "https://www.youtube.com/watch?v=XxiLs3mAZJ8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-09T09:46:44Z"
-        },
-        {
-          "id": "273fd0254d684b08c284e786fc0c5b64fd2cc69f",
-          "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T19:14:41Z"
-        }
-      ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.6027,
-      "importance": 0.6027,
-      "importance_score": 0.6027,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.1186,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T19:14:41Z",
-      "latest_at": "2026-11-09T10:30:10Z",
-      "primary_item": {
-        "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
-        "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-        "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-        "source": "Follow Builders · Podcast · Latent Space",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_869f743454bf",
-      "title": "BigPizzaV3 解决了 CodexPlusPlus 中的问题 / BigPizzaV3 closed an issue in CodexPlusPlus",
-      "url": "https://github.com/BigPizzaV3/CodexPlusPlus/issues/2996",
-      "primary_url": "https://github.com/BigPizzaV3/CodexPlusPlus/issues/2996",
-      "source": "BigPizzaV3|Codex++|Codex App的外部增强启动器",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "7ae5b81629bcc98cd1b9c6ba9ed6b525f4eb2b2c",
-          "title": "BigPizzaV3 解决了 CodexPlusPlus 中的问题 / BigPizzaV3 closed an issue in CodexPlusPlus",
-          "url": "https://github.com/BigPizzaV3/CodexPlusPlus/issues/2996",
-          "source": "BigPizzaV3|Codex++|Codex App的外部增强启动器",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T13:59:41Z"
-        },
-        {
-          "id": "30fa9d87e7f127f8af42b5f834bf12750ab253c4",
-          "title": "BigPizzaV3 对 CodexPlusPlus 中的一个问题发表了评论 / BigPizzaV3 commented on an issue in CodexPlusPlus",
-          "url": "https://github.com/BigPizzaV3/CodexPlusPlus/issues/3001",
-          "source": "BigPizzaV3|Codex++|Codex App的外部增强启动器",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T13:59:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BigPizzaV3|Codex++|Codex App的外部增强启动器"
-      ],
-      "items": [
-        {
-          "id": "7ae5b81629bcc98cd1b9c6ba9ed6b525f4eb2b2c",
-          "title": "BigPizzaV3 解决了 CodexPlusPlus 中的问题 / BigPizzaV3 closed an issue in CodexPlusPlus",
-          "url": "https://github.com/BigPizzaV3/CodexPlusPlus/issues/2996",
-          "source": "BigPizzaV3|Codex++|Codex App的外部增强启动器",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T13:59:41Z"
-        },
-        {
-          "id": "30fa9d87e7f127f8af42b5f834bf12750ab253c4",
-          "title": "BigPizzaV3 对 CodexPlusPlus 中的一个问题发表了评论 / BigPizzaV3 commented on an issue in CodexPlusPlus",
-          "url": "https://github.com/BigPizzaV3/CodexPlusPlus/issues/3001",
-          "source": "BigPizzaV3|Codex++|Codex App的外部增强启动器",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T13:59:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6001,
-      "importance": 0.6001,
-      "importance_score": 0.6001,
+      "score": 0.6366,
+      "importance": 0.6366,
+      "importance_score": 0.6366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8104,
+        "recency": 0.9931,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-09T13:59:32Z",
-      "latest_at": "2026-11-09T13:59:41Z",
+      "earliest_at": "2026-11-10T00:43:27Z",
+      "latest_at": "2026-11-10T01:45:57Z",
       "primary_item": {
-        "id": "7ae5b81629bcc98cd1b9c6ba9ed6b525f4eb2b2c",
-        "title": "BigPizzaV3 解决了 CodexPlusPlus 中的问题 / BigPizzaV3 closed an issue in CodexPlusPlus",
-        "url": "https://github.com/BigPizzaV3/CodexPlusPlus/issues/2996",
-        "source": "BigPizzaV3|Codex++|Codex App的外部增强启动器",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_9749cf676a04",
-      "title": "chenyme contributed to DEEIX-AI/Winc",
-      "url": "https://github.com/DEEIX-AI/Winc/pull/122",
-      "primary_url": "https://github.com/DEEIX-AI/Winc/pull/122",
-      "source": "chenyme|基于 FastAPI 重构的 Grok2API",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "7c3bade0499332775b4185f12dd8c4d81b1a5183",
-          "title": "chenyme contributed to DEEIX-AI/Winc",
-          "url": "https://github.com/DEEIX-AI/Winc/pull/122",
-          "source": "chenyme|基于 FastAPI 重构的 Grok2API",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T11:57:02Z"
-        },
-        {
-          "id": "1aa38387cc0b96b06770ed3c2aa4198f98dba74b",
-          "title": "chenyme contributed to DEEIX-AI/Winc",
-          "url": "https://github.com/DEEIX-AI/Winc/pull/118",
-          "source": "chenyme|基于 FastAPI 重构的 Grok2API",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T10:30:05Z"
-        },
-        {
-          "id": "7ba16655e2081347bb63f8743d274a0c112cafbc",
-          "title": "chenyme contributed to DEEIX-AI/Winc",
-          "url": "https://github.com/DEEIX-AI/Winc/pull/108",
-          "source": "chenyme|基于 FastAPI 重构的 Grok2API",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T06:37:48Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "chenyme|基于 FastAPI 重构的 Grok2API"
-      ],
-      "items": [
-        {
-          "id": "7c3bade0499332775b4185f12dd8c4d81b1a5183",
-          "title": "chenyme contributed to DEEIX-AI/Winc",
-          "url": "https://github.com/DEEIX-AI/Winc/pull/122",
-          "source": "chenyme|基于 FastAPI 重构的 Grok2API",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T11:57:02Z"
-        },
-        {
-          "id": "1aa38387cc0b96b06770ed3c2aa4198f98dba74b",
-          "title": "chenyme contributed to DEEIX-AI/Winc",
-          "url": "https://github.com/DEEIX-AI/Winc/pull/118",
-          "source": "chenyme|基于 FastAPI 重构的 Grok2API",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T10:30:05Z"
-        },
-        {
-          "id": "7ba16655e2081347bb63f8743d274a0c112cafbc",
-          "title": "chenyme contributed to DEEIX-AI/Winc",
-          "url": "https://github.com/DEEIX-AI/Winc/pull/108",
-          "source": "chenyme|基于 FastAPI 重构的 Grok2API",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T06:37:48Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5961,
-      "importance": 0.5961,
-      "importance_score": 0.5961,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.7253,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T06:37:48Z",
-      "latest_at": "2026-11-09T11:57:02Z",
-      "primary_item": {
-        "id": "7c3bade0499332775b4185f12dd8c4d81b1a5183",
-        "title": "chenyme contributed to DEEIX-AI/Winc",
-        "url": "https://github.com/DEEIX-AI/Winc/pull/122",
-        "source": "chenyme|基于 FastAPI 重构的 Grok2API",
+        "id": "bbb5d853d065f8844c3983458614f2acdd2873f5",
+        "title": "Claude 送了一周的 fable5.2 独立额度",
+        "url": "https://www.cocoloop.cn/t/topic/25119",
+        "source": "CocoLoop AI社区 - 最新话题",
         "source_name": "OPML RSS"
       }
     }
